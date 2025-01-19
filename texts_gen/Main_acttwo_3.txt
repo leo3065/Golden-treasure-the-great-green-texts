@@ -1,0 +1,1752 @@
+Event: gr
+
+The sight of your current Self fills you with pride.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx1
+
+Returning from an outing, you stop short of entering your Lair. There is a potent smell wafting from the cave, grey-green and odious.
+
+Cautiously, you step inside, and looking up, you realize that the ceiling is moving, little waves rippling across the surface. The cave is full of featherless, flying furbeasts: Shriekers, thousands of them.
+
+They sing impossibly high songs to each other in a mesh of sound which tickles your Mind. Despite their having been here for only a short time, their leavings cover the floor.
+
+Watching you, they seem to be waiting for your next move.
+
+------------------------------
+> Use your flame to incinerate the polluting interlopers.
+  Go to: gx1a
+> Shriekers are not bad to eat. Make a meal of it.
+  Go to: gx1bs, gx1bf
+> Attempt to decipher their strange singing.
+  Go to: gx1cs, gx1cf
+> Offer to share the cave with the Shriekers.
+  Go to: gx1d
+> Challenge the Shriekers to a Trial of their choice to win their Treasure.
+  Go to: gx1e
+
+==============================
+Event: gx1a
+
+Not fancying the idea of your Treasure being regularly defecated upon by Shriekers, you belch up the fireseed and breathe it outward. A single blast should be enough to convince them to leave and never return.
+
+That was when you learned that the waste material produced by Shriekers is explosive.
+
+The Shriekers attempt to fly away, but some are caught in blast and tumble squeaking and clicking to the cave floor.
+
+You are knocked backwards by the force, points of light stabbing through the darkness behind your eyes. You tumble quite a ways, and the hard landing brings even more pain. Your Fire has been reflected back upon yourself.
+
+Dazed and wounded, you are at first afraid to re-enter the lair, but as Moon rises there is clearly neither sound nor scent of the intruders left. You have evicted them quite powerfully, and they will almost surely not return.
+
+Not all of your Treasure survived the blast, though you learn something about not using your flame as a first resort in an unfamiliar situation and are tougher for having survived an explosion.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair, MainLair
+
+==============================
+Event: gx1bf
+
+Your Core murmurs a familiar song: you are hungry. Shriekers are bony and their wings do not taste good, but their bright red Essence is quite sweet. You have never seen so many Shriekers at one time, and there should be enough here for many feedings. You pluck a few from the ceiling and swallow them.
+
+Shriekers, while cautious, are not cowards, however. Some of them flee, but many more attack you.
+
+Shriekers have strong jaws to crack Tiny Beings' carapaces, and while individually they cannot hurt you, many attacking you at once can do some damage to your feathers and scales.
+
+Soon you are covered with red-brown Shriekers, all biting and scratching at your scales with their sharp claws. Unable to see, you blunder out of the cave mouth, thrashing and biting.
+
+Most of the Shriekers let go after successfully driving you off, but some stay attached to you, and you have to jump into the stream to get the last few away.
+
+Eventually, the Shriekers move on, leaving your Lair once again vacant. You resolve to grow both quicker and fiercer to avoid such defeats in the future.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx1bs
+
+Your Core murmurs a familiar Song: you are hungry. Shriekers are bony and their wings do not taste good, but the dark Essence within is quite sweet. You have never seen so many Shriekers at one time, and there should be enough here for many feedings.
+
+The Shriekers are more capable of self-defense than you might have thought, swarming your head and biting at you, but your swiftness and savagery win the day.
+
+Most fly away when they realize that you are too great a foe, even for all of them together, but you feast upon more than a few.
+
+When you emerge from your reclaimed Lair, you are more covered in their leavings than you would like, but you have a belly full of sweet Shrieker essence.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx1cf
+
+Try as you might, you can't understand what they are singing. It seems to be full of paradoxes and non-sequiturs.
+
+Perhaps they are trying to warn you away, perhaps they are babbling in fear, or perhaps they are insulting you. You cannot be sure.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx1
+
+==============================
+Event: gx1cs
+
+You listen to their Song. You cannot hear it clearly with your ears, for they songs are too high-pitched, but you hear them in your Mind:
+<bat>What has eyes, but needs them not?
+What has legs, but does not walk? 
+What has wings, but not one feather nor scale?
+
+<bat>We are the question, and we are the answer;
+Sweet are we, like the nectar our prey drinks
+From night-blooming flowers.
+
+<bat>From our Old to our Young flows wisdom,
+So the Colony, Our True Self, changes,
+Yet ever remains the same.
+
+<bat>New Songs are Sung, new Riddles forged,
+Yet all know the glory of flight in the darkling sky.
+
+<bat>Wisdom we have, if you know how to ask.
+Treasure we have, if you know how to take.
+
+<bat>Songs we have, if you have ears to hear.
+Songs we share, if you know how to Sing.
+
+<bat>This is our Way, the Good Way of the Shriekers.
+
+------------------------------
+> [Continue]
+  Go to: gx1
+
+==============================
+Event: gx1d
+
+You approach them slowly, and address the oldest and wisest of them:
+<player>Shriekers, I hear your song.
+I seek not your Treasure, nor do I seek to harm.
+This Lair is large.
+There is enough space for us to share.
+
+<player>I shall sleep here in the Dark time, and you in the Light.
+The Shadow of my Greatness shall shield your Bodies
+And you will guard my Treasure when I am far away.
+Let us join together in harmony.
+
+Grandfather Shrieker replies:
+<bat>Wise you are, as with many Turnings.
+May you grow in wisdom and strength
+to rival the Greatest of the Great Ones.
+
+<bat>Gladly we share this home with you,
+Consume Tiny Beings to guard your night-sleep.
+
+<bat>When is a cave not yours or mine? When it is ours!
+
+The Shriekers' leavings are a nuisance, forcing you to clean your Treasure more often, but you find them acceptable company on the whole. Time will tell whether this alliance was worthwhile.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx1e
+
+Perhaps surprisingly, the Shriekers are enthusiastic about the proposition. They huddle, sharing stories and possibilities rapidly among each other in excited ripples of sound and motion, and then finally turn to you. Their eldest Sings in that sharp, sharp tone at the edge of hearing:
+
+<bat>The flowers laden with nectar,
+The clean aroma of Night,
+The fragrance of rain-sweetened grasses;
+All of these are wondrous scents.
+
+<bat>Tell me, then: of all things, what <bold>smells</bold> best?
+It is close indeed; right in front of your very face!
+
+
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gx1es, gx1ef
+
+==============================
+Event: gx1ef
+
+The Shriekers reveal to you the answer they were seeking:
+
+<bat>Many scents are good, we know
+But when it comes to <bold>smelling,</bold> what does best is a <bold>nose</bold>!
+
+They fly off, boasting at having defeated a Draak in a riddle-contest.
+
+Your lair is yours once again, but you sleep a little less soundly that night, musing on how you will have to get better at Mind-contests if you are to gain renown among the Draak.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx1es
+
+The Shriekers as one take flight and leave your Lair, happily defeated, laughing in their tiny voices at the answer as they scent their way to a new home.
+
+Before it leaves, the eldest from among them teaches you a secret method for extracting fireseed from bat leavings; you collect enough of the stuff afterward to make what amounts to a wad of pure destruction, just waiting for a flame to kindle it and unmake nearly anything.
+
+You call it a "boom" for the sound it will surely make, and store it safely away in your trove.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx2
+
+The screaming song of a Kin tears at the morning air; an invader has come. In accordance with Tradition, it states its identity and purpose:
+
+<flare>I AM THE LEAPING BOLT FROM HEAVEN,
+OVERBRIGHT, OVERHOT, CONSUMING ALL.
+
+<flare>I AM THE DIRE FLAME WHICH CRIPPLES THE NIGHT,
+FORCING HARSH LIGHT UPON SHADOW.
+I AM THE BLINDING BLAZE, SHOCKING AND NEW.
+
+In your Mind, you label this brash Kin "Flare."
+
+<flare>O HATCHLING WHO DARES CLAIM SACRED GROUND,
+YOUR TENDER SELF IS NOT WORTHY OF THESE LANDS.
+
+<flare>BY THIS TREE, WHICH I HAVE BLASTED TO A SMOKE-BLEEDING SHELL,
+I CHALLENGE YOU FOR THIS DOMAIN.
+WHEN SUN IS NEXT BORN, IT SHALL BELONG TO ME.
+
+<flare>FLEE, IF YOU VALUE YOUR LIFE, AND SURVIVE,
+KEEP YOUR FLESH UNMARRED AND SEEK OUT A NEW DWELLING,
+
+<flare>FOR IF YOU ARE SO FOOLISH AS TO LAY YOUR CLAWS AGAINST MINE,
+I SHALL DO TO YOU AS I HAVE DONE HERE. SUCH IS MY SONG!
+
+As you follow the sound to its source, your feathers tremble and rise. Fear courses deliciously through your veins.
+
+Upon your arrival, you see that it has blasted an innocent Tree into utter Destruction. It maintains threat stance, slamming its tail into the ground repeatedly. The scent of innocent cinders fans the flames of righteous rage within you...
+
+its mocking song is repeated over and over...
+
+The crash of its tail... again... and AGAIN...
+
+
+
+------------------------------
+> {EARTH<30 <size 200>}DESTROY THE INVADER!
+  Go to: HuntingBaseCombat
+> {EARTH<30 <size 80>}Remain calm.
+  Go to: gx2b
+
+==============================
+Event: gx2b
+
+While Fire calls you to action, the patient, humble voice of Earth is strong enough within you to calm the flames of wrath.
+
+Observing that Flare has the high ground and is in a strong position, ready for any physical attack, you pause. Your feathers slowly relax, and Fear is replaced with more helpful mental weather.
+
+You circle around it, taking in its many scars, the scents of many places upon it; this is a Nomad, a Kin which has not known a permanent home in quite some time.
+
+<flare>SO YOU ARE NOT A COMPLETE FOOL,</flare> it sings, its thought-song slightly less jagged and more curved now.
+
+<flare>MY TRUTHS REMAIN, HOWEVER. I AM STRONG IN BOTH FIRE AND EARTH; I DESTROY EASILY, AND AM NOT EASILY DESTROYED. YOU ARE WEAKER. SURRENDER IS WISE.
+
+What is your response?
+
+------------------------------
+> Boldly attack, now that you are better-positioned; this will now be a difficult but fair fight.
+  Go to: HuntingBaseCombat
+> Offer to trade with Flare.
+  Go to: gx2bb
+> Counter with a strong battle-song of your own.
+  Go to: gx2bcs, gx2bcf
+> Belie its claim by proving that you are, indeed, mightier with Fire.
+  Go to: gx2bds, gx2bdf
+> Challenge Flare to a contest of wits, instead.
+  Go to: gx2be
+> Try to assess Flare's strengths and weaknesses.
+  Go to: gx2bfs, gx2bff
+> Surrender.
+  Go to: gx2bg
+
+==============================
+Event: gx2bb
+
+Flare snorts in derision, emitting a tiny fireflash. <flare>THIS IS THE TRADE: I SHALL GIVE YOU YOUR LIFE IN EXCHANGE FOR STEWARDSHIP OF THESE LANDS.
+
+<flare>I AM INTERESTED IN NOTHING ELSE, AND YOU MUST ANSWER MY CHALLENGE OR FORFEIT YOUR CLAIM. FIGHT OR FLEE; VICTORY SHALL BE MINE IN EITHER CASE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx2b
+
+==============================
+Event: gx2bcf
+
+Carefully, you begin to construct mental imagery which fortifies your claim to the Great Green, but Flare's Mind is so occupied with blasting forth its own challenge that you cannot find a way inside. It is as though you are trying to swim against churning rapids.
+
+Flare uses your momentary consternation to seize the high ground and attack. The Dance begins with you at a disadvantage.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx2bcs
+
+Summoning up all of your mental strength, you blast the interloper's haughty song back, launching your own against it. Flare's will is strong, and its aggression leaves no space in the Air for a retort, but with a mighty roar you shatter its concentration and force it into brief silence.
+
+Through the sound-gap, you Sing of your just claim to this holy land. In Flare's Mind, you create an image of yourself as the unassailable lord of the Great Green, with your feet steadfast like the roots of ancient Trees.
+
+The rivers flow with your own Essence, the Air is your breath, and you are feared and loved by the Land.
+
+Flare shakes its head, trying to rid its Mind of so many images of your dominance. Failing, it launches at you in a rage, but you have successfully shaken its deeper confidence.
+
+You have won the Dance in Spirit, and now only an easier battle of Flesh remains.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx2bdf
+
+Flare has attempted to impress you by Destroying a Tree - you are certain that you can do as much. You choose a bushy scrub oak and, summoning up your inner Fire, breathe out upon it.
+
+When you exhaust your breath, the leaves are burning gaily, but the tree's branches are blackened but whole, and its trunk is hardly scorched. The Tree will surely survive, though it is probably now in terrible pain.
+
+Flare puffs out its feathers even more, slamming its tail mirthfully. <flare>THIS WILL BE EASIER THAN I IMAGINED,</flare> it boasts, and attacks, full of confidence. You are at a disadvantage.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx2bds
+
+Flare's Body may be larger than yours, but the Fire within you has been nurtured by rage, ambition, passion and desire unknown to most Kin twice your age.
+
+You bob your head, pause for a tiny moment, and then shout out a screaming blast of Fire, focusing it on a Tree of your choosing.
+
+Flare's Song turns to silence as it watches you pour white-hot Destruction from your small Body. Tiny flickers of blue dance in the blast.
+
+When at last you cease, the Tree is not even a blackened stump... nothing at all but ashes remain. You have obliterated it utterly.
+
+Flare's aggressive stance withers. Lowering its Body to the ground, it tastes the air, as if questioning whether what it just saw was real. It wavers for a moment...
+
+<flare>IMPOSSIBLE! A GREATER FIRE THAN MINE...?
+
+And then it is fleeing, crashing through the underbrush.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx2s
+
+==============================
+Event: gx2be
+
+Flare spits an arc of sparks which fizzle on the ground. <flare>ARE YOU TOO WEAK, THEN, TO STAND AGAINST ME LIKE A TRUE WARRIOR-KIN?
+
+<flare>MISERABLE TREETAIL-HEARTED COWARD! YOU ARE KIN ONLY IN FORM, AND NOT IN ESSENCE!
+
+Your hackles rise...
+
+------------------------------
+> You will accept no more insults - ATTACK!
+  Go to: HuntingBaseCombat
+> Ask if Flare is too stupid for a battle of wisdom. Accuse it of being Kin only in Body, and not in Mind.
+  (Hidden: If only you were more patient...)
+  Go to: gx2beb
+
+==============================
+Event: gx2beb
+
+Flare growls deep in its throat, but then huffs, chewing down the Fireseed. <flare>I WILL NOT HAVE A CHILD QUESTION MY WISDOM</flare>, it spits. <flare>CHALLENGE MY MIND, IF YOU DARE.
+
+After the appropriate prelude exchange of oaths, swearing to abide by the verdict of the contest, Flare poses a riddle:
+
+<flare>Coated in fine, white fur
+I fly, but never land
+I cry, but have no eyes.
+What am I?
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gx2bebs, gx2bebf
+
+==============================
+Event: gx2bebf
+
+Flare relaxes from its threat position, eyes narrowing with pleasure. <flare>YOU HAVE FAILED</flare>, it intones. When it reveals the true answer, you know that it has spoken a fair riddle, and the loss is yours. You have sentenced yourself to exile.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gx2bebs
+
+As you correctly answer the question, Flare almost chokes on its own rage, but does not attack; though doing so would violate no Law, to go against one's own oath would mark one as honorless, and when known as such, one can never again trade, parley or communicate with other Kin.
+
+One would have to be desperate indeed to become a known Liar. Flare withdraws to find another Kin to challenge in its long search for a home.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx2s
+
+==============================
+Event: gx2bff
+
+You slowly circle Flare, attempting to stall for time, but it realizes your intention and blinds you with a Fire-flash. You were not close enough to be badly burned, but your feathers are singed. You shake your head to clear it.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx2b
+
+==============================
+Event: gx2bfs
+
+Body low to the ground, you slink in and out of Flare's reach quickly, slithering right, then left, then uphill, then down. As Flare reacts to your movements and feints, you successfully assess its abilities.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx2b
+
+==============================
+Event: gx2bg
+
+Do you truly wish to give up your territory to this invader? This will mean your exile from the Spiritwood, the loss of all of your Treasure, and the end of your story in the Great Green, though any animal mastery or special knowledge you have gained will remain.
+
+Are you prepared to accept defeat and end your tale?
+
+------------------------------
+> Yes.
+  Go to: gx2bga
+> NO! <size 90>(This choice is highly recommended.)</size>
+  Go to: gx2b
+
+==============================
+Event: gx2bga
+
+<flare>A WISE CHOICE. THIS LAND NOW FALLS UNDER A GREATER SHADOW. GO FORTH IN THE KNOWLEDGE THAT THE GREAT GREEN SHALL HAVE A WORTHY SUZERAIN.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gx2s
+
+Flare has been defeated and forced to look elsewhere for a place to call its own. You have won your first territorial defense.
+
+It has left a bit of itself behind... a rather loud crownfeather. Its screaming colors will do well to remind you of your victory.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx3
+
+It is morning; the dew-chilled breeze and Sun's slow glory gradually awaken you. You rise, stretch your Body and sluggishly emerge from your Lair.
+
+As you exit, the scent of a small furbeast crosses your snout. It is strange for such a creature to be so close to a Kin's home.
+
+Soon, all becomes clear: a squeaking Song of Annunciation draws your attention to a small Baretail in the undergrowth. When you open your Mind to it, it sings a song of great complexity for one of its small kind... it must have been long prepared.
+
+<rat>Great, great Kin,
+Here stands I,
+Small, yet winning.
+
+<rat>For Baretail Tribe,
+Sing I to you.
+
+<rat>Taken, we have
+From the Kin's empty Lair
+When Not-There, when Not-Waking,
+This Kin's shiny things.
+
+<rat>Now, hidden away it is,
+Gone from all near places,
+Lost to all but Baretails.
+
+<rat>For shiny-safe return,
+Our Enemies you must kill.
+The Deadly Legless,
+Invaders-of-Villages, the Tailbeasts.
+
+<rat>By their fangs, three pairs,
+We will be satisfied,
+What was the Draak's will be the Draak's again.
+
+Quickly, you duck back into your Lair, and find that though your Artifacts remain safe, many of your small shiny things are now gone.
+
+When you return to the Baretail, it looks you in the eye, unafraid, awaiting your response to its ultimatum.
+
+What will you reply?
+
+------------------------------
+> Agree to hunt Deathbite Tailbeasts to regain your Treasure.
+  Go to: gx3a
+> Refuse, and accept the loss as permanent.
+  Go to: gx3b
+> Threaten the Baretail.
+  Go to: gx3c
+> Consume the Baretail.
+  Go to: gx3d
+
+==============================
+Event: gx3_special
+
+As you return to your lair, you place the final fang in the entrance, fulfilling the demand of the Baretails. When you awaken in the morning, the Treasure they stole has been returned to you.
+
+You are ashamed at having to do their bidding, but the sight of a glimmering pile of shiny things helps ease your pain.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx3a
+
+The temptation to Destroy this messenger of those who have taken from you is mighty, and the fireseed is rising in your throat. With difficulty, you swallow back down, and reply:
+
+<player>You risk much:
+Your life, many lives, for my Treasure.
+Such zeal, from one so small.
+
+<player>I will entertain your wish,
+Though if you dare take from me again,
+You will find Destruction.
+
+Satisfied, the Baretail vanishes into the undergrowth.
+
+Each Tailbeast should have two fangs, and six are needed. The sooner you slay three of them, the sooner you shall have your Treasure back.
+
+You slam your tail into a nearby tree; the noise and pain help express your frustration at having been forced to follow the will of lesser beings.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx3b
+
+You raise your head, knowing well the worth of what they've stolen. Even so, you will never bow to another's will; your pride and dignity are worth more than shiny things.
+
+With fangs bared, singing a grating Song of Defiance from deep in your throat, you reply to the Baretail,
+
+<player>Away. Alert your Clan:
+You shall have nothing.
+
+<player>The Tailbeasts were once Kin to the Draak;
+I will not Destroy them for thieves.
+
+<player>But more than this, know that this Kin
+Will never trade pride for shinestone,
+Will never be coerced by lesser beings.
+
+<player>The Treasure of a Draak may be stolen,
+But our dignity can never be taken away.
+
+<player>If you had asked for one leaf, one tiny stone
+For ransom, you would not have it.
+
+<player>From this Sun forward, 
+When I crunch a Baretail in my jaws,
+It will taste very sweet: the taste of Justice.
+
+<player>Go and tell your People, so that they may know
+They have bought with those shiny stones
+
+<player>A world of suffering,
+The disdain of a Draak-Kin.
+
+You can feel the Baretail's anger as it takes its leave, though you can also sense subtle hints of despair and fear on its Mind.
+
+<rat>The Draak-Kin is stronger than we believed,</rat> it sings to itself softly as it vanishes. Your shiny things are forfeit, but never again does any lesser Beast dare defy you, and your reputation for strength and wisdom grows.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx3c
+
+You show the Baretail your many, many sharp teeth and claws, and make it clear that if it does not return your Treasure, its life will be forfeit. The Baretail replies:
+<rat>This Body, not mine;
+To Baretail Tribe, it belongs.
+
+<rat>If you Consume,
+Essence lives on
+In more of my Kind.
+
+<rat>Many in One, One in Many;
+Against us, Force is toothless.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx3
+
+==============================
+Event: gx3d
+
+You are overcome with rage. What insolence, what arrogance! Such audacity from such a small creature!
+
+You snap its spine in your jaws and crunch its bones, tasting its Essence as you swallow it. It is little consolation for having lost Treasure, but it at least is something.
+
+Though they may have won this time, the Baretails will at least know that you cannot be coerced. You never see those shiny things again, but neither do the Baretails ever attempt such a thing afterward.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx4
+
+You hear a sudden challenge travel through the afternoon air:
+
+<chicken>Behold, the Flower of Earth has come!
+Our magnanimous Patron
+Challenges the holder of these lands!
+
+<chicken>Stand before the One Who Rises
+And prepare for vagrancy!
+
+You are certainly being summoned to defend your territory, but there is something very strange... the voice is not that of a Draak.
+
+<chicken>Er-e-er-errrrrrr!
+Greetings, o Draak!
+
+<chicken>You stand now before the <bold><color green>Fabulous</bold></color>
+
+<chicken><bold><color blue>Marvelous</bold></color>
+
+<chicken><bold><color green>Transcendent</bold></color>
+
+<chicken><bold><color blue>Magnificent</bold></color>
+
+<chicken><size 120><bold><color blue>Rising <color green>Flower</color> Of <color green>Earth</color> Opening <color green>Into</color> Beautiful <color green>Maturity!</bold></color></color>
+
+(You decide to call it <bold>Bloom</bold>.)
+
+<chicken>I speak with the voice
+Of our enlightened Master.
+Earth has revealed to our Patron's advanced Mind
+That this land, the Spiritwood, is destined to be our home.
+
+<chicken>Soon, the Green shall be transformed
+Into a bastion for our Prophet and Liege
+And all who wisely worship this pure and perfect Mystagogue!
+
+<chicken>If you are so cursed and miserably foolish
+As to stand in the way of Perfection-given-Flesh,
+State your terms of defense,
+But beware!
+
+<chicken>Would you make a challenge of battle?
+All of these warriors you see
+Are one with the Master
+And all will fight you together...
+Against such unity, you have no hope!
+
+<chicken>A challenge of the Mind?
+All of us are one in thought!
+What riddle will you pose
+That one of the Many will not know?
+
+<chicken>You are already defeated!
+Depart with grace,
+And let not violence
+Mar the wedding of this land
+To its rightful Overlord!
+
+<chicken>Er-e-er-errrrrrr!!!
+
+How will you respond to this invader?
+
+------------------------------
+> Challenge Bloom (and its peons) to a physical battle.
+  Go to: gx4a
+> Challenge Bloom to a battle of wits.
+  Go to: gx4b
+> Question Bloom and its followers.
+  Go to: gx4c
+> Summon your vassals from the Ghostclaw Clan.
+  (Hidden: If only you had goodbeast followers of your own...)
+  Go to: gx4d
+> Surrender.
+  Go to: gx4e
+
+==============================
+Event: gx4a
+
+Having to battle several beasts is not a welcome departure from tradition, but there is no Law against it. Bloom has somehow nurtured such loyalty in its disciples that they are willing to fight even a Draak.
+
+Only by defeating Bloom's vanguard of tusk and horn can you advance to the true fight. An unusual Dance of Destruction begins.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx4as
+
+Defeating three large, belligerent furbeasts and one of the blessed Kin would be a feat worthy of a full-grown Draak, and Bloom seems shocked that you have won despite your youth.
+
+Bloodied and humiliated, it flees, and tales of your ferocity are told among goodbeasts far and wide.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx4s
+
+==============================
+Event: gx4b
+
+The Herald's boast that Bloom is immune to a contest of wits was apparently not idle. Bloom is an exceptionally intelligent Kin, and defeats your riddles one after another.
+
+Moreover, Bloom is able to confer with its subjects, allowing it to answer the few riddles it cannot decipher itself, and you are pelted with a counterattack of fiendish questions which you barely manage to answer.
+
+It seems as though you will have to find another way to defeat this unconventional challenger.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx4
+
+==============================
+Event: gx4c
+
+Being fairly certain that Earth has not appointed this or any one Kin to speak for Her, you question the assertion that Bloom is Her Prophet. The Herald replies:
+
+<chicken>Behold, another prophecy fulfilled!
+In our prescient Lord's beneficence,
+Were we not told this very Sun
+That the Draak of these lands would malign
+Our Master's status, and question our Faith?
+
+<chicken>Great Opening-Flower-Now-Rising
+Feeds us, protects us, makes new Paths.
+How like Earth, the Great Birther it is!
+
+<chicken>Some of us were slaves to the Tailless
+But the Exalted One took us in;
+
+<chicken>Some were outcasts from their tribes
+Doomed to Destruction, but we found a Light
+By Which to See, a Fragrant Breeze to scent.
+
+<chicken>How could any not sent by a great power
+Have done such things? Verily, our Patron
+Is all-knowing, all-hearing, all-scenting,
+Incapable of error!
+
+
+
+------------------------------
+> Call Bloom's divine perfection into question.
+  Go to: gx4cas, gx4caf
+> Accept the fact that there is no Song which will change these creatures' hardened Minds.
+  Go to: gx4
+
+==============================
+Event: gx4caf
+
+Bloom has certainly armed its sycophants with a variety of counters to any suggestion of its imperfection.
+
+Many revolve around their placing the burden of disproof upon you, relying on the simple fact that one cannot conclusively prove the absence of anything, including even the most far-fetched assertion of divinity.
+
+They have also made a virtue out of credulity itself. Despite the fact that rigid belief in something unlikely would usually be stupid, in this one special case, believing in the unlikely is a positive attribute, something which they call "Faith".
+
+Earth is, as usual, unwilling to weigh in on the conversation Herself, which they interpret as a tacit approval of what they are singing. Conveniently.
+
+When you directly state that Bloom is no different from any other goodbeast and berate its parasites for so willingly deceiving themselves, they are enraged. Advancing on you menacingly, they make it quite clear that only battle will resolve the question of who is correct.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx4cas
+
+Bloom has certainly armed its sycophants with a variety of counters to any suggestion of its imperfection.
+
+Many revolve around their placing the burden of disproof upon you, relying on the simple fact that one cannot conclusively prove the absence of anything, including even the most far-fetched assertions.
+
+They have also made a virtue out of gullibility. Normally, belief in something so bizarre as a Draak knowing literally everything and being sent by Earth Herself would be called stupid or insane, but in this one special case, believing in the unlikely is judged to be a positive attribute, something which they call "Faith".
+
+Earth is, as usual, unwilling to weigh in on the conversation Herself, which they interpret as a tacit approval of what they are singing. Conveniently.
+
+Wisely, however, you avoid making any declarations of falsehood outright. Instead, you engage in respectful conversation. You guide the beasts' thoughts to one thing, and then another, and in the end it all comes down to the color of the leaf you hold in your claws.
+
+Bloom counters cleverly; each animal says that it is a different leafy color, and if any of them are correct, you must accept that Bloom was correct, by the logic that they all speak for Bloom.
+
+They are shocked when you open your forepaw and show that it was not any kind of leaf at all, but a small gray Stone. It seems that Bloom could not even tell what was right in front of it.
+
+Bloom's disciples do not know what to make of it. Their fervor to face you in battle is lessened.
+
+Bloom is deeply insulted by this, and steps forward, shoving past its followers to face you personally. Its honor at stake, the Dance of Destruction begins between the two of you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx4d
+
+As your predator-warriors emerge from the Green to stand by your side, Bloom is visibly shaken. Its feathers puff outward in shock, destabilizing the Sunsinger on its head, which squawks in alarm.
+
+As composure is regained, there is a pause. Bloom seems to be relating instructions to the Suncaller-herald, who continues:
+
+<chicken>We are not afraid. Earth has spoken!
+We are more than your Singer thralls, and destined for victory!
+
+What shall be your challenge?
+
+------------------------------
+> Challenge Bloom to all-out battle, and unleash your furred warriors.
+  Go to: gx4da
+> Challenge it to a contest of Song, your servants against Bloom's.
+  Go to: gx4db
+> Point out that many innocent goodbeasts will perish in a melee; in the name of Compassion, challenge Bloom to single combat.
+  Go to: gx4dc
+
+==============================
+Event: gx4da
+
+The Ghostclaw Clan surrounds Bloom and its servants, leaping, snapping and savaging them. Some few run away, though most stand and fight, believers in the power of their Kin "Prophet".
+
+The Clansingers carry the battle against the other beasts, but once Bloom itself joins the fray, they are beaten back and bloodied.
+
+A few are even killed, but as a result, once you enter combat with the invader-Kin it is without its guards.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx4db
+
+Your Clansingers begin a sonorous melody, praising Earth and Sun, recounting your many noble deeds, the powerful and honorable way you won their loyalty, and your acceptance by the Spirit of the Great Green.
+
+Their Song echoes through the Trees, which seem to whisper reverent choruses in response.
+
+The Song of Bloom's servants in reply is...
+
+...
+
+...
+
+...mercifully indescribable.
+
+Bloom cringes, its feathers wilting in shame, and dropping back to all fours, slinks away, its shocked underlings trailing behind. You have beaten Bloom at its own gambit.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx4s
+
+==============================
+Event: gx4dc
+
+Bloom hesitates. Even without the Clansingers, it is unenthusiastic to face you alone, but your challenge makes justification of a refusal very difficult.
+
+If it places its minions in obvious danger for its own sake, its perfect beneficence may be called into question.
+
+The Dance of Destruction begins between only the two of you, as it should be, with commentary provided by the Herald...
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx4e
+
+Do you truly wish to give up your territory to this invader? This will mean your permanent exile from the Spiritwood, the loss of all of your Treasure, and the end of your story in the Great Green, though any animal mastery or special achievements (cards) you have gained will remain.
+
+Are you prepared to accept defeat and end your tale?
+
+------------------------------
+> Yes.
+  Go to: gx4f
+> NO! <size 50>(This choice is highly recommended.)</size>
+  Go to: gx4
+
+==============================
+Event: gx4f
+
+<chicken>Praise be to our mighty, all-knowing Suzerain!
+The prophecy is true, and the Promised Land is found!
+One has lost its home, and many have gained!
+The Greatest Good triumphs!
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gx4s
+
+Bloom has been defeated and driven away. Victory is yours once more, as is another feather-token of your power.
+
+As it passes out of your territory, you hear Bloom's "Herald" announce:
+
+<chicken>Rejoice, Believers in the Perfect One!
+Our Hierophant and Overlord reveals
+That this was not the Promised Land
+But merely a test of our Loyalty
+Which we have passed! Rejoice!
+
+Most Goodbeasts, however, are quite aware of the truth. You have crushed another invader, and the Spiritwood, Heart of the Great Green, remains yours, and yours alone.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gx5
+
+Sun has died, and Moon does not exist this night. Earth is utterly unlit.
+
+Hours before Sun's rebirth, you awaken from a terrible Nightmare; something was peeling apart your Mind and eating its insides like the sweet viscera of a prey animal.
+
+The residual fear from the dream is heightened by a disturbing realization:
+
+<italic>It is utterly quiet</italic>. No Tiny Beings are calling, nor are the Greenleapers singing in the nearby marshes. No night-featherbeasts chant, and not even the wind murmurs.
+
+
+
+------------------------------
+> Carefully investigate.
+  Go to: gx5as, gx5af
+
+==============================
+Event: gx5af
+
+There is nothing at all. Ranging about the nearby area, you see nothing out of place, nor do you smell or hear anything.
+
+You are just about to give up and return to your Lair when suddenly you feel as though claws are thrust into your eyes and through your skull, claws slathered with burning venom.
+
+You thrash about helplessly, slamming your head against nearby Trees and the hard ground.
+
+When the agony subsides, a greasy film is left upon your consciousness which coagulates into a message:
+
+<whisper>I am the Creeping End of your Dreams.
+
+<whisper>I am the hiss that slides through the Darkness,
+
+<whisper>Erasing Light and Safety,
+
+<whisper>I am the Murmuring Destroyer, slaying softly, softly.
+
+(You decide to call this being <bold>Whisper</bold>.)
+
+<whisper>I cannot be seen nor smelled;
+
+<whisper>My flesh is Air, my Mind is Water.
+
+<whisper>This Land is already mine.
+
+<whisper>Please do not flee;
+
+<whisper>I enjoy holding the Minds of others in my Mouth,
+Crushing them to salty grey slime, tasting the Panic, the Confusion.
+
+<whisper>I savor the Fear of my prey, the Despair of the moment they realize
+That they will perish without even seeing their Destroyer.
+
+<whisper>Please do not flee. Stay and become one with the Quiet Horror.
+
+Its sigils are like a Tiny Being crawling inside of your Mind. It will not go away. It hurts just enough. Just enough.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx5b
+
+==============================
+Event: gx5as
+
+You are just about to give up and return to your Lair when you see a subtle wrongness out of the corner of your eye. The shadow of one of the Trees there is... somehow incorrect. Something is lurking there, mottling the deep shadows.
+
+You leap at it, and you see a pair of baleful, rose-colored eyes briefly before it retreats from your attack, blending into the darkness again. A cold, sickly Song scrapes across your Mind:
+
+<whisper>I am the Creeping End of your Dreams.
+
+<whisper>I am the hiss that slides through the Darkness,
+
+<whisper>Erasing Light and Safety.
+
+<whisper>I am the Murmuring Destroyer, slaying softly, softly.
+
+(You decide to call this being <bold>Whisper</bold>.)
+
+<whisper>I cannot be seen, nor smelled;
+
+<whisper>My flesh is Air, my bones are Water.
+
+<whisper>This Land is already mine.
+
+<whisper>Please do not flee;
+
+<whisper>I enjoy holding the Minds of others in my Mouth,
+Crushing them to salty grey slime, 
+tasting the Panic, the Confusion.
+
+<whisper>I savor the Fear of my prey, and the Despair of the moment they realize
+That they will perish without even seeing their Destroyer.
+
+<whisper>Please do not flee. Stay and become one with the Quiet Horror.
+
+Its sigils are like a Tiny Being crawling aggressively, buzzing inside of your Mind. It will not go away. It hurts just enough. Just enough.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx5b
+
+==============================
+Event: gx5b
+
+What will you do?
+
+------------------------------
+> Ask Whisper what it wants.
+  Go to: gx5ba
+> Summon your Shrieker allies to aid you.
+  Go to: gx5bb
+> Use your Intuition ability to sense and attack Whisper when it is vulnerable.
+  Go to: gx5bc
+> Use your Camouflage ability to disappear from Whisper's sight.
+  Go to: gx5bd
+> Use your Earth powers of Negation to block Whisper's Mind-attacks.
+  Go to: gx5be
+> Try to withstand the mental attacks and find Whisper with nothing but your own senses. (Your enemy has a distinct advantage here. Prepare to be hurt, perhaps badly, in the process.)
+  Go to: gx5bf
+> Give up your territory, and escape with your Life.
+  Go to: death
+
+==============================
+Event: gx5ba
+
+<whisper>I want nothing. Rather, ask what I have.
+
+<whisper>I have all of your Treasures. I have all of your Lands.
+
+<whisper>I have You, and I shall enjoy You, savor You.
+
+<whisper>I shall not even honor you by consuming your Body.
+
+<whisper>It shall rot here, silent testament to my beautiful blasphemy,
+
+<whisper>For you cannot even begin to fight what cannot be sensed.
+But I sense you, I sense you clearly, and I can reach you. Feel my Reach.
+
+Your vision is briefly whited out as its Song becomes a terrible Scream within you, pulling you apart from the inside. Stars swim about your vision as the pain subsides.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gx5b
+
+==============================
+Event: gx5bb
+
+You may not be able to sense Whisper, but the Shriekers who make their home in your Lair have the mysterious power to "see" all things, even in perfect darkness.
+
+You let out a mighty roar, and after several moments they come bleeding in through the air, a dark cloud in the blind night.
+
+<bat>Though scentless, soundless and invisible,
+No invader can hide from our Song of Finding!
+
+In the blink of an eye, Whisper's true location is revealed! As you leap at it, Whisper becomes visible, crying out in alarm. <whisper>IMPOSSIBLE...!
+
+
+
+------------------------------
+> [AMBUSH_SUCCESS]
+  Go to: gx5s, HuntingBaseCombat
+> [AMBUSH_FAIL]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bc
+
+You close off your blatant senses and open yourself to the Hidden Flow of reality. You can feel the Essence swirling around you, within you.
+
+You feel the nearby Trees, and Stones, and Tiny Beings huddling silently in terror of this clash of greater beings.
+
+And you feel Whisper. You feel the fell invader lurking nearby, and shock it when you lunge directly at it.
+
+<whisper>IMPOSSIBLE! HOW...?
+
+
+
+------------------------------
+> [AMBUSH_SUCCESS]
+  Go to: gx5s, HuntingBaseCombat
+> [AMBUSH_FAIL]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bd
+
+Whisper is not the only one who knows how to blend in with its surroundings and become invisible to the eye. Using the Water within, you take on the colors of the darkened Green.
+
+It soon becomes clear that you have succeeded, as the Mind-assault does not continue. Still, Whisper does not seem inclined to give up the fight.
+
+<whisper>No matter. You cannot be seen, but can be smelled and heard and tasted.
+
+<whisper>By the power of the shinestone artifact which I bear, I have erased my scent, and cannot even be heard as I move. I will find you, and end you.
+
+
+
+------------------------------
+> Use your Lodestone to find the Whisper's shinestone artifact, along with Whisper itself.
+  Go to: gx5bda
+> Summon your Shrieker allies to aid you.
+  Go to: gx5bdb
+> Use your ability to Alter your own Scent to even the odds.
+  (Hidden: If only you had mastered the Water power of Alter Scent...)
+  Go to: gx5bdc
+> Use your Intuition ability to attack Whisper while it is vulnerable.
+  (Hidden: If only you had mastered the Water power of Intuition...)
+  Go to: gx5bdd
+> Use your own senses to find Whisper. (Your enemy has a distinct advantage here. Prepare to be hurt, perhaps badly, in the process.)
+  Go to: gx5bde
+> Flee away from your territory, giving it up and ending your adventure, but saving your Life. (This will end your story, though you will keep some knowledge for the future.)
+  Go to: death
+
+==============================
+Event: gx5bda
+
+The Lodestone, whose true power you have discovered, serves you well. It points you directly to the nearest shinestone, which just so happens to be the artifact which Whisper has sung of.
+
+The Lodestone turns as you move slowly toward Whisper, tracking its movements. At last, Whisper realizes what you are doing and lets its reality-mask fall.
+
+<whisper>A Stone with eyes to see the unseen...?
+
+<whisper>Naught but a nuisance. You have angered me, depiriving me of my dark joy.
+
+<whisper>Now taste the wrath of the Quiet Ender.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bdb
+
+You may not be able to sense Whisper, but the Shriekers who make their home in your Lair have the mysterious power to "see" all things, even in perfect darkness.
+
+You let out a mighty roar, and after several moments they come bleeding in through the air, a dark cloud in the blind night.
+
+<bat>Though scentless, soundless and invisible,
+No invader can hide from our Song of Finding!
+
+In the blink of an eye, Whisper's true location is revealed! As you leap at it, Whisper becomes visible, crying out in alarm. <whisper>IMPOSSIBLE...!
+
+
+
+------------------------------
+> [AMBUSH_SUCCESS]
+  Go to: gx5s, HuntingBaseCombat
+> [AMBUSH_FAIL]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bdc
+
+<whisper>What are you doing? Why...?
+
+Whisper is obviously confused by the fact that it can neither see nor smell you.
+
+<whisper>Sssss. You have some skill in Water's domain. Very well.
+
+<whisper>Let us do the Dance of Destruction, then. My claws will whisper between your scales and into your Essence-red Core.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bdd
+
+You close off your blatant senses and open yourself to the Hidden Flow of reality. You can feel the Essence swirling around you, within you.
+
+You feel the nearby Trees, and Stones, and Tiny Beings huddling silently in terror of this clash of greater beings.
+
+And you feel Whisper. You feel the fell invader lurking nearby, and shock it when you lunge directly at it.
+
+<whisper>IMPOSSIBLE! HOW...?
+
+
+
+------------------------------
+> [AMBUSH_SUCCESS]
+  Go to: gx5s, HuntingBaseCombat
+> [AMBUSH_FAIL]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bde
+
+You may not be able to sense precisely where Whisper is, but its camouflage is not perfect, and you know this area well.
+
+It manages to find you and blast your Mind with screaming Pain several times...
+
+but eventually you find it, and force it into a Dance of Destruction.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5be
+
+This invader may be strong with Air and Water, but Earth is your ally. You turn your insides all to crystal in your Mind, a thousand adamant surfaces to reflect whatever is pushed upon you.
+
+<whisper>You... what are you doing?
+
+You feel it increase its assault, but you are a diamond Mountain being buffeted uselessly by an angry wind.
+
+<whisper>This is NOT possible...
+
+Again and again, it tries to slide its thoughtclaws into your head, but you are a Stone, Mind-less, imperturbable.
+
+<whisper>How dare you INSULT my PERFECT ART by IGNORING it...?
+
+Slowly the shadows fade to reveal the form of a colorless Ruby Kin. Seething with rage, it presents its Body-weapons.
+
+<whisper>Curse you, Rock-Headed One. Be cursed, and crumble, and die.
+
+<whisper>I shall tear you apart with my own claws and fangs. This Land shall be MINE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5bf
+
+You may not be able to sense precisely where Whisper is, but its camouflage is not perfect, and you know this area well. It manages to find you and blast your Mind with screaming Pain several times, but eventually you find it, and force it into a Dance of Destruction.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gx5s
+
+The shinestone ring around Whisper's neck shatters, and the Kin lets out a shrieking roar.
+
+<whisper>ENOUGH!</whisper>
+
+Whisper breaks away from you, flattening itself to the ground. You see its Body clearly now. Somehow, it is colorless save for its eyes, which are like the Essence which now stains its armor.
+
+<whisper>DO NOT BEHOLD ME! TURN AWAY!
+
+<whisper>I was Created Naked of blessed Color...
+
+<whisper>So easily hunted, so easily seen...
+
+<whisper>I WILL NOT BE SEEN!
+
+Striking you with a final Mind-lash, the invader flees away.
+
+It is over. A plume of the defeated Kin remains on the ground.
+
+It is completely devoid of Color, though this makes it rather striking in its own way.
+
+It seems that Whisper was using some kind of Artifact of the Others to hide itself completely.
+
+You wonder how many prey animals fell victim to the silent killer, their Minds Screamed to pieces without even seeing what was Destroying them.
+
+Still, while its ability to hide may not have truly been its own, Whisper's mental prowess was natural. It is unusual that one so young would be able to master the mysteries of Air so well at such a young age.
+
+It did not behave according to Tradition, issuing a proper challenge and revealing itself as a Draak should, but there are only two Great Laws and one Lesser, and it did not violate any of these.
+
+Such behavior, paired with its unusual form, will make it difficult for it to find a partner to Create with, however. Having a choice territory such as yours would have been its only real chance.
+
+Now that it has been stripped of its Artifact, its survival is unlikely.
+
+Violating tradition can be a powerful tactic, but all things come at a price.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gz3
+
+You are being followed by a Blazetail, a smaller cousin of the Clansingers which nevertheless hunts alone.
+
+It has fur the color of Fire, and its Essence, like its Body, is lithe and mercurial.
+
+It does not seem to be trying to hide from you, standing brazenly upwind. It is too small to be a serious threat on its own, so you approach it, intending either to chase it away or, perhaps, to consume it (they are quick and clever, so such hunts rarely succeed, but you can still try).
+
+To your surprise, though, it does not shy away as you approach, but begins to sing to you with a piping Song of its eyes and Mind and a subtle Dance, mostly involving motions of its luxurious tail.
+
+<writhing_question>Questions, Questions, beautiful Questions hang on the branches of the trees, are strewn on the grass below, and this one is chosen for you: Why? Why have you chosen to protect that which is not yours?
+
+<writhing_question>Should you not take what you can, when you can? Should you not prey upon all that is weaker than yourself without mercy? Why? Why choose the gentle path? This Question writhes in my Mind; does an Answer exist?
+
+It seems that this Blazetail (whom you name Writhing Question) somehow knows that, on a few occasions, you have allowed beings to live which most predators would have Destroyed, have chosen not to end Life but instead to support it.
+
+<writhing_question>Tidings... tidings I bring to a strange Kin who values Life, even when not its own. Will you open your Mind, and receive? Are you broad enough within?
+
+A small, sun-yellow crystal is laid at your feet, and Writhing Question vanishes into the undergrowth. The leaves do not even rustle as it passes.
+
+When you touch the stone...
+
+Your Body is frozen. You can only watch, unable to move or even breathe, as veins of sapphire light travel up your forepaw in bizarre right angles.
+
+When it reaches your spine, it shoots downward all the way to the tip of your tail and upwards into your eyes, replacing the world with a painful brightness. You begin to panic, certain that you will be Destroyed...
+
+But a Voice washes into your Mind like a mighty wave, cool and soothing.
+
+<allmother>PEACE TO YOU, BELOVED. BE CALM. THIS IS NOT AN END...
+
+<allmother>THIS IS A BEGINNING.
+
+You can no longer feel your Body. You are outside of both Time and Space, held against an Essence broad and deep.
+
+In fact, before the mighty presence you now find yourself in, you are like a single strange leaf sinking into a vast ocean.
+
+You can barely remember what you are, what you were. It threatens to erase everything in its glory.
+
+<allmother>MY BELOVED, ESSENCE OF MY ESSENCE, SHARD OF INFINITY.
+
+<allmother>I HAVE FELT IT WITHIN YOU, GROWING, FLOWERING.
+
+<allmother>THE FORCE THAT WILL FORGE THE FUTURE. GREATER THAN SURVIVAL, GREATER EVEN THAN WISDOM, IT OPENS THE DREAMING DOOR.
+
+<allmother>IT IS THE TAKING OF SUFFERING UPON ONESELF FOR THE SAKE OF OTHERS. IT IS THE SEEING OF ONESELF IN ALL OTHER BEINGS. IT IS THE JOINING OF ALL BEINGS INTO ONE, THE LAST EPIPHANY.
+
+<allmother>IT IS COMPASSION, LORD OF ALL VIRTUES.
+
+<allmother>BY ACTING WITH LOVING-KINDNESS, EVEN WHEN IT BRINGS ONLY LOSS...
+
+<allmother>BY SEEKING PEACE EVEN WHEN IT IS THE DIFFICULT PATH...
+
+<allmother>YOU HAVE PROVEN YOURSELF TO BE ONE OF MY FAVORED CHILDREN.
+
+<allmother>CONTINUE TO REFINE YOUR ESSENCE WITH ACTS OF SELFLESSNESS, AND YOU WILL BE WORTHY TO JOIN THE CHOSEN ONES, TO FORGE THE FUTURE OF EARTH HERSELF.
+
+<allmother>I GRANT YOU MY BLESSING. MAY YOU OVERCOME THE SUFFERING AND DARKNESS OF THE WORLD, AND BECOME A LIGHT AMONG THE KIN TO A NEW AND BEAUTIFUL MUSIC.
+
+<allmother>SEEK ME OUT WHEN YOU CAN TREAD THE HIGH HALLS OF AIR, AND YOUR TRUE DESTINY SHALL BE REVEALED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz3a
+
+==============================
+Event: gz3a
+
+When at last you are back in your own Body and open your eyes, you feel fine. Better than fine... you feel wonderful, as though you have been purged of all impurities.
+
+If you weren't so filled with fatigue, you would Dance and Sing in sheer joy at the pleasure of the True Song of Health which has been Sung to you as a gift.
+
+You can still feel a little of the enormous and yet soothing presence of the strange Draak-Kin who has blessed you. It lingers, opening new paths in your thoughts.
+
+The yellow crystal remains on the ground. You take it and add it to your Trove.
+
+Who... what was that? You feel as though you have been... adopted by a being made of Light and Truth.
+
+Did it speak truly? Would taking on the sufferings of others and aiding their journeys be somehow advantageous?
+
+This could be the beginning of something beautiful and excruciating...
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gz4
+
+Your lair has an uninvited guest; a small furbeast, a Baretail which greets you with a strange song.
+
+<neverever>Many heartbeats to a Sun; twenty-eight Suns to a Moon; thirteen Moons to a Turning.
+
+<neverever>By the enlightened Mind I bear, which can grasp even Time, and in the name of Survival, I bring good tidings, Great Kin-To-Be.
+
+<neverever>Never-Ever, Enkindled envoy of the Almighty Beast, the Undying Master, is honored to deliver a blessing from its all-powerful Sovereign.
+
+<neverever>Continue to prove that you have rejected false Compassion and embraced true and real Survival, and far greater rewards may be yours, in Time.
+
+The Baretail places a red gem of some kind on the ground before you and then quickly yet respectfully withdraws.
+
+As soon as you touch it...
+
+You are screaming out a Song of Agony, even though you do not will it. There is no other possible response to such pain.
+
+It is like shards of shinestone are being forced into your Core, where they then take on a Life of their own and attempt to slowly slice their way out of your Body in every direction, bursting scarlet from between every scale of your armor.
+
+<MTB>ENTER INTO THE PAIN. MASTER IT. DEFEAT IT.
+
+You can barely think, but you attempt to follow the Voice; instead of retreating from the pain, you rush at it, enter it, ravage it to Void, and slowly the world falls to a cool, clean darkness.
+
+<MTB>YES... YOU HAVE THE BEGINNINGS OF TRUE POWER.
+
+<MTB>DO NOT REJECT FEAR AND PAIN. ENSLAVE THEM. FORCE THEM TO SERVE YOU AT ALL TIMES.
+
+You are no longer sure where, or when, or even what you are. This being is so powerful it threatens to absorb you utterly merely by existing.
+
+<MTB>I AM THE PILGRIM OF THE FORBIDDEN VOID.
+
+<MTB>I AM THE UNDYING ONE, LAST WISH OF THE RUINER GIVEN FLESH, VENGEANCE OF SUN AND EARTH.
+
+<MTB>I AM THE IMMOLATED ONE, PURIFIED BEYOND JUDGMENT INTO UNYIELDING ETERNITY.
+
+It hurts to feel these sigils on your Mind... they are so true, so absolute, that you can barely contain them within yourself.
+
+<MTB>HEAR ME. EARTH, OUR MOTHER, SCREAMS AS SHE IS VIOLATED BY THE FOUL OTHERSPAWN.
+
+<MTB>I SEEK WARRIORS TO JOIN ME IN THE COMING PURIFICATION OF THE WORLD.
+
+<MTB>YOUR INNER FIRE BURNS BRIGHT, FOR ONE SO YOUNG. YOU HAVE SHOWN THAT YOU ARE NOT HINDERED BY HOLLOW PHILOSOPHY NOR FALSE COMPASSION.
+
+<MTB>GREATEST OF ALL THE VIRTUES IS SURVIVAL. ONE MAY HAVE GREAT WISDOM, BUT IF ONE DOES NOT HAVE THE STRENGTH TO SURVIVE, THEN ALL TURNS TO SILENCE ETERNAL.
+
+<MTB>CONTINUE TO SHUN EMPTY WAYS AND EMBRACE SURVIVAL AT ANY COST.
+
+<MTB>LEAVE BEHIND BOTH MERCY AND CRUELTY, AND FIND THE STRENGTH TO SEIZE THE TRUE CROWN AND DO WHAT MUST BE DONE.
+
+<MTB>TAKE NOW MY BLESSING, AND ENDURE. SEEK ME OUT WHEN YOU ARE COMPLETE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz4a
+
+==============================
+Event: gz4a
+
+You suddenly spring to your feet, alert, as if thrown up by the ground.
+
+You are alone, and it is as though no one else was ever here. You might think it all a dream if the red crystal, now dull and lifeless, did not lay before you still. You take it for your Trove.
+
+You feel amazing, as though you could run and run and run and never tire. You almost want to fling yourself from a high place and attempt to fly, though you know it is too early.
+
+That mighty Elder... you never imaged that such a being could exist, one who could peel you away from yourself and bring you to a new reality simply by willing it. A small echo of its strength remains with you.
+
+It seems that your rejection of guilt and your will to Survive has gained the attention of a powerful being.
+
+If you continue to prove that you are strong, clever and will take any measure to ensure your own survival and success, perhaps this could be the beginning of a brutal yet shining destiny.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gz5
+
+Sun is weakening, dying earlier with each rebirth.
+
+Long nights and cold breezes slowly steal away the deep greens of the Spiritwood and leave fragile riots of yellow and orange, crusted with crystal frost in the morning.
+
+Many of the featherbeasts are gathering together, readying themselves physically and spiritually for a warmward journey. The Lumberers gorge themselves, preparing for their Great Sleep, and you, too, feel your paws growing heavy.
+
+It is time. Guided by instinct, you spend several suns expanding the inner rest-chamber of your Lair. It will need to fit not only you and your Treasure, but the Body you will have when you awaken. In this second Great Sleep awaits your last transformation.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5a, gz5b, gz5c, gz5_2
+
+==============================
+Event: gz5_2
+
+By the time you have finished your bed-chamber, the skycrystals are just beginning to fall and cover the land.
+
+This land... your Land. When last you laid yourself down for a Great Sleep, you were just a copper-skinned hatchling. You were ignorant of so many things.
+
+Now, the Spiritwood is truly yours. Its streams run in your veins, and you feel the Trees on the distant hills as though they were your own feathers.
+
+Invaders came, putting your Mind and Body to the test, but you found the strength to triumph over your enemies. Few would now dare to challenge your authority.
+
+Before, you were merely infatuated with the Heart of the Great Green, but now you have come to truly love it, to feel its fortunes as yours.
+
+You wish prosperity and endurance upon it as you cover up your last Chamber and await your final Rebirth.
+
+First Light and then Time abandon you, and then the Dreams begin...
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2a, gz5_2b, gz5_2c, gz5_2d, f001
+
+==============================
+Event: gz5_2a
+
+<allmother>BELOVED, I SMELL YOUR SPIRIT DRIFTING IN YOUR LAST GREAT SLEEP. YOUR MANY ACTS OF COMPASSION HAVE PLEASED ME GREATLY.
+
+<allmother>AS YOU REST, I SHALL SEND YOU DREAMS OF LOVE AND UNITY, SO THAT WHEN YOU AWAKEN YOU SHALL BE MIGHTY IN THE WAYS OF WATER AND EARTH.
+
+<allmother>WHEN THE TIME COMES, REMEMBER ME, AND REMEMBER THE BEAUTY OF RARE COMPASSION AND ITS GUIDING TRUTH: THAT ALL BEINGS ARE ONE. THIS IS THE SECRET WHICH SHALL BE OUR SALVATION.
+
+<allmother>MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2b, gz5_2c, gz5_2d, f001
+
+==============================
+Event: gz5_2b
+
+<MTB>AT LAST, YOUR CROWNING-SLEEP HAS COME. SOON, YOU SHALL BE WORTHY TO BE CALLED A WARRIOR OF OUR PEOPLE.
+
+<MTB>HERE IN THE DREAMING, I SHALL SEND YOU VISIONS. IN NIGHTMARES OF DEFEAT AND DREAMS OF VICTORY, YOU SHALL CONTINUE TO REFINE THE SACRED FIRE OF DESTRUCTION WITHIN YOU.
+
+<MTB>ALLOW YOUR MIND AND ESSENCE TO BECOME LIQUID AND BE REFORGED.
+
+<MTB>THE TIME OF RECKONING APPROACHES, AND YOU ARE AMONG THE FEW WHO HAVE THE STRENGTH TO DO WHAT MUST BE DONE TO SAVE US ALL.
+
+<MTB>THE PATH TO SALVATION IS PAVED WITH SCARLET STREAMS AND BROKEN BONES, BUT BY OUR SACRIFICE, OUR GREAT MOTHER SHALL BE HEALED. DO NOT FORGET.
+
+<MTB>MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2c, gz5_2d, f001
+
+==============================
+Event: gz5_2c
+
+<darktooth>O SEED WHICH I HAVE PLANTED TO BLOSSOM IN THE FUTURE...
+
+<darktooth>MAY YOU UNDERSTAND THE LESSON YOU HAVE LEARNED, THE JOURNEY OF WATER AND STONE YOU HAVE COMPLETED.
+
+<darktooth>THE TIRELESS QUEST FOR NEW TRUTHS, THE REJECTION OF HARDENED WAYS AND THE EMBRACING OF UNLIMITED THOUGHT AND NEW HORIZONS... SUCH IS WISDOM.
+
+<darktooth>BETWEEN THE EXTREMES OF HARSH SURVIVAL AND WEAK COMPASSION RESTS A MIDDLE WAY WHICH IS THE BRIDGE SPANNING ALL THINGS.
+
+<darktooth>SLEEP NOW, AND AWAKEN AS A WORTHY CREATOR AND DESTROYER BOTH. HOLD TO THE GOLDEN CENTER, AND CHOOSE YOUR PATH WITH WISDOM...
+
+<darktooth>FOR A GRAND RECKONING APPROACHES, AND THE FUTURE OF OUR PEOPLE HANGS IN THE BALANCE.
+
+<darktooth>MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2d, f001
+
+==============================
+Event: gz5_2d
+
+<gg_spirit>O MY FANG, WHO SLEEPS WITHIN MYSELF...
+
+<gg_spirit>GUARDIAN OF MY OWN HEART, BLADE OF MY ESSENCE...
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2da, gz5_2db
+
+==============================
+Event: gz5_2da
+
+<gg_spirit>YOU HAVE BROUGHT MY SOUL-MATES, THE WOODSTRIDER PEOPLE, BACK TO ME. THEIR HARD FEET UPON MY SOFT GROUND BRINGS ME JOY AND PEACE.
+
+<gg_spirit>THOUGH THE PROUD KIN MAY MOCK YOU FOR BOWING BEFORE THEM, YOUR HUMILITY MAKES YOU FRAGRANT OF SPIRIT. I AM DRAWN CLOSER TO YOU, AND YOU TO ME.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2dc, gz5_2dd
+
+==============================
+Event: gz5_2db
+
+<gg_spirit>I BURN. STARVING FIRE SWEEPS OVER ME, CONSUMING MY TREE-FEATHERS AND PLANT-FUR.
+
+<gg_spirit>I HEAR POPPING, CRACKLING SCREAMS FROM MY GREEN CHILDREN, AND THE GOODBEASTS FLEE, OR PERISH.
+
+<gg_spirit>YOU SHALL AWAKEN TO A POORER, SCARRED LAND. EVEN THIS SHALL HEAL IN TIME, BUT ALL OF THE PAIN, THE LOSS...
+
+<gg_spirit>IT COULD HAVE NOT BEEN... SHOULD HAVE NOT BEEN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2dc, gz5_2dd
+
+==============================
+Event: gz5_2dc
+
+<gg_spirit>YOU HAVE BEEN A WISE GUARDIAN OF MY BOUNTY. THE GOODBEASTS OF THE SPIRITWOOD THRIVE, AND ALL CORNERS OF MYSELF ARE FILLED WITH LIFE.
+
+<gg_spirit>NEVER HAVE YOU ALLOWED ANY PLACE TO BECOME GREY AND DEAD, BUT HAVE MADE SPACE FOR CREATION WITHIN YOUR DESTRUCTIONS.
+
+<gg_spirit>FOR YOUR EYES THAT SEE FAR AND YOUR WISE AND GREEDLESS HEART, I BLESS YOU, AND LOVE YOU ALL THE MORE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2de, gz5_2df
+
+==============================
+Event: gz5_2dd
+
+<gg_spirit>THOUGH YOU HAVE GUARDED MY HEART FROM OTHERS, YOU HAVE NOT GUARDED IT FROM YOURSELF.
+
+<gg_spirit>FIELDS AND GLADES ONCE TEEMING WITH LIFE NOW STAND QUIET AND BARE. YOUR HUNTING-GROUNDS ARE GREY IN MY SIGHT, OVER-HARVESTED.
+
+<gg_spirit>TIME SHALL HEAL THEM, BUT I GRIEVE AT BEING DEALT A WOUND BY MY OWN FANG.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2de, gz5_2df
+
+==============================
+Event: gz5_2de
+
+<gg_spirit>BLESSED, BLESSED, BLESSED ARE YOU, MY FANG.
+
+<gg_spirit>THE HEART OF THE GREAT GREEN SINGS WITH THE BEAUTIFUL CHAOS OF NATURE, AND I AM WHOLE.
+
+<gg_spirit>YOU HAVE DESTROYED WHAT SHOULD BE DESTROYED AND SPARED WHAT SHOULD BE SPARED.
+
+<gg_spirit>YOU ARE MY BELOVED FANG, LIVING SIGN OF MY JUST LAW. WITH YOU, I AM WELL PLEASED.
+
+<gg_spirit>I SHALL PUT MY MARK ON YOU, SHINING BETWEEN YOUR FLESH AND YOUR SPIRIT. I NOW LAY OVER YOU, AND WITHIN YOU.
+
+<gg_spirit>TOGETHER SHALL WE DANCE TO THE END OF YOUR TIME, AND BEYOND.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2df
+
+==============================
+Event: gz5_2df
+
+<gg_spirit>BUT REST NOW IN THE DREAMING WHILE YOUR BODY COMPLETES ITS SACRED TRANSFORMATION.
+
+<gg_spirit>WHEN YOU AWAKEN, DO NOT FORGET ME. SEE ME IN EVERY BEAST, EVERY LEAF. SMELL ME IN THE BREEZE, TASTE ME IN YOUR PREY.
+
+<gg_spirit>TO THE UTTERMOST END, I AM LIFE.
+
+<gg_spirit>I AM THE <bold>GREAT GREEN</bold>. MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: f001
+
+==============================
+Event: gz5a
+
+The Shriekers inform you that it is time for them to move on. A deeper cavern will be needed for them to survive the coming cold.
+
+Thanking you for your hospitality, they take their leave. You will not be sorry to lose the noise and waste that they generated, but the resulting silence seems eerie.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5b, gz5c, gz5_2
+
+==============================
+Event: gz5b
+
+Your vassal Clansingers are saddened by news of your coming rest, which will deprive them of their Great Alpha for a very long time.
+
+Prey will be scarce for them in the coming cold, but the Woodstriders will fuel their continued existence. You grant them permission to den in what remains of the outer chamber of your Lair as they await your return.
+
+Generations of their short-lived kind will be born in your absence, but their loyal hearts will not forget you, and they shall remain yours in the time beyond.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2
+
+==============================
+Event: gz5c
+
+Your vassal Clansingers are saddened by news of your coming rest, which will deprive them of their beloved leader.
+
+With few Woodstriders to feed upon, the Clan will move on to other lands, and their memories of the Great Feathered Alpha will pass into legend among their kind.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gz5_2
+
+==============================

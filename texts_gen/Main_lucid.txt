@@ -1,0 +1,78 @@
+Event: lucid_air
+
+You are dancing, dancing, dancing... rising up, touching the topmost mountain peaks with your belly, and then being drawn back downwards, rushing through the open secret places within Earth's breast.
+
+Tiny parts of you are drawn into every being, into every kind of Body, from the tiniest to the greatest, and then they send you on your way once more, changed, slightly heavier but still dancing.
+
+The great Trees Sing you into existence constantly, supporting and lightening you, and you love them, dancing sensuously through their every shuddering leaf and needle.
+
+You bar no ways, though your dancing is sometimes so furiously joyful that you dance things into very Destruction.
+
+Every voice, every Song, travels through you, and you cannot wait to bring them to new places, new ears. You are the Breath of the World, the space-between which makes all things possible, high as Mind and broad as Hope.
+
+<color grey>You are Air. You are Air. You are Air.</color>
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: lucid_earth
+
+You Are, and Were, and Shall Always Be - you, whose root-feet extend to the burning deeps of Earth and whose head-crest brushes the star-littered sky.
+
+The Great Lights spin around you, you are tickled and teased by the wind, and Water anoints you sovereign over all you survey with a clean, white crown, but you make no motion, no acknowledgement of them; if you did, you would not be what you are, would not be worthy of their adoration.
+
+Life comes creeping gently, uncertainly in, and you watch it impassively as it spreads Green grow-children and Red-essenced agents near you and upon you, though few dare to tread your heights, where the Air is so pure that even Life fears its beautiful desolation.
+
+You look out upon the swiftly-shifting works of the Temporaries, and your only judgment is your unchanging continuation, the inescapable fact that they can never be you, never approach your perfect strength.
+
+There was a time before Life, and there will be a time after, and through it all, there you shall be, for you are the Foundation, the Measure, and the Axis.
+
+<color green>You are Earth. You are Earth. You are Earth.</color>
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: lucid_fire
+
+You literally explode into existence, and your first experience is a noble hunger; chomping, grasping with your yellow tongue, your orange teeth, you gobble the Air around you. It is not enough; you are beautiful and glorious, and you must grow greater.
+
+You devour what you are resting on, converting it to light and heat which glows against the darkness of Eternity; only ash is left behind, but you have already moved on to grander meals, and the blazing joypain it feels before the end is enough of a recompense to the thing consumed.
+
+There is more for you to eat, more to refine into pure light and heat. You are so great that you can look back upon the great trail of your Self, and hear the crackling laughter of all of the other parts of you as they eat and grow great. The Great Green, the World-Spine Mountains, all of it you cover with your blazing wings.
+
+Only the Great Blue defies you, but already you have moved beyond: rising ever more powerful, you seize Sun, Great Sun, in your sparking talons and sink your fangs into Him.
+
+He slowly moves down into your belly, where He burns brighter than ever before, and you, at the center of all things, have become the light, the warmth, that all worship and follow, whether they will or no.
+
+<color red>You are Fire. You are Fire. You are Fire.</color>
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: lucid_water
+
+You begin sitting on top of a mountain; your many white scales clothe it in a pure beauty. Then Sun rises, and in the face of His glory you cannot help but dance and quiver; you come apart, piece by piece, tiny fleck by tiny fleck, and begin to slide down the peaks.
+
+What started as a slow surrender to your twin lovers, Heat and Gravity, becomes a quicker and quicker dance, following the natural lines of Earth's wide and beautiful form as you tumble over yourself. The little trips and falls are your favorite parts of the journey, and you meet other rushing flows, becoming one with them and learning the hidden stories they carry as you approach the Meeting, where all shall be one.
+
+Earth finally falls away and you slip into the Great Oneness.
+
+For a long while, there is darkness, and you are not sure what you are. So many things are passing through you, taking you into themselves and then releasing you; you are moving, and yet you are enduring and still; you are one, and yet tiny pieces are forever being added and taken away from you.
+
+But always, there is a love, a support of all life without judgment, a love of the lowest places and secrets kept at the bottom of the darkest ravines of the night-deep which have never known light, and never will until the world ends.
+
+You are the Flow, the Catalyst, the Connector, ever humble and yet ruling over all by your very nature.
+
+<color blue>You are Water. You are Water. You are Water.</color>
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================

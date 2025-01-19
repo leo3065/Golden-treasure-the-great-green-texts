@@ -1,0 +1,3801 @@
+Event: d1
+
+You have come dangerously close to the dreaded hive of the No-Tails. Few goodbeasts dwell here besides the races the Tailless have enslaved, or those too small for them to notice.
+
+Hollow structures built from the remains of murdered Trees stand here and there, most stinking of the Tailless' oily Other-smell.
+
+One of these edifices, however, is almost devoid of the No-Tails' scent. Instead, the air here is redolent with the sweet smell of rot, of Earth slowly reclaiming things left behind.
+
+Cautiously entering the dilapidated Den, you discover that it is home to an enclave of lesser Slideclaws.
+
+They laze about on bundles of dead, rotting Grass, many of them asleep, though a few are awake and washing themselves, combing their fur with their rough tongues.
+
+/MasteryDisplay
+
+A sable-furred, golden-eyed Slideclaw Birther, heavy with young, seems to preside over this half-conscious gathering. When you prod at her Mind with your Song, she responds, her reply full of slow loops and curls.
+
+<cat_queen>A Draak kitten. How amusing,</cat_queen> she drawls, her tail tracing languid symbols in the Air. <cat_queen>This is a Dream-Den of the Slideclaw People. Leave this place, before the No-Tails follow you here and disturb our dreams with your loud and tedious Destruction.
+
+What will you do?
+
+------------------------------
+> Breathe on the dead Grass to teach these insolent furbeasts a lesson.
+  Go to: d1a
+> Ask the Slideclaw queen a question.
+  Go to: d1c, d1b
+> Leave the recalcitrant beasts for now... you can always return later.
+  Go to: DayTransition
+
+==============================
+Event: d10
+
+You are exploring the warmward part of the valley, staying near to the stream (this Sun is particularly bold) when you hear a prolonged splashing sound.
+
+It is too irregular to be water running over rocks and too long-lasting to be a predator struggling with prey, and as you approach, the oily, Otherish stench of the Tailless fills the air.
+
+These are smaller than the No-Tails which you saw before, their scents cleaner and newer but still disturbing. They may be hatchlings of their kind.
+
+Two are play-fighting as young furbeasts sometimes do, honing their battle skills, while two more watch, emitting a whooping, barking song. A fifth sits alone on the bank, doing something strange with its forepaw.
+
+What do you do?
+
+------------------------------
+> Attempt to communicate.
+  Go to: d10a
+> Ambush them.
+  Go to: d10b
+> Simply observe.
+  Go to: d10c
+> Withdraw quickly to safety.
+  Go to: d10d
+
+==============================
+Event: d10a
+
+With which one of their Minds do you wish to connect and Sing?
+
+------------------------------
+> One of the play-fighting ones.
+  Go to: d10aa
+> One of the ones observing the play-fight.
+  Go to: d10ab
+> The one alone on the bank nearest you.
+  Go to: d10ac
+
+==============================
+Event: d10aa
+
+The Minds of the play-fighting ones are very focused on each other and whirling with strong emotions. When you finally do manage to project a simple image into one's Mind, it does nothing but briefly distract it, which the other uses to make it fall and lose.
+
+The others make chattering ha-ha-ha sounds at it, and it begins to lash out in rage at its fellows.
+
+Soon the play-fighting has become earnest fighting, and two of them are beating the very red Essence out of each other's muzzles. Dangerous-looking adults soon arrive to interfere, and you use the distraction to remove yourself from the area.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10ab
+
+The attempt to sing into the hatchling's Mind is difficult - its thoughts and even its emotions are all tinged with a strangeness which makes it a difficult plane for you to inscribe images upon - and when it finally realizes it is being sung to, it begins waving its forepaws at its fellows and chattering agitatedly while attempting to shut you out of its Mind.
+
+Soon, it has enlisted its fellows in a search for you... apparently, it could feel what direction your Mind-song was coming from... and the five hatchlings are swiftly closing in on your location.
+
+Five at once is obviously too many, especially not knowing what strange powers these Others may have, and you make a hasty escape.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10ac
+
+Singing into its Mind is harder than you expected... the sheer oddity of its thoughts and emotions make it like trying to smell a stone underwater. Eventually, however, you feel some kind of connection, and paint a universal sigil for it to receive.
+
+Slowly, the hatchling looks up, and then directly at you - it seems to be able to sense where you are from the communication. You expect it to panic or cry for help, but to your surprise, it does not, instead forming a strange sigil of its own inside the connection. You smell a little fear, but it still seems in control of itself.
+
+After some trial and error, you trade a few ideas. It does not seem to be able to communicate fluidly like a Draak, or even a regular Goodbeast, failing to intuit the meaning of many of your sigils, which you believed were written upon every Mind.
+
+When it does respond, what it does communicate is lavish - it shows you a sunrise so rife with detail that you can almost see it yourself and a lightning-storm witnessed from inside a small cave.
+
+Most oddly, at one point, it shows you what looks like No-Tails harming each other, an image of particular importance in its Mind, but you do not understand its significance.
+
+Maintaining the communication is deeply tiring for you... the No-Tail Mind is full of sharp needles of hardened information and quagmires of half-dealt-with fears.
+
+Eventually, several adults come to collect the hatchlings, and you were so distracted by the communication that you have now been surrounded.
+
+Just when you are to be discovered, though, the hatchling with whom you communicated barks at the adult about to stumble upon you, distracting it and leading it away. The hatchling has also left some shiny rocks it wore around its neck behind.
+
+Soon, the No-Tails are gone and you are safe. This day seems to have bred more questions than answers... why did the No-Tail hatchling lead the adults away from you? It must have known you were dangerous, and would only become more so in time. The Mind you saw during your communication was deeply Other, and very difficult for you to connect with, and yet there was a glimmer of something beneath the overcomplicated morass.
+
+Something like a bright stone hidden in a dark treetop at night, or a single lump of gold in the midst of a swamp. Like something good, something valuable, hidden in the most unlikely of places.
+
+Perhaps the lone Tailless was simply unlike others of its kind, or perhaps a long, long journey of understanding was begun this Sun. Time will tell.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10b
+
+The lone one is clearly the most vulnerable, and you leap upon it, jaws wide, from cover while the four in midstream are particularly distracted. You close your teeth upon its slick, scaleless hide, viciously tearing at it with your claws.
+
+The hatchling makes squealing sounds, but by the time its fellows notice, the sand is already red with its Essence. You think for a moment that they may try to fight you or launch things at you with their No-Tail magic, but instead, they panic and flee.
+
+By the time they return with adults, you have torn the lone hatchling's life from its Body and consumed much of its flesh, taking it into yourself. It is a large and oddly satisfying meal... in fact, its oily flavor was downright delicious.
+
+You leave what is left behind as the others approach, but you have a full belly and feel strangely joyful. There seems to be a kind of deep satisfaction to be had in the Destruction of these bizarre invaders of your ancestral lands. The hatchling also wore a string of shiny stones around its neck, which you keep as a souvenir.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10c
+
+The Tailless hatchlings are more bizarre than you imagined. The four in midstream take turns battling each other... it seems that whoever makes the other one fall is the victor. Up on just two thin legs, it is a wonder they are not constantly falling anyway.
+
+They continue to make sounds, some of which are picked up and repeated by others. The particular sound of one of their squeals or whines can cause very specific reactions in others, and you would guess that they are somehow communicating with a complex code of sounds. They seem to hate cool, clear Silence, constantly communicating when there is no clear need for it.
+
+Even after a good while, they do not seem to smell you nearby... are they nose-blind?
+
+The one not participating in the fighting seems to be creating a very complex pattern in the sand with its foreclaw, accenting it with small stones.
+
+You try for a long time to discern what purpose this might have, but in the end are forced to give up... the sand-pattern doesn't seem to be doing anything at all, nor would such things have any application in natural life which you could imagine. Perhaps this one has a damaged Mind.
+
+You are just beginning to learn a few of their basic gestures and sounds when a group of adults arrive from downwind, avoiding your senses until it is too late; you are now surrounded.
+
+The hatchlings chatter at the adults, who seem to want them to stop play-fighting and follow them, but the hatchlings are daring to disobey, seemingly purely for the sake of fun, behavior which would be suicidal in any other species. A few are wandering close to where you are hiding.
+
+What do you do?
+
+------------------------------
+> Stay perfectly still.
+  Go to: d10cas, d10caf
+> Break from cover and run, relying on speed.
+  Go to: d10cbs, d10cbf
+> Use your fiery breath to create a diversion.
+  Go to: d10ccs, d10ccf
+
+==============================
+Event: d10caf
+
+You attempt to remain still, but your Mind is whirling with fear and trepidation. When the wind blows your scent in their direction, you panic, certain that you will be scented, and break from cover.
+
+The No-Tails somehow launch small stones at high velocity from their forepaws at you, but you barely feel the pain as you flee in terror.
+
+The injuries were not too terrible, but now they know that you were here. You take pains to make it difficult for them to track you back to your den, but you cannot be sure that your blunder will not have consequences. You are, however, now aware of why you failed, and will be better at such things in the future.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10cas
+
+You quiet both your Body and your Mind and become like a stone.
+
+At one point, the wind blows your scent right to the Tailless, and you fear discovery, but somehow, they sense nothing - they must truly have no sense of smell, or almost none.
+
+Though a few of them come near you, your total lack of motion and the shade of the bush you are hiding in do nothing to betray your presence, and the No-tail hatchlings eventually accompany the adults away, stumbling back towards their Hive on their stiltlike legs.
+
+You have learned more about the No-Tails, and lived to perhaps one day put that knowledge to use.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10cbf
+
+You burst out of the foliage, trailing tiny leaves behind you as you make for the safety of the woods. Unfortunately, you are not quite fast enough to avoid catching a few projectiles which they somehow launch from their forepaws.
+
+The injuries were not too terrible, but now they know that you were here. You take pains to make it difficult for them to track you back to your Den, but you cannot be sure that your blunder will not have consequences.
+
+In the future, you will be a little bit faster, having learned from your failure.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10cbs
+
+You burst out of the foliage, trailing tiny leaves behind you as you make for the safety of the woods.
+
+So swift and sudden is your dash that the No-Tails have no time to attack you, although they bark and growl to each other loudly, pointing their foreclaws at you.
+
+You are safely away before long, and take pains to make it difficult for them to track you back to your Den, but you cannot be sure that this will not have consequences.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10ccf
+
+You belch up the fireseed from your belly and breathe it out onto a nearby shrub.
+
+Your breath, however, is not fierce enough to make the rain-watered plants catch fire. It is, however, bright enough to catch the No-Tails' attention, and soon you are running away as fast as you can as the Tailless somehow launch projectiles at you from their forepaws.
+
+The injuries were not too terrible, but now they know that you were here. You take pains to make it difficult for them to track you back to your den, but you cannot be sure that your blunder will not have consequences.
+
+You will, however, be better at focusing your fire-breath in the future.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10ccs
+
+You belch up the fireseed from your belly and breathe it out onto a nearby shrub. So fierce is your breath that the plants catch fire, and soon the No-Tails are rushing to try to put the fire out, preventing them from counterattacking as you make your escape.
+
+You are safely away before long, and do not believe that you were seen. Still, you take a long route back to your Den, in case you are being followed.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d10d
+
+It is known that the No-Tails have ways of attacking without even being near you, and where hatchlings are, adults may be near.
+
+Prudently, you remove yourself, continuing on.
+
+Soon after you leave, fully-grown No-Tails wearing hardened skins and brandishing long wooden talons arrive to retrieve their hatchlings, and you reflect on the wisdom you showed in not getting involved with the bizarre things.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11
+
+What will you do?
+
+------------------------------
+> Attack the No-Tail and seize possession of the strange object.
+  Go to: d11a
+> Set fire to the hillside to distract the No-Tails.
+  Go to: d11bs, d11bf
+> Sing to the slave-beast the No-Tails have restrained nearby.
+  (Hidden: If only you had more Water or Earth knowledge...)
+  Go to: d11c
+> Silently leave.
+  Go to: d11d
+
+==============================
+Event: d11a
+
+As soon as you reveal yourself, you are spotted by one of the Tailless workers, and they begin singing shrilly and launching hard things at you with their forepaws. A No-Tail carrying a fang on the end of a stick and protected by shinestone-studded coverings intercepts you, clearly meaning to Destroy you.
+
+Engage in the Dance of Destruction with a Warrior No-Tail?
+
+------------------------------
+> Yes.
+  Go to: d11aabegin
+> No.
+  Go to: d11ab
+
+==============================
+Event: d11aabegin
+
+As you begin the Dance of Destruction, the other No-tails close in around you. Escape will be impossible - it will be victory or death!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d11aaends
+
+Incredibly, you manage to Silence the Warrior No-Tail, ending its fell existence. The others break away in fear, throwing anything they can at you as they scramble, stumbling on their two legs as quickly as they can.
+
+The leader drops the strange object and flees as well, leaving you to take the treasure.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11ab
+
+No-Tails such as this one destroyed a grown Kin on your first day of life. You are not stupid enough to take one on while still so small and inexperienced, and flee, living to see another Sun.
+
+The Tailless are now more aware of your presence, however. From this, you learn to be more patient and not attack the treacherous and incomprehensible No-Tails so rashly.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11base
+
+The No-Tails are Destroying a hill. Like ants, they are carrying its vast corpse away one piece at a time to their Hive, perhaps to be eaten, though you know of no other animal which eats the very flesh of the Great Mother.
+
+Most interestingly, they have unearthed something very strange in the process.
+
+It seems to be some sort of large claw or fang, but its Essence is entirely alien - simply being near it makes your teeth rattle and your bones quake within you.
+
+The No-Tails have summoned an authority among their kind to determine how to proceed.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d11
+
+==============================
+Event: d11bf
+
+Alas, the Flame Within is not yet powerful enough to create a true conflagration, and simply makes some smoking, withered vegetation.
+
+This is not enough to fully distract them into leaving the artifact unguarded, but it does alert them to your presence, and you are forced to flee, as there are too many of them to fight.
+
+You did, however, get some practice at focusing your flames, and will be better at it in the future.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11bs
+
+Your powerful flaming breath soon sets the back of the gutted hillside alight, and the No-Tails scramble to investigate.
+
+The Tailless leader drops the strange object on the ground, but the Warrior is still standing near it, only half-distracted.
+
+What do you do now?
+
+------------------------------
+> Snatch it away, quickly, and run!
+  Go to: d11bsas, d11bsabegin
+> Try to steal the object without being noticed.
+  Go to: d11waters, d11waterf
+> Use the Great Grazer to create a further distraction.
+  Go to: d11bsb
+> You know that you are not quick enough... leave while you still can.
+  Go to: d11bsc
+
+==============================
+Event: d11bsabegin
+
+You move swiftly, but the Warrior notices you coming. He shouts a warning to the others, but they cannot hear over the fire, and so he engages in the Dance of Destruction with you alone.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d11bsaend
+
+You have managed to Silence the Warrior and take the Artifact for yourself. As you escape with it, you are spotted by some of the No-Tails, but they are either too slow or too afraid to stop you.
+
+The treasure is yours, though you have surely angered the Tailless this Sun.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11bsas
+
+Moving with the speed and grace of a Woodstrider, you sprint forward, snatch up the Artifact in your jaws, and run. By the time the Warrior notices you, you are too far away to catch, and the prize is yours.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11bsb
+
+You fill the Great Grazer slave's Mind with image after image of luscious grass.
+
+Unable to resist the temptation, it begins to move away, carrying the pull-vehicle along with it. The Tailless Warrior yelps and runs after it, leaving the Treasure unguarded.
+
+You snatch the strange thing up and are gone without even having been seen. Today, you have robbed the No-Tails of a valuable prize.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11bsc
+
+Knowing your limits, you surmise that an attempt for the artifact will end in tragedy for you, and withdraw. At least the No-Tails were not aware of your presence. You resolve to become quicker.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11c
+
+The Great Grazer placidly waiting nearby has a simple Mind, but with patience, you manage to get it to trade thoughts with you.
+
+It informs you that the No-Tails do not, in fact, eat the Great Mother's flesh which they pull from the hill, but fashion various things out of it whose purpose the Grazer does not know.
+
+It does, however, remember feeling this teeth-rattling Essence before, when it accompanied its masters to meet what it calls the <color #f9d7f7>Diggers.</color> They seem to be some kind of Other being, Tailless and yet not quite the same as the Tailless you know, who live far away from Sun and fashion great things out of shinestone and jewels.
+
+Whatever this thing is that they've found, it may have been lost by the "Diggers", and may be something of importance to them.
+
+At that point, the Great Grazer's thoughts and opinions begin to have more and more to do with Grass... it must be getting hungry... and you stop communicating with it after a few questions in a row are answered with nothing more than <ox_boi>GRASS... YUMMY GRASS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d11cpost
+
+==============================
+Event: d11cpost
+
+What will you do?
+
+------------------------------
+> Attack the No-Tail and seize possession of the strange object.
+  Go to: d11a
+> Set fire to the hillside to distract the No-Tails.
+  Go to: d11bs, d11bf
+> Silently leave.
+  Go to: d11d
+
+==============================
+Event: d11d
+
+The vibrations which shake you to your Core emanating from the thing they have found cannot possibly be anything good. Any action you take will expose you to the inscrutable and Law-defying wrath of the Tailless.
+
+You do not allow curiosity to get the better of you - you leave while still undiscovered, and suffer no harm that day.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11waterf
+
+You flatten yourself to the ground and slowly creep closer. You make certain to approach from downwind, and make almost no sound.
+
+Unfortunately, it turns out that the Tailless have excellent vision. They see you clearly, even when fairly far away, and soon they are launching various hard things at you. Most now ignore the Fire, focusing instead on your Destruction.
+
+You have no choice but to retreat, sporting a few new scars for your trouble. The eyes of the Tailless are not as poor as they seem...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d11waters
+
+Keeping to the green parts of the hill for camouflage, you move from cover to cover until you are only two Body-lengths away from the artifact. You curl up, coiling your spine like a spring, waiting for the perfect moment.
+
+When the Warrior turns its head at a barked call from another Tailless, you silently grasp the artifact and carry it away, unseen by any of the bipedal menaces.
+
+You hear their vocalizations turn loud and agitated as you leave the area with your newest Treasure safely in your jaws.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d12
+
+You have come to a sacred place.
+
+Any goodbeast could sense it; a verdant gateway, redolent with laurel, mint and sweet decay. A being more powerful than even the Kin has claimed this place, and what lies beyond.
+
+This is the entrance to the <color #1ff461><bold>Great Green.</color></bold>
+
+The <bold>Great Green:</bold> the forest primeval where your People have hunted since the first Kin emerged from its Chamber. It is infinite in its beauty and its danger, changing as the Turnings pass.
+
+Though its denizens of long ago are mostly gone, the <bold><color #1ff461>Spirit of the Great Green</color> </bold>remains, forever in its perfect state of constant transformation.
+
+This is the end of Heartbone Valley, where great Darktooth lays claim to the land and the No-Tails build their inscrutable objects. No Tailless has sullied this place beyond with its Otherish presence.
+
+Once you cross this threshhold and take it for your own, it shall be your true home, your domain, and you may never return to Heartbone Valley unless it be by Darktooth's permission, or to challenge him, a feat of which you will surely be incapable for centuries.
+
+The Trees sway gently, and in them you can almost see hidden shapes, visions of what may be, how you might build your life in the wild. Has the time come at last?
+
+Will you gather up your treasures and leave Heartbone Valley behind to begin the next verse in the Song of your Life?
+
+------------------------------
+> Yes, I am ready.
+  Go to: d12a, d12c
+> No, not yet.
+  Go to: d12esc
+
+==============================
+Event: d12a
+
+Deep in your Core, you sense that this is the boundary of your infancy. If you continue on, there will be no returning. Are you truly certain that it is time for you to leave Heartbone Valley, the place of your hatching, behind?
+
+------------------------------
+> I am.
+  Go to: d12b
+> I am not.
+  Go to: d12esc
+
+==============================
+Event: d12b
+
+You return to your den and swallow up your treasures. You know that they are mere trinkets compared to the wonders that await discovery in your true home-to-be, but they represent the trials, the precious failures and successes from which you first learned, and you will regurgitate them when you have found your Lair within the Great Green.
+
+Pausing, you take one last look at the tiny Den, already too small, which was your first home outside the Chamber.
+
+It will become a haven for other Goodbeasts, and you begrudge them not; you have made up your Mind, and this land is no longer your home.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d12c
+
+==============================
+Event: d12c
+
+As you return to the boundary and take a single step across, your feathers rise instinctively; the <bold><color #42af1d>Spirit of the Great Green</bold></color> is watching you, judging you...
+
+And it is not alone in doing so.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13
+
+==============================
+Event: d12esc
+
+Soon, surely, but not today. There are experiences still to be had, adventures still to be known in Heartbone Valley.
+
+You know, however, that you must leave soon; at that time, you will return here, and take a fateful step into the Great Green.
+
+------------------------------
+> /EndEvent
+  Go to: HeartboneValley_Map
+
+==============================
+Event: d13
+
+A coppery mass lunges at you from behind a nearby Tree; you narrowly avoid being hit by a raking talon.
+
+Your attacker is a true Kin, and a hatchling, as you are. From its scent, it is obviously fruit of the same Creator.
+
+One of its rear legs is warped, withered and inward-turned by some cruel trick of the Onesong. You decide to call this young Kin Twist.
+
+It draws itself into as much of the traditional posture of challenge as it can and hisses at you.
+
+<twist>Invader.</twist>
+
+<twist>Defiler.</twist>
+
+<twist>Turn Back. The Heart Of The Great Green Is Mine.</twist>
+
+<twist>I Alone Am Worthy To Inherit The Prey-Ripe Realm Of My Creator, The Land For Which It Suffered, For Which It Was Destroyed.</twist>
+
+<twist>My Justice Shall Descend Upon All Who Enter As Surely And Inexorably As The Fall Of Night.</twist>
+
+<twist>Begone, Or Feel My Wrath.</twist>
+
+Apparently, Twist has claimed the Great Green, and quite recently at that. It has not properly scent-marked the border, nor does its Essence yet creep through the soil or sing through the wind, as it does when the land recognizes a new monarch.
+
+What will you do?
+
+------------------------------
+> Ask about Twist and the territory it claims.
+  Go to: d13a
+> Inform Twist that you are its sibling and closest Kin.
+  Go to: d13b
+> Offer to exchange Treasure for the right to rule the Great Green.
+  Go to: d13c
+> Mock its deformity.
+  Go to: d13d
+> Express pity at its deformity.
+  Go to: d13e
+> Challenge Twist for its territory.
+  Go to: d13f
+> Leave the Great Green and search for another territory.
+  Go to: d13g
+
+==============================
+Event: d13a
+
+<twist>I Am The Flame-Of-The-Flame, The One Who Overcomes. Though Still In My Infancy, I Am Feared By Every Longear And Treetail In The Place Of My Beginning.</twist>
+
+<twist>My Greatness Is Such That The Onesong Has Seen Fit To Place A Challenge In My Flesh, A Recognition Of My Exceptional Nature. Had My Form Been Perfect, I Would Surely Claim All Earth For Myself.</twist>
+
+<twist>But For Now, The Heart Of The Great Green Will Suffice. The Veridian Air Is Redolent With Prey-Scent, And A Power Slumbers Here Nearly Equal To My Own.</twist>
+
+<twist>It Shall Serve Me Well. Begone, Or Be Crushed Beneath The Weight Of My Incipient Glory.</twist>
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13
+
+==============================
+Event: d13b
+
+<twist>Obviously. I Am Not Nose-Blind.</twist>
+
+<twist>We Are Indeed Kin-Within-Kin. But What Of That?</twist>
+
+<twist>Our Creator Scattered Many Small Life-Fires About, Many Chambers.</twist>
+
+<twist>Some Lay Fallow, The Seed Of Life Incomplete Within. I Found One Such And Consumed It.</twist>
+
+<twist>Others Escaped The Chamber, But Were Destroyed By Weakness Of Body, Or Mind, Or Essence. They Were Failures. So It Is With Many In This Deadly Yet Impartial Reality.</twist>
+
+<twist>But I Forged A Glowing Greed In My Core, A Blue-Hot Desire To Overcome, To Gather All To Myself.</twist>
+
+<twist>And I Endured, And So Have You, Kin Of My Kin. This Sun, We Shall Discover Which Of Us Shall Inherit The Territory For Which Our Mighty Creator Gave Its Life.</twist>
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13
+
+==============================
+Event: d13c
+
+<twist>Can It Be?</twist>
+
+<twist>Can It Be That In So Short A Time, A Hatchling Could Gather So Much Treasure As To Cause Another To Turn Away From Its Own Land, Even Newly-Claimed, To Possess It?</twist>
+
+You show Twist the Treasures you have found in Heartbone Valley.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13cs, d13cf
+
+==============================
+Event: d13cf
+
+<twist>You Insult Me With Such A Paltry Offering.</twist>
+
+<twist>Keep Your Meager Almost-Nothing. This Land Is Mine.</twist>
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13
+
+==============================
+Event: d13cs
+
+<twist>Such A Trove...!</twist>
+
+<twist>But Is It Worth This Land? Is It Worth A Home?</twist>
+
+<twist>And Yet... Such A Trove! It...</twist>
+
+<twist><bold>It Must Be Mine!</bold></twist>
+
+<twist><bold>I Challenge You For It!</bold></twist>
+
+Now that you are the challenged, you may set the rules and terms, as Tradition dictates. If you lose, you will cede all of your Treasure to Twist and leave the Great Green forever, but if you win, this land shall become yours.
+
+What kind of challenge will this be?
+
+------------------------------
+> A Body-Trial; let the Dance of Destruction begin.
+  Go to: d13csa
+> A Mind-Trial; let the riddle contest begin.
+  Go to: d13csb
+
+==============================
+Event: d13csa
+
+<twist>So Be It.
+
+<twist>All That Is Yours Shall Be Mine, Kin-Kin.
+
+<twist>Taste My Might.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d13csb
+
+With your Song, with your Mind, you weave facts into suggestive poetry. A proper riddle must be fair and answerable, but indirect enough to outwit the opponent.
+
+Twist manages to answer your opening riddle with great difficulty, and then asks one of its own. This will continue, you know, until one of you is unable to respond correctly.
+
+You seem to be gaining the upper hand. Twist is, unsurprisingly, nowhere near as clever or wise as great Darktooth.
+
+Finally, it poses this:
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13r
+
+==============================
+Event: d13d
+
+<twist>You Dare Mock Me?
+
+<twist>I, New-Risen Lord Of The Heart Of The Green?
+
+<twist>But No...
+
+<twist>You Are Merely Attempting To Trick Me Into Stupidity, Into Hasty Un-Mindedness.
+
+<twist>A Clever Ploy, But Unsuccessful.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13
+
+==============================
+Event: d13e
+
+You sing a gentle song, expressing your sympathy with Twist's deep misfortune.
+
+You bring up the question of whether it would be fair for a healthy and perfect Kin such as yourself to take away the land of one such as Twist, who can never be truly healthy and whole.
+
+Encouragingly, you praise Twist for surviving this long and hope that it will continue to do so, despite its obvious defect.
+
+As you sing, Twist's crest-feathers rise, and even its chest puffs outward. Its tail lashes back and forth in fury.
+
+<twist><bold><size 120>I.</bold>
+
+<twist><bold><size 120>Will.</bold>
+
+<twist><bold><size 120>Not.</bold>
+
+<twist><bold><size 120>Be.</bold>
+
+<twist><bold><size 120>Pitied!!!</bold>
+
+<twist><bold><size 120>You Think Me So Weak That I Need Your Mercy?!</bold>
+
+<twist><bold><size 120>Tearing My Sacred Pride To Shreds And Leaving Me Low And Dim And Smoldering...!</bold>
+
+<twist><bold><size 120>I Will Reduce You! Diminish You! You Shall Be Broken! Unmade!</bold>
+
+<twist><bold><size 120>Even The Least Goodbeast Shall Pity Your Smashed And Twisted Form, And Then You Shall Know True Agony!</bold>
+
+<twist><bold><size 120>You Shall Know!</bold>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d13f
+
+<twist>Let It Be So.
+
+<twist>I Will Show You The Strength Of Mind Which Has Overcome My Every Obstacle.
+
+<twist>There Can Be No Hatchling Among The Kin Who Is More Clever Than I.
+
+<twist>As Challenged, It Is My Right To Set The Terms. If You Can Answer Two Riddles, One After The Other, I Shall Withdraw Forever.
+
+<twist>Savor That Fantasy While You Can. You Will Not Be Victorious.
+
+<twist>Let The Mind-Challenge Begin!
+
+
+
+------------------------------
+> [Continue]
+  Go to: d13r
+
+==============================
+Event: d13fail
+
+------------------------------
+> [EventLoad]
+  Go to: death
+
+==============================
+Event: d13g
+
+You know of no other territory which is near and unguarded.
+
+Such is the way of the Kin; Earth's bounty may only be claimed by the strong in an ancient and righteous reality.
+
+It is such sharp truths and the overcoming of them which has forged the Kin through the eons into the perfect forms which they... which you... now wear.
+
+Furthermore, both Darktooth, wise elder of the Kin, and your own soul, your deepest-self, have declared that it is your destiny to rule this setward Green.
+
+You can no longer stay in Heartbone Valley, and without a land from which to harvest bright flesh and gleaming Treasure, you will almost certainly perish.
+
+This is your choice: fight for what must be yours in the Way of your People... a good and just Way which builds strength and ensures that the Kin, Lords of Earth, are worthy of their domains...
+
+Or give up your destiny and be Destroyed, knowing that you were unable to face the grim Truths of this world and of the Way of your People.
+
+Do you truly wish to abandon the Great Green and the adventure of this Life for the sake of Fear or Pity?
+
+------------------------------
+> Yes. I will not stand against my own sibling.
+  Go to: d13fail
+> No. I will do what I must to survive.
+  Go to: d13
+
+==============================
+Event: d13r
+
+------------------------------
+> [EventLoad]
+  Go to: d13s, d13fail, , , , , , d13r{RANDOM_TEMP_D13_RIDDLE_LIST}
+
+==============================
+Event: d13r1
+
+<twist><italic>Give Me Food And I Shall Thrive;</italic>
+<italic>Give Me Water And I Shall Die.</italic>
+<italic>What Am I?</italic></twist>
+
+------------------------------
+> <input : D13_ANSWER>
+  Go to: d13r, d13r
+
+==============================
+Event: d13r2
+
+<twist><italic>Times Unnumbered Have You Taken Me In</italic>
+<italic>And Just As Often, Given Me Back,</italic>
+<italic>Only To Take Me In Again The Very Next Moment.</italic>
+<italic>What Am I?</italic></twist>
+
+------------------------------
+> <input : D13_ANSWER>
+  Go to: d13r, d13r
+
+==============================
+Event: d13r3
+
+<twist><italic>Sun And Moon May Rest Upon Me,</italic>
+<italic>Yet I Am Not Burdened At All.</italic>
+<italic>I Have No Face, But When I Dance, I Sing.</italic>
+<italic>Though I Am Not Your Home,</italic>
+<italic>Still You May Dwell In Me For A Time,</italic>
+<italic>But Stay Not Too Long, Not Too Long!</italic>
+<italic>What Am I?</italic></twist>
+
+------------------------------
+> <input : D13_ANSWER>
+  Go to: d13r, d13r
+
+==============================
+Event: d13r4
+
+<twist><italic>My Fur And Feathers Are Green,</italic>
+<italic>Though My Essence Flows Not Red.</italic>
+<italic>Your Beginning Was Within Me,</italic>
+<italic>And So Shall Be Your End.</italic>
+<italic>What Am I?</italic></twist>
+
+------------------------------
+> <input : D13_ANSWER>
+  Go to: d13r, d13r
+
+==============================
+Event: d13s
+
+You are victorious.
+
+Your superiority proven, Twist is forced to slither away in search of a new home. With so little land unclaimed in this world and weighed down by both youth and deformity, its chances are slim.
+
+But such is the Way, the Good Way of the Draak-Kin. The strong survive, and the weak perish.
+
+Nothing now stands in your way. It is time to cross the threshold.
+
+With Essence ablaze, you enter this realm, this place of magic, this setting for the grand adventure which will be your life.
+
+The Great Green shall belong to you, and you shall belong to it; so it is Sung by the Music in your heart.
+
+------------------------------
+> /EndEvent
+  Go to: g001
+
+==============================
+Event: d1a
+
+Bobbing your head, you belch the fireseed up from your Core and breathe it out on the yellowed Grass-corpses.
+
+The Slideclaws are suddenly attentive and wide-eyed, quickly escaping through various narrow exits.
+
+The queen, her tail lashing back and forth in annoyance, looks down at you coldly as the flames grow. <cat_queen>We are NOT amused,</cat_queen> she sings, and leaps away to safety.
+
+The dead trees of which this place is composed have now caught the flame, and over the crackles and the building roar, you feel the one-two stomp of approaching No-Tails in the ground... many of them. You make your escape before they arrive, satisfied that you have proven your superiority to the arrogant Slideclaws.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d1b
+
+Your attempts at further communication are met with disdainful yawns and tail-flicks.
+
+<cat_queen>We find little amusement in trading thoughts with a Draak, much less a mere kitten of their fading kind. If you desire the immense privilege of conversation with the Slideclaws, the Perfect People, then you must bring us a token of your esteem.
+
+------------------------------
+> Breathe your fiery breath on the grasses upon which these arrogant furbeasts lie.
+  Go to: d1a
+> Inquire as to what kind of gift would please them most.
+  Go to: d1bb
+> Leave the recalcitrant beasts for now... you can always return later.
+  Go to: DayTransition
+
+==============================
+Event: d1bb
+
+There is a long silence - you are unsure about whether the dark Birther is thinking or simply making you wait.
+
+Just as you are starting to become certain that it is the latter, she replies, her Mind-song shapely and unhurried:
+
+<cat_queen>The Sacred Joy-Plant - an offering of this may make you worthy of our attention. You can smell it on that one's breath.</cat_queen>
+
+A clearly inebriated Slideclaw Giver rolling about on the dead grass and making a rumbling sound deep within its Body does indeed reek of a strange herbal scent.
+
+<cat_queen>Or perhaps an offering of flesh? Bring us the Quiet Body of one of the Suncallers whom the No-Tails keep as slaves to announce the dawn. We have smelled their flesh as it is roasted by the Tailless - it is savory-sweet.
+
+------------------------------
+> Search for the so-called Sacred Plant... it will take a few Suns, but is safer.
+  Go to: DayTransition
+> Creep into one of the Suncaller lairs, near the No-Tail hive, and Destroy one of them.
+  Go to: HuntingBaseCombat
+> Leave the recalcitrant beasts for now... you can always return later.
+  Go to: DayTransition
+
+==============================
+Event: d1bba
+
+It takes the better part of two Suns to do it, but you find a small patch of the Sacred Joy-Plant of the Slideclaws growing in the Green setwards from the great River.
+
+Its scent is unique, though it doesn't send you out of your Mind, as it seems to do to the Slideclaws.
+
+When you return with it, the presiding Slideclaw asks you to give it over.
+
+------------------------------
+> Follow her command.
+  Go to: d1bbaa
+> Refuse to hand it over until she grants you what you seek.
+  Go to: d1bbab
+
+==============================
+Event: d1bbaa
+
+The Slideclaw leader nibbles it, rolls in it, and inhales its scent deeply.
+
+It is unclear why, but her Essence seems to burn brighter, though her Mind is clearly affected. Her song begins to devolve into semi-random images, punctuated by giggling squiggles and memories of past Dances painted in sun-bright colors.
+
+You attempt to hold the Slideclaw to her bargain and begin a conversation, but it soon becomes clear that she is in no state to reply, nor will others of her kind deign to communicate with you.
+
+------------------------------
+> Enough is enough... show them why the Draak are feared by all and Destroy their den.
+  Go to: d1a
+> Leave and return the following Sun.
+  Go to: DayTransition
+
+==============================
+Event: d1bbaaa
+
+One Sun later, you find the Slideclaw queen has regained her Mind.
+
+<cat_queen>The Draak kitten has brought us amusement,</cat_queen> she allows condescendingly. <cat_queen>We shall deign to instruct it, for a short time.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1bbab
+
+You drop the Joy-Plant from your mouth onto the ground and proceed to lie on it, sending a clear message. The Slideclaw yawns, stretches, and sits up.
+
+<cat_queen>Young, but no fool, we see. Sing, and we shall reply.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1bbb
+
+Destroying the Suncaller was not too challenging, but you had to quickly retreat with its Body in your maw... the No-Tails seem to have been alerted by the noise. They may now search for you more actively.
+
+The Slideclaws descend upon the lifeless Body when you present it to them. They toy with it, tear off its feathers and play with them, and consume the flesh of its breast unhurriedly. When they can glean no more amusement nor nutrition from it, the Birther-leader turns her attention back to you. <cat_queen>Sing, and we shall reply.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1c
+
+What shall you ask the Slideclaws?
+
+------------------------------
+> Ask after the Slideclaw People - who are they?
+  Go to: d1ca
+> Ask them to sing of the No-Tails. Is it true that the Slideclaws have become their slaves?
+  Go to: d1cb
+> Ask about this place, their Dream-Den.
+  Go to: d1cc
+> Ask if they will teach you how to enter the Dreaming.
+  Go to: d1cd
+
+==============================
+Event: d1ca
+
+<cat_queen>We are the Perfect People, those who are so lithe and swift that Destroying other beings is for us not a duty, but a pleasure.
+
+<cat_queen>All smaller beings were created for our amusement, and we delight in playing with their inferior Bodies before finally granting them Destruction.
+
+<cat_queen>The Night itself is our territory, and we acknowledge no boundary.
+
+<cat_queen>We proudly sing out during our Dances of Creation, safe in the knowledge that few indeed would dare attack us. This world holds so little challenge for us that we must walk in the Dreaming to find new amusements and tests of our cleverness and wit.
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1cb
+
+The Birther is disgusted by the very idea.
+
+<cat_queen>The Perfect People, slaves of the Tailless? The Draak are more slow-witted than we believed. Ours is the perfect deception... they think themselves our masters, but it is we who have mastered them.
+
+<cat_queen>They stroke our Bodies, trailing long fingers down our spine and bringing pleasure; their produce attracts small furbeasts for us to Destroy at our leisure; they provide soft places for us to lie and enter the Dreaming, safe from all foes.
+
+<cat_queen>They are our armor, keeping even the Draak away, and letting us live in blessed sloth and lazy plenty. In exchange, we give nothing but the privilege of our presence.
+
+<cat_queen>Though ten thousand Turnings pass, the Tailless will never make slaves of us, for we fear no strife, and will never trade our freedom for security, as the stonefooted ones and the barking, drooling lackey-beasts whom we refuse to name have done.
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1cc
+
+<cat_queen>In these places, the Perfect People gather to share tales of what has transpired in the Dreaming, the land hidden within the darkness of sleep.
+
+<cat_queen>Every kitten is taught the fine art of entering the Dreaming with Mind awake - instead of being carried on the tides of sleep, we take control of our dreams, forging bright paths and hunting never-born prey, drinking in sights, sounds and smells which never were in this world and never shall be, engaging in Dances of Creation with mates of indescribable beauty, and these are but the least of the wonders of the worlds within our Minds.
+
+<cat_queen>Such amusement!
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: d1c
+
+==============================
+Event: d1cd
+
+The Slideclaw queen thumps her tail against her throne of dead Grass mirthfully.
+
+<cat_queen>It amuses us greatly that one of the mighty Kin would ask a Lesser Slideclaw for instruction! Often have we heard of the scaled and feathered pride of your People.
+
+<cat_queen>It would give us immense pleasure to have a Draak bow down before us, and beg for our help. Do so, and we shall instruct you.
+
+A few of the Slideclaws tense their bodies subtly, flicking an ear or glancing at possible exits, as though concerned that their leader has perhaps gone too far in demanding the direct submission of a True Kin to another Goodbeast.
+
+------------------------------
+> Refuse, and leave.
+  Go to: d1cda
+> This has gone too far - teach her a fiery lesson of your own.
+  Go to: d1cdb
+> Bow down before the furbeast and humbly beg for her to teach you.
+  Go to: d1cdc
+
+==============================
+Event: d1cda
+
+Your sense of self might never recover from bowing down before a small furbeast and begging it to teach you its ways. If any other Draak heard of it, the shame would follow you throughout your life, and you may never be chosen for the Dance of Creation.
+
+You remove yourself from the insufferable creature with your sacred Pride intact.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d1cdb
+
+An ancient rage boils within you as you hear the impertinent furbeast demand that you bow down to her. Your people have been the greatest of the Children of Heaven and Earth since long before her kind even knew life. She is now openly mocking everything you are.
+
+Bobbing your head, you belch the fireseed up from your Core and breathe it out on the yellowed Grass-corpses. The Slideclaws are suddenly attentive and wide-eyed, quickly escaping through various narrow exits.
+
+The queen, her tail lashing back and forth in annoyance, looks down at you coldly as the flames grow.
+
+<cat_queen>We are NOT amused,</cat_queen> she sings, and leaps away to safety.
+
+The dead trees of which this place is composed have now caught the flame, and over the crackles and the building roar, you feel the one-two stomp of approaching No-Tails in the ground... many of them.
+
+You make your escape before they arrive, satisfied that you have proven your superiority to the arrogant Slideclaws.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d1cdc
+
+The other Slideclaws are nothing short of shocked by this display, but their leader accepts your self-abasement with relish.
+
+<cat_queen>Delicious!</cat_queen> she yawns, stretching her kitten-swollen frame long on her throne. <cat_queen>Forever shall the Slideclaws sing of the day a mighty Draak humbled itself before us, and acknowledged the greatness of the Perfect People! Listen, and I shall teach...
+
+The queen gives you complete and precise instruction. To enter the Dreaming, the Body must sleep with the Mind still awake. The training for this requires certain exercises to develop one's own consciousness and sense of awareness, so that one becomes aware that one is dreaming, and not merely a pawn caught up in the flow of the visions.
+
+When one can consistently know dream from reality in every moment, even sleeping, and when the realization does not cause awakening (and she teaches you a technique to prevent that) then the dream will fall under one's own control. Using this method, fantastic visions may come.
+
+At last, you feel as though you have absorbed every detail, and are now ready to attempt it on your own; by spending a day sleeping in your Lair, you can now bathe yourself in lavish experiences which may inspire you to temporary power.
+
+As you withdraw, you hear one of the Slideclaws ask the leader whether it was wise to share such a secret with a Draak. <cat_queen>For the price this one has paid, the exchange was meager,</cat_queen> she replies smugly.
+
+<cat_queen>This day, a Draak has given over its very Pride to the Slideclaws.
+
+------------------------------
+> Set fire to their Dreaming-Den.
+  Go to: d1cdca
+> Go in peace.
+  Go to: d1cdcb
+
+==============================
+Event: d1cdca
+
+Almost casually, as you go, you belch the fireseed up from your Core and breathe it out on the yellowed Grass-corpses.
+
+The Slideclaws are suddenly fearful and wide-eyed, quickly escaping through various narrow exits. The queen, her tail lashing back and forth in annoyance, looks down at you coldly as the flames grow.
+
+<cat_queen>We are NOT amused,</cat_queen> she sings, and leaps away to safety.
+
+The dead trees of which this place is composed have now caught the flame, and over the crackles and the building roar, you feel the one-two stomp of approaching No-Tails in the ground... many of them.
+
+You make your escape before they arrive, satisfied that you have proven your superiority to the arrogant Slideclaws.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d1cdcb
+
+You do not let their boasting perturb you; they have given up something of worth for a moment of motion and an empty declaration of submission. Let them mewl as they wish; all of them shall be long gone to the Silence before you even mature.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2
+
+Crawling outside your den in the cool of the evening to relieve yourself, you bear witness to a thousand diminutive miracles.
+
+They are a kind of Tiny Being, one of the many little armored tribes who live in the undergrowth beneath the notice of mightier Beasts such as yourself, but these are special.
+
+They light up the closing dusk with a beautiful light beaming from their very bodies. Their spirits burn with such fervor that you can see their glowing souls even with your eyes.
+
+Holding themselves in midair as steadily as they can, each beams forth its own radiance in a verdant symphony. Alone, each is a wonder, but together, their Grand Dance of Light sings forth a great Music, just on the edge of perception:
+
+<fireflies>We are the Light which shines in the darkness:
+We are the Moon, and Sun, and Stars.
+
+<fireflies>We have found the Light within us
+And share it with all, without shame, without thought.
+
+<fireflies>We are the First Guides of those who are lost:
+Seek the Light Within You,
+The Hidden Sun, and follow, follow.
+
+<fireflies>Dance, Shine, to drive back the Darkness,
+Follow the Light which shall bring the Dawn.
+
+<fireflies>We are the messengers of the Great Above
+Come to remind you of your True Self:
+
+<fireflies>You are the Light, a Spark passed on by those who came before,
+That Nothingness should be made a lie,
+
+<fireflies>That the Truth be forever translated
+Into new and wondrous languages of flesh.
+
+One of the living flames drifts near you, blinking questioningly.
+
+How do you react?
+
+------------------------------
+> Ignore it.
+  Go to: d2a
+> Consume it.
+  Go to: d2b
+> Add your light to theirs with a puff of flame.
+  Go to: d2c
+> Capture several of their kind and bring them back to your lair.
+  Go to: d2d
+> Sing a promise to seek the hidden light.
+  Go to: d2e
+> Simply stay and enjoy their Music.
+  Go to: d2f
+
+==============================
+Event: d2a
+
+These tiny things seem to imagine themselves wise, but their sun-drenched dogma does not resonate with your spirit.
+
+You turn away, determined to find your own truths, and not to take them from others.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2b
+
+You easily snap up the tiny thing, but quickly come to regret it; it seems that whatever magic allows them to shine their light also makes them taste extremely bitter.
+
+You smack your jaws several times, trying to rid yourself of the acrid flavor, and begin to foam lightly. You mentally note that consuming Tiny Beings may not be worth the effort in future.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2c
+
+Your inner Fire bursts outwards briefly, dwarfing their green flickers. For several moments afterward, it seems to you that their dances and lights intensify!
+
+Was it fear of your flame? Or were they, in their small way, celebrating your own gift of light?
+
+Perhaps it does not matter. Then again, perhaps it does.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2d
+
+It is not difficult for you to capture a few of them; they hardly attempt to escape, lost within their own Music.
+
+For one night, your den is lit by their display, as though you play host to the stars themselves in your small space.
+
+In the morning, you awaken to find each and every one of them cold and Silent, their lights forever dimmed.
+
+It seems that their lives are brief indeed. Perhaps, in some way, that is part of their message.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2e
+
+You attempt to Sing your response, but whether you use your voice or your Mind, the Tiny Beings do not react.
+
+Eventually, you discover that individually, their Minds are just too simple, incapable of forming distinct images.
+
+It is only as a collective that they form an eloquent Music, as if each of them were only a tiny fragment of the greater whole whose song is so beautiful and bright.
+
+Eventually, you give up attempts to communicate; they are altogether a Song, existing not to hear, but only to be heard.
+
+Your promise to seek the Light Within must remain a secret one, shared only with yourself. Time, and your actions, will determine whether that momentary oath to one day discover your True Self will be kept...
+
+...whether you will become the One to discover and open the<color #d040ff> </color>Door.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d2f
+
+Night creeps in, and you think you may have fallen asleep; you saw something like a pattern in the stars above, a counterpoint to the earthly display of the little glowing things wreathed in the treetops.
+
+It reminded you of something, but as soon as you try to hold the thought, it flees away, leaving you alone.
+
+By moon's height, the tiny glowing beings and their Dance-Music are gone, but within you they remain, dancing gently in your dreams.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3a
+
+Where the Heartbone Valley creeks meet, they form a River. The waterway looms deeper here, and among the grey-green shadows you see the forms of Waterbound prey.
+
+This is a realm which you have not yet experienced, but it seems to call to you. Taking a deep breath, you slide under the Water.
+
+Water, it seems, caresses your Body more boldly than Air, and you enjoy the sensation rushing over your feathers and scales, hunger slipping from your Mind.
+
+You are fascinated by the Watery Essence of the scaly swimmers you meet, although they swim away from you quickly, humbly.
+
+Just as you are beginning to master moving in this new landscape, you suddenly stop short. There is... something in the water before you.
+
+To other beings, it might seem no more than a shimmer, but your Draak eyes, open to heat and Essence as well as light, it is far more.
+
+Your Core writhes briefly, excitedly, as you realize you have encountered a Water-spirit, a pure avatar of the sacred element. Its Mind-song prods gently at you, and you open yourself to it... no Draak would be so rude as to deny a messenger of one of the Great Four at least an audience.
+
+<water_spirit>O new-begun hatchling of Sun and Earth,
+Hear now my testing Song.
+
+<water_spirit>I ran down a sunlit slope,
+Singing gently as I went.
+
+<water_spirit>A great stone rose up before me.
+
+<water_spirit>What did I do?
+
+------------------------------
+> You jumped over it.
+  Go to: d3aa
+> You smashed through it.
+  Go to: d3aa
+> You went around it.
+  Go to: d3ab
+
+==============================
+Event: d3aa
+
+<water_spirit>Not so! I went around it, for I am Water,
+And this secret is known to me: nothing exists
+Around which a way may not be found!
+
+<water_spirit>Look always for the curving path, the Other Way.
+
+<water_spirit>If one's heart is pure and clear,
+One can dance around all things
+As one finds the Flow of the World,
+And obstacles become adventures!
+
+<water_spirit>Let us play, let us Sing together again!
+
+The Water-spirit loops about itself in an expression of joy, dispersing its Essence slowly outward until it has become the whole waterway once again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3ab
+
+<water_spirit>Indeed, I went around it, for I am Water,
+And this secret is known to me: nothing exists
+Around which a way may not be found!
+
+<water_spirit>Look always for the curving path, the Other Way.
+
+<water_spirit>If one's heart is pure and clear,
+One can dance around all things
+As one finds the Flow of the World,
+And obstacles become adventures!
+
+<water_spirit>Let us play, let us Sing together again!
+
+The Water-spirit loops about itself in an expression of joy, dispersing its Essence slowly outward until it has become the whole waterway once again. You need to breathe, so you rise to the surface, but before you do, you manage to catch a Rainscale, a savory Waterbound scalebeast, in your jaws.
+
+That is two satisfying meals you have had today, though only one was for your Body.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3b
+
+You spend most of another Sun acclimating yourself further to the domain of Water. While you cannot endure there without drinking in Air from above, you have time aplenty to comfortably explore and even rest in its embrace for short periods.
+
+Just as you begin to wonder if you will see the Water-spirit again, it appears (in its way) and sings to you:
+
+<water_spirit>O new-begun hatchling of Sun and Earth,
+Hear now my testing Song.
+
+<water_spirit>Once there was a mighty Draak,
+One who hated me, who cursed me,
+Who sought my Destruction.
+
+<water_spirit>How may I be Destroyed?
+
+------------------------------
+> You cannot be Destroyed.
+  Go to: d3bb
+> You can be sliced apart.
+  Go to: d3ba
+> You can be consumed.
+  Go to: d3ba
+> You can be burned with Fire.
+  Go to: d3ba
+> You can be blocked.
+  Go to: d3ba
+
+==============================
+Event: d3ba
+
+<water_spirit>Behold, I am Water,
+Immortal, unDestroyed!
+
+<water_spirit>If you cut me, just then I heal;
+
+<water_spirit>If you consume me, I swim within you for a time, and then am freed again;
+
+<water_spirit>If you burn me, I quell the flames, or am given skyward wings;
+
+<water_spirit>If you block me, I become two, or I become placid Lake,
+
+<water_spirit>But never can I be Destroyed.
+
+<water_spirit>And so it is with all things.
+
+<water_spirit>Hear now this secret: everything, everything changes,
+Yet nothing is ever truly Destroyed.
+
+<water_spirit>Death's true name is <bold>Transformation.</bold>
+
+<water_spirit>Let us play, let us Sing together again!
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3bb
+
+<water_spirit>Behold, I am Water,
+Immortal, unDestroyed!
+
+<water_spirit>If you cut me, just then I heal;
+
+<water_spirit>If you consume me, I swim within you for a time, and then am freed again;
+
+<water_spirit>If you burn me, I quell the flames, or am given skyward wings;
+
+<water_spirit>If you block me, I become two, or I become placid Lake,
+
+<water_spirit>But never can I be Destroyed.
+
+<water_spirit>And so it is with all things.
+
+<water_spirit>Hear now this secret: everything, everything changes,
+Yet nothing is ever truly Destroyed.
+
+<water_spirit>Death's true name is <bold>Transformation.</bold>
+
+<water_spirit>Let us play, let us Sing together again!
+
+Soon after, you have the good fortune of finding an injured Waterbound swimmer, which you easily dispatch and take into yourself. You reflect on the truth of the spirit's words as its Essence becomes yours - a Destruction, or a Transformation? They are, indeed, one and the same.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3c
+
+Water tumbles from the sky this Sun, but while walking above may be irksome, small patterings striking your scales randomly, you find that the rain cannot follow you underwater; indeed, in the deep of the river, all is smooth and calm.
+
+Finally, the Water-spirit appears before you a third and final time, singing:
+
+<water_spirit>O new-begun hatchling of Sun and Earth,
+Hear now my testing Song.
+
+<water_spirit>What is the name of the Water within <bold>you?</bold>
+
+<water_spirit>Name me, and know me.
+
+------------------------------
+> You are the red Essence.
+  Go to: d3ca
+> You are the clear and invisible Breath.
+  Go to: d3cb
+> You are unbreakable Bone.
+  Go to: d3cc
+> You are all of these things.
+  Go to: d3cd
+
+==============================
+Event: d3ca
+
+<water_spirit>Yes: I am the tide-of-you, flowing scarlet,
+Carrying life in the rivers of your Body,
+
+<water_spirit>A quieter Rhythm, more subtle than Breath,
+A flow reaching every inner lair and den.
+
+<water_spirit>Though hidden below, I make all above possible.
+
+<water_spirit>I am content with the low places, not needing to be seen,
+Needing only to Dance to your endless Rhythm until Change comes again,
+And with it, a new Dance.
+
+<water_spirit>So it is Water which is strongest below life's surfaces.
+
+<water_spirit>Grow great in my ways, and the hidden shall be revealed.
+
+<water_spirit>Know the power of the Quiet Way, open all senses,
+
+<water_spirit>Perceive what others do not; find the hidden Sea.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d3e, d3d
+
+==============================
+Event: d3cb
+
+<water_spirit>No, such is the realm of my sweet sibling, Air,
+Whom I love, and with whom I weave mighty cloud-works and wave-dances.
+
+<water_spirit>I am Essence within you, flowing scarlet,
+Carrying life in the rivers of your Body,
+
+<water_spirit>A quieter Rhythm, more subtle than Breath,
+A flow reaching every inner lair and den.
+
+<water_spirit>Though hidden below, I make all above possible.
+
+<water_spirit>I am content with the low places, not needing to be seen,
+Needing only to Dance to your endless Rhythm until Change comes again,
+And with it, a new Dance.
+
+<water_spirit>So it is Water which is strongest below life's surfaces.
+
+<water_spirit>Grow great in my ways, and the hidden shall be revealed.
+
+<water_spirit>Know the power of the Quiet Way, open all senses,
+
+<water_spirit>Perceive what others do not; find the hidden Sea.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d3d
+
+==============================
+Event: d3cc
+
+<water_spirit>To structure and to bind is not my aim;
+Such is the Way of my sweet sibling, Earth.
+
+<water_spirit>No, I am the Essence, flowing scarlet,
+Carrying life in the rivers of your Body,
+
+<water_spirit>A quieter Rhythm, more subtle than Breath,
+A flow reaching every inner lair and den.
+
+<water_spirit>Though hidden below, I make all above possible.
+
+<water_spirit>I am content with the low places, not needing to be seen,
+Needing only to Dance to your endless Rhythm until Change comes again,
+And with it, a new Dance.
+
+<water_spirit>So it is Water which is strongest below life's surfaces.
+
+<water_spirit>Grow great in my ways, and the hidden shall be revealed.
+
+<water_spirit>Know the power of the Quiet Way, open all senses,
+
+<water_spirit>Perceive what others do not; find the hidden Sea.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d3d
+
+==============================
+Event: d3cd
+
+<water_spirit>Though great am I, I am not All;
+Only together can my sweet siblings and I
+Give rise to All Things.
+
+<water_spirit>But mine is the Essence flowing scarlet,
+Carrying life in the rivers of your Body,
+
+<water_spirit>A quieter Rhythm, more subtle than Breath,
+A flow reaching every inner lair and den.
+
+<water_spirit>Though hidden below, I make all above possible.
+
+<water_spirit>I am content with the low places, not needing to be seen,
+Needing only to Dance to your endless Rhythm until Change comes again,
+And with it, a new Dance.
+
+<water_spirit>So it is Water which is strongest below life's surfaces.
+
+<water_spirit>Grow great in my ways, and the hidden shall be revealed.
+
+<water_spirit>Know the power of the Quiet Way, open all senses,
+
+<water_spirit>Perceive what others do not; find the hidden Sea.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d3d
+
+==============================
+Event: d3d
+
+<water_spirit>Three songs have I sung, and three back have I heard;
+Our game is now finished, and my spirit wanders on.
+
+<water_spirit>Be not sad at our parting, for Water is with you always.
+
+<water_spirit>You are mine, and I am yours;
+
+<water_spirit>And both of us, both of us are rivers
+
+<water_spirit>Flowing to a distant unity.
+
+The spirit curls itself up into a perfect blue circle and expands, becoming all of the river once more.
+
+Never again does this waterway impart its wisdom to you directly, but often, later in life, you will pause by the waterfalls and creeks, hearing snatches its beautiful voice within the gentle sound of flowing Water.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d3e
+
+<water_spirit>Three songs have I sung, and three back have I heard;
+Our game is now finished, and my spirit wanders on.
+
+<water_spirit>Be not sad at our parting, for Water is with you always.
+
+<water_spirit>You are mine, and I am yours;
+
+<water_spirit>And both of us, both of us are rivers
+
+<water_spirit>Flowing to a distant unity.
+
+<water_spirit>For your knowledge of me, a gift I now give!
+
+<water_spirit>All stones I have worn down with time,
+Yes, even hard rock I overcome, slowly, slowly.
+
+<water_spirit>But one alone holds its form against me,
+Rejects my tender Dances, clinging to itself.
+
+<water_spirit>To you I give it, as reward for your wisdom.
+Take now your prize, this <bold>Obstinate Stone</bold>!
+
+The spirit curls itself up into a perfect blue circle and expands, becoming all of the river once more, but there, beneath where it once swam, a clear stone sits.
+
+After this day, you swim in the river again often for hunting or for pleasure, but never more does it impart its wisdom to you directly.
+
+Later in life, you will pause by the waterfalls and creeks, hearing snatches of its beautiful voice within the gentle sound of flowing Water, and remember.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d4
+
+What do you do?
+
+------------------------------
+> Lumberkin do not hunt Draak - ask why it wishes to engage in a Dance of Destruction with you.
+  Go to: d4a
+> Life is dear to all, from the smallest to the greatest. Ask why it wants to throw away its existence.
+  Go to: d4b
+> Voice your doubt that the afterlife it believes in exists - encourage it to live.
+  Go to: d4c
+> Ask about the two treasures it offers.
+  Go to: d4d
+> Refuse to grant its request.
+  Go to: d4e
+> Gauge its strength.
+  Go to: d4h
+> Confess that you are not yet powerful enough to defeat such a powerful warrior, but pledge to return soon to end the Lumberkin's existence.
+  Go to: d4f
+> Grant its request; let the Dance of Destruction begin. (There will be no escape; do not choose this lightly.)
+  Go to: d4g
+
+==============================
+Event: d4a
+
+<valhalla_badger>A last Dance of Destruction with a daring Draak -
+So will they sing of it in the Star-home,
+
+<valhalla_badger>That den of the doughty,
+Last lair of the Lumberkin.
+
+<valhalla_badger>Unashamed shall I stand with the souls of the strong,
+Power to pour upon my proud people
+From the burrow of the bold, beyond all beginnings.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d4b
+
+<valhalla_badger>Of seasons, so many have I seen,
+And my meat is now meagre,
+Brittle my bent bones.
+
+<valhalla_badger>Sickness strongly assails my senses,
+Pain my perpetual partner.
+
+<valhalla_badger>No wish have I to be murdered by madness
+Nor slowly starve until sundered is my soul.
+
+<valhalla_badger>Let my last breath be blown out in battle,
+A scarlet song sure to send spirits starward.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d4base
+
+Small, pure Waters are falling from the sky - you keep to the shadows of the trees and veil yourself in the brush to keep as dry as you can. Few beasts are out in such weather, hiding within their homes, but you are surprised to find a mid-sized furbeast standing brazenly out in the open.
+
+It is a <bold>Lumberkin</bold>, one of a People renowned for tenacity and ferocity even in the face of much larger foes. It calls out to you with a strange Song:
+
+<valhalla_badger>Far from frostward fields fares this flame-souled furbeast,
+A warrior, though age-weak, and winner of wars.
+
+<valhalla_badger>The wind wafts forth waves of Draak-Kin scent wayward,
+A final fight foretelling, Fame and Fortune finding.
+
+<valhalla_badger>To a true fighting soul, Treasures two I shall tender.
+Come and bring claw against claw cruelly clashing!
+
+The Lumberkin's soul blazes, as if eager to escape from the narrow confines of its aging and scarred Body.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d4c
+
+<valhalla_badger>To lay life against life, to bout in bold battle,
+Such is the spirit of Goodbeasts long gone.
+
+<valhalla_badger>The Way of the Lumberkin, warriors of worth,
+Is to slay or be slain, and such is my song.
+
+<valhalla_badger>No more worthy a muting of my Music
+Can there be but the clamor and clash of carnage.
+
+<valhalla_badger>This I choose: the chance to charge into challenge,
+For when blood taints my breath, my bold soul burns brightest.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d4d
+
+<valhalla_badger>Dig deep in my den to discover directly
+The pair of prizes I promised you prior.
+
+<valhalla_badger>With fang and with fury alone you shall find
+Treasures two, and a tale worth the telling thereafter.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d4e
+
+<valhalla_badger>My power to pursue is poor indeed;
+Forcing a fight is a feat far beyond me.
+
+<valhalla_badger>But I beg you, be brave, as your bold bygone brethren,
+Leave me not to languish nor linger too long.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d4end
+
+It fought savagely to the end. You honestly had no idea that an aged Lumberkin could be such a skilled warrior.
+
+As its last breath rattles forth, it turns its bloodied eye upon you with a look of what could only be called true happiness. The Lumberkin are either completely mad or wholly glorious. Perhaps they are both.
+
+Digging in its nearby den, you unearth something interesting. It is a stone the dark color of freshly-spilled blood. Despite a thorough search, you find nothing else... could it have been lying about the presence of two treasures here?
+
+That night, you have a strange dream: many furbeasts, their Bodies made of stars, are looking down on you from the vaulted dome of the sky. One, whose eyes burn with a holy fire, sings to you before it fades:
+
+<valhalla_badger>Well done, young warrior;
+Bear now my blessing!
+
+<valhalla_badger>Freed from my form, I fly to my fate,
+Embraced by the bold bygone
+Warriors of the Onesong,
+My spirit knows solace;
+
+<valhalla_badger><italic>my heart finds its home.</italic>
+
+When you wake, you feel a strange pleasure, as if you have passed a test which you did not know existed.
+
+Perhaps this was a rare True Dream, or perhaps you simply feel more confident, but either way, the Fire within burns brighter.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d4f
+
+<valhalla_badger>So be it - strength to yourself gather swiftly
+Forging the fighting-fires found in your frame.
+
+<valhalla_badger>But I beg you, be brave, as your bold bygone brethren,
+Leave me not to languish nor linger too long.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d4g
+
+Your assent causes the Lumberkin great joy:
+
+<valhalla_badger>Let me feel the flames of the fire foretold!
+Bathe me in blood; a last benediction!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d4h
+
+You inspect the Lumberkin's Body, which is scarred and worn from countless battles. Its age seems to be affecting it, making it less hardy and slower than its kin, but its strength rivals that of creatures many times its size.
+
+This would be a difficult opponent for any new-hatched Draak.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d4
+
+==============================
+Event: d5
+
+You have come across a trio of Lesser Spearbills. They seem distracted by some kind of discussion. What do you do?
+
+------------------------------
+> Attack swiftly, before they are aware of you.
+  Go to: d5as, d5af
+> Wait, and observe.
+  Go to: d5b
+
+==============================
+Event: d5af
+
+Alas, it seems that they were more aware of you than you thought. As soon as your forepaw splashes down in the water to launch yourself forward, they are already in the air, and in moments, they are only small white scars on the skin of the morning sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5as
+
+It seems that they knew of your presence after all... their reaction is far too quick... but you are quicker. You manage to get within claw's reach of one as it is still taking off, and a blow to the wing grounds it.
+
+The Dance of Destruction begins!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d5b
+
+You begin to catch shards of their conversation:
+
+<heron>...and so we must proceed with the assumption that all things can be understood, given time and observation. The core elements of reality... Earth, Air, Water, Fire... are predictable and finite, and all things proceed from their motion. It cannot be denied that there is such a thing as expert knowledge, and that such knowledge has both value and merit. Thus it is that the wisest of beings gather <bold>information</bold>.
+
+<heron>Disagreement,</heron> says another, slanting its head slightly to the left.
+
+<heron>The true nature of objects is clearly unknowable. The desires of the observer, as well as the limitations of its senses, ensure that no matter how much information is collected, the true nature of external creatures, or even objects, remains forever out of reach.</heron>
+
+<heron>The wisest observer attempts to understand themselves, and by having a greater control over their own cognition can get closer to the truth than those who remain ignorant of their own psychology. The mark of wisdom is not information, but <bold>self-knowledge</bold>.
+
+<heron>Both of you,</heron> says the third, dipping its bill briefly into the water, <heron>are making the same mistake - you are assuming that objects have a "true nature" to begin with! The Onesong is empty of all meaning and even substance.
+
+<heron>It is not that Truth is hidden by the senses, but that it never existed to begin with. It is but a vain hope of limited beings. A wise being does not seek to accumulate a wealth of information, nor even to understand themselves, for none of these things can be said to matter, or even exist.
+
+<heron>The Onesong is empty, and a truly wise being knows only one thing: that they know nothing, and abandoning all need for understanding, <bold>simply lives</bold>, free from all judgment.
+
+/MasteryDisplay
+
+<heron>The wisdom of the Draak is renowned. Let us ask the one hiding ineffectually nearby,</heron> one suggests, and with subtle motions of their heads, they turn their eyes and ears to you.
+
+<heron>What is the nature of Wisdom? Is it based upon <bold>information</bold>? <bold>Self-knowledge</bold>? Or upon abandoning these things and simply <bold>living</bold>?
+
+------------------------------
+> Wisdom is rooted in the gaining of knowledge.
+  Go to: d5ba
+> Wisdom is rooted in the quest for self-awareness.
+  Go to: d5bb
+> Wisdom is rooted in the enjoyment of life, and accepting that all things are empty.
+  Go to: d5bc
+> Confess that you do not know the true nature of Wisdom.
+  Go to: d5bd
+> Attack them.
+  Go to: d5bes, d5bef
+
+==============================
+Event: d5ba
+
+You respond that the Wise are called so because they have accumulated a vast trove of knowledge; their conclusions are more sound than those who do not know the details of the subject at hand.
+
+By the gathering of information about the vast Onesong, one can begin to perceive the deeper patterns which unite all things. Without those observations, those experiences with the world, the Truth which underlies all cannot be known.
+
+The second and third Spearbills seem unconvinced, but the first appreciates your answer, ruffling its feathers in excitement.
+
+<heron>Agreement! O hatchling of the Draak, may the blessing of Air, realm of the Mind, be upon you!</heron>
+
+As one, they launch into the sky, continuing their argument as they journey onward.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5bb
+
+You respond that the Wise are called so because they have looked within themselves and conquered their own judgments and biases.
+
+Indeed, seeking Truth in external objects is useless, because seen through the filter of the Mind, they are but reflections of the Self.
+
+In contemplation and self-knowledge, one can grow closer to the Truth. After all, is it not true that some have great knowledge, but little true Wisdom?
+
+Facts cannot lead one to Wisdom; only clarity of the heart, the ability to perceive what is hidden, can grant it.
+
+The first and third Spearbills seem unconvinced, but the second appreciates your answer, ruffling its feathers in excitement.
+
+<heron>Agreement! O hatchling of the Draak, may the blessing of Water, realm of Hidden Things and Perception, be upon you!</heron>
+
+As one, they launch into the sky, and you hear them continuing their argument as they journey onward.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5bc
+
+Truth and wisdom, you respond, are false labels placed on things. Objects are simply themselves, nothing more or less.
+
+One can never understand Sun, or Earth, or the infinite Onesong in which they dance. One can only abandon understanding and experience the wonder of Life.
+
+Why would a truly wise being waste time rating and judging themselves and others when they could simply plunge into the cool Waters of Life, and drink?
+
+Why search for meaning in the green and rolling Earth, when one could simply rest in her Body, and taste of her Milk, which is Joy? Life is what one makes of it, and to be content with that is true Wisdom.
+
+The first and second Spearbills seem unconvinced, but the third appreciates your answer, ruffling its feathers in excitement.
+
+<heron>Agreement! O hatchling of the Draak, may the blessing of Earth, of simplicity and contentment, be upon you!</heron>
+
+As one, they launch into the sky, and you hear them continuing their argument as they journey onward.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5bd
+
+<heron>We have been outdone!</heron> cries one. <heron>Humility is the base of all three paths, the common force binding all.
+
+<heron>Indeed,</heron> agrees the second. <heron>Knowledge cannot be gained without a realization of one's own ignorance; self-knowledge cannot be found without understanding one's own limitations; and emptiness cannot be discovered without a release of one's own pride and self-importance.</heron>
+
+<heron>By refusing to compete, the Draak has won,</heron> says the third. <heron>We acknowledge its superiority, and will relate its victory to the Air.</heron>
+
+Spreading their wings, they bow their heads in unison and then take wing. Their song echoes throughout the valley: <heron>The young Draak has wisdom!</heron>
+
+Perhaps this shall bring you renown. You have certainly learned something this day about the importance of humility.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5bef
+
+As soon as your forepaw splashes down in the water to launch yourself forward, they are already in the air, and in moments, they are only small white scars on the skin of the morning sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d5bes
+
+To attack a flying beast when you know that it has knowledge of you would normally be pointless, but your speed is very great for one still small.
+
+You manage to get within claw's reach of one before it succeeds in taking off, and a leaping blow to the wing grounds it. The Dance of Destruction begins!
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: d6
+
+Woodstriders. The Crowned. Beloved-of-the-Green.
+
+Many are the names for these pure, swift beings who, though quite large for a furbeast, move with an almost impossible grace. You have heard of them, but this is your first encounter with a Clan of their kind.
+
+All of them bear a spirit-crown, which was said to have been given to them by the <color #4eee37>Spirit of the Great Green.</color> Incredibly, one of their crowns has even manifested physically, adorning its head in reality... powerful Music, indeed.
+
+The twice-crowned one turns its slender head to gaze at you, and you feel something stir within your breast. You feel...
+
+------------------------------
+> ...admiration.
+  Go to: d6a
+> ...connection.
+  Go to: d6b
+> ...hunger.
+  Go to: d6c
+
+==============================
+Event: d6a
+
+Such grace! Their limbs flow like Water, carrying them from leaf above to grass below and between the great Trees as though they are of one Form, one Essence, with the Great Green itself. Their hearts are purer than the sky.
+
+Perhaps you will, one day, become as intimate a lover of the woods as they.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d6b
+
+What... is this? Somehow, you feel the beating of its Rhythm, though you are too far away to do so.
+
+You see yourself...! Are you seeing through its eyes?
+
+The moment hangs, suspended, and then it looks away, leading the Clan deeper into the Green. You know, though, that there is some connection between yourself and the noble Woodstriders.
+
+Could this be a sign, a premonition, that your fates are connected in some strange way? Could they be more than simply prey to you?
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d6c
+
+Notes of sweet Essence and savory skin drift through the Air to your nose. Opening your mouth, you can almost taste it... how their flesh will melt in your mouth! How it will give as you tear into it with your sharp teeth! You simply cannot wait...
+
+/MasteryDisplay
+
+Attack one now?
+
+------------------------------
+> YES!
+  Go to: HuntingBaseCombat
+> No need to rush...
+  Go to: d6cb
+
+==============================
+Event: d6cb
+
+At your size, that double-crowned will destroy you. But one day...
+
+One day, you will savor their flesh, legendary among the Kin as a delicacy.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d7
+
+You have ranged far this Sun and are returning to your Lair when the dusk is suddenly split by the most beautiful sound you have ever heard.
+
+It is not the work of just one animal; several beings are raising up a song, each of their voices distinct and important in the braided Music which pours out from them.
+
+It can only be the mighty Clan-Singers, whose Music is renowned among all. These beautiful hunters are said to cultivate invisible, shining bonds between each others' souls, binding them together in Clans, which are then capable of carrying out fearsome, elaborate Dances of Destruction where many move with one Mind, one Will, to be victorious in battle and in the hunt.
+
+Pausing, you listen to their Music:
+
+<color 00b4ff><wolf>We are the People of the Far-telling Song,</color>
+<color 1496ff>Who sing with One Voice, which is Many Voices.</color>
+<color 2878ff>To be alone is Weakness,</color>
+<color 3c5aff>To be together is Strength.</color>
+
+<color 00b4ff><wolf>Praise be to the Great Green, shard of the Mother's Being,</color>
+<color 1e69ff>Pouring out sweetness in the crystal-pure Waters</color>
+<color 3c5aff>And the ruby-sweet Essence of our honorable Prey.</color>
+
+<color 00b4ff><wolf>Praise be to our Prey, whose flesh becomes ours,</color>
+<color 1e69ff>Givers of Life, Dance-partners eternal,</color>
+<color 3c5aff>We remember with Song your great Sacrifice.</color>
+
+<color 00b4ff><wolf>Praise be to Those Who Came Before,</color>
+<color 1496ff>Our ancestors, who learned to walk across Love and Violence,</color>
+<color 2878ff>Across being One and being Many,</color>
+<color 3c5aff>And not be split in twain.</color>
+
+<color 00b4ff><wolf>Praise be to Earth, Great Mother of us all,</color>
+<color 1e69ff>For we Love Her, and are One in Her.</color>
+<color 3c5aff>Hear now our Song of Joy:</color>
+
+<color 00b4ff><wolf>We Live!</color>
+<color 1e69ff>We Live!</color>
+<color 3c5aff>We Live!</color>
+
+Every voice is distinct, and yet they all flow together and around each other. When two strike the same note, they instantly split apart, so that each voice should always be heard, and yet each is a support and partner to every other. It is like a blessed forest, a Great Green of Music.
+
+/MasteryDisplay
+
+The Clan-Singers' Music is indeed wondrous, but their strange togetherness is somehow both right and wrong, brilliant and yet a violation of the spirit of independence, of Strength Alone, which guides the Kin.
+
+In that moment, you feel...
+
+------------------------------
+> ...fascinated by their strange unity and the power it brings them.
+  Go to: d7a
+> ...disgusted by their foolish praise of cooperation and dependence.
+  Go to: d7b
+> ...moved to raise your own Song of Joy with theirs.
+  Go to: d7c
+> ...indifference; these lesser furbeasts are nothing to you.
+  Go to: d7d
+
+==============================
+Event: d7a
+
+Could there be some hidden power in relying on others?
+
+You were taught by the Voice that nothing is ever given in this life; you must take all things with your own mouth, your own claws, make your own Music, forge your own Way.
+
+Most Draak would surely say that the Clan-Singers' song, while beautiful to hear, is a deception; only alone can one find the strength to grow and become truly Great.
+
+And yet, the thought crosses your Mind that perhaps they are wrong. Perhaps you could somehow benefit from binding yourself to another.
+
+But no sane Draak would willingly enter into either debasing servitude nor constraining leadership of another entity...
+
+To even entertain the notion that the Singers have something to teach a Draak marks you as either a brilliant iconoclast or a weak, self-destructive fool. Time will tell which is the case.
+
+For now, you content yourself to listen to their Music, which all agree is a wonder and a beauty.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d7b
+
+Every Draak knows that only by facing the challenges of life alone can one grow to greatest strength; this is a teaching handed down from before the rise of the Clan-singers, indeed, before the existence of all of the furbeast People.
+
+To rely on others may be strength for the weak, but for the strong, like the Draak, it is pure weakness and limitation.
+
+By living, hunting, and ultimately facing Destruction alone, the Draak hone their Bodies and Essences into deadly perfection, the titanic strength which makes them known as greatest of all of the Children of Sun and Earth.
+
+Their music may be beautiful, but their Way is doomed to failure. You follow an older, mightier path. Your soul will never become bonded to another.
+
+You will keep the True Way.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d7c
+
+You find their melodious celebration of life and the Great Powers infectious, and a pride and a joy swells within you.
+
+As the Singers do, you raise your head skyward, so that your Song will go out to all of the Four Ways equally, and you Sing:
+
+<player><color ff1414>Mine are the People Ancient of Days,</color></player>
+<player><color ff3214>Lords of Destruction, bringing forth cleansing Fire.</color></italic>
+
+<player><color ff5014>Though alone, I am strong; all shall know Fear</color></player>
+<player><color ff6e14>When they face the Flame within my Breast, behind my Eyes.</color></italic>
+
+<player><color ff8c14>Praise to Earth, Great Mother of us all,</color></player>
+<player><color ffaa14>And to Sun, the Great Giver, eternal Father.</color></italic>
+
+<player><color ffc814>I live, and feast, and grow Great;</color></player>
+<player><color ffe614>I live! I live! I live!</color></player>
+
+The Singers cease their Music for a time, listening to yours, and you feel both pride and fear, knowing you have gained their attention, and that at your age, that is a very dangerous thing. On other nights, you continue to hear their Music, and it makes you think strange thoughts.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d7d
+
+The sound is different from anything else you have heard, you must admit, but the blabbering of young-souled furbeasts is not something you could honestly admire.
+
+Their loud song is but a mask for the insecurity of their callow Way.
+
+You follow something older, something much greater, and you will not be distracted by their garish declarations.
+
+You do not need to Sing out your beliefs and your feelings. All you need lies within you, safe from the predations of Time.
+
+Let the furbeasts weaken their Essence with the poison of dependence; their Way, which allows the unfit to survive by relying on others, will taint them.
+
+You are strong, and complete.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8
+
+As you are returning to your den at dusk, an odd keening noise draws your attention. Investigating, you discover a strange sight: two groups of tailless beings are rotating, gyrating on their spindly hind legs while clutching each other with their forepaws. What could this strange Dance be?
+
+The dark ones are No-Tail Givers... you can smell their musky, oily scents, each one different. But the bright ones...
+
+What are they? They appear somewhat like No-Tail Birthers, but they are most certainly not. Eerily, each one of them has the exact same smell, with not a trace of difference, as though they are just one being pretending to be many.
+
+They are giving off a powerful Birther scent, perhaps too powerful, and laced with overtones of blackberries and lightning. And the heat radiating from their bodies makes them almost glow in your eyes. The shrill noise is coming from them, a Song of sorts, their voices lifted in a too-perfect harmony.
+
+The No-Tail Givers seem transfixed by them, and as the Dance continues, the Brightlings (for that is what you have decided to call them) draw the Givers in closer and closer, allowing more and more touches from their forepaws.
+
+One by one, the couples detach from the dance and retreat into the Trees, each pair separate from the others.
+
+Finally, only one pair remains. What do you do?
+
+------------------------------
+> Attack the pair while they are distracted.
+  Go to: d8a
+> Wait, and when they leave, follow them into the Trees.
+  Go to: d8b
+> Attempt to Sing into the Mind of the No-Tail Giver.
+  Go to: d8c
+> Attempt to Sing into the Mind of the Brightling Birther.
+  Go to: d8d
+> Return to your Den; this is not something to involve yourself in.
+  Go to: d8e
+
+==============================
+Event: d8a
+
+Swiftly and silently, you creep up on them. They seem wholly distracted with each other, which helps. The Birther seems less physically mighty, and so, when you are close enough, you leap at it, jaws wide.
+
+It turns its pale lavender eyes to look at you...
+
+And then, it is simply gone. You land on the ground, stumbling, and even with all your senses open, there is not a trace of the Brightling.
+
+The Giver it was with seems as shocked as you are by the disappearance; confused and frightened, it rapidly stalks off on its two long legs in the direction of the No-Tail hive. By the time you have recovered from the surprise yourself, it is already halfway across the field.
+
+Going after the Giver seems unwise. It has a head start, and without the element of surprise, you are not at all certain you could defeat an adult No-Tail alone, even if you could catch it.
+
+What kind of animal has no personal scent, Dances with those not of its own Tribe, and disappears with neither sound nor light left behind?
+
+These Brightlings... what could they be...?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8b
+
+The No-Tail and the Brightling go a short distance into the forest, and then they start touching each other in different ways.
+
+Ultimately, it seems as though they are wrestling, although you've never known a fight to be so devoid of fear, and though the Giver seems to be winning, the Birther doesn't seem to mind at all. Strange.
+
+Eventually, they stop their bizarre Dance, and the Giver falls asleep. Then, before your very muzzle, the Brightling Birther simply disappears. No trace of it whatsoever remains, not even in scent.
+
+The feathers on your crest stand on end... there is something very odd, very unnatural, going on here. You feel that you are in danger.
+
+What do you do?
+
+------------------------------
+> Get out of here as fast as you can.
+  Go to: d8ba
+> The opportunity to attack a sleeping No-Tail is too good to pass up... attack the unconscious Giver!
+  Go to: HuntingBase
+> Something strange glimmers around the sleeping No-Tail's neck: try to quietly remove it.
+  Go to: d8bc, d8bc
+
+==============================
+Event: d8ba
+
+You have no idea what you just witnessed, which is genuinely terrifying. As you flee, you hear some kind of sound behind you, but you do not stop, and when you are certain you are not being followed, you pause to gather yourself.
+
+What are the Brightlings? What are they doing with the No-Tails, and why? Perhaps a wiser Draak may know more...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8bb
+
+It seems that the No-Tails can be Destroyed like other animals, though that was far more difficult; its bizarre movements make it a dangerous foe.
+
+In addition to its oily meat (which is surprisingly delicious) the No-Tail had some kind of treasure fastened around its neck. You take it back to your den.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8bc
+
+Keeping your footfalls slow and gradual but your Body light, you creep up to the No-Tail's sleeping form and nibble through the string of Woodstrider skin, freeing the object. Taking it up in your jaws, you make a silent escape.
+
+Back at your den, you find that there is something odd about the object you have found. Perhaps it is valuable in some way.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8c
+
+You attempt to Sing into the Giver's Mind, but there is some kind of interference, as though something else is already Singing to it, though in a completely different way.
+
+Confused, the No-Tail shakes its half-naked head and looks around. Seeing you, it panics, and retreats.
+
+The Brightling looks at you as well, but strangely, you scent neither fear nor surprise, only a kind of mild annoyance, before it suddenly vanishes, leaving absolutely no trace of light nor scent behind.
+
+What are the Brightlings? What are they doing with the No-Tails, and why?
+
+Perhaps a wiser Draak may know more...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8d
+
+As you find the Brightling's eyes, you begin to Sing into its Mind, but your initial images are... well, there is no other word but "consumed" for it.
+
+Its Mind is like a rainbow whirlpool, consuming your messages, sucking them away to somewhere else.
+
+The Brightling subtly turns the No-Tail Giver in her arms away from you, and looking at you over its shoulder, begins to <shimmer><rainbow>Sing baaack aat yyoooouuuuuuuuuuu...</rainbow></shimmer>
+
+When you next are aware of yourself, both the Brightling and the Tailless are gone. You are alone, and cold.
+
+As you make your way back to your Den, you begin to wonder...
+
+What are the Brightlings? What are they doing with the No-Tails, and why? Perhaps a wiser Draak may know more...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d8e
+
+There is clearly something wrong with this. The Tailless are always strange, but this seems odder than anything you have ever heard of.
+
+Danger may loom, and here there is little hope for Treasure or food. You leave well enough alone, return to your Den, and sleep well.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d9
+
+What do you do?
+
+------------------------------
+> Press through.
+  Go to: d9a
+> Take a different route.
+  (Hidden: Taking a different route would be too tiresome.)
+  Go to: d9b
+> Sing to the Weaver.
+  Go to: d9c
+
+==============================
+Event: d9a
+
+The lair-trap sticks to your feathers and scales as you move through it, and its inhabitant springs into panicked activity. The Weaver scrambles down your flank and drops onto the leafy ground.
+
+You rub your head against a nearby Fern to get the sticky substance off. By the time you finish cleaning yourself, the Weaver is already beginning the lengthy process of constructing a new lair from its own flesh-strings.
+
+Briefly, you wonder if its Mind is complex enough to feel such things as sorrow or frustration, and whether that would render your destruction of its home any more or less of a tragedy.
+
+The Weaver gives no sign, merely continuing to build its home with silent determination.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d9b
+
+You backtrack a short distance, poking your snout through leafy fronds to find another way through. Eventually, you find one. Looking backwards, you see the Weaver still there, barely alive, spirit drawn tightly within, only a hint of light escaping.
+
+Perhaps it is a prayer for some Tiny Being to trespass upon its sacred space so that it may feed. The Mind of a Weaver is, perhaps, best left undisturbed - strange things are sung of it.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: d9base
+
+The Sun is still young when you come across a most fascinating Lair. Suspended between Plants, swaying gently in the morning breeze, it bars your way forward with utmost eloquence.
+
+It is circles... many circles, circles within circles, like the Onesong which holds Earth and Sun and all worlds like small thoughts, soon to be forgotten.
+
+Droplets of water hang from the structure like tiny, fragile gems.
+
+At the center of it all, its spirit muted, almost scentless, rests a Weaver.
+
+You know the Weaver Tribe by reputation. Their Way is old, even by the standards of the Draak. Among Tiny Beings, they are feared Destroyers, but pose no danger at all to a great Kin such as you.
+
+Your path forward, however, is obstructed by this Weaver's trap-lair. Finding a way around would take effort - not very much, but some. The easiest way to continue is through. Surely, no beast of the Great Green would think twice before forging ahead... it would be madness to worry about every Tiny Being you encounter.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d9
+
+==============================
+Event: d9c
+
+You extend your Mind-song outward, searching for the Weaver's. It is very, very difficult for you to connect to its tiny consciousness, but finally, you feel something at the edge of the silence:
+
+<center><spider>hearthesongofmysoulhearthewordsofmyspirit
+
+<center><spider>alllifeisthecenterofitsownworldallhomesaretrapsindisguise
+
+<center><spider>thenumberofperfectionisfourandsixtysospeaksthegreenone
+
+<center><spider>asabovesobelowthisisthefirstandfinaltruthemblazoneduponallthings
+
+<center><spider>hearthesongofmysoulhearthewordsofmyspirit</center></spider>
+
+It repeats endlessly, over and over again. It hurts you, somehow, and you break off the thought-connection. The quiet comes as a relief.
+
+
+
+------------------------------
+> [Continue]
+  Go to: d9
+
+==============================
+Event: darktooth
+
+Standing near one of Darktooth's scent-marks, you have let out a Song of Annunciation, and after a short time, the elder Kin arrives. It settles its Body down among the hills like a low mist and waits for you to state your purpose. Naturally, any question must come with an appropriate payment.
+
+How shall you address the Elder?
+
+------------------------------
+> Great One, sing to me of the No-Tails. (2 pieces of treasure)
+  Go to: darktootha
+> Great One, sing to me of the Others. (1 piece of treasure)
+  Go to: darktoothb
+> Great One, sing to me of the Elements. (4 pieces of treasure)
+  Go to: darktoothc
+> Great One, sing to me of the Kin; what are we, and why are we? (2 treasures)
+  Go to: darktoothd
+> Great One, does existence continue after destruction of one's own Body? (1 treasure)
+  Go to: darktoothe
+> Great One, sing to me of Subtle Beings. (1 treasure)
+  Go to: darktoothf
+> Great One, sing to me of the strange, bright beings who sometimes Dance with the No-Tails.
+  Go to: darktoothg
+> Great One, sing to me of Enkindling. (3 Treasures)
+  Go to: darktoothh
+> Great One, sing to me of the Delvers. (2 Treasures)
+  Go to: darktoothi
+> Great One, what is the Greatest Being in the Onesong? (1 treasure)
+  Go to: darktoothj
+> Great One, I have found an interesting object.
+  Go to: darktoothk
+> Ask Darktooth about the blue fungus.
+  Go to: darktoothl
+> Great One, do you wish to trade?
+  Go to: darktoothm
+> Great One, I offer ten shiny things for a healing poultice. (10 treasures)
+  Go to: darktoothn
+> Great One, I offer ten shiny things for a wakeleaf. (10 treasures)
+  Go to: darktootho
+> Great One, I offer an artifact to aid in your gathering of knowledge.
+  Go to: darktoothp
+> Great One, may I leave your presence?
+  Go to: darktoothq
+
+==============================
+Event: darktootha
+
+<darktooth><bold>NO-TAILS</bold>... THE TAILLESS... SEED OF THE OTHERS... THE BROKEN CUSTODIANS.
+
+<darktooth>THEY ARE THE BEARERS OF MANY BLESSINGS AND MANY CURSES.
+
+<darktooth>CASUALLY, THEY SHATTER THE GREAT LAWS BY WHICH ALL BEASTS ARE BOUND, AND MANY OF OUR RELATIONS HAVE BEEN ENSLAVED OR DESTROYED, EVEN TO THE LAST ONE, BY THEM. THEIR MUSIC IS STRANGE, THEIR DEEDS UNFATHOMABLE UNLESS THEIR SECRET IS KNOWN.
+
+<darktooth>SUCH A SECRET CANNOT BE GRASPED BY YOUR INCIPIENT MIND. A MERE HATCHLING MUST NOT SEEK TO TEST ITSELF AGAINST THEIR FLYING CLAWS AND STONE FANGS. DESTRUCTION WOULD SURELY FOLLOW.
+
+<darktooth>IN TURNINGS TO COME, A YOUNG DRAAK MAY BETTER UNDERSTAND THEIR POWERS, AND PERHAPS BECOME WORTHY OF DEALING WITH THEM, FOR GOOD OR ILL.
+
+<darktooth>BUT THIS IS NEITHER THE TIME NOR PLACE FOR THAT. A WISE HATCHLING WOULD LEAVE HEARTBONE VALLEY BEFORE THE NO-TAILS DISCOVER IT. A FOOLISH ONE WOULD TARRY TOO LONG, LOSING ITS TREASURES AT LEAST AND PERHAPS EVEN ITS EXISTENCE.
+
+<darktooth>ONLY IN THE <bold><color #39cb60>GREAT GREEN,</color> </bold>WHERE THE TAILLESS FEAR TO TREAD, MAY ONE SURVIVE LONG ENOUGH TO SEE MANY TURNINGS.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothb
+
+<darktooth>THE MYRIAD TRIBES OF FUR, FEATHER AND SCALE, OF ALL THOSE WHO ADHERE TO THE TRUE WAY OF DESTRUCTION AND CREATION, WHOSE MINDS ARE CLEAN AND PURE: THESE ARE THE <bold>GOODBEASTS</bold>, OFFSPRING OF EARTH AND SUN.
+
+<darktooth>A WISE KIN WOULD RESPECT THEM ALL, FROM THE LEAST TO THE GREATEST, FOR THOUGH THEY ARE OF LESS POWER THAN WE, THEY ARE OUR RELATIONS, AND THEIR MUSIC IS IN HARMONY.
+
+<darktooth>THE <color #c090c9><bold>OTHERS,</color></bold> HOWEVER...
+
+<darktooth>THE OTHERS ARE THOSE WHOSE MUSIC IS DISSONANT, WHOSE WAYS ARE STRANGE BECAUSE THEY ARE NO LONGER, OR PERHAPS HAVE NEVER BEEN, CHILDREN OF THE GREAT GIVER ABOVE AND THE GREAT BIRTHER BELOW.
+
+<darktooth>THEY VIOLATE THE ANCIENT WAYS, HUNTING WITHOUT DESTROYING AND DESTROYING WITHOUT HUNTING.
+
+<darktooth>THEY ARE OF SEVERAL KINDS, BUT THEY ALWAYS CARRY A MARK OF THEIR OTHER-NATURE; A LACK OF SUCH THINGS AS GOODBEASTS HAVE, SUCH AS FEATHERS, FUR, SCALES OR EVEN TAILS.
+
+<darktooth>IF ONE IS UNFORTUNATE ENOUGH TO ENCOUNTER ONE, A WISE DRAAK WOULD BE CAUTIOUS, AND NEVER PRESUME TO KNOW THEIR MINDS OR THEIR STRENGTH.
+
+<darktooth>IT WAS THE OTHERS WHO, TURNINGS BEYOND TURNINGS AGO, OVERTHREW THE DOMINION OF THE DRAAK AND ENDED THE GOLDEN AGE.
+
+<darktooth>WHEN YOU HAVE SHED YOUR COPPER BIRTH-SKIN AND HAVE MORE FEATHERS IN YOUR CREST, PERHAPS YOU WILL BE WORTHY TO KNOW OF THE FALL, AND HOW THE OTHERS STIFLED THE GREAT MUSIC OF OUR PEOPLE UNTIL BUT A HUMMING WHISPER REMAINED.
+
+<darktooth>UNTIL SUCH KNOWLEDGE IS GAINED, ONLY A MOST FOOLISH HATCHLING WOULD DARE TO MEDDLE IN THE AFFAIRS OF THE OTHERS.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothc
+
+<darktooth>THE GREAT FOUR; AS YOUR LEGS UPHOLD YOU, SO DO THEY UPHOLD REALITY, AND CAUSE ITS MOVEMENTS AND ITS PROGRESSIONS.
+
+<darktooth>THEY COME INTO BEING THROUGH THE CIRCLE-DANCE OF THE COSMOS, FROM THE LONGING OF SUN FOR EARTH AND EARTH FOR SUN, AND OF ALL BEINGS FOR EACH OTHER. THEY ARE THESE:
+
+<darktooth><color #bab2c0><bold>AIR,</color></bold><color #9585a2> </color>BEARER OF SONGS, THE GREAT UPLIFT, ELEMENT OF SPEED AND THE MIND.
+
+<darktooth>IT RESISTS BOUNDARIES, INVISIBLE AND UNSTOPPABLE, SEARCHING ALWAYS FOR NEW WAYS. OF ALL THE FOUR, IT IS SWIFTEST AND MOST FREE.
+
+<darktooth><bold><color #e76969>FIRE,</bold></color> THE DEVOURER, THE HUNGRY ONE, ELEMENT OF DESTRUCTION AND POWER.
+
+<darktooth>WITHIN, FIRE IS THE SACRED LUST WHICH DRIVES ALL GOODBEASTS TO THE DANCES OF CREATION AND DESTRUCTION, THE WILL TO POWER, PRIDE, AND AMBITION; IN THE OUTER REALITY, IT IS THE BRIGHT DANCER, THE SEED OF WHICH WE CARRY WITHIN OUR CORES AND BREATHE OUT UPON OUR FOES.
+
+<darktooth><bold><color #549ef2>WATER, </bold></color>THE EVER-CHANGING ONE, SHAPESHIFTER OF THREE FORMS, ELEMENT OF HIDDEN THINGS, TRANSFORMATION AND THE SENSES.
+
+<darktooth>WATER IS THE VERY ESSENCE OF THE GREAT BIRTHER, WITHOUT WHICH SHE AND ALL OF HER HATCHLINGS, EVEN THE DRAAK, WOULD PERISH.
+
+<darktooth>WATER FLOWS RED WITHIN AND CLEAR WITHOUT, BUT IN ANY FORM IT SHIFTS AND CHANGES TO FIT ANY VESSEL.
+
+<darktooth>LEARN ITS TRUTH, FOR LIFE SHALL TWIST YOU INTO MANY SHAPES, AND UNLESS YOU ARE LIKE UNTO WATER, YOU WILL SHATTER.
+
+<darktooth><bold><color #3ae13b>EARTH,</bold></color> THE ENDURER, THE NURTURER, ELEMENT OF FORTITUDE, PATIENCE AND WHOLENESS.
+
+<darktooth>IT IS THE FLESH AND BONE OF THE GREAT MOTHER, STRENGTH OF THE MOUNTAINS AND THE LAND BENEATH OUR CLAWS, UNDYING, UNSHAKEABLE. IT MOVES NOT OF ITS OWN VOLITION, BUT REMAINS ALWAYS ITSELF.
+
+<darktooth>FROM IT WE LEARN TO BE STEADFAST, TO KNOW OURSELVES, AND TO BUILD UP OUR BODIES AND OUR TREASURE TROVES INTO UNASSAILABLE PEAKS BEYOND ALL DETRACTION.
+
+<darktooth>BOTH WITHIN AND WITHOUT, THESE ELEMENTS GUIDE, FACILITATE, CHALLENGE AND INSPIRE ALL BEASTS.
+
+<darktooth>TO KNOW THEM IN THE SELF, IN OTHER BEINGS, AND IN NATURE IS TO KNOW THE TRUE CAUSE OF EVERY EFFECT.
+
+<darktooth><bold><color #fb5959>FIRE</bold></color> DEVOURS <color #c9b9d4><bold>AIR; AIR</color></bold> DOMINATES<bold><color #6081ff> WATER; WATER</bold></color> DESTROYS <bold><color #f66e6e>FIRE;</bold></color> <color #5de16f>EARTH</color> STANDS ALONE, UNDESTROYED AND UNDESTROYING. LEARN THESE TRUTHS, AND IN ALL DANCES YOU SHALL BE ELEGANT AND POWERFUL.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothd
+
+<darktooth>IN THE BEGINNING, THERE WAS SUN, AND THERE WAS EARTH; IN A TRUE DANCE OF CREATION, THEY WERE ONE.
+
+<darktooth>WHEN THEY CAME APART, EARTH CARRIED A BURNING SEED WITHIN HER, AND IN THE FULLNESS OF TIME, BROUGHT FORTH LIFE, FIRST THOSE OF TINY, SIMPLE MUSIC, AND THEN A VAST SYMPHONY OF BODIES AND MINDS.
+
+<darktooth>AT LAST, SHE BIRTHED HER ULTIMATE CREATION: THE DRAAK-KIN, OUR PEOPLE, LIVING FULFILLMENT OF THE POWER OF EARTH AND SUN, TRUE CHILDREN OF ABOVE AND BELOW.
+
+<darktooth>OF ALL BEASTS, WE ARE THE CREST, THE CROWNING FEATHERS; HIGH AND BEAUTIFUL ARE WE. OUR FANGS ARE CRAFTED OF EARTH'S UNYIELDING SUBSTANCE, OUR BREATH GLOWS WITH THE POWER OF SUN.
+
+<darktooth>BY THESE GIFTS, WE BECAME THE BEARERS OF POWER, THE BEASTS BEFORE WHOM ALL OTHERS BOWED, AND ALL BEINGS WERE OUR PREY. THAT WAS THE GOLDEN AGE, THE TIME OF DOMINION.
+
+<darktooth>THEN CAME THE SKYFALL, AND ALL FELL TO RUIN, BUT THAT IS A TRUTH NOT YET FOR YOUR YOUNG MIND. KNOW ONLY THAT WE ARE THE GREATEST OF ALL THOSE WHO EMBODY THE MUSIC OF THIS WORLD.
+
+<darktooth>TODAY, FIVE CLANS OF THE DRAAK-KIN TRIBE REMAIN: YOUR CLAN, THE <color #18c728><bold>EMERALD KIN</bold>,</color> WHO DWELL MOSTLY IN THE GREEN;
+
+<darktooth>MY CLAN, THE<bold><color #4998f2> </color><color #3981d4>SAPPHIRE KIN</bold>,</color> WHO MAKE THEIR LAIRS IN THE BLUE, WHERE THE SPIRIT OF WATER IS SOVEREIGN;
+
+<darktooth>THE <color #d15050><bold>RUBY KIN</bold>,</color> WHO DWELL IN EARTH'S FLESH, CLOSE TO THE SECRET FIRE WITHIN HER BREAST;
+
+<darktooth>THE <color #bb77de>ONYX KIN,</color> SCIONS OF THE VOID, WHOSE WAYS ARE SHROUDED IN MYSTERY;
+
+<darktooth>AND THE <color #d7da97>CRYSTAL KIN,</color> OF WHOM VERY FEW REMAIN.
+
+<darktooth>LIKE ALL GOODBEASTS, OUR FUNCTION IS TO DESTROY OUR PREY, THEREBY PURGING EARTH OF EXCESSES AND IMPURITIES.
+
+<darktooth>BY FOLLOWING THIS GREAT WAY AND ENGAGING IN DANCES OF DESTRUCTION AND CREATION, WE BECOME STRONGER AND STRONGER, LARGER AND LARGER, UNTIL WE BECOME WORLDS OURSELVES AROUND AND WITHIN WHICH NEW AND MARVELOUS THINGS MAY BE.
+
+<darktooth>SO DO WE INHERIT THE LEGACY OF EARTH AND SUN.
+
+<darktooth>THIS IS BUT A SHALLOW ANSWER, GIVEN TO ONE JUST BEGUN. THERE ARE TRUTHS BEYOND THIS, BUT THEY CANNOT BE TRAPPED WITHIN SIGILS AND SIGNS.
+
+<darktooth>TRUE ENLIGHTENMENT IS NEVER GRANTED TO ONE BY ANOTHER. IT SLEEPS IN THE HEART, AND IS AWAKENED BY ITS OWN ECHO IN THE MIND.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothe
+
+You inform Darktooth of your meeting with the Lumberkin, and that it believed that its existence would continue beyond its own destruction. Could that be so?
+
+<darktooth>WHEN THE RHYTHM WITHIN IS SILENCED, THE BODY REMAINS FOR A TIME, AND THEN IS CONSUMED, BY TINY BEINGS IF NOT BY LARGER ONES. NOTHING REMAINS.
+
+<darktooth>STILL, ALL OF THE MANY DESTRUCTIONS AND CREATIONS OF THE SILENCED BEING HAVE LEFT EARTH FOREVER CHANGED. JUST AS ITS BODY WAS BUILT ON THE DESTRUCTION OF OTHERS, SO DOES ITS OWN DESTRUCTION BECOME THE LIFE OF OTHERS.
+
+<darktooth>IN SUCH WAYS, ALL BEINGS ARE TRULY IMMORTAL; THEIR ACTIONS DO NOT MERELY TRANSCEND TIME, BUT ARE ACTUALLY TIME ITSELF.
+
+<darktooth>SOME LESSER BEASTS ENJOY BELIEVING THAT THEY ARE INWARDLY DEATHLESS, THAT THE PARTS OF THEMSELVES THAT THEY LOVE WILL INVISIBLY ENDURE BEYOND THE SILENCE, BUT THESE ARE MERELY SELFISH GRASPINGS AFTER ETERNITY BY LIMITED BEINGS.
+
+<darktooth>LUST NOT AFTER SUCH FALSEHOODS. A WISE KIN LEARNS TO LOVE WHAT IS, AND NOT WHAT MIGHT BE.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothf
+
+<darktooth>SUBTLE BEINGS ARE THOSE WHO EXIST, AND YET HAVE NO VISIBLE BODY OF THEIR OWN.
+
+<darktooth>SOME, LIKE THE SPIRITS OF THE GREAT FOUR, WHOM WE CALL <bold>ELEMENTALS</bold>, ARE SHARDS OF A GREATER TRUTH TRICKLING DOWN THROUGH OUR REALITY.
+
+<darktooth>THESE ARE TO BE TREATED WITH GREAT RESPECT, BUT ALSO CAUTION, FOR THE TRUTHS THEY SOMETIMES POSSESS ARE SO POWERFUL THAT THEY CAN BREAK BOTH MIND AND BODY.
+
+<darktooth>SOME SUBTLE BEINGS ARE NOT EXPRESSIONS OF GREATER POWERS, BUT MERELY ECHOES OF DESTROYED BEINGS WHOSE MUSIC CAN STILL BE SENSED; THESE ARE CALLED <bold>GHOSTS.</bold>
+
+<darktooth>A GHOST HAS NEITHER BODY NOR MIND AND CANNOT LEARN OR GROW. IT IS LIKE A SCAR; THOUGH THE MOMENT OF INJURY IS LONG PAST, IT REMAINS BEHIND TO MARK THE SUNDERING-PLACE.
+
+<darktooth>ALL GHOSTS FADE AWAY, IN TIME, BUT THEY CAN MAKE PARTICULAR PLACES VERY UNPLEASANT UNTIL THEY DO.
+
+<darktooth>SOME SUBTLE BEINGS ARE SIMPLY <bold>ILLUSIONS</bold>; UNLIVING PHENOMENA WHICH SOMEHOW MIMIC LIFE. THESE ARE NOT TRULY BEINGS, BUT SOMETIMES EVEN THE DRAAK CAN BE FOOLED INTO BELIEVING THEY ARE.
+
+<darktooth>THE <bold>OTHERS</bold> ARE CAPABLE OF CREATING SUCH THINGS, WOVEN OF LIGHT AND SOUND BUT WITHOUT SUBSTANCE, AND SO THEY ARE COUNTED AS SUBTLE BEINGS, BUT ARE MORE ACCURATELY THOUGHT OF AS FALSE RATHER THAN SUBTLE.
+
+<darktooth>FINALLY, THERE ARE BEINGS WHO SWARM UNSEEN ABOUT US. TINIER THAN THE TINIEST OF TINY BEINGS, THEY CAUSE VARIOUS EFFECTS. SOME ARE HARMLESS, AND SOME BRING ILLNESS AND UNREST.
+
+<darktooth>THEY HAVE MANY NAMES, THOUGH THEY ARE COMMONLY KNOWN AS <bold>DIS-EASES.</bold>
+
+<darktooth>SOME LESS KNOWLEDGABLE BEINGS MAY SPEAK OF AN ILLNESS BROUGHT ABOUT BY A SUBTLE BEING, BUT IN TRUTH IT WAS BROUGHT ABOUT BY BEINGS SO SMALL THAT NOTHING COULD BE DONE TO STOP THEM.
+
+<darktooth>KNOW WHICH KIND OF SUBTLE BEING YOU FACE, AND PROCEED ACCORDINGLY.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothg
+
+After describing your encounter with the Brightlings, Darktooth responds to your request for advice:
+
+<darktooth>THOUGH NOT WHOLLY IGNORANT OF THEM, WE KNOW NOT ENOUGH OF THE ONES YOU CALL BRIGHTLINGS TO GIVE COUNSEL.
+
+<darktooth>IT SEEMS THAT THEY ARE SOME KIND OF OTHER, AND THAT THEY ARE SOMEHOW CONNECTED TO THE NO-TAILS, AND FOR BOTH OF THESE REASONS A YOUNG KIN WOULD BE WISE TO DEAL WITH THEM VERY CAUTIOUSLY.
+
+<darktooth>I SING THIS FOR MYSELF, FOR MY OWN AMUSEMENT... PAYMENT IS NOT REQUIRED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothh
+
+Darktooth's crest feathers lift slightly; though mild, it is the first time you have seen the Kin-Elder surprised.
+
+<darktooth>SUCH TRUTHS ARE NOT OFTEN KNOWN TO HATCHLINGS. SING TO ME OF YOUR KNOWLEDGE.
+
+After explaining your encounter with an Enkindled being and offering Darktooth three shiny things for its counsel, it is silent for a short time, as though considering how to respond.
+
+<darktooth>ALL BEINGS UNDERGO SUBTLE CHANGES FROM GENERATION TO GENERATION. THEY ARE REFINED, TRANSFORMED,</darktooth> Darktooth sings, the song measured and careful.
+
+<darktooth>IT IS POSSIBLE, BY SHARING ONE'S ESSENCE WITH ANOTHER, TO ACCELERATE THE PROCESS, INCURRING EONS OF FLOW-CHANGE UPON LIFE WITHIN A SHORTER SPAN.
+
+<darktooth>SUCH AN ACT NEVER CHANGES A BEING'S ESSENCE, BUT BOTH BODY AND MIND MAY BE DRASTICALLY ALTERED. NEW GIFTS MANIFEST, NEW WAYS OF EXPRESSING THE TRUTHS WHICH SLUMBER WITHIN.
+
+<darktooth>GREAT CAUTION WHICH MUST BE OBSERVED WHEN THIS SACRED POWER IS USED. THE HATCHLING BEFORE ME MUST GROW MUCH WISER AND MUCH STRONGER BEFORE MORE IS SAID.
+
+<darktooth>THIS SUN, ONLY THIS WILL BE SUNG: THE TRUE NATURE OF ALL BEINGS, FROM THE LARGEST TO THE SMALLEST, IS BOUND TO THE HEART OF THE ONESONG. BRINGING THESE FORTH IS THE ESSENCE OF ENKINDLING.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothi
+
+<darktooth>LIKE THE NO-TAILS, THE <bold>DELVERS</bold> ARE OTHER-SEED; OF THIS WORLD, AND YET ALSO NOT.
+
+<darktooth>THEY DWELL NOT WHERE THE BRIGHT SUN REIGNS, BUT DEEP WITHIN EARTH'S FLESH, IN THE HOLLOW PLACES THEY FIND OR MAKE THEMSELVES WITH THEIR STRANGE MUSIC.
+
+<darktooth>THERE, THEY SHINE THEIR OVERBRIGHT LIGHTS UPON EARTH'S MOST SACRED TREASURES AND RIP THEM OUT WITH SHINESTONE UN-FANGS OR ARTIFACTS WHICH SHAKE EVEN STONE APART WITH A HARSH RHYTHM.
+
+<darktooth>LIKE THE DRAAK, THEY STORE THEIR TREASURES IN VAST TROVES, THOUGH THEY DO SO FOR TWISTED AND IMPURE REASONS. THE RUBY DRAAK-KIN, WHO DWELL IN THE GREAT BELOW, OFTEN COME INTO CONFLICT WITH THEM FOR THE POSSESSION OF GREAT THINGS, AND THE ONYX KIN ARE THEIR SWORN ENEMIES.
+
+<darktooth>STILL, THEIR BEHAVIOR IS SLIGHTLY MORE PREDICTABLE THAN THE SURFACE NO-TAILS. A FEW WISE KIN HAVE BEEN ABLE TO MANIPULATE THE DELVERS, TRADE, OR EVEN ALLY WITH THEM, BUT SUCH THINGS ARE RARE.
+
+<darktooth>AS WITH ALL OTHER-SEED, GREAT CAUTION IS ADVISED IN DEALING WITH THE DELVERS UNTIL THEIR MUSIC IS FULLY COMPREHENDED. THIS ONE KNOWS THE SECRET OF THE DELVERS, BUT A HATCHLING CANNOT HAVE ENOUGH TREASURES TO BUY SUCH VALUABLE KNOWLEDGE.
+
+<darktooth>SEEK AND DISCOVER, BUT GENTLY; THAT IS WHAT A WISE HATCHLING WOULD DO ABOUT THE DELVERS.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothj
+
+Darktooth receives your piece of treasure, and then gently intones:
+
+<darktooth>THE STARS ARE HER SCALES.
+
+<darktooth>...
+
+<darktooth>...
+
+You wait for more, but the silence extends until you are certain that Darktooth intends to sing nothing more on the matter.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothk
+
+<darktooth>HAS A HATCHLING FOUND TREASURE OF AN UNUSUAL NATURE? FOR A PRICE, THIS ONE CAN SING OF ITS HIDDEN LORE.</darktooth> (This will cost 5 shiny things for each artifact you wish to learn more about.)
+
+
+
+------------------------------
+> Show Darktooth the Shinestone Bauble. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Crystal Fang. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Bloodstone. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Shakestick. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Obstinate Stone. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Lodestone. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Amber Circle. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the Refining Stone. (5 treasures)
+  Go to: darktoothk_select
+> Show Darktooth the False Face. (5 treasures)
+  Go to: darktoothk_select
+> Never mind...
+  Go to: darktooth
+
+==============================
+Event: darktoothk_select
+
+Darktooth casually sniffs the offered object and explains its origin and value. You are no longer ignorant of its true worth.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothl
+
+<darktooth>A PRESUMPTUOUS, TROUBLESOME THING.
+
+<darktooth>LIKE ALL FUNGUS, IT IS OTHER, UNRELATED TO THE PLANTS AND BEASTS BORN OF EARTH AND SUN. ITS DESCENT WAS BEFORE THE AGE OF RISING, WHEN AIR AND WATER WERE STILL WEAK AND FIRE WAS STRONG.
+
+<darktooth>WE HAVE LIVED IN RELATIVE HARMONY WITH THE FUNGI. SOME ARE EVEN BENEFICIAL.
+
+<darktooth>BEWARE THOSE WHICH EMIT THEIR OWN LIGHT OR HAVE STRONG COLORS, HOWEVER. THEY COULD BRING DESTRUCTION EVEN TO GREAT BEINGS SUCH AS WE.
+
+<darktooth>IF IT HAS TAKEN ROOT WITHIN, YOU MUST MAKE YOUR BODY INHOSPITABLE. <bold><italic>CERTAIN WARRIORS AMONG THE TAILBEAST TRIBE CARRY A DEADLY VENOM: CONSUMING ONE RAW WILL ELIMINATE THE FUNGUS FROM YOU.</bold></italic>
+
+<darktooth>THERE IS... ANOTHER WAY AS WELL, MORE CERTAIN AND IMMEDIATE, BUT ONLY A DESPERATE YOUNGLING WOULD WILLINGLY CHOOSE IT. THERE ARE TWO PRICES TO PAY: ONE OF TREASURE, AND ONE OF AGONY UNIMAGINABLE.
+
+------------------------------
+> Say that you will seek out a Deathbite Tailbeast and rid yourself of the unwelcome guest.
+  Go to: darktooth
+> Ask Darktooth to purge the Blue-Blight from your Body himself, expensive and painful though it be. (10 treasures)
+  Go to: darktoothlb
+
+==============================
+Event: darktoothlb
+
+<darktooth>PREPARING FOR THIS IS IMPOSSIBLE. MY ONLY COUNSEL:
+
+<darktooth>ENDURE.
+
+Faster than thought, Darktooth has pierced your flesh with its dark fang. The wound is tiny and shallow... it is obviously being gentle... and there is almost no pain, only a tiny bit of your Essence escaping. You wonder what agony it was talking about, and briefly entertain the possibility that you are extremely resistant to pain.
+
+AnD tHeN iT bEgInS.
+
+YoU bArElY hAvE TiMe To ReAlIzE yOu HaVe BeEn InJeCtEd WiTh ThE PoIsOn Of An ElDeR dRaAk
+
+ThE PaIn
+
+ThE PAIN PAIN PAIN PAIN PAIN PAIN PAIN
+
+YOUR SOUL IS WRITHING IN YOUR BREAKING BODY
+
+THIS SHOULD NOT BE
+
+THIS PAIN SHOULD NOT EXIST
+
+THIS WAS NEVER MEANT TO EXIST
+
+PLEASE DEATH COME COME DEATH COME FOR ME DEATH I LOVE YOU DEATH
+
+At last, you regain your senses. Darktooth is silent: there is nothing to sing. You are certain that poison, strong enough to kill the largest creatures of an age of titans, purged the fungus. Though it was just a tiny drop, it nearly wiped your very spirit from your Body.
+
+This cure came at a high, high price indeed.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: darktoothm
+
+Darktooth's tail slams against the ground hard enough to make your feathers puff out.
+
+<darktooth>TRADE.
+
+<darktooth>A YOUNG KIN SUGGESTS TRADE.
+
+<darktooth>WITH A BEING WHO HAS SEEN THOUSANDS OF TURNINGS, MILLIONS OF SUNS.
+
+<darktooth>DOES IT IMAGINE THAT IT COULD POSSIBLY HAVE ANYTHING WORTH BARGAINING FOR?
+
+<darktooth>AND YET... PRESUMPTION AND ARROGANCE ARE THE ENEMIES OF WISDOM.
+
+<darktooth>WE HAVE FAR MORE <bold>POULTICES</bold> THAN WE COULD POSSIBLY MAKE USE OF...
+
+<darktooth>AND PERHAPS A YOUNG KIN MIGHT FIND <bold>WAKELEAF</bold> USEFUL IN RESTORING ENERGY.
+
+<darktooth><bold>POULTICES</bold> ARE BUNDLES OF PLANT-SAGES, HERBS OF GREAT POWER, WHICH WHEN APPLIED TO TORN FLESH HASTENS ITS MENDING.
+
+<darktooth>THEY ARE BUT BY-PRODUCTS OF A RECENT EXPERIMENT. ELDERS AMONG THE KIN HAVE MORE... ELEGANT WAYS OF REPAIRING THEIR BODIES.
+
+<darktooth><bold>WAKELEAF </bold>HEALS AND FUELS THE ESSENCE, RATHER THAN THE BODY. SOME TAILLESS STEEP IT IN FLAME-TICKLED WATER TO PREVENT SLEEP AND PROMOTE VIGOR.
+
+<darktooth>A KIN, EVEN A YOUNG ONE, COULD SIMPLY EAT IT WHOLE TO GRANT A BURST OF ENERGY.
+
+<darktooth>BE WARY, HOWEVER. IT IS A POOR SUBSTITUTE FOR HUNTING, WHICH FEEDS THE WHOLE SELF, EVEN UNTO THE SOUL.
+
+<darktooth>BUT IF A YOUNG KIN WISHES TO GIVE SHINY THINGS FOR THESE, THERE MAY BE MUTUAL PROFIT.
+
+<darktooth>AND IF A YOUNG KIN WISHES TO OFFER UP A RESEARCHED ARTIFACT FOR TRADE, WE MAY BE WILLING TO PART WITH SHINY THINGS, IF IT SEEMS BENEFICIAL TO OUR STUDIES.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothn
+
+<darktooth>SO IT IS GIVEN.
+
+<darktooth>SO IT IS SEALED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktootho
+
+<darktooth>SO IT IS GIVEN.
+
+<darktooth>SO IT IS SEALED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothp
+
+Which researched artifact will you offer to great Darktooth?
+
+
+
+------------------------------
+> Offer Darktooth the Shinestone Bauble. (10 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Crystal Fang. (200 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Bloodstone. (40 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Shakestick. ({TREASURE_USES_SHAKESTICK>=1 100}{TREASURE_USES_SHAKESTICK=0 20} treasures)
+  Go to: darktoothp_select, darktoothp_select
+> Offer Darktooth the Obstinate Stone. (50 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Lodestone. (15 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Amber Circle. (10 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the Refining Stone. (10 treasures)
+  Go to: darktoothp_select
+> Offer Darktooth the False Face. (100 treasures)
+  Go to: darktoothp_select
+> Apologies, Great One. I was mistaken.
+  Go to: darktooth
+
+==============================
+Event: darktoothp_select
+
+Darktooth receives the artifact, then regurgitates a number of beautiful gems and shards of shinestone.
+
+<darktooth>SO IT IS GIVEN.</darktooth>
+
+<darktooth>SO IT IS SEALED.</darktooth>
+
+
+
+------------------------------
+> [Continue]
+  Go to: darktooth
+
+==============================
+Event: darktoothq
+
+Darktooth responds by taking to the Air; the Grasses of the field bow down low in respect as it beats its mighty wings. Soon, it is swallowed by the sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: demoendevent
+
+------------------------------
+> [Continue]
+  Go to: democredits
+
+==============================
+Event: dh_1
+
+Tailless hunters have been following your tracks.
+
+They are not yet near your Den, but you must find a new home in the Great Green before you are discovered.
+
+------------------------------
+> /EndEvent
+  Go to: LairUI
+
+==============================
+Event: dh_2
+
+The long, clawless pawprints of the No-Tails have appeared dangerously near your Den, and their scent is now in the air when you awaken each new Sun.
+
+If you wait very much longer, you are likely to be discovered. You should head towards the entrance to the Great Green.
+
+------------------------------
+> /EndEvent
+  Go to: LairUI
+
+==============================
+Event: dx1
+
+Here, the Tailless have built a kind of den for their Suncaller slaves. Finding them was not difficult; you only had to follow the unique cry of their Giver as the new Sun's light broke over the valley.
+
+Suncallers are deeply religious, and even in captivity they keep their tradition of sunrise canticles to the Great Giver above.
+
+They smell delicious... it is said that Sun's blessing upon their Essence makes them a clean and yet succulent meal.
+
+Defeating one should not be too difficult, but beware... the No-tails are unlikely to take kindly to your predation upon their flesh-property.
+
+Hunt a Suncaller?
+
+------------------------------
+> Yes.
+  Go to: HuntingBase
+> No.
+  Go to: dx1b
+
+==============================
+Event: dx1a
+
+{TEMP_HUNTS<4 Would you like to hunt another Suncaller?}
+{TEMP_HUNTS>3 Sun hangs low in the sky, signalling the end of this hunt.}
+
+/MasteryDisplay
+
+------------------------------
+> Yes.
+  Go to: HuntingBase
+> Retire for this Sun.
+  Go to: DayTransition
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx1b
+
+They smell so rich, so beautiful... and yet, the Tailless may hunt you more passionately if you feed from their servants. You decide to resist the temptation, at least for now.
+
+------------------------------
+> /EndEvent
+  Go to: HeartboneValley_Map
+
+==============================
+Event: dx2
+
+Here, the hills are being slowly nibbled barren by a multitude of furbeasts. Members of the once-brave Surefoot tribe, they are now the slaves of the No-tails, weak and servile, though their flesh remains savory and healthful.
+
+There are many, many of them here, mostly Birthers and hatchlings, and you could hunt here several times before their numbers grow thin.
+
+Around their necks, and in the stone walls that enclose them, however, they bear the mark of servitude which the Tailless have placed upon them. Attacking these slaves of the No-Tails may provide much food, but there may be consequences in the future.
+
+Hunt a Slave Surefoot?
+
+------------------------------
+> Yes.
+  Go to: HuntingBase
+> No.
+  Go to: dx2b
+
+==============================
+Event: dx2a
+
+{TEMP_HUNTS<4 Would you like to hunt another one of the No-Tails' slave-Beasts?}
+{TEMP_HUNTS>3 Sun hangs low in the sky, signalling the end of this hunt.}
+
+/MasteryDisplay
+
+------------------------------
+> Yes.
+  Go to: HuntingBase
+> Retire for this Sun.
+  Go to: DayTransition
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx2b
+
+Provoking the Tailless while still so small is probably unwise. Hunting free beasts, while less certain, carries less potential for trouble.
+
+You turn away from the enslaved Surefoots, at least for now.
+
+------------------------------
+> /EndEvent
+  Go to: HeartboneValley_MAp
+
+==============================
+Event: dx3
+
+You have drawn dangerously near to the No-Tail Hive.
+
+It is a cacaphony of sounds and smells - the strange barking of the enslaved Clansingers, the squealing songs of the Tailless hatchlings, and stranger, rhythmic striking sounds of shinestone on shinestone mix with the acrid smell of their oily skins, the dead beast-pelts with which they cover their Bodies, and the smell of the slain Trees from which they make their dens. It is like something from an evil dream.
+
+Somehow, they do not smell you, despite your nearness, and you doubt they could hear your footfalls through such a din, but their shinestone-clad, bronzefang-wielding Giver guardians look very dangerous.
+
+Stealth may be an option; If their eyes are as weak as their noses, you could risk slipping into their Hive and succeed.
+
+Your feathers are quivering... fear is resting in your throat, insistently advising that you stay away from these mysterious Other-Beings and their unknowable Way.
+
+------------------------------
+> Enter the dreaded No-Tail Hive.
+  Go to: dx3a
+> Attempt to set the Hive aflame with your breath.
+  Go to: dx3b
+> Stay where you are, and observe what you can from this place of relative safety.
+  Go to: dx3c
+> Leave now. <italic>(Your Core strongly supports this course of action.)</italic>
+  Go to: dx3d
+
+==============================
+Event: dx3a
+
+You have barely broken from cover when you are sensed - it seems that although Tailless noses are nearly worthless, their eyes are as good as yours, and perhaps even better.
+
+A shouting cry goes up and the Hive stirs with activity as No-Tail warriors rush at you, their false fangs clutched in their forepaws.
+
+If you stand your ground, you will face many of them, and you know not the secrets of their methods of Destruction - only that they Destroyed a fully-grown Kin on the day of your hatching.
+
+Stand your ground?
+
+------------------------------
+> Yes - show them the valor of the Draak-Kin!
+  Go to: HuntingBaseCombat
+> Run! <italic>(Your Core strongly supports this course of action.)</italic>
+  Go to: dx3escape
+
+==============================
+Event: dx3b
+
+You find an unguarded section of the dead-Tree barrier they have erected around their Hive and, after several long exhalations of your deadly flame-breath, the wood begins to catch.
+
+Very soon after, however, several No-Tail warriors descend on you, filling the air with their stone fangs, which they launch from bent sticks at high speed.
+
+Not even able to approach them for a proper Dance of Destruction, you are left with no choice but to retreat.
+
+When you are a safe distance away, you look back from a high place, hoping to see their Hive being consumed by Fire, but by cleverly transporting Water in containers and spreading it on the burning parts, they have annulled your flame, leaving only a little blackened Tree-barrier to mark your efforts.
+
+It seems that they are even more resourceful than you feared. At least you were able to improve your fire-breath skills this day. Hopefully, it was worth it - the Tailless will no doubt be hunting you after such a brazen attempt on their home.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx3c
+
+You manage to learn quite a few things of interest.
+
+The Tailless are indeed noseblind (or near to it) and have poor hearing, but their sense of sight is keen - the guardians see their fellows approaching from farther away than you could, and can even identify individuals at a distance, judging by their varied reactions.
+
+It gets far worse as the shadows grow long and Sun dies, however... they see well only in the light, and darkness is a weakness of theirs. They keep small flame spirits trapped on sticks to provide light as the land darkens.
+
+They seem to limit the activities of the young, the old, the sick, the wounded, and the Birthers, who are mostly confined to the dens. All of their warriors and laborers are Givers, who are given more freedom, it seems, in exchange for a much higher risk of Destruction.
+
+Their strange, chattering Songs are nearly endless. You can hear their voices constantly within the Hive. What could they possibly be communicating about for hundreds of heartbeats on end? Even more than singing featherbeasts and croaking greenleapers, the Tailless seem to love the sounds of their own voices, as though they fear Silence. They emit a strange panting ha-ha-ha sound occasionally, but you have no clue what causes it.
+
+Suddenly, you are in jeopardy - a No-Tail warrior's slave-beast, a degenerate Clansinger, has smelled you, and is singing an all-too-clear Song of Warning to its masters, who are moving to investigate your hiding place, weapons at the ready.
+
+If you stand your ground, you will face many of them, and you know not the secrets of their methods of Destruction - only that they Destroyed a fully-grown Kin on the day of your hatching.
+
+------------------------------
+> Yes - show them the valor of the Draak-Kin!
+  Go to: HuntingBaseCombat
+> Leave now! <italic>(Your Core strongly supports this course of action.)</italic>
+  Go to: dx3escape
+
+==============================
+Event: dx3d
+
+Yes - if destroying a No-Tail Hive were easy, surely other Kin would have done so by now.
+
+Their bizarre scents, sounds and movements are striking a terror into you such as you have never known, and fear is nearly making you lose control of your bodily functions. You wisely turn away from this probable invitation to suicide.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: dx3escape
+
+You catch one of their flying stone fangs which they launch from bent sticks in the shoulder, but you manage to get away alive.
+
+You would not dare approach the Hive again, at least not while still a mere infant of your kind. Perhaps some day...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx4
+
+Good fortune shines upon you this day! Nearby, you find the Silent form of an infant Woodstrider. It is unclear what Destroyed it... it has no wounds upon its tender, juicy Body... but its spirit is gone, its Rhythm Quieted forever.
+
+With neither chase nor Dance of Destruction, you have found yourself a tasty meal.
+
+What will you do?
+
+------------------------------
+> Consume the Woodstrider with gratitude.
+  Go to: dx4a
+> Leave it there.
+  Go to: dx4b
+> Examine it more closely.
+  (Hidden: If only you had more Air or Water affinity...)
+  Go to: dx4c
+
+==============================
+Event: dx4a
+
+Apparently, rumors of the delectable nature of Woodstrider flesh were not exaggerated. It is an excellent meal.
+
+There was something slightly... different about the taste, but overall it was a wonderful experience.
+
+------------------------------
+> /EndEvent
+  Go to: HeartboneValley_Map
+
+==============================
+Event: dx4b
+
+Your Core cries out to you; are you mad? This is a gift from Earth and Sun! Will you truly reject it?
+
+------------------------------
+> Yes; have none of it.
+  Go to: dx4bb
+> No; eat this delicious windfall.
+  Go to: dx4a
+
+==============================
+Event: dx4bb
+
+Ignoring your Core's protests, you turn and leave the strangely unmarred Woodstrider hatchling where it lies. When next you come back this way, it is gone.
+
+------------------------------
+> /EndEvent
+  Go to: HeartboneValley_Map
+
+==============================
+Event: dx4c
+
+It is somewhat odd that it bears no marks of battle, and though it is a bit scrawny, it did not die of hunger.
+
+Your keen senses detect some kind of swarm within it and around it, beings even tinier than the buzzing, armored Tiny Beings which share Earth with you. You decide to call them Very Tiny Beings, as they cannot be seen at all with the eye, only smelled, and then only vaguely.
+
+The discovery causes a kind of disquiet within you, though you know not why.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dx4
+
+==============================
+Event: dx5
+
+Your beautiful Body has come under attack by countless Very Tiny Beings.
+
+Entering you as you might enter another Kin's territory, they are marauding your inner world, breaking, polluting and poisoning your Essence.
+
+They did not even issue a formal challenge before their invasion. The entire affair is outrageously impolite, and made all the more frustrating in that you are unable to burn them or hunt them.
+
+You cannot even use your Mind to its regular extent; it is largely preoccupied in fighting the invisible interlopers.
+
+{QUESTIONABLE_MEAT=1 You cannot help but remember the questionable flesh you consumed a few Suns ago. You cannot be sure, but you have a sinking suspicion that it may be to blame.}
+{QUESTIONABLE_MEAT!=1 Your only solace is in knowing that you made the right decision by not eating the questionable flesh of a few suns ago. If this was caused by simply being near it, as you suspect, it would surely be far worse had you succumbed to the temptation.}
+
+You have little appetite, but perhaps some hunting might help your Body rally, or exploration re-stimulate your Mind.
+
+Your Core is telling you to stay in your Den and not move, but the No-Tails continuously draw closer to discovering you (not to mention the fact that you feel restless and irritable). Darktooth may be able to provide advice, but the trek to its territory will be laborious and its assistance is, of course, never free.
+
+What will you do?
+
+------------------------------
+> Remain in your den and do nothing for today.
+  Go to: dx5a, dx5a
+> Go out as normal.
+  Go to: dx5b, dx5b
+> Go and visit Darktooth.
+  (Hidden: You lack either the strength or the wealth to visit Darktooth.)
+  Go to: dx5c, dx5c
+
+==============================
+Event: dx5a
+
+You huddle down in your earthen sanctuary and sleep as much as possible, following the directives of your Core.
+
+You can only hope that this has given your internal forces some kind of advantage in the pitched battle raging inside of you. Perhaps resting more will help, though you feel awful.
+
+It turns out to be a wise decision, as the illness will now depart more quickly, but this is not how a mighty Draak should spend its Suns.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx5b
+
+You will not allow these Very Tiny interlopers to get in the way of your progress. You resolve to go out and continue your Life in spite of the difficulty.
+
+------------------------------
+> /EndEvent
+  Go to: LairUI
+
+==============================
+Event: dx5c
+
+Hauling your embattled Body over field, hill and stream, you finally come to Darktooth's territory. It appears after a short while, though your Song of Annunciation is rather lacking in volume.
+
+<darktooth>THIS ONE SMELLS DIS-EASE WITHIN A YOUNG DRAAK,</darktooth> Darktooth communicates in its usual sharply-glowing Mind-song. After making an appropriate offering, it elucidates:
+
+<darktooth>COUNTLESS BEINGS, TINY BEYOND PERCEPTION, SURROUND US AT ALL TIMES. MOST ARE HARMLESS, BUT A HOSTILE SWARM IS ATTACKING YOUR BODY.
+
+<darktooth>SHOULD YOU SURVIVE, YOU MAY ULTIMATELY LEARN HOW TO PREVENT SUCH INVASIONS, BUT FOR NOW, YOU ARE SUBJECT TO THEIR PREDATIONS. RESTING IN YOUR LAIR UNTIL YOUR BODY IS VICTORIOUS IS A SLOW BUT EFFECTIVE SOLUTION.
+
+<darktooth>ALTERNATIVELY, I COULD ACCELERATE YOUR RECOVERY, THOUGH IT WILL CAUSE SOME DAMAGE TO YOUR EXTERIOR.
+
+------------------------------
+> Thank Darktooth for its wisdom and return to your Den.
+  Go to: dx5ca
+> Ask Darktooth to accelerate your recovery. <italic>(This will hurt quite a bit, but the Dis-Ease will be gone.)</italic>
+  Go to: dx5cb
+
+==============================
+Event: dx5ca
+
+You slink back to your Den. Tomorrow is another day. You can rest, if you wish to follow Darktooth's advice, until the Dis-Ease is defeated, or you can ignore it and go about your business.
+
+Your Body will probably eventually rally on its own.
+
+Probably.
+
+------------------------------
+> /EndEvent
+  Go to: LairUI
+
+==============================
+Event: dx5cb
+
+You are slightly alarmed as Darktooth's head bobs - too late, you realize what it is about to happen - and then your Body is bathed in a torrent of flame. Though your scales are heat-resistant, they do not stand a chance against a fire such as this, and your feathers are alight, your eyes squeezed shut as you are bathed in screaming heat.
+
+Suddenly, you are doused, covered in a sticky mucus Darktooth spits on you to put out the flame.
+
+<darktooth>I HAVE BURNED THE INTERLOPERS OUT OF YOU. RAISING THE TEMPERATURE OF YOUR BODY HELPS TO DRIVE THEM AWAY. REST TODAY, AND YOU WILL BE WELL TOMORROW.</darktooth>
+
+Dazed and confused, you return to your Den, with considerable pain now added to the misery of your illness, but you find Darktooth to be ultimately correct: when the next Sun rises, the Dis-Ease is gone from your Body. Bathing in fire may be a drastic solution, but it is effective, at least for a Kin.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx6
+
+This shallow section of one of the two streams which divide Heartbone Valley into its namesake shape is full of Stones which have been smoothed and polished over many Turnings by Water's tender affections.
+
+Most are too dull and common to be of any real interest, but a very few of them are quite beautiful.
+
+You could spend a Sun or three here searching for worthy baubles to add to your trove. You will, of course, find fewer and fewer with each new search, as the high-quality stones grow harder and harder to find.
+
+Will you spend this Sun searching for rare stones among their thousand thousand common brethren?
+
+------------------------------
+> Yes.
+  Go to: dx6ac, dx6ab, dx6aa
+> No.
+  Go to: LairUI
+
+==============================
+Event: dx6aa
+
+The task threatens to become tedious, but the occasional rare discovery paired with Water's trickling song keeps you interested long enough to find 7 stones worthy of becoming part of your collection.
+
+Perhaps you might return another Sun for more, though the bounty will probably be reduced.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx6ab
+
+Finding rare and valuable stones is more difficult this time, and you find only four worthy candidates, though you do manage to make a snack of a slow-moving Waterbound swimmer as well.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx6ac
+
+You find only one stone truly worthy this time, and are quite certain that this place holds nothing else of import to a Draak-Kin.
+
+If you searched here for an entire Moon, which is more Suns than you have claws, you might perhaps find one or two more baubles, but the Tailless will come for you long before then. Shifting to another activity would be wise.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7
+
+This Sun, you have discovered a hidden outcropping of beautiful shinestone peeking through its mother-rock.
+
+This particular kind, called "silver", is of some worth, but you will need either a mighty fire within or some kind of helpful tool to remove it.
+
+What will you do with this mass of potential Treasure?
+
+------------------------------
+> Melt it from the rocks with your breath.
+  Go to: dx7as, dx7af
+> Use your teeth and claws to break it away one small piece at a time.
+  Go to: dx7bs, dx7bf
+> Use the Shakestick to extract the shinestone.
+  (Hidden: If only you had a special tool for this...)
+  Go to: dx7c
+> Leave it, for now.
+  Go to: HEARTBONEVALLEY_MAP
+
+==============================
+Event: dx7aa
+
+Returning to the shinestone-riddled mountain-wall, you see that there is a small amount left. Spend the day melting it loose and transporting it back to the den?
+
+------------------------------
+> Yes.
+  Go to: dx7aa1
+> No.
+  Go to: HeartboneValley_Map
+
+==============================
+Event: dx7aa1
+
+It is tiring, but as you pile more fire-refined shinestone into your trove, you feel that the effort was well-spent.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7af
+
+Your breath is fierce enough to make Plants bow down before you and cause Grass to catch flame, but this Shinestone, a hatchling of Earth Herself, is more stolid by far.
+
+You will need to grow the Fire Within more greatly before you can melt this. You are too exhausted to try again now, but at least this has been good practice.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7as
+
+It takes several mighty blasts, but your fiery breath burns like a shed scale of Sun himself.
+
+The shiny treasure-rock loses its hard shape and you manage to harvest much of it, though some remains.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7bb
+
+You could use your teeth and claws to rip a bit more of the shinestone out of this outcropping. It would take much effort, and probably a little pain. Will you?
+
+------------------------------
+> Yes.
+  Go to: dx7bb1
+> Not this Sun.
+  Go to: HEARTBONEVALLEY_MAP
+
+==============================
+Event: dx7bb1
+
+Earth yields up a little more of Her precious silvery flesh before the stones around it collapse, trapping the rest. Still, your toil was not in vain, and your trove has grown a little this Sun.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7bf
+
+You have learned a valuable lesson this Sun: the power of Stone to resist your Body is very, very great.
+
+Despite your impassioned scrabblings and a bloody claws, the shinestone remains maddeningly mated to the cliff face. One tiny chip is all you get for your efforts this day.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7bs
+
+It is a long and weary affair to break the jealous, miserly stone away from the precious treasure using the hard parts of your Body, and you injure yourself twice (one broken tooth and one split claw), but you do manage to get a few chunks of the treasure out. A very few.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dx7c
+
+You grasp the Shakestick in your maw, aim it at the shinestone and press the indentations with a foreclaw.
+
+The Air pulses with ripples like the disturbed surface of a pond, silent but still rattling your teeth, and the stone grasping the silver treasure is broken apart in shuddering fits right before your very muzzle, releasing chunks of its precious bounty.
+
+There is almost too much to transport back to your den... it takes you a few trips... but your trove has grown immensely this day. For a hatchling, you now have great wealth. You go to sleep atop the shiny mass and dream all night of how vast your treasure-holdings shall grow.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dz
+
+You smell them long before you see them, dread slowly making your feathers stand erect. You have tarried too long in Heartbone Valley, and now the No-Tails, enemies of your people, have found your home.
+
+Your sacred Trove has been violated; much of it has already been carried away, and two Tailless now guard your Den, awaiting the return of their brethren to take the last of your precious Treasure.
+
+They have not yet sensed you, and so retreat is still possible. What will you do?
+
+------------------------------
+> Abandon your home and Treasure and flee to the Great Green.
+  Go to: dza
+> Fight the No-Tails and reclaim what remains of your Treasure!
+  Go to: dzb
+> Distract the guards and take what you can, then flee.
+  Go to: dzcs, dzcf
+
+==============================
+Event: dza
+
+Your Essence burns within your Body... the No-Tails, those oily-skinned, Mind-warped Other-seed, have taken all that you have worked so hard to obtain. Though nothing in your nascent Trove compared to what an Elder might have, your pride as a Draak has been savaged.
+
+Still, Life is the greatest of Treasures, and they have not claimed that. You are wise enough to know that fighting the No-Tails here would accomplish nothing but a swift Destruction, and the wide world is still full of Treasure for the taking.
+
+You turn your back on your Den, reflecting with fire in your soul that if you but survive and grow great, you could return to this valley and burn the Tailless Hive to the ground. For now, though, your destiny lies elsewhere.
+
+------------------------------
+> /EndEvent
+  Go to: d12
+
+==============================
+Event: dzb
+
+Your Essence burns within your Body... the No-Tails, those oily-skinned, Mind-warped Other-seed, have taken all that you have worked so hard to obtain. Though nothing in your nascent Trove compared to what an Elder might have, your pride as a Draak has been savaged.
+
+This cannot be borne! The fireseed rises within your throat, and your Core calls upon you to burn these interlopers and take back what is yours. Your Mind, however, begs you to flee; Life is the greatest Treasure, and you will very likely lose that if you face the two Tailless here.
+
+Are you absolutely certain you wish to fight the No-Tails?
+
+------------------------------
+> Yes; it shall be my Destruction or theirs! There shall be no retreat!
+  Go to: HuntingBaseCombat
+> No. Flee this place, and Live.
+  Go to: dzbb
+
+==============================
+Event: dzbas
+
+Your Body will carry the scars of this battle for a long time, but you have triumphed over the Tailless guard, and the other flees. Entering the Den, you find that all of your lesser shiny things have been taken, but that the artifacts remain.
+
+You reclaim them, and no sooner have you swallowed them for safekeeping than you hear the approach of many more No-Tails. You are gone by the time they arrive.
+
+------------------------------
+> /EndEvent
+  Go to: d12
+
+==============================
+Event: dzbb
+
+You turn your back on your Den, reflecting with fire in your soul that if you but survive and grow great, you could return to this valley and burn the Tailless Hive to the ground. For now, though, your destiny lies elsewhere.
+
+------------------------------
+> /EndEvent
+  Go to: d12
+
+==============================
+Event: dzcf
+
+You attempt to draw one of the Tailless away from the site, but they are not fooled; though you rush at your Den with all of your speed, you are struck with one of their flying claws-on-wood and pierced by the Warrior's fang-on-a-branch as you enter the Den.
+
+You have time to take only one Artifact! Quickly; what shall it be?
+
+------------------------------
+> Take the Shinestone Bauble.
+  Go to: dzcf_choice
+> Take the Crystal Fang.
+  Go to: dzcf_choice
+> Take the Bloodstone.
+  Go to: dzcf_choice
+> Take the Shakestick.
+  Go to: dzcf_choice
+> Take the Obstinate Stone.
+  Go to: dzcf_choice
+> Take the Lodestone.
+  Go to: dzcf_choice
+> Take the Amber Circle.
+  Go to: dzcf_choice
+> Take the Refining Stone.
+  Go to: dzcf_choice
+> Take the False Face.
+  Go to: dzcf_choice
+> Nothing.
+  Go to: dzcf_choice
+> [DEATH]
+  Go to: death
+
+==============================
+Event: dzcf_choice
+
+You burst out of the Den, narrowly evading a piercing Destruction from the Warrior. As you blindly scramble away, however, you are caught by a trap set by the No-Tail Hunter! As you struggle to free yourself from the snare, the Hunter appears to Destroy you!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: dzcfs
+
+Stunned by the ferocity of your defence, the No-Tails retreat, flailing their upper appendages and singing shrilly. You break free from the snare and race coldwards to the only safe place left for you...
+
+------------------------------
+> /EndEvent
+  Go to: d12
+
+==============================
+Event: dzcs
+
+Cleverly, you cause a disturbance in the nearby brush, luring the Hunter away, then circle back around and swiftly charge into your Den. The Warrior follows you inside, and you have time to take only one Artifact!
+
+Quickly; what shall it be?
+
+------------------------------
+> Take the Shinestone Bauble.
+  Go to: dzcs_choice
+> Take the Crystal Fang.
+  Go to: dzcs_choice
+> Take the Bloodstone.
+  Go to: dzcs_choice
+> Take the Shakestick.
+  Go to: dzcs_choice
+> Take the Obstinate Stone.
+  Go to: dzcs_choice
+> Take the Lodestone.
+  Go to: dzcs_choice
+> Take the Amber Circle.
+  Go to: dzcs_choice
+> Take the Refining Stone.
+  Go to: dzcs_choice
+> Take the False Face.
+  Go to: dzcs_choice
+> Nothing.
+  Go to: dzcs_choice
+
+==============================
+Event: dzcs_choice
+
+The Warrior strikes at you, but you feint to one side, then another, and then flee the Den and away coldwards with the speed of Air itself until you are far away. There is only one place you can go, now.
+
+------------------------------
+> /EndEvent
+  Go to: d12
+
+==============================
+Event: memory_fang_act1
+
+The crystal is so large that it fills up your hatchling mouth, but you manage not to choke on it as you drift into the Dreaming...
+
+...
+
+Something is guiding you, pulling you along by your Essence. You see... something behind... reality? A portal?
+
+A swell of Earth, covered in Trees?
+
+A great Kin?
+
+You see so many things, but your young Mind can only comprehend so much. The hill you saw is certainly not in Heartbone Valley, and was that Draak...?
+
+Too much. Too much!
+
+Your distress has awakened you prematurely from the eddies of the Dreaming through which the Crystal Fang was guiding you.
+
+You remember some things, experiences which give you a taste of the power of an adult of your mighty kind...
+
+But there was more to be seen, you cannot help but feel. As you are now, though, you have learned all you can from this. Spitting out the shattered bits of crystal, you feel stronger than before.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================

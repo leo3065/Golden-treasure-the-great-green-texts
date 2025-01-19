@@ -1,0 +1,34 @@
+Event: nullreload
+
+Understood. Thank you, and again, we're sorry for the inconvenience.
+
+Would you like to try restoring from the most recent autosave or from a slightly older "safe" save? (We recommend reloading from the most recent save first. If you do so and wind up back here again, we recommend using the older one.)
+
+
+
+------------------------------
+> Reload from the most recent save.
+  Go to: saveloader
+> Reload from an older "safe" save state.
+  Go to: saveloader
+
+==============================
+Event: nullroom
+
+Welcome to the Null Room!
+
+If you're seeing this, it means that something has gone wrong. We try to test our experiences as well as we can, but we can't foresee every possibility, and we apologize for the inconvenience.
+
+We have generated an error log as a record (in Documents under GoldenTreasure/Logs, by default). By clicking "yes" below, you will be taken to a Google Form where you can upload your log file.
+
+We promise that we will take no data or information from you but the log, and that no personal information of any kind will be kept, stored, sold, lent, abused, fondled, made into hamster cage lining, used as target practice or anything else.
+
+Would you like to send us an error report?
+
+------------------------------
+> Yes.
+  Go to: nullreload
+> No.
+  Go to: nullreload
+
+==============================

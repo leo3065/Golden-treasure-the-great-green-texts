@@ -1,0 +1,1230 @@
+Event: fli
+
+<Allmother>THERE YOU ARE, MY BELOVED.
+
+<Allmother>I TASTE YOUR ESSENCE, HERE IN THE DREAMING.
+
+<Allmother>IT IS COOL, AND DEEP, AND SOOTHING.
+
+<Allmother>YES. YOU ARE READY, BELOVED.
+
+<Allmother>COME TO THE HEARTWOOD, SETWARD AND WARMWARD FROM YOUR LANDS.
+
+<Allmother>COME TO ME. ON THE FAR SIDE OF A NEW JOURNEY, TINY AND YET VAST...
+
+<Allmother>I AWAIT YOU, WITH A RARE TREASURE IN MY MOUTH.
+
+<Allmother><bold>COME.</bold>
+
+Upon awakening, you feel an uncomfortable dryness, as though you have been drawn out of an embracing, breathable sea against your will to a harsh and hot wasteland.
+
+Somehow, though, you now know of a place where Allmother, Last of the Crystal Clan, waits for you.
+
+------------------------------
+> /EndEvent
+  Go to: {LAST_LOCATION}
+
+==============================
+Event: fpi
+
+<MTB>YOU.
+
+<MTB>I FEEL YOU.
+
+<MTB>THE HEAT. THE LIGHT. THE BURNING.
+
+<MTB>COME TO THE FIRE-MOUNTAIN, THE FOURTH LAIR.
+
+<MTB>BE PREPARED TO TRIUMPH, AND GAIN MUCH.
+
+<MTB>BE PREPARED TO PERISH, AND LOSE ALL.
+
+<MTB><bold>COME.</bold>
+
+When you awaken, you somehow have knowledge of an island, far and yet near, where the Elder of Fire awaits.
+
+Even to dream of it filled you with pain and smoky-hot ambition. Dare you answer such a call...?
+
+------------------------------
+> /EndEvent
+  Go to: {LAST_LOCATION}
+
+==============================
+Event: fx1
+
+The sharp smell of fear paints the Air this Sun; No-Tails have come to the Spiritwood to gather Life.
+
+Most of the predators in your territory either hunt things too small to be of concern or take little enough that your personal diet is not deeply impacted.
+
+These new hunters, however, are different. Able to slay from a distance, they give their quarry no chance to run or fight. They visit frequently, and harvest many large goodbeasts each time.
+
+Some of your favorite hunting grounds will soon be affected. It would not be enough to ensure your starvation, but the wealth of prey to which you are accustomed may become a mere memory.
+
+On the other hand, the Tailless have long memories and are known to be unnaturally vindictive. Perhaps allowing them to continue this behavior would be less risky, though your Core and Essence both chafe at the prospect of allowing these outsiders to take from the bounty which sustains you and is rightfully yours.
+
+What will you do?
+
+------------------------------
+> Destroy them. (There are three, and they do not seem to be Warriors.)
+  Go to: HuntingBaseCombat
+> Drive them away, but let them live.
+  Go to: fx1b
+> Tolerate them, and allow them to hunt here.
+  Go to: fx1c
+
+==============================
+Event: fx1af
+
+It seems that the No-Tails are mightier than you believed. Your attack is repelled.
+
+Their victory is likely to embolden future incursions into your territory. They may also retaliate for your assault, despite its raw justice.
+
+You have, however, learned more of their Way by the encounter and have proven your courage in facing them. Perhaps, in time, you may have revenge.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx1as
+
+You have Silenced two, and the last, terrified by your justice, flees.
+
+Pursue?
+
+------------------------------
+> Yes.
+  Go to: fx1asa_skips, fx1asa_skipf, ChaseBase
+> No.
+  Go to: fx1asb
+
+==============================
+Event: fx1asa_skipf
+
+The agile Tailless has escaped. Its mastery of Air was greater than yours, and a potential meal has been lost.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fxasb
+
+==============================
+Event: fx1asa_skips
+
+The Tailless attempted to run away, but your Air-mastery gave you victory in the chase! Begin the True Dance of Destruction?
+
+------------------------------
+> Yes.
+  Go to: HuntingBaseCombat
+> No.
+  Go to: fx1asb
+
+==============================
+Event: fx1asas
+
+You have sent the invaders into the Void. You proceed to enjoy a lavish meal which joins them with their prey.
+
+Even if they did not live to return to their Hive, however, others of their kind may deduce what transpired here and seek to eliminate the threat posed by you.
+
+You may not have smelled the last of this.
+
+------------------------------
+> It can't be helped.
+  Go to: MainLair
+> Throw them off of your scent.
+  (Hidden: If only you knew more about the Tailless and their strange Way...)
+  Go to: fx1asasb
+
+==============================
+Event: fx1asasb
+
+Most Draak know little of the Tailless and their Way. You, however, are different.
+
+You begin by digging a large hole in the ground some distance away and bury the bodies there. Even if they find them, they will not imagine that a Draak would do something so Tailless as to bury empty shells.
+
+Then, near the place of their disappearance, you carve symbols into the Trees (with their permission) which resemble the shapes of the figures and faces you have seen the No-Tails bowing down before when carved on stones and other things.
+
+Your plan is a success. It seems they assume that, whatever happened to their hunters, it was the beings they worship who were responsible, and not only do they send no retribution, they avoid that part of the Spiritwood completely.
+
+You have defended your territory and sidestepped all consequence thanks to your unusual understanding of your opponents.
+
+Perhaps word will spread of your cleverness, but it is enough to know that you have ensured the health of your lands and your own prosperity at the same time.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx1asb
+
+You mercifully allow the last one to flee.
+
+Perhaps it will reward your mercy by advising others not to intrude on your lands, but it may also rally its kind against you. Only time will tell.
+
+For now, you enjoy a huge meal, both of the flesh of the Other-seed and of the Goodbeasts they had already taken.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx1b
+
+Your flame-belching and deafening Song of Challenge is enough to set the food-thieves fleeing away, leaving some of their gains behind.
+
+As there is no point in leaving the Goodbeasts' Bodies to rot, you enjoy a nice meal.
+
+Hopefully, they will be wise enough to inform others of their kind to look elsewhere for their prey. Time will tell, but for now, the Spiritwood is yours and yours alone.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx1c
+
+Though most Draak-Kin would intervene immediately, you decide otherwise.
+
+The Music of the Tailless is strange, and having seen your own Creator Destroyed by them, you know that they may do the same to you if you give them reason to.
+
+It hurts both your pride and your food stores to allow them this, but at least you have not done anything to provoke them. For now, you should be safe from their perilous abnormality.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2
+
+One Sun, you hear the crashing death-scream of one of the forest guardians, a mighty Tree which has stood for Turnings beyond counting near the boundary of the Great Green.
+
+It was not at all rotten or diseased, and as you cannot imagine why it would fall, you decide to investigate.
+
+Doing so reveals a strange truth: the No-tails are murdering Trees.
+
+Murder: a new idea which now comes to you, standing for Destruction without defense or consumption. A cold thing, where new strength and Life does not come afterwards but only a hollow space.
+
+One by one, holding shinestone void-envoys in their forepaws, you watch the No-tails Destroy healthy Tree after healthy Tree.
+
+Perversely, they ignore the old and brittle ones who cry out to be harvested and take only the vibrant, the unappointed.
+
+When they have murdered as many as their enslaved Grazers can haul away, they depart.
+
+You approach the root-sprawling foot of a proud and generous Tree you knew well, which is all the No-tails have left of it.
+
+It was home to many Tiny and Small Beings, and a beautiful Being in its own right, sprouting from the Earth and slowly, slowly building a righteous empire of flesh ever Sunward, stretching, reaching for the Light.
+
+Now, that centuries-old empire has been felled in mere moments. Silently, the stump screams, attempting in vain to understand its demise, calling out desperate questions with its fading soul.
+
+You know it will take many Suns for its suffering to end, and for it to attain true Quiet. The sweet, sweet scent of its sticky slow-flowing blood dances morbidly on your tongue.
+
+A sickness and a rage builds within your Core, echoing through your Essence. No Being eats Trees, and the Trees were not threatening the No-tails at all. Your voice joins that of the bereft stumps left behind: WHY?
+
+You soon learn that the incident is not isolated; regularly, the No-tails come to the boundary of the Great Green and murder the Trees, taking the Bodies away to their Hive and an unknown fate.
+
+What will you do?
+
+------------------------------
+> Attack the No-tails when they next come to do this bloody work.
+  Go to: fx2a
+> Attempt to frighten them away.
+  Go to: fx2bs, fx2bf
+> Accept this strangeness and allow it to continue.
+  Go to: fx2c
+
+==============================
+Event: fx2_1
+
+The ignoble Tree-slayers have returned.
+
+This time, two Warriors of their kind sporting shinestone secondskins and long, sharp falsefangs are keeping a close watch over the proceedings.
+
+It would seem that the Tailless are rather bent on continuing this behavior. You could, of course, simply allow them their desire...
+
+But this is happening increasingly often, and with each fallen Tree, your territory shrinks. The Goodbeasts which you hunt, having less space, may also grow fewer, in time.
+
+What will you do?
+
+------------------------------
+> Destroy the Life-thieves.
+  Go to: HuntingBaseCombat
+> Attempt to frighten them away.
+  Go to: fx2_1b
+> Allow them to do as they wish, for now.
+  Go to: fx2_1c
+
+==============================
+Event: fx2_1as
+
+Hiding behind stone skins was not enough to save these interlopers from the flames of your wrath. The others flee and do not return.
+
+Your territory is safe once again, though surely the No-Tails will remember this defeat. For now, though, you may feel proud in having fulfilled your duty as the living Fang of the Green.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2_1b
+
+Despite your putting on a brave display of your destructive capability, the Tailless Warriors are unfazed. Indeed, they seem to have been expecting it.
+
+Cautiously yet steadily, they move towards you, too-long falsefangs poking at your armor. Fight or flight are your only options.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx2_1bs
+
+Hiding behind stone skins was not enough to save these interlopers from the flames of your wrath. The others flee and do not return.
+
+Your territory is safe once again, though surely the No-Tails will remember this defeat. For now, though, you may feel proud in having fulfilled your duty as the living Fang of the Green.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2_1c
+
+All is within the Music; the No-tails' behavior must have some rational cause behind it.
+
+It pains you to sense the Tree-deaths, which afterwards you often do, and your territory is shrinking bit by bit as the No-tails chew away at the Great Green, but you decide to tolerate it, for now.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2_1f
+
+------------------------------
+> [EventLoad]
+  Go to: MainLair
+
+==============================
+Event: fx2a
+
+You do not need to wait for very long. Later that same Sun, the slaughter begins again, but before they have fully Destroyed even one, you are upon them like the wrath of Earth Herself.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx2as
+
+Stunned by the ferocity of your assault, the No-tails flee, leaving some of their death-tools behind. No more healthy Trees die that Sun.
+
+Satisfied that you have done your duty as guardian of the Green, you turn to other matters.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2bf
+
+The Tailless are surprisingly bold. Hooting and barking, they rally to defend their dread activity.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx2bfs
+
+Stunned by the ferocity of your assault, the No-tails flee, leaving some of their death-tools behind. No more healthy Trees die that Sun.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2bs
+
+You flow across the ground, belching fire and snapping your jaws.
+
+Seeing the shadow of Destruction in your sharp, sharp eyes, they flee in terror. The Green is safe once again, and you may turn to other matters.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2c
+
+All is within the Music; the No-tails' behavior must have some rational cause behind it.
+
+It pains you to sense the Tree-deaths, which afterwards you often do, and your territory is shrinking bit by bit as the No-tails chew away at the Great Green, but you decide to tolerate it, for now.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx2f
+
+Emboldened by their victory, the Tree-slayers continue their sweet-blooded harvest. It pains you to sense it, which afterwards you often do, and your territory is shrinking bit by bit as the No-Tails chew away at the Great Green.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx3
+
+A sting, in the darkness.
+
+You awaken, fragments of your interrupted dream falling down around you. There are no strange sounds or scents, just a tiny niggling pain in your upper neck.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3a, fx3a, fx3a
+
+==============================
+Event: fx3_2
+
+The Green is alive with the usual sounds; the singing of Tiny Beings, leaves brushing against each other gently in the breeze.
+
+Your enemy must be very skilled to tread the delicate surface of Night without disturbing it.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_2a, fx3_2a
+
+==============================
+Event: fx3_2a
+
+Your Clansinger retainers are not present; they are hunting far setward, near the Sea. Your enemy was either patient or lucky to attack in their absence.
+
+It is dangerous to face a lucky foe, and a patient one is even more deadly.
+
+Moon is thin and veiled. Your eyes will be of limited use. You flick your tongue out, tasting the wind...
+
+Small traces of Treetail and various small Featherbeasts linger in the air from Sun-time, and you can taste a few Tiny Beings of the night, laced with a bit of Shrieker drifting down...
+
+A denser smell: the tang of a Great Lumberer. That is no surprise... they often amble about in the darkness, hunting resting Woodstriders and smaller night-Beasts...
+
+And then it hits you, borne on a gust coming up from warmwards: No-Tail. At least one of the Tailless is nearby. Absolutely nothing else smells like that.
+
+But there is an even more interesting zest: the scent of a Kin. Certainly, that would be the biggest threat.
+
+This must be investigated.
+
+------------------------------
+> Follow the Kin-spoor.
+  Go to: fx3_3
+> Follow the No-Tail scent instead.
+  Go to: fx3_4
+
+==============================
+Event: fx3_3
+
+Making your way closer to the source of the Kin-scent, you descend into a heavily-wooded dell.
+
+The Trees crowd around, anxious to bear witness to your vengeance, no doubt.
+
+From the scent, it is an Emerald Kin, and hiding just inside this rather undignified hole. Your approach has been very quiet, and from downwind, of course.
+
+What will you do?
+
+------------------------------
+> Cautiously move in.
+  Go to: fx3_3a
+> Something is not right here...
+  (Hidden: If only your senses, governed by the Water element, were stronger...)
+  Go to: fx3_3b
+
+==============================
+Event: fx3_3a
+
+You approach the makeshift Lair from the side, focused on the interior. One step, then another, then another.
+
+PAIN. You instinctively pull back, but are caught, held by the paw.
+
+The thing holding you is like the skull of a Tailbeast, but never-alive, made all out of some strange kind of shinestone.
+
+It also seems to be coated with some kind of terrible venom.
+
+It is coming...
+
+------------------------------
+> Use your great strength to free yourself.
+  Go to: fx3_3aas, fx3_3aaf
+> Bite off your own digits to escape.
+  Go to: fx3_3abs, fx3_3abf
+> Turn and face your enemy.
+  Go to: fx3_3ac
+
+==============================
+Event: fx3_3aaf
+
+Despite your might, the shinestone refuses to yield. All you receive for your efforts is more pain and frustration.
+
+You are forced to face the horror.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx3_3aafs
+
+You have fought it off, but it was not defeated.
+
+It turns out that there was nothing inside the small den except a few feathers from a Kin you once knew: Flare.
+
+It is clear that they were placed here by another being, not a Kin. It was all a trap. There are no Draak-Kin here, save yourself.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3aas
+
+No shinestone confection can bind you. You wrench the trap to pieces with your mighty jaws and make a quick escape.
+
+This was a trap. How your enemy obtained something with a Kin's scent on it is unknown, but it does not matter. There was no Draak-Kin there at all.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3abf
+
+You begin to nibble at your paw, but the pain is excruciating. You cannot bring yourself to finish the task, and gain only suffering and a bit of self-knowledge from the attempt.
+
+You are forced to face the horror.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx3_3abfs
+
+You have fought it off, but it was not defeated.
+
+It turns out that there was nothing inside the small den except a few feathers from a Kin you once knew: Flare.
+
+It is clear that they were placed here by another being, not a Kin at all. It was all a trap. There are no Draak-Kin here, save yourself.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3abs
+
+It takes great resistance to both pain and vanity to disfigure yourself. Fortunately, wise Earth has been a good teacher.
+
+Determined to survive, you bite off the trapped parts of your paw quickly and cleanly. Fortunately, most of it remains, and you will endure. The lost parts may even grow back in time.
+
+Once safely away, it becomes clear: this was a trap. How your enemy obtained something with a Kin's scent on it is unknown, but it does not matter. There was no Draak-Kin there at all.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3ac
+
+You cannot see it clearly in the darkness, and it approaches from downwind. You have no idea what or whom you Dance with.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fx3_3acs
+
+You have fought it off, but it was not defeated.
+
+It turns out that there was nothing inside the small den except a few feathers from a Kin you once knew: Flare.
+
+It is clear that they were placed here by another being, not a Kin at all. It was all a trap. There are no Draak-Kin here, save yourself.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3b
+
+That scent... you have encountered it before. Turnings and turnings ago.
+
+It is...
+
+<flare>Flare.</flare>
+
+The young Kin who was first to challenge you after you won your stewardship over the Spiritwood. That is its scent. There is no mistake.
+
+But that cannot be. Flare was never heard of again after that, and either met its end or found a home so far away that not even a rumor of it reached you.
+
+The scent is a little too clean, nor is there any trace of the heavier scents that would be left behind if a Kin squeezed itself into this hole recently.
+
+Also, hiding in a hole and trapping one's Lair is distinctively un-Flarelike. That simple-Minded, bombastic Kin was never one for subtlety.
+
+This is a trap. How your enemy obtained something with Flare's scent on it is unknown, but it does not matter. There is no Draak-Kin here.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_3clue
+
+==============================
+Event: fx3_3clue
+
+{CLUES<1 This must all be the design of the Tailless, though it is alarming that they could devise such a thing. You turn warmwards, towards the threat.}{CLUES>=1 Both of the obvious clues led to traps, which leaves you with only one possibility.}
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_5, fx3_4
+
+==============================
+Event: fx3_4
+
+The source of the Other-scent rests here, at the end of this ravine. By the smell, at least one Tailless lies in wait.
+
+As you approach, a sudden stampede of Stones charges down the slopes at you from both sides: a trap, and mighty enough to cripple or even Destroy you!
+
+Can anything be done?
+
+------------------------------
+> Brace yourself for the impact: you will be hit, but the damage will be less.
+  Go to: fx3_4a
+> Dodge the falling Stones.
+  Go to: fx3_4bs, fx3_4bf
+> Use your great strength to grasp a boulder and use it as a shield.
+  Go to: fx3_4cs, fx3_4cf
+
+==============================
+Event: fx3_4a
+
+You know that there is no way you will avoid being hit by the avalanche. Wisely, you curl up into a ball, shielding your head and torso...
+
+Pain rings from every corner of your vast Body. The falling Stones were merciless, but you still live, and the damage would have been much worse had you not done what you did.
+
+Fighting your way free from the Stones, you discover a heavily soiled pile of used Tailless secondskins. It was nothing but a decoy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_4clue
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3_4bf
+
+Flight is impossible; the ravine is too narrow to spread your wings. You twist your Body this way and that, dodging the oncoming stones.
+
+Alas, one you did not see strikes you right on your head-crest, making your vision swim, and then a series of bone-crunching blows from above strike you one after another.
+
+You seem to have survived, but are very badly injured. Several pieces of your structure, including some of the small bones in your wings, have been shattered. The pain is immense.
+
+Fighting your way free from the Stones, you discover a heavily soiled pile of used Tailless secondskins. It was nothing but a decoy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_4clue
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3_4bs
+
+Flight is impossible; the ravine is too narrow to spread your wings. You twist your Body this way and that, dodging the oncoming stones.
+
+Dodging hundreds of falling Stones in the dark would be impossible for most, but you move with Air's own elegance.
+
+Slithering between the crashing rocks, you squeeze yourself beneath a small overhang within the ravine. Parts of you still get struck, but the damage is light.
+
+That was very close. This was a trap made to Destroy a Kin, and only your incredible speed and clear thought saved you.
+
+At the end of the ravine, you discover a heavily soiled pile of used Tailless secondskins. It was nothing but a decoy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_4clue
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3_4cf
+
+Lift an entire Great-Stone? A young Kin such as you? Can it be possible?
+
+Sadly, no. You only waste time trying, and the rest of them proceed to batter and half-bury you without mercy.
+
+You seem to have survived, but are very badly injured. Several pieces of your structure, including some of the small bones in your wings, have been shattered. The pain is immense.
+
+Fighting your way free from the Stones, you discover a heavily soiled pile of used Tailless secondskins. It was nothing but a decoy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_4clue
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3_4clue
+
+{CLUES<1 Only another Kin could be so clever. You know where to search next.}{CLUES>=1 Both of the obvious clues led to traps, which leaves you with only one possibility.}
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_5, fx3_3
+
+==============================
+Event: fx3_4cs
+
+Lift an entire Great-Stone? A young Kin such as you? Can it be possible?
+
+Summoning all of your deep rage at this cowardly attack and the strength of all of your inner fire, you seize the largest Stone and use it to shield yourself from its brethren.
+
+Your limbs burn, but you have decided that you will NOT perish here. You will show your enemy, whatever it is, exactly what it means to threaten one of the True Children of Above and Below.
+
+You have done it. For one so young to have accomplished such a feat of strength is almost unheard-of, but you have done it.
+
+Casting your Stone-Shield aside, you discover a heavily soiled pile of used Tailless secondskins at the end of the ravine. It was nothing but a decoy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_4clue
+
+==============================
+Event: fx3_5
+
+There was only one other scent.
+
+It is a Great Lumberer, and yet not a Great Lumberer. The scent is that of a greater Goodbeast, but it does not move like one at all.
+
+Before you can react, it flings a web of woven plant fibers over you. You can still fight, but flight and escape are now impossible.
+
+Only by Destroying this Not-A-Lumberer will you end the terror of this Night of Destruction. A Dance most grim begins.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fx3_5s
+
+You have won.
+
+The threat is over. You will live to see Sun again.
+
+It was a Tailless all along. All of the traps, all of the suffering came from a simple No-Tail.
+
+It even went so far as to bathe in the Essence of a Great Lumberer and wear its skin so that you would not suspect its true identity. Doubtless, your recent actions against the No-Tails caused this. It was their revenge.
+
+No matter. This wretched Not-Even-A-Beast dared to make a mighty Kin its prey. It is now helpless before you, and too badly wounded to survive.
+
+Its eyes, however, show no fear, nor even hatred. If anything, its look is one of acceptance and respect.
+
+You can only hope you never have the ill fortune of facing such a clever and strong-souled enemy again as long as you Live.
+
+How will you end this?
+
+------------------------------
+> Quickly and with little pain.
+  Go to: fx3_5sa
+> Leave it to a slow and agonizing end.
+  Go to: fx3_5sb
+> Hypnotize it, sending it back to its People with a false message.
+  (Hidden: If only you knew how to manipulate the Minds of others...)
+  Go to: fx3_5sc
+> Heal its wounds and let it leave in peace.
+  (Hidden: If only you had the power to heal wounds...)
+  Go to: fx3_5sd
+
+==============================
+Event: fx3_5sa
+
+The end is swift, as it should be. You will not stoop to the level of the No-Tails by indulging in something as shallow and pointless as cruelty.
+
+You do, however, take your time enjoying its Body once it is Quiet. That salty, oily taste is exquisite.
+
+By Sun-rise, the Great Green is abuzz with the news of how you survived an especially vicious attack from a deadly foe and feasted on its remains.
+
+Some say it was a Lumberer-spirit ripped from the Death-lands; some say it was a Kin in disguise. You feel no need to disclose the truth, but it is sobering that a mere Tailless brought you so close to Destruction.
+
+After chewing the flesh from it, you decide to keep its head-bone, with its strange, flat face, as a trophy.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx3_5sb
+
+It has been the revenge of its People; now, it is time for your own revenge.
+
+You will allow it to feel the horrible cold as its Essence ebbs away, the sharp inner claws tearing into its Mind as its Body cries out for help which will never come.
+
+Alone, far from any others of its People, it will perish in the Night. Those countless moments of excruciating pain will express your displeasure perfectly.
+
+By Sun-rise, the Great Green is abuzz with the news of how you survived an especially vicious attack from a deadly foe whose corpse is already being devoured by scavengers.
+
+Later, you revisit the site of its demise. Quiet and scattered, little remains. The Great Green is never wasteful.
+
+The head-bone, with its strange, flat face, remains relatively whole. You keep it as a memento.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx3_5sc
+
+You focus on its eyes, burrowing into them in search of the Mind behind them.
+
+It is strange and heavily veiled in darkness and Otherism, but at last you find it, and begin to imprint it with your Song, swaying your Body.
+
+<player>You have succeeded. The mighty Draak-Kin you pursued is no more.</player>
+
+<player>You have succeeded. Your People need no longer hunt the Draak of the Spiritwood.</player>
+
+<player>You have succeeded.</player>
+
+It takes quite a long time, as the Tailless' Mind is very, very strong, but eventually it forgets the truth and believes what you continually force it to picture.
+
+The Draak-Kin which enraged its people is Destroyed, it believes, and there is no further need to enter the Spiritwood.
+
+You carry it out of the Green and into the Tailless-infested lands. It will probably perish in a matter of Suns, but it should live long enough to pass on the deceptive message to others of its kind.
+
+Judging by the fact that no Other-seed come to Destroy you for a long time after that, it seems to have worked.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx3_5sd
+
+Though you are a Destroyer among Destroyers, you have learned the value of healing.
+
+Defying Tradition (and some would say Reason), you use your sacred True Song to save the Life of this being who tried to take the same from you.
+
+When it is fully healed, it rests on its knees and presses its flat forehead to the ground before you. It is a gesture of submission and respect, such as the Clansingers give to the mighty and great among their own kind.
+
+Once it can stand, it looks you in the eyes. It sings a mumbling Tailless-song which you cannot understand, but the meaning is clear: it regrets hunting you, and will never do so again.
+
+After this, it leaves the Great Green and never returns.
+
+In this harsh Reality, mercy is often repaid with vengeance, but not this time. Whatever tried to hunt you is happy to stay away, and judging from the pleasant reprieve from Tailless incursion which follows, it seems to have told others of its kind to do the same.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx3_6
+
+What is it that Destroyed you? Was it a Kin? Another Goodbeast?
+
+No... in your final moments, as your tormentor comes to end your life, you catch the vague scent of Other-seed. It is a Tailless, one which knew far too much about you.
+
+It knew just where to find you, knew your weaknesses. It painstakingly transformed your beloved wood into a horrible device of Destruction.
+
+As your Essence flows and your Mind fades, one last thought occurs to you: this was an act of revenge. It was your own transgressions against their kind which Created this end.
+
+
+
+------------------------------
+> [Continue]
+  Go to: death
+
+==============================
+Event: fx3a
+
+And then the COLD, dripping slow, outside your throat but inside your skin, flowing down.
+
+Your Core is turning to ice. You can barely feel your Body. Something is numbing you from within, a poison unknown.
+
+You twist, scraping your head against the wall until something falls away.
+
+A tiny claw. There is some kind of fluid on it which smells like a well-crafted insult to Life.
+
+This will not stand.
+
+------------------------------
+> Charge out quickly, to catch whatever did this before it escapes.
+  Go to: fx3as, fx3af
+> Creep slowly toward the mouth of your Lair.
+  Go to: fx3bs, fx3bf
+
+==============================
+Event: fx3af
+
+Fueled by rage, you flow quickly towards the cleaner air. As you pass out of the cavern, you just barely feel something catch on your foot...
+
+And too late, you see it coming down. There is no time to truly evade, but you manage to twist a little, shielding your head, and the tree-paw stabs you manyfold in the chest.
+
+Your Essence flows, dark in the near-blind night. Already you are wounded, and you have not yet even discovered your enemy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_2
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3as
+
+Thinking quickly, you race toward the mouth of your Lair. Your feathers are beginning to rise, but you keep your rage in check, holding your Body low, all senses open...
+
+Something catches on your foot, and a horror wrought of dead Tree swoops towards you.
+
+Air is your ally, however, and summoning all of its speed and ethereality you dash forward, diving low.
+
+The thing whistles behind you as it crashes down, but aside from a few feathers knocked askew, you are unhurt.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_2
+
+==============================
+Event: fx3bf
+
+Uncoiling yourself, you slide forward on your belly.
+
+Questions swirl around you, buzzing impatiently. What is happening? Would any being dare to attack you here, in your very Lair?
+
+Anger and fear Dance vigorously in your Mind, distracting you. You feel something catch on your paw as you near the exit...
+
+You freeze, hearing a sudden sound, and barely notice something swooping down on you from above.
+
+Moving slowly as you were, you are able to backstep slightly, but you still catch the deadclaws in your chest.
+
+Your Essence taints the Air with its scent, trickling down your feathered breast. You are already wounded, and have yet to even sense your foe.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_2
+> [Death]
+  Go to: fx3_6
+
+==============================
+Event: fx3bs
+
+Uncoiling yourself, you slide forward on your belly.
+
+Attempting to shove away the rage and fear building inside of you would only make them stronger.
+
+Instead, you breathe slowly as you creep, imagining your Mind being bathed in cool Water. It is dark, but all of your senses are open and clear.
+
+Even so, you just barely notice that some kind of strand, like a thick piece of Weaver-web, has been laid across your Lair-entrance a fang's height above the ground.
+
+Slowly and carefully, you step over it, arching your back so that your belly does not disturb it. Once you are well out of the way, you trip it with your tail.
+
+It is some kind of horror-arm, made of severed, sharp-twisted Tree-flesh.
+
+Had you not been moving with Water's own clarity and grace, those awful claws would be embedded in you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx3_2
+
+==============================
+Event: fx4
+
+This Sun is a healthful and agreeable; your armor and your Essence both are warmed by it.
+
+You stretch yourself out on your special Stone to absorb it properly and drift into a heatsleep...
+
+Physically, they are four, but they carry the Will of many, many more.
+
+Your transgressions against the Tailless and their Way has caused them to bring these against you. Not mere Warriors... these are Great Warriors, heroes of their People, honored in their Songs.
+
+Each has shed much Essence, both their own and that of others. With a chill, you read in their movements the firm belief that their quarry... you... is already Destroyed. The Dance, they believe, will be nothing but a formality.
+
+These are Draak-Slayers, something which should never have existed in this world.
+
+Already a Weaver-web of unknown fibers is over you. You will not be able to escape, but you can still fight.
+
+This is exactly how one of your Creators perished: webbed and bound, and then slaughtered by such as these.
+
+What will you do?
+
+------------------------------
+> Let the Dance of Destruction begin. You are strong.
+  Go to: HuntingBaseCombat
+> Communicate with them.
+  Go to: fx4b
+> Sing a True Song of Destruction.
+  (Hidden: If only you had completely mastered the Fire element...)
+  Go to: fx4c
+> Sing a True Song of Dominion.
+  (Hidden: If only you had completely mastered the Air element...)
+  Go to: fx4d
+
+==============================
+Event: fx4_exit
+
+------------------------------
+> [EventLoad]
+  Go to: MainLair
+
+==============================
+Event: fx4as
+
+You have done it. Through sheer skill and power, you have survived that which doomed your Creator.
+
+The Flatfaces have fled, and their leader wheezes its last red-misted breath as you roar out in triumph.
+
+Through your Song of Victory, all the Green will know that the Tailless brought their heroes against you, and you Destroyed them. The Song will be spread far and wide.
+
+Still, you suffered greatly in the Dance. It was not an easy victory by any stretch of the imagination.
+
+Many other Draak would have (and perhaps did) perish Dancing with such as these. You harvest both food and Treasure from the aftermath.
+
+Which of you was the monster, and which the hero? Sun above and Earth below are silent.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx4b
+
+You fix your gaze on the leader and are surprised when it replies to your Mind-song with relative ease. It has clearly conversed with Draak before.
+
+<shield>We are your End, mighty Draak. Your greed, your crimes against our People and the Gods, have doomed you.</shield>
+
+<shield>We do not make light of your strength. We know what we face. You shall fall, like the rest.</shield>
+
+<shield>May the Gods witness our Dance together, so that they may rejoice in having left us to tend this world, which is their Garden forever, and in which there is no place for monsters.</shield>
+
+That you, a True Child of Above and Below, are being called a monster by this late-come Otherseed would be humorous if not for the power of their conviction.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx4
+
+==============================
+Event: fx4b5
+
+You have done it. Through sheer skill and power, you have survived that which doomed your Creator.
+
+The Flatfaces have been defeated, and their leader wheezes its last red-misted breath as you roar out in triumph.
+
+Through your Song of Victory, all the Green will know that the Tailless brought their heroes against you, and you Destroyed them. The Song will be spread far and wide.
+
+Still, even you suffered greatly in the Dance. It was not an easy victory by any stretch of the imagination.
+
+Many other Draak would have (and perhaps did) perish Dancing against such as these. You harvest both food and Treasure from this.
+
+Which of you was the monster, and which the hero? The warm, gentle Sun and the Earth below are silent.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx4c
+
+Turning your gaze inward, you summon all of the Fire within you into your mouth. Your organs run cold and your spirit crowds between your teeth.
+
+Then, you open your maw, and let the True Song of Destruction ring out. Earth shudders as you unweave the very Essence of your foes before you.
+
+Though your enemies are veterans of many fierce Dances, they had no knowledge of such deep power as this, and no way to counter it. One by one, their Life-less shells fall to the ground, never to rise again.
+
+It is shameful to use such a sacred power as this against the slimy, flat-faced Tailless, and alarming that it was necessary.
+
+Does the Woodstrider gather its kind against a Lumberer? Dare a Longear challenge a Great Slideclaw? No, not ever, for they know their own Music. They know the Harmony.
+
+The deadly insolence of these No-Tails may be the End of Earth Herself.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx4d
+
+You stretch yourself up to your full height, and summoning all of the Air within you, begin to Sing.
+
+<player><color grey>I AM the pure Fire of Sun encased in a Body of Earth.</player></color>
+
+<player><color grey>I AM a master and guardian of this World, appointed by the subtle forces which shape flesh and Mind across infinite Time.</player></color>
+
+<player><color grey>I AM the Great Beast, carrying the Great Four in my Core, my Essence, upon the tip of my tongue.</player></color>
+
+<player><color grey>I AM The Sovereign Of The Great Green. BOW DOWN BEFORE ME.</player></color>
+
+They cannot perceive the realm of the Spirit. They cannot see how your puissant Essence is washing away their confidence, their self-knowledge, like the waves which crush even the mightiest rocks to sand.
+
+They do not know why they are compelled to drop their weapons and press their heads to the warm Grass. You almost pity them.
+
+Unable to Dance, they withdraw in confusion. You have cheated Destruction.
+
+That was, however, more difficult than you thought it would be. It cost almost all of your Energy, and you would be helpless if attacked now. Their Minds were stronger, less willing to bend, even than another Draak's would have been.
+
+Why? What gives them such power? You barely have time to wonder before you sink into torpor from the exertion.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx5
+
+Your lair is suddenly a place of gathering for thousands of Tiny Beings.
+
+These have only just become great enough to Create, and many are actively engaged in their intricate Dances thereof, and yet you notice that many are already going Quiet, their miniature, perfect Essences fading away into death soon after completing their Creative mission.
+
+You decide to call them Sunflies, as their adulthood seems to last only one Sun.
+
+As their Birthers fly off to various places in the Great Green to birth their eggs and then die, one of their Givers alights on your tail.
+
+It is exhausted, and already having trouble controlling its Body; it will soon lose its Rhythm and go Quiet forever. It sings to you with a humble, simple Song:
+
+<sunfly>Great Being, Great Being, how many Suns have you seen?</sunfly>
+
+When you reply that you have seen Suns beyond counting, the ephemerid sings:
+
+<sunfly>Great Being, Great Being, I wish I could see the Moon wax and wane, and taste for myself the winds of Autumn, when all is sweet, colorful decay, but it is not to be.</sunfly>
+
+<sunfly>I must follow the Music of my people, and leave my shell behind, flying beyond the air with my Essence into forever.</sunfly>
+
+<sunfly>But teach me, before I go Silent: is there more to the Onesong than the circle-dance of Destruction and Creation? Have you tasted, with your tongue of thousands of days, something Beyond, something which is outside the Two Forces?</sunfly>
+
+What will be your reply?
+
+------------------------------
+> Yes; you have witnessed the wonder of Compassion.
+  Go to: fx5a
+> Yes; you have discovered the power of Wisdom.
+  Go to: fx5b
+> No; there is only Survival, but that alone is enough.
+  Go to: fx5c
+> Eat the Sunfly.
+  Go to: fx5d
+
+==============================
+Event: fx5a
+
+In very gentle colors (because even your Song might destroy the ephemerid) you explain that you have touched upon the beautiful, imperishable soul of the Great Music, and you have seen how the Many are in truth all One.
+
+You have learned to see yourself within other beings, even in the Sunfly, and to share in their pain and their joy.
+
+You promise the Sunfly that its life was good, and right, and you bless the Sunfly in the name of the Onesong, which sees the end of all worlds and yet never, never dies.
+
+The Sunfly gives one last burst of Song, a tiny yet perfect note of wonder and gratitude, and goes Quiet. By the next evening, not one living Sunfly remains.
+
+Their joy and their pain was sweet as nectar and bitter as ashes. What a blessed curse, and a cursed blessing, is Compassion, you cannot help but think to yourself.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx5b
+
+While the Sunfly has, in its current form, only ever known a mad dash of Creation, you have learned of the roots which spread, invisible yet essential, down into the Void from the Tree of Life.
+
+You have learned to rise above the furor and the din and see the slow, deep Music which binds all things, both those with the Rhythm of Life and those without, into a finely-tuned Music.
+
+You speak to it of the wonders you have seen, the Treasures you have gained, of innocence lost and a greater humility bringing Wisdom to take its place.
+
+You sing of the far corners of the Great Green, and beyond, of lands the Sunfly has never and could never have seen. You sing of beings great and small, and of their many functions and dances and songs.
+
+And you promise the Sunfly that, in its single day of life, it has, by what it has done and what it has not done, changed the Onesong forever in a tiny yet indispensable way, and in the lives of those it has Created and the silence left behind by what it has Destroyed, it will live forever.
+
+The Sunfly emits a single, tiny sparkling note of wonder and yearning:
+
+<sunfly>How wonderful is Knowing... how wonderful... is.... Being...<sunfly>
+
+It never finishes its song, but only leaves behind its fragile, tiny shell as a testament, eloquent in its angular beauty.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx5c
+
+You sing to the Sunfly, telling it that Destruction and Creation are behind each and every act of each and every Being with the Rhythm of Life.
+
+And yet, you tell it, in this simplicity there is Truth, and Beauty; in the devouring of matter, there is a triumph, and in the Dances of life, there is joy, and in every breath there is Life, which is a true and precious treasure.
+
+You tell the Sunfly that it has done as it has done, and this has changed the world forever, and that this is the only immortality which it, or even you, may ever have.
+
+The Sunfly uses its last moments in a heroic effort to fly upwards, to see Sun above the trees one last time, to taste the fleeting feeling of being alive one last, precious time, but it does not succeed, leaving its fragile, tiny shell as one among many in the Great Green.
+
+Its question, though, remains on your Mind as you watch Featherbeasts and other Beings consume the still Bodies of it and its kin in the days afterward.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx5d
+
+It was like a tiny, tiny pebble of crunchy salt and mica on your tongue.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================

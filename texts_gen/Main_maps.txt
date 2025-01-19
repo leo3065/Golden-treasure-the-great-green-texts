@@ -1,0 +1,208 @@
+Event: greatgreenact2_map
+
+Yeeb
+
+------------------------------
+> [Lair]
+  Go to: MainLair
+> [DarktoothVisit]
+  Go to: g016, g016
+> [Labyrinth]
+  Go to: Backgrounds/GL4/MP_Manager, Backgrounds/GL2/MWW_Manager, gl1
+> [ggTailbeast]
+  Go to: HuntingGroundGenerator
+> [SacredGlenCenter]
+  Go to: g013_1, g013_1
+> [SacredGlenTreasure]
+  Go to: gt1
+> [ggPond]
+  Go to: HuntingGroundGenerator
+> [EventUnload]
+  Go to: 
+> [EmpireOfReedsWoods]
+  Go to: ge1
+> [EmpireOfReeds]
+  Go to: g010
+> [SkywardReach]
+  Go to: g011
+> [ggIbex]
+  Go to: HuntingGroundGenerator
+> [SkywardReachHills]
+  Go to: g004
+> [FourTailsHills]
+  Go to: gw1
+> [FourTailsWoods]
+  Go to: g002
+> [FourTailsTreasure]
+  Go to: gt2, gt2_1
+> [SplitDeepForest]
+  Go to: g005
+> [SplitBetweenRivers]
+  Go to: g009
+> [SplitRiverSource]
+  Go to: gd1_1
+> [PacklandsPond]
+  Go to: g003
+> [PacklandsLakeside]
+  Go to: gw2
+> [ggBoar]
+  Go to: HuntingGroundGenerator
+> [PacklandsWoods]
+  Go to: GW3_1
+> [DeepwoodClearing]
+  Go to: ge2, ge2
+> [DeepwoodDepths]
+  Go to: g008_1, g008_2, g008_3, g008_4, g008_5, g008_6
+> [DeepwoodSouthernEdge]
+  Go to: gd2
+> [RiversedgeWarden]
+  Go to: g012
+> [ggOx]
+  Go to: HuntingGroundGenerator
+> [RiversedgeWoods]
+  Go to: g014
+> [BarrowsForestEdge]
+  Go to: g006
+> [ggBison]
+  Go to: HuntingGroundGenerator
+> [BarrowsHills]
+  Go to: gt5
+> [TwinLakesHerb]
+  Go to: g007, g007c
+> [ggDeer]
+  Go to: HuntingGroundGenerator
+> [TwinLakesRiverside]
+  Go to: gt3, gt3
+> [GreatBlueEdgeCrater]
+  Go to: g015
+> [GreatBlueShore]
+  Go to: gt4
+> [ggAdvanced]
+  Go to: HuntingGroundGenerator
+> [HeartwoodEdge]
+  Go to: g017
+
+==============================
+Event: greatgreenact3_map
+
+Yeet
+
+------------------------------
+> [Lair]
+  Go to: MainLair
+> [Allmother]
+  Go to: fl_p, fl_pc, fl_r
+> [Pit]
+  Go to: fp, fp_1, fp_1a, fp_2, fp_2, fp_3, fp_3, fp_4, fp_4, fp_5
+> [SacredGlen]
+  Go to: f002
+> [EmpireOfReedsChallenge]
+  Go to: f003
+> [hgEmpireOfReeds]
+  Go to: HuntingGroundGenerator, HuntingGroundGenerator
+> [EmpireOfReedsHut]
+  Go to: f004_1, f004_2, f004_3, f004_4
+> [SkywardReachChallenge]
+  Go to: f012
+> [hgSkywardReach]
+  Go to: HuntingGroundGenerator
+> [SkywardReachHill]
+  Go to: f013
+> [Homestead]
+  Go to: f005
+> [Pasture]
+  Go to: f006
+> [Skirmish]
+  Go to: f007
+> [Funeral]
+  Go to: f008
+> [Festival]
+  Go to: f009
+> [Sacrifice]
+  (Hidden: {F5_VISITED This place is too close to the Hive for you to approach safely. Learn the Water-Art of Camouflage or increase your understanding of the Tailless to discover what lies here.})
+  Go to: f010
+> [HumanVillage]
+  (Hidden: {F5_VISITED This place is too close to the Hive for you to approach safely. Increase your understanding of the Tailless to discover what lies here.})
+  Go to: f011
+> [AncientRuin]
+  Go to: f014, f014, f014asa, f014s
+> [hgBoar]
+  Go to: HuntingGroundGenerator
+> [hgBison]
+  Go to: HuntingGroundGenerator
+> [hgDeer]
+  Go to: HuntingGroundGenerator
+> [hgAdvanced]
+  Go to: HuntingGroundGenerator
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: heartbonevalley_map
+
+Hofolojolof, me Lad
+
+------------------------------
+> [Lair]
+  Go to: LairUI
+> [Fireflies]
+  Go to: d2
+> [Spirit]
+  Go to: d3a, d3b, d3c
+> [Heron]
+  Go to: d5
+> [Deer]
+  Go to: d6
+> [Elves]
+  Go to: d8
+> [Wolves]
+  Go to: d7
+> [Spider]
+  Go to: d9base
+> [HeartboneExit]
+  Go to: d12
+> [DarktoothVisit]
+  Go to: darktooth
+> [RiverTreasure]
+  Go to: dx6
+> [HillTreasure]
+  Go to: dx7, dx7aa, dx7bb
+> [Labyrinth]
+  Go to: dl1base
+> [BadgerWarrior]
+  Go to: d4base
+> [Children]
+  Go to: d10
+> [Hut]
+  Go to: d1
+> [HumanVillage]
+  Go to: dx3
+> [Claypit]
+  Go to: d11base
+> [heartboneTreetail]
+  Go to: HuntingGroundGenerator
+> [heartboneMarsh]
+  Go to: HuntingGroundGenerator
+> [heartboneLongear]
+  Go to: HuntingGroundGenerator
+> [DeadDragon]
+  Go to: 
+> [Sheep]
+  Go to: dx2
+> [Chicken]
+  Go to: dx1
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: interactable_confirmation
+
+Would you like to investigate this area?
+
+------------------------------
+> Yes.
+  Go to: {NEXT_LOCATION}
+> No.
+  Go to: {MAP}
+
+==============================

@@ -1,0 +1,3024 @@
+Event: gd1_1
+
+After spending most of a Sun following various scent trails through the rich, warm Air (none of which led to food or Treasure, but the weather is so pleasant that it is difficult to care), you settle down for a brief nap.
+
+A nearby hollow's thick shrubs make fine bedding, and soon, your thoughts are unraveling, trailing off into the Dreaming.
+
+To your horror, however, you are confronted with a terrible vision: Fire, most violent and unpredictable of the Great Four, is sleeping here beside you. Somehow, you know that when it awakens, it will consume everything in its path without judgment or exception.
+
+Fire always goes where it wills, but this Great Fire which has not yet been born is a tragedy of massive scale. Even your own Lair and Trove may suffer. You see the overgrown Plants feeding it, making it stronger.
+
+Countless Trees are lost, infant featherbeasts are roasted in their own nests, and underground dens become tombs for those who could not flee in time.
+
+Those who do escape will be far from your territory, and finding your food will become nearly impossible. Starving, you pick through the bones of the Quiet in a Green turned Grey.
+
+A question arises in your Mind, though you fear you already know the answer: can nothing be done to prevent this?
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd1_2
+
+==============================
+Event: gd1_2
+
+Just as you are about to submit to the Fire and be purified into Silence with the other Goodbeasts, a Savior appears.
+
+You see it as only one Essence, but you know that they are many in Body: the Woodstriders, the Crowned, the Beloved-of-the-Green. Against the looming catastrophe, it stands alone yet unafraid and full of a living Power.
+
+As it charges the Fire-being, the world washes away, leaving you back in your own Body. What you saw was not physically real, but it was a Reality nonetheless. Was this a True Dream, whispered to you by a greater being... Earth, perhaps, or Sun?
+
+Or was it only Fear and Desire dancing in your Mind - in short, a common illusion?
+
+You resolve to...
+
+------------------------------
+> Ignore the dream, and never let it come to your Mind again.
+  Go to: gd1_2a
+> Hold on to the dream, and seek out its meaning.
+  Go to: gd1_2b
+
+==============================
+Event: gd1_2a
+
+Dreams are elusive and ephemeral things. You are too well-rooted and pragmatic to allow this to affect you.
+
+Perhaps what you saw was the future, and perhaps it was only a vision. Either way, you are not one to go wild-eyed and shadow-seeking; you will simply endure. There is only What Is, What Was and What Will Be, and you will live each day as yourself, nothing more or less.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gd1_2b
+
+Even if there is a possibility that this may be a hunt without prey, if indeed this was a True Dream then you are being called upon to take action.
+
+You are too young to know much of Dreams, but an Elder among the Kin may know more...
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gd2
+
+The ruins of Life, torn open and hollowed.
+
+The Woodstriders, beloved children of the Green, flayed, tortured, disemboweled while still living.
+
+Destruction must have been a blessing when it finally came. What would do this...?
+
+You will never forget the smell of this place, and the... Thing which has built this Lair-monument to Pain and Fear. It is one Body, and yet more than one Essence.
+
+The scents and spirit-traces of the Tailless and something like a Great Slideclaw are both strong here, but all of them are in agony and yet refuse to leave, bound like a bleeding wound upon What Is.
+
+You have never witnessed it before, and were not even sure it existed, but there is only one sigil which describes what you have found here:
+
+<bold>Evil.</bold>
+
+This... Thing should not exist. You can feel Great Earth's terror and deep outrage at its presence.
+
+It batters your soul, and you realize that you are trembling. You want to flee, flee far away and never return to this place.
+
+Will you...?
+
+------------------------------
+> YES. FLEE AWAY, FLEE FAR AWAY.
+  Go to: gd2a
+> Stay, and face this monstrosity.
+  (Hidden: Only those who know the Green Spirit or have a reason to face this evil can endure.)
+  Go to: gd2b
+
+==============================
+Event: gd2a
+
+You don't even remember the next several moments; your Body is moving on its own away from the Thing, away from That Which Should Not Be. When you can think clearly again, you are far away.
+
+Even the thought of returning makes your Core writhe. The Nightmare...
+
+------------------------------
+> /EndEvent
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gd2b
+
+In what may be the bravest moment of your Life thus far, you stand your ground. You attempt to send out a greeting, but it gets caught inside of you. Still, the Nameless Thing hears you, or perhaps smells you, and slowly turns to face you.
+
+<revenant>WELCOME to the HOME OF REBIRTH, honored Draak-Kin.
+
+<revenant>WE ARE the LAST who will be FIRST; the REMNANT which makes ALL THINGS NEW.
+
+<revenant>We APOLOGIZE, but we CANNOT GIVE UP any of the BODIES of our beautiful, shining PREY. They are NEEDED.
+
+<revenant>Still, if it AMUSES you, we shall SING with you; we are STARVING for conversation.
+
+What will you do? <italic>(You do not want to do this; you do not want to be here. It hurts.)</italic>
+
+------------------------------
+> Ask the... Thing what it is.
+  Go to: gd2ba
+> <italic>(Its Song is like claws slowly pulling you apart.)</italic> Ask it what it wants here.
+  Go to: gd2bb
+> <italic>(You do not want to know this. Please do not ask it.)</italic> How can one Body, one Essence, become another? How will the Thing resurrect those who are entirely Gone?
+  Go to: gd2bc
+
+==============================
+Event: gd2ba
+
+<revenant>We are the ESSENCE of the BLADEFANG PEOPLE. For TURNINGS beyond memory, our GREAT and PROUD people hunted and roamed in the land BEYOND the Great Blue.
+
+<revenant>We were WARRIORS without peer, who BATHED in the ESSENCE of our prey and our enemies. DESTRUCTION was our favored AMUSEMENT; we PAINTED the land with the INNER COLORS of many Goodbeasts.
+
+<revenant>Our FANGS were like TREES, piercing even the hides of the Great Longnoses, whose heavy feet SUNDERED Earth's flesh with every step.
+
+<revenant>We FEARED none. It is said that the FIRST OF OUR PEOPLE was so mighty it competed only with the DRAAK-KIN. It even SLEW a Kin who dared to CHALLENGE  it, though the Kin was strong and TORE the First's MUZZLE off before it was Silenced.
+
+<revenant>Now toothless, the First RIPPED out two of the Draak's mighty CLAWS and shoved them into its BLEEDING face, where they took root and became the GREAT FANGS for which we were known.
+
+------------------------------
+> [Continue]
+  Go to: gd2b
+
+==============================
+Event: gd2bb
+
+<revenant>We are... in the PROCESS of REBIRTH.
+
+<revenant>The GREAT BEASTS we hunted grew few as the land SHED its icy SKIN through many Turnings. SUN taunted us from the TOO-WARM sky, and we became BROKEN, DESOLATE, UNMANY.
+
+<revenant>At last, the TAILLESS, foul seed of the OTHERS, arose, Destroying our Longnose PREY, herding the LAST FEW of us warmwards.
+
+<revenant>In the end, ALL of the BLADEFANG PEOPLE were Destroyed. There were NO BIRTHERS, NO GIVERS, NO SIBLINGS, NO TRACE of the Music of our GLORIOUS and VIOLENT Way.
+
+<revenant>The LAST OF US was DESTROYED by the NO-TAILS, and the FINAL SILENCE descended upon us. We were CALLED BACK to the SOURCE, to cold INFINITY...
+
+The Thing grips its stained falsefangs tightly and grinds its teeth.
+
+<revenant>But we WILL NOT FOLLOW! The SONG of the BLADEFANG PEOPLE shall NOT PERISH FROM EARTH.
+
+<revenant>When the LAST was DESTROYED, the ESSENCE of all our people CLUNG to the Tailless warrior who Silenced us, FILLED this TWISTED FLESH-LAIR with all of our HATRED, our DISOBEDIENCE, our REFUSAL TO FADE AWAY.
+
+<revenant>We FORCED this Body to seek out the SPIRITWOOD, the HEART OF THE GREAT GREEN, where the HARD LAWS are WEAK, and HIDDEN THINGS are STRONG. Even the GREAT BLUE we have DEFEATED, CROSSING over it by coldward ice-paths.
+
+<revenant>The TAILLESS Essence remains within us, but WE HAVE THE MASTERY NOW. We shall TURN this Body, TWIST it into ONE OF US, a BLADEFANG, and our PEOPLE will RISE AGAIN!
+
+------------------------------
+> [Continue]
+  Go to: gd2b
+
+==============================
+Event: gd2bc
+
+<revenant>ALL THINGS ARE POSSIBLE for those with the WILL to DEFY the Great Powers. We have REJECTED Earth and Sun, and CURSE them for allowing THIS to befall our GREAT PEOPLE.
+
+<revenant>We are FILLED with INSPIRATION to MAR and BREAK what has come before. We have learned to find AMUSEMENT in SUFFERING, JOY in the CONFUSION of our prey as we slowly PEEL THEM APART, without and within. We will MERGE and FILL this vessel, and be REBORN.
+
+<revenant>We have had some SUCCESS; by REPLACING THE SKIN of this Tailless abomination with that of one of our RELATIONS, we BEGAN THE PROCESS of REMAKING it into one of US.
+
+<revenant>Still, its Body and Essence RESIST us. We have done many DARK DANCES, many SCREAMING SONGS to break the Laws of Reality, and complete our REBIRTH.
+
+<revenant>One HOPE alone remains. The PUREST ESSENCE, that of the WOODSTRIDERS, can serve to complete our HOLY CHANGE. But...
+
+Suddenly enraged, The Thing shatters a nearby Woodstrider skull with its paw-fang.
+
+<revenant>They DEFY us! We cannot HOLD their Essence! First the Givers, then the Birthers, then the Young...
+
+<revenant>We have STRIPPED them all of flesh, but their TRUE ESSENCE SLIPS through us, turns to dry crust on our paws, on the ground. They beg us with DESPERATE EYES to STOP, that what we wish is IMPOSSIBLE, but we ignore their PLEAS, their LIES.
+
+The Thing shows all of its teeth. It is supposed to be a gesture of joy, which makes it all the more awful.
+
+<revenant>But do not FEAR, noble Kin. We WILL be REBORN. With TIME, and much ESSENCE. So very MUCH Essence, so VERY, VERY MUCH...
+
+You can no longer bear it. The Earth beneath your feet seems to be wailing.
+
+This is worse than the Tailless, a violation of a truer Law even than Destruction and Creation. Both of those great and noble forces are being tortured and mocked here.
+
+You could simply Destroy this abomination, but it is no longer a Tailless nor a Bladefang, and you have no idea whether you are powerful enough to defeat it.
+
+You have heard, however, that there are special defenses against beings such as this, whom Reality itself hates. You may know where to begin, but it will take many Suns.
+
+But this must end. Simply by existing, this Thing is staining the Land. Earth must be healed. You are Her mighty offspring, and know this in the depths of your Being.
+
+What is your decision?
+
+------------------------------
+> Challenge the Thing to a Dance of Final Destruction. You will lay its people to rest yourself. (This is very dangerous, but also effective, and may spare you some time.)
+  Go to: gd2bca
+> Go on an Essence-Quest to discover how to banish this Thing to the Void. (This will take three Suns.)
+  (Hidden: If only you had found the home of the Great Spirit of the Green...)
+  Go to: gd2bcb
+
+==============================
+Event: gd2bca
+
+As the Song passes from your Mind to its, delivering a Last Challenge, you know that this is the right thing to do, and yet you are shivering, terrified.
+
+The Thing responds by making barking "ha-ha-ha" sounds from its borrowed throat.
+
+<revenant>AMUSING. Yes, this is DESTINY. You were SENT here, that we might take the STRONGEST ESSENCE of all; the ESSENCE OF THE KIN, and COMPLETE ourselves!
+
+<revenant>FLOW RED AND WARM! LET US BATHE! LET US DANCE!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gd2bcb
+
+You retreat from that place, and make your way to the Heart of the Green, where the Spirit dwells. Letting your Body sleep but your Mind soar, you beg the Spirit for a sign. How can the Thing be separated and undone?
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2bcba
+
+==============================
+Event: gd2bcba
+
+It takes three Suns, but at last your preparations are complete. You have searched for several things which may help, have meditated in the Deep Green and Danced under the stars to prepare yourself for this ordeal.
+
+Now, you must return to the Cursed Lair.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2e
+
+==============================
+Event: gd2e
+
+The Thing is still there, trying vainly to extract the noble Essence of the Woodstriders from their tormented Bodies. You use a sacred substance which flows from Earth itself (called "salt") to put up a barrier, protecting yourself from the toxic Spirit.
+
+Imbibing certain secret things, you open up your Essential Eye, which sees what is hidden, and cross over to the Shadow of the world, the Hidden Land.
+
+You can now smell and touch the very Essence of the Bladefang People. All that they are or have ever been is exposed, naked before you.
+
+How will you use this Moment?
+
+------------------------------
+> <color #b2b2b3>Sing a True Song to put the cursed spirits to Rest once and for all.</color>
+  Go to: gd2ea
+> <color #f84e4e>Consume the Possessors with your Spirit-Fire.</color>
+  Go to: gd2eb
+> <color #387afb>Swim into the Sea of Spirits to find their Hidden Heart.</color>
+  Go to: gd2ec
+> <color #229f3e>Heal and cleanse the Spirits.</color>
+  Go to: gd2ed
+> Take all of the dark spirits into yourself. (Though your Essence is protected, this will do terrible things to your Body, and is only a last resort.)
+  Go to: gd2ee
+
+==============================
+Event: gd2ea
+
+The spirit of Air whispers to you the Truth of what lies here. You know that if you can properly Name it, it will obey you. You gather up your Essence and begin a True Song:
+
+<player>Essence of a Great People,
+Warriors all, fierce and strong,
+Sun was proud to sire you, and Earth to bear you.
+
+<player>Fearless you were in Life,
+Challenging the mighty, consuming the weak.
+You took the flesh of the Greatest into you, and it was Good.
+
+<player>Now, you are lost on a dark journey,
+And though you think that this path
+Is one of Bravery and Strength, you are wrong.
+
+<player>This is not the Courage of the Bladefang People
+Which inhabits this Tailless Body and twists it
+But only Fear, only Cowardice.
+
+<player>The Fear of the Void
+Lies in every Goodbeast, even the Draak.
+But by your Fear-Beyond-Fear, you have become Hollow and Empty.
+
+<player>Remember the Courage of your People.
+Remember that this cowardly Thing is not you.
+Your true self rests now; this is only a scream of panic made True.
+
+<player>The memory of the Bladefangs
+Will live on, always.
+You have changed this world, your footsteps moulded Earth's flesh.
+
+<player>Become, one last time, a true Warrior,
+And face your Fear, and overcome it.
+Show Earth and Sun your true strength,
+For this is FEAR, and THIS IS NOT YOU.
+
+With the spirit's tenacity and boldness revealed as nothing but Fear of the End in disguise, the mask falls away and it at last remembers itself. The Bladeclaw People were Warriors, and great Warriors do not fear the End.
+
+Slowly, the spirit of the Bladeclaws raises its head to look at Sun, and slowly it begins to separate, peeling away from its No-Tail host and rising.
+
+<revenant>We remember. At last, we remember what we are.
+O Sun, honored Father, and Earth, honored Mother,
+We return now to You, our Eternal Home.
+
+Countless spirits rush out of the beleaguered Body, chasing Sun as it sinks on the horizon. When Moon rises, it whispers down to you:
+
+All things pass away...
+
+And then it is over.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2s
+
+==============================
+Event: gd2eb
+
+To burn it away; ah, to burn it away! This Thing is screaming for release, for purification. But you have no Fireseed here in the spirit world. Can your flames help you now?
+
+You call out with your Mind to the holy Fire within your Essence, and then you see it, floating within you like shining strands of dawn-red.
+
+You begin to gather them together, strand after strand of crimson, and like a webcrafting Weaver you spin it into a fabric, spilling out of your mouth.
+
+Rage and anger fade away as you pull more and more Fire out of your Core and into your jaws. For this one moment, you will give it all up, let all of your Fire flow out of you, so that it can Dance in this place beyond Time.
+
+The Thing realizes what you are trying to do and assaults you, trying to rip apart the strands, but it only burns itself.
+
+It then begs you to stop, not to sentence it to the Lonely Silence which awaits those with no inheritors, but it must be cleansed, and you do not listen.
+
+At last, you open your mouth and let all of the Fire within your spirit move as it wishes. It leaps forward, devouring the legion of spirits inside the Tailless.
+
+The Thing Dances and writhes, singing a piercing Song, but it cannot escape.
+
+You comfort it in its final moments: Be at peace. Your people were Warriors. You were once True Children. Remember, and return.
+
+All of the spirit-strands are burned in the Fire, turning red and escaping upwards and into the Sky, reaching toward Sun...
+
+And then they are gone.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2s
+
+==============================
+Event: gd2ec
+
+This is not truly the Bladefang People. It cannot be its True Identity. You pause, steeling yourself, and then you dive into the maelstrom of evil like an ocean.
+
+You swim through cold lamentations and hot curses. Your spirit undulates, slithering gracefully forward, undaunted.
+
+There are vast empty darknesses in which the pain of starving to death, which was the fate of most of the Bladeclaws, is relived again and again.
+
+You are forced to experience the death of Hope, relive the agony of watching cubs die because there was nothing for them to eat. And still you move forward.
+
+You relive their confusion as the Tailless arrive in their lands and trap them, violating ancient rules of the Hunt.
+
+At last, you come upon the heart of this Sea of Despair. It is surrounded by a boiling ring of Rage, which tries to convince you that it is the true center, but you are not fooled. You push through it (though it burns you terribly) and find the still lagoon where the Truth rests.
+
+At the center, you find a mewling cub, floating in the darkness. Piteously, almost without hope, it is calling for its Creator, mewling weakly for salvation, for aid. This is the Truth: these bravest of all Goodbeasts, who feared nothing in Life, are afraid of the End.
+
+You take the tiny cub and embrace it to yourself, cradling it in your chest-feathers and licking it affectionately. <player>Please</player>, you whisper. <player>You are hurting yourself. Go home, where you belong, and where there is no Fear, but only Rest.
+
+The tiny thing was so desperate for consolation, for affection. It mewls to you; it is still afraid. You comfort it, telling it that it is not alone. You are with it, and you will remember.
+
+Slowly, the cub begins to fade away, and without its heart the troubled sea is no more. Delusion has been washed away, and the Thing begins to flow upwards and out of its stolen Body. With Fear no longer holding it down, it can at last go Home.
+
+When Sun dies that day, the mighty Bladefang People are truly gone, never to return, having at last remembered who they truly were.
+
+They were <bold>Warriors</bold>.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2s
+
+==============================
+Event: gd2ed
+
+All of the Destruction and pollution caused by the Thing is occurring for only one reason. You are strong enough to endure what must now happen.
+
+You ask, clearly and calmly, why they are hurting so many, why they are staining their Great Mother with darkness and poison.
+
+<revenant>Because they are to blame! Sun and Earth changed, and took everything from us! The Tailless Destroyed our Last! They are to blame! Let them suffer! Let them all suffer!
+
+<player>No</player>, you state simply and clearly. <player>That is a Lie.
+
+The spirits rail against you, assault you in every way they can, but you are like a snow-capped peak, unmovable, indifferent. You let their bitterness crash against you again and again, and endure, and ask again: why do you do this?
+
+<revenant>It is not our fault! We have not failed! We <bold>cannot</bold> fail! We are the bravest and strongest of all Beasts! This cannot be our fault! Stop doing this to us! Do not question our righteousness! We are the victims! It is not our fault!
+
+They attack you again, and again, and again and again you calmly weather the storm, calling on the Earth within you. Why are they doing this? Why? You do not let them escape the question.
+
+<revenant>Please stop. Do not make us look at this, do not make us smell the Truth. We cannot be near it.
+
+<revenant>It freezeburns, it sickens us. Have mercy on us, and do not make us understand. It is much better to be ignorant, to believe that we are right.
+
+Still, you hold on. Why, you ask? Why?
+
+<revenant>We are Warriors, and Warriors do not fear anything. We have faced Draak in our might. We are not cowards. We are not.
+
+For the last time, you ask the Question, and with no shadows left to hide within, the Answer arrives at last:
+
+<revenant>Because... we are Afraid.
+
+This at last is the Truth, and having reached it, the spirits begin to release their hold on Reality and rise. Like a lost cub, they feared Destruction and railed against it.
+
+They had disguised the true cause of their actions, even to their own Minds, by calling it justice and revenge, but it was never anything more than Fear, and now they remember... Bladefangs do not Fear.
+
+Finally, the last of the unclean spirits rises, purified into the Air, and the Tailless Body they plagued collapses.
+
+You close your Essence-Eye and return to normal Reality. Sun is dying, painting the Green gold, and you sing a last benediction for the fallen Bladefangs:
+
+<player>They were warriors. Brave, brave warriors.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2s
+
+==============================
+Event: gd2ee
+
+It is the opposite of breathing fire; you blow out all of the still spaces in your spirit in one long exhalation and then, bobbing your head, you suck in the Air of this place, the Essence, everything, taking it all into yourself.
+
+As the Thing realizes that you are pulling the Bladefang spirits away from its unwilling host, it thrashes, lashing out at you with its spirit-talons.
+
+It continues fighting even as it enters into you, and you feel yourself being carved, your Body breaking down.
+
+The pain is beyond Song, and Destruction offers to take you, but you cling to Life, to Hope, to the sight of another Sun...
+
+When the last tendril of the Bladefang spirits loses its grip on its Tailless host, it falls into your deep and wide Essence, flails about piteously, and begs for your help.
+
+They do not want to perish, do not want to be gone from the Onesong forever, to have no descendants to continue their Music. But you are firm, and give them nothing else onto which they may hold.
+
+As the last of them fades away, they curse Earth, and then Sun, and finally you, and then all is silent.
+
+You collapse. Your Body is almost destroyed, leaking red Essence from many places, and the final curse has become a Dis-ease inside of you, but the Rhythm of Life is still yours.
+
+The strain of the final battle was too much for the No-Tail vessel. It now lies Silent.
+
+Terrible prices have been paid, but you are victorious.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2s, death
+
+==============================
+Event: gd2s
+
+The Unclean Ones are gone. Where there was once a Thing, a Tailless Giver lies here, unconscious. Its Body and Essence are once again its own.
+
+But what to do with a lone No-Tail on the edge of the Great Green...?
+
+------------------------------
+> Destroy and consume it.
+  Go to: gd2sa
+> Leave it alone, and depart.
+  Go to: gd2sb
+
+==============================
+Event: gd2sa
+
+There should be nothing left, nothing at all of what was once here. You Destroy the Other-seed in its sleep, painlessly, and take it into yourself so that it will not pollute the Land.
+
+Had it awakened, it would have had to face what it had become, what it had done. Great, great are you in your mercy and kindness.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2ss
+
+==============================
+Event: gd2sb
+
+When it awakens, the No-Tail leaves. Even as bizarre and Other as the Tailless are, you hope that this one has no memory of what happened here, what happened inside of it. Truly, no being should suffer so.
+
+This entire affair was a tragedy, but at least you have ended it. Perhaps the No-Tail will survive and rejoin its kind, or perhaps it will be Destroyed by the Great Green.
+
+Either way, you have rescued it from a terrible fate, and set it back on the Great Circle where it, and everything, belongs.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd2ss
+
+==============================
+Event: gd2ss
+
+It is over. At last, it is over. You leave that Lifeless hollow, never to return.
+
+The Bladefang People are now gone. What you did was right, and good.
+
+You bathe your whole Body in a pure spring of Water to purge yourself of the horrible pollution. It is quite some time before you feel clean again, inside.
+
+You may never fully understand what happened in that place, but there are some things which are better left Unknown.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gd3
+
+The Stain has been removed, but still you dream of Fire feasting on the Green, of hunting-grounds burned away and a land left desolate.
+
+One night, as you are exploring along the warmward boundary of the Spiritwood, you sense it.
+
+You cannot see, hear or smell it, but you know that it is there.
+
+You are in the presence of the Spirit of the Woodstrider People. It is small and weak, in the shadow of far greater beings, and yet it is...
+
+Altogether beautiful.
+
+It gently holds the future of the Great Green in its mouth. Without it, the Fire will come, and the Destruction shall be great.
+
+It Sings to you, with a Song beyond both words and sigils. What it Sings must not be blasphemed by attempting to reproduce it, for it is of such tenderness that it would shatter if it were forced to stand in any one place for very long.
+
+But it is waiting. it must be called, called by its true nature, its true title, its One True Name.
+
+How shall you address it?
+
+------------------------------
+> As a Thrall. Threaten it with Destruction if it does not obey.
+  Go to: gd3a
+> As a Warrior. Command it to fight for the Green.
+  Go to: gd3b
+> As an Equal. Request that it join with you in protecting What Shall Be.
+  Go to: gd3c
+> As a Sovereign. Humble yourself before it, and admit that it is Greater than you.
+  Go to: gd3d
+> Refuse to debase yourself; leave without receiving the aid of the Woodstriders, but with your Pride as a high Kin intact.
+  Go to: gd3e
+
+==============================
+Event: gd3a
+
+It MUST serve; it MUST enter your lands and prevent disaster. Countless lives depend on it.
+
+Filled with confidence and urgency, you show off your sharp talons, your cutting teeth, your powerful Body, your burning breath. It cannot resist you. You will Destroy it if it refuses to enter.
+
+It does not move. Your song grows fierce, your tail lashes. Still it does not reply, looking at you with something akin to pity.
+
+Outraged, you call up the fireseed and shout a hot but brief fire over it, not enough to kill, but enough to singe fur and show your great power...
+
+And yet, impossibly, you are the one who is burned. As your flames touch its face, it is your own muzzle which is burnt, your own crest-feathers charred, your own neck in agony.
+
+With a single look, it imparts the Truth; it, and not you, holds the true power to save the Green.
+
+If you destroy it, you harm only yourself, as do all who do harm to Those Who Serve.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd3
+
+==============================
+Event: gd3b
+
+As you are the Kin who owns this territory, you are its Lord and Guardian; by your own authority, you command the Woodstrider People to enter in and fight against misfortune.
+
+You praise their strength and bravery, but remind them that you are the rightful ruler of the Spiritwood, heart of the Great Green, and it is their place to obey you.
+
+You point out that Reality has made some stronger, and some weaker. You, a mighty Draak, are attempting to guard the forest from danger; surely, lesser races must also do the same if even you are willing to bend to the task.
+
+The spirit of the Woodstriders, however, does not move. They do not consider themselves Warriors; they do not risk their Bodies for the good of any one place or people, as Warriors do. It is not red Essence which they take and give.
+
+That is, at least, as close as you may get to translating its response into crude sigils, and doing even that much feels unworthy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd3
+
+==============================
+Event: gd3c
+
+Politely, you ask the spirit of the Woodstrider people to help you prevent a tragedy. Both of you are Guardians, each in your Way; you are not greater than it, and it is not greater than you.
+
+Silently, it gazes at you. Uncountable numbers of its People have given their very flesh so that others may live; it has felt the pain of being torn limb from limb and devoured by creatures such as the Draak for thousands upon thousands of Turnings before you were hatched.
+
+Great Greens for eons have been tended by their People, even by the spirits of their People before they took on these Bodies, and never have they asked for any reward.
+
+Instead, they have only given more, and more... more flesh, more Time, more frozen winters watching over the Green.
+
+This is not being imparted in sigils, but in sensations and Deep Knowledge. You feel the pain of breaking and frozen flesh, suffered for more Turnings of Earth than there are leaves in the Great Green, or drops of Water in the Great Blue.
+
+It remains unmoved. Silently, it accuses you of still not seeing the Woodstrider people for who they truly are.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gd3
+
+==============================
+Event: gd3d
+
+Surely, that was an error...
+
+You do not truly mean to debase yourself before a mere furbeast, do you?
+
+
+
+------------------------------
+> I do.
+  Go to: gd3da
+> Of course not.
+  Go to: gd3
+
+==============================
+Event: gd3da
+
+There is no Kin upon the Great and Giving Body of Earth who would openly admit that a furbeast, even a whole Tribe of them, is superior. That CANNOT be true.
+
+Submitting in such a way to even another Draak, no matter how strong, would be a stain upon one's honor and reputation for the rest of one's days. None would do the Dance of Creation with such a weak Kin.
+
+Are you truly willing to be called Servile, and Debased, and other terrible Names merely to save some unvoiced Trees and lesser Beasts from Fire, beings who would perish from Time's predations if not to honorable Fire?
+
+------------------------------
+> No; I will not do what they wish of me. I will leave, and take my Dignity with me. They shall do or do not, as they will.
+  Go to: gd3daa
+> Yes, I will do what others will not.
+  Go to: gd3dab
+
+==============================
+Event: gd3daa
+
+You will never be bullied into lowering yourself, certainly not for furbeasts such as these. They may be beautiful, but they are prey, and possess neither Minds nor Bodies which can match yours.
+
+Even if there will be a Great Fire, you will never sacrifice this Truth: the Kin are the greatest of the Children of Heaven and Earth.
+
+You hope that your Dream was just a dream, and that the calamity which you witnessed will not occur. Perhaps the Woodstriders will enter your realm, and perhaps they will not. You will survive, regardless.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gd3dab
+
+The Spirit of Dignity whispers in your ear:
+
+<color purple>In the Chamber, which was made of Love, before you emerged into this world you were taught that the Kin are the Greatest of the Children of Earth and Sun.</color>
+
+<color purple>Would you insult your Creator by throwing this Truth away?</color>
+
+<color purple>These beasts, the Woodstriders, are but flesh to feast upon for the Clansingers, who openly acknowledge the Kin as mightier. They are leaf-pickers and grass-chewers.</color>
+
+<color purple>There is an Order to the Onesong, and your place in it is high. Much of your authority rests upon the fact that the Kin do not suffer equals, let alone superiors, among Beasts.</color>
+
+<color purple>Do not betray your honorable ancestors. If you admit inferiority, you and all Draak shall be ashamed of it forever.</color>
+
+<color purple>You are far too important for this. Sometimes, the best thing to do is simply to leave. Leave this place, now, before you do something very, very wrong.</color>
+
+------------------------------
+> Leave.
+  Go to: gd3daba
+> Bow down to the Woodstrider People.
+  Go to: gd3dabb
+
+==============================
+Event: gd3daba
+
+You will never be bullied into lowering yourself, certainly not for furbeasts such as these. They may be beautiful, but they are prey, and possess neither Minds nor Bodies which can match yours.
+
+Even if there will be a Great Fire, you will never sacrifice this Truth: the Kin are the greatest of the Children of Heaven and Earth.
+
+You hope that your Dream was just a dream, and that the calamity which you witnessed will not occur. Perhaps the Woodstriders will enter your realm, and perhaps they will not. You will survive, regardless.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gd3dabb
+
+<player>You are not Dignity</player>, you sing to the voice. <player>You are but hollow <bold>Arrogance</bold>.
+
+And with that simple naming of its True Self, the voice is defeated, and vanishes from your Mind.
+
+Now, it is time for you to summon the gentle Woodstriders, who give of their flesh and their safety and their Lives so that the Green may be truly Great, by acknowledging what they are.
+
+Belly scales dragging along the dead leaves, dirt and bits of tree-skin, you crawl forward slowly, head lowered.
+
+When you are directly in front of the Envoy, you slowly turn over, exposing the vulnerable underside of your throat.
+
+It is the ultimate gesture of submission, placing your entire Life in the care of another.
+
+The Envoy silently walks toward you, and then through you and past you, into your domain. The light and the great vision fades away, but you are left with the knowledge that its People will follow it.
+
+Soon, the Spiritwood will become a Throne to those who have never tried to be First, and so have become the True Bearers of the Crown.
+
+Leaf by leaf and plant by plant, they will reduce that which has grown too great, and the future you saw in your Dream will never come to pass. You have defeated stern Fate.
+
+Some Draak may sing about how you dared to suggest that the Kin were not the ultimate form of Life on this world, and your reputation may suffer...
+
+But you have had the Wisdom to see why the Great Green itself has given the Woodstriders the Crown. They have lost themselves in humble Service, and found a great Treasure indeed.
+
+They are the mate of the Green itself, caring silently for it forever. Exceedingly Great are they, truly Great among Beasts.
+
+And because of your willingness to do the unthinkable, to see the Sovereign hidden within the Servant, your Land will grow strong. Many will live because of your sacrifice.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gd3e
+
+You will never be bullied into lowering yourself, certainly not for furbeasts such as these. They may be beautiful, but they are prey, and possess neither Minds nor Bodies which can match yours.
+
+Even if there will be a Great Fire, you will not sacrifice this Truth: the Kin are the greatest of the Children of Heaven and Earth.
+
+You hope that your Dream was just a dream, and that the calamity which you witnessed will not occur. Perhaps the Woodstriders will enter your realm, and perhaps they will not. You will survive, regardless.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1
+
+They barely make any sound as they move from Plant to Plant, touching a leaf here, caressing a flower there with their long-fingered forepaws, their small mouths.
+
+Their movements are measured and slow, as if every step, every gesture, was carefully planned.
+
+They are <bold>Brightlings.</bold>
+
+With their mostly-hairless, untailed Bodies and stilt-like legs, they bear some resemblance to Otherseed species such as the No-Tails and the Delvers, but they are altogether different in scent and in spirit.
+
+A facade of No-Tail Birther scent cannot hide their true aroma, which is like blackberries and lightning, holding not the slightest trace of decay. Each of their scents are exactly<italic> </italic>alike.
+
+As for their inner Essence, you cannot see the elemental spirit-lines of their True Selves at all, but rather, their whole Bodies seem to glow faintly. Are they made entirely of tiny spirit-lines, or do they have no true Essence at all? Both seem impossible.
+
+At the moment, these three are engaged in touching, smelling, and occasionally even tasting every Tree and Plant they come across.
+
+They never Destroy anything, though occasionally they pick up a fallen leaf or pull up a small Herb or Flower whole, still with its roots and soil, and place them in a small sphere of melted sand briefly before carefully placing them back where they were.
+
+What will you do?
+
+------------------------------
+> Approach them openly and interact with them.
+  Go to: ge1a
+> Silently observe them.
+  Go to: ge1b
+> Hunt one.
+  Go to: ge1c
+> Avoid them entirely.
+  Go to: ge1d
+
+==============================
+Event: ge1a
+
+As you approach, one notices you, and then all three are suddenly looking at you with piercing, violet eyes. The first sang no warning to the others, made no sign... how did they know? It is as though the three share one Mind.
+
+Because you cannot sense where their Minds are, you have difficulty Singing to them in the usual way; there is no surface upon which to paint your feelings and ideas.
+
+However, they do not quail or shy away from you. The scent of fear is wholly absent here (which in itself is more than a little disturbing).
+
+As one, they slowly approach you, forepaws outstretched. It seems that they wish to touch your head. In a moment, their digits will be upon you. What do you do?
+
+------------------------------
+> Retreat!
+  Go to: ge1aa
+> Remain, and allow them to touch you.
+  Go to: ge1ab
+
+==============================
+Event: ge1aa
+
+Your Core is screaming at you to retreat; these are Others, and their behavior is unknowable, their intentions unguessable, placing you in the highest kind of peril.
+
+You flee, Fear giving your actions more power and speed than usual, and soon you are far from the place.
+
+Your Essence is a pounding rhythm in your neck, and something tells you that you have narrowly avoided grave danger. These Brightlings are not to be trifled with.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1ab
+
+Despite a feeling of rising Fear, you remain stationary and allow them to touch you. You feel a jolt, a spark, as they make contact, but you are unhurt.
+
+They proceed to gently inspect you, smelling your skin... one even uses its small pink tongue to taste your crownfeathers. Might their tongues be as sensitive as yours?
+
+They back away and stand still for several moments, and then return to their prior investigation of the Green, ignoring you.
+
+Many questions follow you back to your Lair: how is it that they neither fear you nor prey upon you? Why did they wish to touch your Body?
+
+Like the No-Tails, the Brightlings are mysterious, but their total lack of understandable intentions makes them even more fearful.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1b
+
+You watch them deliberately wade through the forest like the long-legged Spearbills of the marshes, graceful in their actions.
+
+You realize that they never investigate the same organism twice; once a plant has been touched, smelled, tasted and put into the sandmelt sphere, others of its kind become uninteresting to them.
+
+You also notice that are somehow linked, as they seem to know what the others have already examined, though no sound passes between them, they make no Dances, and they do not look each other in the eye, so Mind-song should not be possible.
+
+What will you do?
+
+------------------------------
+> Bring them an unusual plant.
+  Go to: ge1ba
+> Continue to observe them.
+  Go to: ge1bb
+> Retreat before you are discovered.
+  Go to: ge1bc
+
+==============================
+Event: ge1ba
+
+You make a small trip down to a nearby spring where an herb grows whose scent you have never smelled elsewhere.
+
+Digging it out from the ground (with the roots intact, in case that was important), you bear it in your jaws and offer it to the Brightlings.
+
+When you place it on the ground before them, one of them picks it up and begins to deal with it just as the others, but the other two remain stationary, staring at you.
+
+You still cannot detect a Mind to sing to, despite looking directly into their eyes, but something like a Song is beginning to enter your own consciousness... it is almost as if <gradient yellow blue red>yellow poppyseed hemlock...
+
+The next thing you know, Sun has fallen, Moon has risen, and the Brightlings are gone, leaving not even a scent-trail behind. You have a headache, and there is a tiny sore spot on your Body, as when you are pricked by a very sharp thorn.
+
+You make it back to your Lair and collapse; questions will have to wait until later. What are the Brightlings, and what do they hunt...?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1bb
+
+As they broaden their search for whatever-it-is, one notices you, and then all three are suddenly looking at you with piercing, violet eyes.
+
+The first sang no warning to the others, made no sign... how did they know? It is as though they share a Mind.
+
+Because you cannot sense where their Minds are, you have difficulty Singing to them in the usual way; there is no space upon which to paint your feelings and ideas.
+
+However, they do not quail or shy away from you. The scent of fear is wholly absent here (which in itself is more than a little disturbing).
+
+As one, they slowly approach you, forepaws outstretched. It seems that they wish to touch your head. In a moment, their digits will be upon you. What do you do?
+
+------------------------------
+> Retreat!
+  Go to: ge1bba
+> Remain, and allow them to touch you.
+  Go to: ge1bbb
+
+==============================
+Event: ge1bba
+
+Your Core is screaming at you to retreat; these are Others, and their behavior is unknowable, their intentions unguessable, placing you in the highest kind of peril.
+
+You flee, fear giving your actions more power and speed than usual, and soon you are far from the place.
+
+Your Essence is a pounding rhythm in your neck, and something tells you that you have narrowly avoided grave danger. These Brightlings are not to be trifled with.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1bbb
+
+Despite a feeling of rising fear, you remain stationary and allow them to touch you. You feel a jolt, a spark, as they make contact, but you are unhurt.
+
+They proceed to gently inspect you, smelling your skin... one even uses its small pink tongue to taste your crownfeathers (which is, of course, what you would do to a particularly interesting object also).
+
+They back away and stand still for several moments, and then return to their prior investigation of the forest, ignoring you.
+
+You return to your Lair with more questions: how is it that they neither fear you nor prey upon you? Why did they wish to touch your Body? Like the No-Tails, the Brightlings are mysterious, but their total lack of understandable intentions makes them even more fearful.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1bc
+
+Your Core is screaming at you to retreat; these are Others, and their behavior is unknowable, their intentions unguessable, placing you in the highest kind of peril.
+
+You flee, fear giving your actions more power and speed than usual, and soon you are far from the place.
+
+Your Essence is a pounding rhythm in your neck, and something tells you that you have narrowly avoided grave danger. These Brightlings are not to be trifled with.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1c
+
+You wait until one of them is far enough from the others and spring at it from cover. As your jaws are about to close around its neck, it catches sight of you.
+
+Its violet eyes meet yours, but too late, you are sure... it cannot move quickly enough to evade you.
+
+And then, suddenly, it is simply gone. It has not retreated, is not in a different place. It is as though it was never there.
+
+You cannot even scent it any more. Your jaws close around empty Air and you scramble and twist, trying to land in a stable position.
+
+In fact, you cannot see any Brightlings - they have all vanished without leaving behind even a tiny taste of themselves riding on the wind.
+
+What are the Brightlings? How can they ignore the Laws of motion and being?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge1d
+
+They are Others, and without knowing what it is they hunt here, the safest action is no action at all. You return to your Lair, questions unanswered, but safe and whole.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge2
+
+One Moonshown twilight in the Deepwood, you come across a bizarre scent-trail, like lightning slithering through a bed of herbs.
+
+It is a Brightling, one of the mysterious beings who outwardly resemble the Tailless, and yet have an Essence altogether Other.
+
+Curious, you follow at a distance. The Brightling comes to a beautiful grove of Trees, and then, much to your surprise, steps directly into the Tree and vanishes from both sight and scent, though you can still sense its Essence within.
+
+As you begin to approach, a Night Skyclaw perched in a nearby branch sings out:
+
+<owl>Hu-u, hu-u!
+Know you of the Many Lights?
+
+<owl>Some reveal What Is, as the Light of Sun;
+
+<owl>Some reveal Truth, as the Light of Wisdom;
+
+<owl>Some are blinding, tearing all away and leaving Darkness in their wake.
+
+<owl>Which of these Lights is the Light of the Bright Ones?
+Hu-u! Hu-u!
+
+What will you do?
+
+------------------------------
+> Ask the Skyclaw what it knows about the Brightlings.
+  Go to: ge2a
+> Ask the Skyclaw about this grove of Trees.
+  Go to: ge2b
+> Ask the Night Skyclaw about itself and its own people.
+  Go to: ge2c
+> Examine the Trees.
+  Go to: ge2d
+> Breathe out your flame upon the Tree.
+  Go to: ge2e, ge2e
+> Leave this place for now.
+  Go to: DayTransition
+
+==============================
+Event: ge2a
+
+<owl>They are the Melders, the Mergers, the Joiners,
+Joining themselves with all things.
+
+<owl>My people have seen them walk into lakes,
+Rivers, Mountains, Trees, becoming one with them.
+
+<owl>We have seen them dance with the Tailless,
+Dances of Joy, Dances of Creation, Dances of Many Steps.
+So do they become one with the No-Tails in Body and in Essence, for a time.
+
+<owl>And yet, they are not like unto them, or any Goodbeast.
+We join with others through Destruction and Creation,
+But the Bright Ones never Destroy, never Create;
+They never eat, never birth. No hatchlings of their kind exist.
+
+<owl>A Mystery, beyond the knowledge of Earth and Sun.
+Such a dissonant harmony! Such masterful receivers!
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge2
+
+==============================
+Event: ge2b
+
+<owl>But a few Turnings ago,
+This was a lonely hill
+Shining grass-white, naked on Moon-shown nights.
+
+<owl>Then, suddenly, these Trees appeared,
+And with them, the Bright Ones.
+
+<owl>The Bright Ones move, but are they truly Beasts?
+These Trees reach for Sun, but are they truly Trees?
+Such delicious mystery! Hu-u!
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge2
+
+==============================
+Event: ge2c
+
+<owl>Hu-u! Hu-u! Who is like unto us?
+
+<owl>Long, long ago, we were Kin,
+But we traded that Essence to Moon and to Night
+And in return, they showed us a new Way.
+
+<owl>The dark Air cradles our wings,
+The fresh scent of Night soothes our watery Essence
+Until we melt into Darkness.
+
+<owl>Moon shows our prey, revealing from afar
+Tasty morsels plucked from the shadows
+Of darklit Trees and sleeping Stones.
+
+<owl>We vanish, and then, revealing ourselves, grow full,
+Like Moon, like Holy and Sacred Moon.
+
+<owl>Who is like unto us?
+Hu-u? Hu-u?
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: ge2
+
+==============================
+Event: ge2d
+
+They certainly look like Trees. And smell like Trees. And feel like Trees. And even taste like Trees.
+
+But... they do not sound like Trees, do not rustle and creak when the wind blows.
+
+The bumpy armor also does not chip nor peel away when tested by your claws and teeth.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge2
+
+==============================
+Event: ge2e
+
+You focus your inner flame in a brief and forceful breath... you must be careful to scorch, and not to set aflame, lest a wildfire begin...
+
+And curiously, a part of the burned Tree's armor falls away to reveal something.
+
+...
+
+What...?
+
+It reminds you slightly of sigils, but...
+
+What will you do?
+
+------------------------------
+> Walk away. This is Other, and there is no way of knowing what will happen if you interact with it.
+  Go to: DayTransition
+> Nuzzle the left scale.
+  Go to: ge2e2
+> Prod the middle scale.
+  Go to: ge2e2
+> Touch the right scale.
+  Go to: ge2e2
+
+==============================
+Event: ge2e10
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2ef
+> Prod the middle scale.
+  Go to: ge2ess, ge2es, ge2ef
+> Touch the right scale.
+  Go to: ge2ef
+
+==============================
+Event: ge2e2
+
+What will you do?
+
+------------------------------
+> Walk away. This is Other, and there is no way of knowing what will happen if you interact with it.
+  Go to: DayTransition
+> Nuzzle the left scale.
+  Go to: ge2e3
+> Prod the middle scale.
+  Go to: ge2e3
+> Touch the right scale.
+  Go to: ge2e3
+
+==============================
+Event: ge2e3
+
+What will you do?
+
+------------------------------
+> Walk away. This is Other, and there is no way of knowing what will happen if you interact with it.
+  Go to: DayTransition
+> Nuzzle the left scale.
+  Go to: ge2ef
+> Prod the middle scale.
+  Go to: ge2ef
+> Touch the right scale.
+  Go to: ge2e4, ge2ef
+
+==============================
+Event: ge2e4
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e5
+> Prod the middle scale.
+  Go to: ge2e5
+> Touch the right scale.
+  Go to: ge2e5
+
+==============================
+Event: ge2e5
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e7, ge2ef
+> Prod the middle scale.
+  Go to: ge2ef
+> Touch the right scale.
+  Go to: ge2ef
+
+==============================
+Event: ge2e6old
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e6
+> Prod the middle scale.
+  Go to: ge2e6
+> Touch the right scale.
+  Go to: ge2e6
+
+==============================
+Event: ge2e7
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e8
+> Prod the middle scale.
+  Go to: ge2e8
+> Touch the right scale.
+  Go to: ge2e8
+
+==============================
+Event: ge2e8
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e9
+> Prod the middle scale.
+  Go to: ge2e9
+> Touch the right scale.
+  Go to: ge2e9
+
+==============================
+Event: ge2e9
+
+What will you do?
+
+------------------------------
+> Nuzzle the left scale.
+  Go to: ge2e10
+> Prod the middle scale.
+  Go to: ge2e10
+> Touch the right scale.
+  Go to: ge2e10
+
+==============================
+Event: ge2ef
+
+The strange section of the tree-trunk vanishes without a trace.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge2
+
+==============================
+Event: ge2es
+
+As you choose what you believe to be the final correct response, the markings fade away to be replaced with the Tree's customary imperturbable armor.
+
+Nothing occurs immediately, and further attempts to recall the symbols with Fire are fruitless.
+
+Was it all for nothing, or have your actions set something into motion which is not yet revealed? Either way, you certainly feel as though you have sharpened your Mind.
+
+You make your way back to your Lair, still thinking over possibilities etched snow-white on the flame-kissed black.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge2ess
+
+The strange markings fade away from the Tree's torso, and at first, it seems as though nothing happens.
+
+Then you hear a soft but definite "thud" just behind you. You turn about, brushing something with your tail.
+
+It is a fruit of some kind. It must have been growing from this strange Tree. Oddly, you see no others like it in any of the other Trees.
+
+It certainly is beautiful. Beyond beautiful... this is Treasure! Its skin is tough as shinestone, imperturbable, and it gleams and glistens in Moon's light.
+
+It fits comfortably in your mouth, like carrying an egg, and as you make your way back to your Lair with it, a warm, pleasant feeling pervades you.
+
+It looks fetching beside all of your other Treasures. But was it really on the Tree the whole time? And if not, then...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: ge3
+
+Moon's light is spilling into your rest area and your thoughts are just beginning to flow into the Dreaming when suddenly you realize that you are not alone.
+
+Somehow, a rather attractive Kin has penetrated into your very Lair from outside. Your feathers puff outward in shock, and your Mind reels, trying to process how an intruder was able to make it here unnoticed.
+
+Even the Shriekers are not making any sign of alarm. How can they, who can reputedly sense anything by their music, not understand that a foreign Draak is here?
+
+As you scramble into a threat position, however, you note that the beautiful Kin is not making any aggressive movements. Its feathers are laid back and its teeth are unrevealed.
+
+Something prods at your Mind. It is a distant relative of the kind of song composed of sigils with which you are familiar, but at the same time clumsier and far more sophisticated, somehow.
+
+<elf>DESIRE... INTERACTION... DESIRE... COMMUNICATION... DESIRE...
+
+What will you do?
+
+------------------------------
+> Drive the invader away!
+  Go to: ge3a
+> Get out of here, NOW.
+  Go to: ge3b
+> Attempt to communicate.
+  Go to: ge3c
+
+==============================
+Event: ge3a
+
+You belch up the fireseed and spray it towards the alluring enemy. It flickers, as though made of flame itself, and then fades away before your very snout.
+
+A comprehensive search of the area reveals nothing, nor do any other beings in the area seem to have noticed anything awry. You spend what feels like a long time pacing both inside and outside of your sleeping-area, trying to make sense of it all.
+
+Was it only a loose shard of Dream? Did you imagine it? That seems the most likely explanation, but...
+
+You get little rest that night, torn between Doubt and Fear.
+
+------------------------------
+> /EndEvent
+  Go to: mainlair
+
+==============================
+Event: ge3b
+
+How did this ever happen? Is any Draak so impossible to sense that it could be here, now, with absolutely no indication? And why does it hurt your very Essence to even be in its presence?
+
+You scramble desperately, gouging lines in the hard-packed earth as you flee with all of your might. No Treasure is worth your Life; this is a well-known maxim among all Draak.
+
+You fear that this may be the end of your reign over the Spiritwood; a retreat forfeits both land and Trove.
+
+However, you are not chased, and when you creep back to your Lair after daybreak, no one is there, nor is there any trace of any Kin having been there besides yourself. Your Treasure is untouched.
+
+Not even a scent-trail is left. How could this be? Your relief is nearly equalled by your disquiet.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: ge3c
+
+Hesitantly, you fashion a questioning reply and sing it into the winsome Kin's Mind (which is strangely difficult to target).
+
+<elf>DESIRE... WE DESIRE... YOU,</elf> it slowly responds. <elf>YOU ARE... ATTRACTIVE.
+
+<elf>REWARD. REWARD... FOR GIVING OF YOU.
+
+It is walking towards you, but somehow... seductively. You become aware of a strange scent in the air, and all of a sudden you are very aware of hot Essence building in certain parts of your Body.
+
+Its movements are... is it the beginning of a Dance of Creation? You have never done the Sacred Dance which begets Life before.
+
+It draws closer, and the scent becomes stronger. It stretches its neck forward to lightly touch noses with you and then gently licks your crest. You are trembling uncontrollably with... something.
+
+How will you respond?
+
+------------------------------
+> Accept the invitation, and though you are not sure exactly how, try to do the Dance of Creation.
+  Go to: ge3ca
+> Respectfully decline, and communicate with it further.
+  Go to: ge3cb
+
+==============================
+Event: ge3ca
+
+The scent is intoxicating, and after a short while any fear has been replaced with a deep Desire you had never previously known, stemming from your Core and flooding you.
+
+Your consciousness seems to fade in and out as instinct drives you to move in strange ways. Finally, you both become One, though you could not explain how.
+
+The Dance continues for an amount of time which you could not begin to guess. When you at last regain full control of yourself, it is daylight, and there is no sign of any other Draak having been there, not even a scent-trace.
+
+There is, however, a large pile of Treasure on the ground just outside your Lair; nuggets of precious shinestone topped with a single, beautiful flower.
+
+You happily add it all to your Trove, except the flower... it is beautiful, but not rare enough to be Treasure. Why is it even there?
+
+Though you remain baffled, you hope that the generous and seductive Kin returns. It does not, however.
+
+You seem to have profited from the exchange, but there remains a certain discord within yourself when you remember the event.
+
+Who, or what, was the Bright Visitor with whom you shared your first Dance?
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: ge3cb
+
+The sacred Dance of Creation is known to be pleasurable, and you are tempted, but you are wise enough to know that this is no common Draak in front of you; no Kin would ever want to Dance with one so unproven and flightless as you.
+
+Maintaining a short distance between the two of you, you insistently inquire as to its true identity and intentions. It pauses before responding:
+
+<elf>WE ARE MADE... TO BECOME ONE WITH YOU. DESIRE... TO KNOW, TO UNDERSTAND, WITHIN.
+
+<elf>WE HAVE... GATHERED TREJURE. MUCH... SHINE-FILLED TREJURE. WILL GIVE IT, IF YOU WILL JOIN YOUR BODY TO OURS. MUCH PLEASURE, MUCH GAIN.
+
+<elf>OUR SCENT... OUR FORM... IS IT... DISPLEASING? DO YOU... NOT WISH TO LAY YOUR SKIN AGAINST OURS?
+
+
+
+------------------------------
+> Yes... oh, yes. You do wish to. You were meant to become One with this beautiful Kin. How perfect your offspring will be...!
+  Go to: ge3ca
+> <color ffffff55>No. This is not a true Draak. You must know the Truth. Insist upon knowing what it truly is.</color>
+  Go to: ge3cbb
+
+==============================
+Event: ge3cbb
+
+You are far more than only your Body, more than your Core. You are a true Draak, and you are not a slave to any one part of yourself.
+
+Peacefully yet firmly, you reject its advances. You indicate that you will not under any circumstances join with it unless it reveals to you the Truth behind itself.
+
+When at last it comes to understand that you will not allow it to Dance with you, it settles back onto its haunches.
+
+<elf>CONNECTING... CONNECTING...
+
+<elf>...
+
+<elf>...
+
+<ambassador>GREETINGS, REPRESENTATIVE OF SPECIES 839497-G32.
+
+<ambassador>WE APOLOGIZE FOR THE APPARENT DECEPTION. THE COLLECTOR-BEING YOU SEE BEFORE YOU IS OUR AMBASSADOR, AND OF OUR MAKING.
+
+<ambassador>WE FIND LIFE-SAMPLES EASIER TO COLLECT UNDER THE PROMISE OF PLEASURE AND/OR GAIN.
+
+<ambassador>IT IS CLEAR THAT EITHER YOUR SPECIES IS TOO PERCEPTIVE OR OUR FACSIMILE WAS TOO INCONGRUENT FOR THE DESIRED RESULT.
+
+<ambassador>WE ARE INEXPERIENCED AT REPLICATING THE SCENT AND FORM OF YOUR SPECIES. WE WERE UNDER THE IMPRESSION THAT ALL SENTIENT BEINGS ON THIS WORLD WERE TAILLESS.
+
+<ambassador>IT SEEMS WE WERE MISTAKEN.
+
+What will you ask this mysterious being with whom you are somehow communicating?
+
+------------------------------
+> Ask this new mental voice its true identity.
+  Go to: ge3cbba
+> Ask what the beautiful not-Draak before you is.
+  Go to: ge3cbbb
+> Ask why it wants to do the Dance of Creation with you.
+  Go to: ge3cbbc
+> It is clear that these beings are Others, those who come from outside this world. Ask why it, or at least its "ambassadors", are here.
+  Go to: ge3cbbd
+
+==============================
+Event: ge3cbba
+
+<ambassador>CLASSIFIED AND IRRELEVANT. MY BODY IS VERY FAR AWAY, AND WE SHALL NEVER TRULY MEET. I AM PERMITTED ONLY TO SAY THAT WE COME IN PEACE, AND MEAN NO HARM.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge3cbb
+
+==============================
+Event: ge3cbbb
+
+<ambassador>THIS IS A NEW CONFIGURATION OF OUR STANDARD AMBASSADOR MODEL 928.
+
+<ambassador>IT HAS A LIMITED CONSCIOUSNESS OF ITS OWN, BUT EVERY ASPECT OF IT IS ULTIMATELY OURS.
+
+<ambassador>WE CALL THESE MANUFACTURED BEINGS "PLASTICS", FOR THEIR ABILITY TO BE EASILY MOULDED EVEN AT THE TINIEST LEVEL.
+
+<ambassador>THEY REPRESENT OUR INTERESTS, AND EXTRACT MATERIALS AND INFORMATION THROUGH PEACEFUL MEANS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge3cbb
+
+==============================
+Event: ge3cbbc
+
+<ambassador>WHEN YOU ELSEWHERE PRESENTED EVIDENCE THAT YOU WERE SENTIENT, EITHER THROUGH COMPLETION OF A STANDARD SENTIENCE TEST OR THROUGH BEHAVIORAL INDICATIONS, OR PERHAPS BOTH, THIS UNIT AUTOMATICALLY RECONFIGURED ITSELF INTO A FORM CALCULATED TO BRING PLEASURE TO YOUR SPECIES AND ATTEMPTED TO EXTRACT FROM YOU.
+
+<ambassador>YOUR REJECTION OF THE STANDARD EXTRACTION METHOD HAS CAUSED THE AMBASSADOR UNIT TO UPGRADE YOUR SENTIENCE RATING, THEREBY RENDERING YOU WORTHY OF OUR DIRECT ATTENTION, AND I HAVE REPLACED ITS CONSCIOUSNESS WITH MY OWN FOR A SHORT TIME.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ge3cbb
+
+==============================
+Event: ge3cbbd
+
+Now that you know this is an Other, your questions become many. Are these the same Others who brought ruin to your people long ago, and whose Seed are the Tailless races? Where is their true home? Why are they sending "ambassadors" to do the Dance of Creation with the Tailless, and now with you?
+
+<ambassador>OUR MISSION IS CLASSIFIED, AND WILL NEVER BE REVEALED TO YOU. IF YOU ARE ABLE, ABANDON ALL CURIOSITY REGARDING OUR INTENTIONS, OUR ORIGIN AND OUR IMPLEMENTS.
+
+<ambassador>I MAY, HOWEVER, RELATE THAT WE ARE NOT THE SPECIES TO WHICH YOU REFER. WE DID NOT CREATE ANY OF THE SENTIENT BIOFORMS OF YOUR WORLD.
+
+<ambassador>OUR INTEREST IN EXTRACTING FROM ALL SPECIES, AND PARTICULARLY SENTIENT SPECIES, SUITS A PURPOSE WHICH YOU ARE UNLIKELY TO COMPREHEND.
+
+<ambassador>THIS OPEN AND DIRECT LINE OF COMMUNICATION SERVES TWO PURPOSES. THE FIRST IS TO ASSURE YOU THAT WE ARE NOT HOSTILE. WE STRONGLY ENCOURAGE YOU AND YOUR SPECIES NOT TO OBSTRUCT OUR EXPEDITION IN ANY WAY.
+
+<ambassador>THE SECOND IS TO ONCE AGAIN REQUEST, WITHOUT DECEPTION OR SENSORY COMPULSION, THAT YOU SUBMIT TO THE AMBASSADOR AND ALLOW IT TO EXTRACT A SAMPLE FROM YOU.
+
+<ambassador>THE PROCESS WILL BE PLEASURABLE, AND ALMOST CERTAINLY WILL NOT HARM YOU OR YOUR SPECIES IN ANY WAY.
+
+<ambassador>WE OFFER WEALTH, AS YOUR KIND SEEMS TO DEFINE IT, IN EXCHANGE. WE ALSO HAVE ACCESS TO A LARGE DATABASE OF KNOWLEDGE ABOUT THE NATIVE LIFEFORMS OF YOUR WORLD WHICH WE ARE WILLING TO SHARE.
+
+<ambassador>IF EITHER OF THESE WOULD BE ACCEPTABLE PAYMENT, PLEASE INDICATE SO. IF NOT, THE AMBASSADOR WILL BE RECALLED, AND YOU WILL NOT ENCOUNTER IT AGAIN. YOUR SPECIES WILL REMAIN ON THE WATCHLIST OF UNCATALOGUED SENTIENT RACES.
+
+<ambassador>COMMUNICATION WILL BE TERMINATED AND CONTROL RESTORED TO THE AMBASSADOR IN 3... 2... 1...
+
+The beautiful visitor shudders in what looks like pain briefly, and then relaxes, focusing on you with an air of expectation.
+
+Will you allow it to extract a small sample of yourself for wealth, or perhaps for knowledge? Or will you reject it, gaining and losing nothing?
+
+------------------------------
+> Allow it to extract a small sample of your Essence for wealth.
+  Go to: ge3cbbda
+> Allow it to extract a small sample of your Essence for knowledge.
+  Go to: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ge3cbbdb
+> Deny it what it seeks and forfeit all reward.
+  Go to: ge3cbbdc
+
+==============================
+Event: ge3cbbda
+
+The bright visitor approaches you and reaches around to the back of your neck with its mouth. You feel a light tickle, like a tiny Weaver or Honeybuzz was walking across your neck, and a delicious warmth spreading through you...
+
+And then you are lying on the ground, opening your eyes slowly. It is morning, and the visitor is gone.
+
+Where it once was lies a generous pile of shinestone nuggets of various kinds. Your Trove has grown considerably this Sun.
+
+You shake your head, struggling to remember what happened in the night, but you are left only with vague impressions. Still, you seem to be fine, having paid no apparent price for your newfound wealth.
+
+You yawn, stretch, and begin your day, feeling excellent.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: ge3cbbdb
+
+The bright visitor approaches you and reaches around to the back of your neck with its mouth. You feel a light tickle, like a tiny Weaver or Honeybuzz was walking across your neck...
+
+And then you are lying on the ground, opening your eyes slowly. It is morning, and the visitor is gone. Wait, visitor? What visitor?
+
+You shake your head, struggling to remember what happened in the night, but you are left only with vague impressions.
+
+You think... you had a wonderful dream, in which the most beautiful Kin you have ever smelled whispered a thousand secrets of your Goodbeast brethren into your hungry Mind.
+
+It felt so real, and as the days pass, your new knowledge is proven to be correct. Was it the Spirit of Knowledge that visited you?
+
+Whatever the case, you are now much wiser in the ways of your fellow children of Earth and Sun.
+
+<italic>You have learned more about the Way of many Goodbeasts.</italic>
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: ge3cbbdc
+
+You pause, reflecting. Gaining a huge bounty for the price of a little Essence is not something which most Kin would ever reject.
+
+But you are not most Kin.
+
+You are cautious, and wise, and know that giving up even a little of your sacred Essence to a being of unknown intentions has a tiny yet real possibility of bringing disaster in the future, if not to yourself then to others of your People.
+
+Gently yet firmly, you indicate rejection to the Ambassador, and it leaves your Lair, never to return.
+
+You have learned more of the mysterious Brightlings, possibly more than any other Kin. Still, even knowing that the entrancing beings which appear to your senses are not the true Brightlings but only tools under their control and knowing that they are seeking to gather something brings you only a little closer to the hidden Truth.
+
+Perhaps it really was correct when it advised you to abandon curiosity, if you can. The Onesong is vast, with even great Earth and Sun like grains of sand on its shore, or so sing the Wise.
+
+In any case, you have proven yourself cautious and prudent in not giving yourself away to the mysterious Visitors. Other Kin praise your self-control and wisdom when they hear of this bizarre adventure.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gt1
+
+A brief but harsh bout of rain drives you into a small cave while exploring the Sacred Vale. At first it appears unremarkable, but then you discover that it is home to rosy Treasure.
+
+The walls are marbled with purple-red gem-crust. It sleeps in sheets, nestled in a bed of ages.
+
+It is too infatuated with the Stone to be parted by your claws and teeth, however. You will need some other way of coaxing it forth if you wish to add it to your Trove.
+
+What will you do?
+
+------------------------------
+> Go and ask Darktooth for advice. (This will take one additional Sun.)
+  Go to: gt1a
+> Use the Shakestick to extract the raspberry Treasure.
+  (Hidden: If only you had a special tool for this...)
+  Go to: gt1b
+> Leave it, for now, and do something else this Sun.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt1a
+
+Darktooth is mildly interested and claims to be able to liberate the gem-crust from its matrix, but makes it clear that you will forfeit half of it in exchange for its aid.
+
+Will you agree to let Darktooth onto your lands to extract the gems in exchange for half of the prize?
+
+------------------------------
+> Yes.
+  Go to: gt1aa
+> No.
+  Go to: gt1ab
+
+==============================
+Event: gt1aa
+
+You grant Darktooth the proper permissions (which is amusing, since it could obviously enter your territory at any time by right of its power and size, but such things must be done for Tradition's sake) and retire to your Lair.
+
+
+
+------------------------------
+> [Continue]
+  Go to: DayTransition
+
+==============================
+Event: gt1aaa
+
+On the morrow, you discover that the cave has been gutted to the bedrock by some unknown art of Darktooth's. Several chunks of the violet gemstone have been left near the mouth of the cave, which you transport back to your Lair. The bargain is concluded.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt1ab
+
+Respectfully, you decline Darktooth's offer, which does not perturb it. Apparently, even half of such a lode is a meager amount for such an Elder.
+
+You hope to one day have such a Trove that such things as this no longer interest you.
+
+For now, however, you will have to deal with your discovery on your own.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt1b
+
+You grasp the Shakestick in your maw, aim it at the wall and press the proper indentations with a foreclaw.
+
+The Air pulses with ripples like the disturbed surface of a pond, silent but still rattling your teeth.
+
+The Stone grasping the Treasure is broken apart in shuddering fits right before your very muzzle, though the crystal sheets are unharmed. Removing them and decorating your Lair with them constitutes a Sun well spent.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt2
+
+Here, where Earth begins to rise skyward in browning folds, you make an interesting discovery.
+
+Several large Stones are birthing glistening progeny. They burn softly with a color which reminds you of Sun. Perhaps Earth longs for Him, and made these in Her yearning.
+
+These are not metallic shinestone, but gems, and will not be melted by your breath. Extracting them from the Stones will take much time and care, but such shiny things as these would be highly prized by any Kin.
+
+What will you do?
+
+------------------------------
+> Use your teeth and claws to extract the Treasure.
+  Go to: gt2a
+> Use the Shakestick to extract the bounty.
+  (Hidden: If only you had a special tool for this...)
+  Go to: gt2b
+> Nothing, for now.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt2_1
+
+Still more of the tantalizing crystal talons remain. What will you do?
+
+------------------------------
+> Use your teeth and claws to extract the Treasure (again).
+  Go to: gt2_1a
+> Use the Shakestick to extract the bounty.
+  (Hidden: If only you had a special tool for this...)
+  Go to: gt2_1b
+> Leave it, for now.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt2_1a
+
+More pain, and even less gain, than last time. Your forepaws and gums are bleeding by the time you have a bellyful of the crystals to take back to your Lair.
+
+As the Suns pass, you will come to enjoy the apricot sparkle of these rare gems, but you are definitely beginning to see why the Ruby Kin prefer to steal their crystals from the Delvers rather than wrestle it from the Stone themselves.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt2_1b
+
+You grasp the Shakestick in your maw, aim it at the shinestone and press the indentations with a foreclaw. The Air pulses with ripples like the disturbed surface of a pond, silent but still rattling your teeth.
+
+The stone grasping the Treasure is broken apart in shuddering fits right before your very muzzle, releasing chunks of its precious bounty. The crystal fingerlings are then easily pulled out. Their apricot sparkle looks even more fetching when they find their new home in your Trove.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt2a
+
+"Reliable, honorable Stone," you were taught in the Chamber. You would now like to add "stubborn" to that list of attributes. It is positively scandalous how it refuses to give in and let go of these Treasures.
+
+That anything should be harder than a Draak-Kin's claws and teeth seems like a failure of Order within the Onesong.
+
+Spending the better part of an entire Sun trying to wrestle Treasure from the boulders is so consternating that you occasionally have to stop what you are doing and roar out across the moor in pure frustration.
+
+By Sun's End, you have some new wealth to show for your trouble, and also two broken teeth. New ones will grow in during your next Great Sleep, but for now...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt2b
+
+You grasp the Shakestick in your maw, aim it at the boulders and press the indentations with a foreclaw. The Air pulses with ripples like the disturbed surface of a pond, silent but still rattling your teeth.
+
+The Stone grasping the Treasure is broken apart in shuddering fits right before your very muzzle, releasing chunks of its precious bounty. The crystal fingerlings are then easily pulled out.
+
+Their apricot sparkle looks even more fetching when they find their new home in your Trove.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt3
+
+Casting about the shore of one of the eponymous Twin Lakes, you discover an interesting potential source of Treasure.
+
+Though it gleams like rarest shinestone, it is not, nor is it a gem. It is "amber", made out of the Essence of Trees and refined by Time. Water has cleansed and polished it to perfection.
+
+There is, however, an issue: the majority of it is trapped beneath quite a few large Stones. Moving them would be no challenge to an Elder, but unfortunately thousands of Turnings stand between you and that vaunted title.
+
+Will you put your strength to the test?
+
+------------------------------
+> Yes.
+  Go to: gt3as, gt3af
+> No, I will not spend my Sun wrestling with rocks.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt3af
+
+One by one, you put the various members of your Body to trial against the massive Stones barring you from your Treasure. Your forepaws, your head, your tail... none are strong enough to budge the Stones.
+
+Eventually, you resort to simply slamming your whole frame against the pile, but even that does not suffice. The wet amber glistens mockingly.
+
+Frustrated and exhausted, you finally give up and return to your Lair. The amber did not budge from its spot, and trying again is possible, but this is a rather exhausting way to build strength.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt3as
+
+You may not be an Elder, but for a young Kin, you are mighty indeed. It takes quite a bit of time, but you push and lift the Stones one by one until they reveal the fugitive amber.
+
+Bringing it back to your Lair requires two trips and takes the rest of this Sun, but when you gaze upon them later, you feel not only the joy of possession but also the pride of strength well-proven.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt4
+
+The Great Blue.
+
+An endless shuddering plain, stretching setward to the far horizon.
+
+This is Water's true Lair, to which all other Water in the world seeks to return. Even Sun rests here after His daily burning End.
+
+The taste of countless strange Goodbeasts is carried on the Air and Water, salty and fresh in your mouth. However, all that is in the sea has been claimed by others; you smell the personal scent of a Sapphire Kin on the waves. Entering the deep Water would be considered an invasion.
+
+Anything which washes onto the soft edge-land, however, is yours by right, and there is much here of interest. Hard-armored Scuttleclaws range about, picking over the bounty.
+
+Spending a Sun here may lead you to discover some worthy additions to your Trove of miscellaneous shiny things and possibly a salty snack or two.
+
+Shall you?
+
+------------------------------
+> Certainly.
+  Go to: gt4a1, gt4a2, gt4a3
+> No. Spend this Sun elsewhere.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt4a1
+
+You spend a delicious Sun ranging slowly up and down the shore, collecting beautiful, glistening Body-Lairs of small beings long gone.
+
+When hungry, you crack open a Scuttleclaw and suck out the sweet flesh, and when tired, you sleep in the soft sand, lulled by the dancing winds.
+
+By the time you leave, you have gained 12 shiny things and a small scar (from a belligerent Scuttleclaw). Your dreams that night are filled with the music of the Great Blue.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt4a2
+
+Predictably, the bounty is less this time, but simply lounging on the shore, listening to the roaring Rhythm of the Great Blue, makes the Sun spent here feel more than worthwhile.
+
+You are also acquiring a taste for Scuttleclaw. Shucking their armor is a labor-intensive affair for not much meat, but the taste makes it all worthwhile. You also avoid getting snapped this time.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt4a3
+
+Though you find only one thing to take back to your hoard as Treasure this time, the shore is rife with Scuttleclaws, which seem to be undergoing some kind of migration, and you save quite a few the trouble of completing the journey.
+
+There is no further need to spend time here, though you will, of course, stop by at various times to listen to the Song of the Great Blue, eternally eloquent in its gentle, rhythmic roars.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt5
+
+Earth's flesh is tumorous and uneven in this part of your lands. Vague hints of decay and shinestone linger in the scented mists.
+
+A wafting taste of something quite foreign sits in your mouth whenever you lie atop one of the strangely soft hillocks here. Could one or more of them hide a secret...?
+
+What will you do?
+
+------------------------------
+> Spend a Sun digging randomly amongst the protuberances.
+  Go to: gt5a1, gt5a2
+> If there is shinestone here, the Lodestone can lead you to it. Make use of its Music.
+  Go to: gt5b
+> Go elsewhere this Sun.
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gt5a1
+
+Alas, large amounts of dirt wedged under your....
+
+Wait. What is that?
+
+There is something here! Stones rest close together, forming some sort of structure beneath the loam. It looks artificial.
+
+Perhaps some Draak enclosed some Treasure here many Turnings ago! You move aside several rocks and squeeze inside...
+
+
+
+------------------------------
+> [Continue]
+  Go to: gt5a3
+
+==============================
+Event: gt5a2
+
+Alas, large amounts of dirt wedged under your talons and a few musty bones are your only rewards for a Sun spent this way. You still cannot help but feel that you are drawing closer to something. Perhaps another time...?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt5a3
+
+It seems that four beings ended their Lives here, or perhaps were put here after their ends had already come. They appear quite similar to the Tailless in structure, but...
+
+These are NOT Tailless. Well, they have no visible tails, but they are not the No-Tails which infest certain areas of the world as you know them.
+
+They are larger, and their skeletons more solid and compact. Their head-bones are thicker, with apertures suggesting larger eyes and noses than the Tailless.
+
+And their scent is quite different: earthier, stronger. What were these...?
+
+The four are, or were, seated facing each of the four directions. Sigils festoon the walls and floor here, similar to the sigils used by the Mind-song of the Draak, but again, slightly different.
+
+You can pick out a few words... Failure? Disappointment? Rejection?
+
+If you had to guess, you would say that these beings, whatever they were, were charged with guarding or protecting something, and that they failed. Not these four specifically, but rather, their whole People.
+
+These four seem to have tried to reverse their doom and find redemption, but despite their courage, all they found was Destruction.
+
+In any case, these bold Not-No-Tails seem to have been entombed with gifts of silver and black stones of various kinds. The sigils are also black... perhaps that was a sacred color for them.
+
+You gather up everything here which seems attractive to you and press back out into the grey light of the outside world.
+
+For some reason, a thought occurs to you; perhaps you should cover up the chamber again.
+
+It is probably just an instinctual drive to bury your findings so others do not take them from you, but there is nothing valuable there now.
+
+Will you spend some extra effort to cover up the hole you have made?
+
+------------------------------
+> Yes.
+  (Hidden: You are too low on Energy to do this.)
+  Go to: gt5a3a
+> No. Allow Nature to reclaim this place.
+  Go to: gt5a3b
+
+==============================
+Event: gt5a3a
+
+Covering it up again is a tiring process, and you wonder several times why you are making yourself do this. There is nothing left to steal, and no other reason of which you know to cover up the bones of dead beings, or keep them hidden from the Elements.
+
+You can't help it, though. Something is compelling you. When you pack down the dirt with your Body, flattening it with your tail, a chill runs down your spine, puffing out your tailcrest.
+
+That night, you dream of huge, shadowy warriors decorated with black jewels clutching dark cutting-shards in their forepaws, fighting desperately against an endless tide of No-Tails.
+
+Though the dark ones are brave and strong, the Tailless are simply too many, and one by one they fall.
+
+But although the judgment of Destruction is never wrong, looking on, you cannot help but feel that this should not have been.
+
+When you awaken, a feeling of despair lingers in your mouth until you wash it away with a drink from the hilltop spring. The past is the past, and dreams are only dreams.
+
+Are they not...?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt5a3b
+
+You return to your Lair, richer than before. Perhaps there are other Treasures hidden in those hollow hills, but searching each one of the mounds would take far too long.
+
+But you must wonder... what were those Almost-But-Not-Quite-Tailless? And what was the great failure that haunted their People?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gt5b
+
+The Lodestone draws you to a particular hill, indicating that something hides within. A bit of light burrowing ensues, and then you come upon something remarkable...
+
+
+
+------------------------------
+> [Continue]
+  Go to: gt5a3
+
+==============================
+Event: gw1
+
+While exploring your lands, you come across a young warrior of the Clansinger people.
+
+It is alone, and unlike most of its kind, when it senses you it does not sing to gather its Clan. Its Body-language is cautious, yet respectful.
+
+It seems to be leaving its home-lands, though you have heard that the Clansingers value their lands and family above all.
+
+What will you do?
+
+------------------------------
+> Attack.
+  Go to: HuntingBaseCombat
+> Communicate.
+  Go to: gw1b
+> Pass by.
+  Go to: gw1c
+
+==============================
+Event: gw1b
+
+You wordlessly hail the Goodbeast with a plain, unhidden approach. It stops, waiting for you to draw near. There is only a tiny hint of fear in its scent.
+
+<color #7832c0><wolf>I am Seeks-Through-the-Boughs. What business has one of the ancient Kin with a lone Clansinger?</color>
+
+What will you do?
+
+------------------------------
+> Ask after the Clansinger People; what are their Ways and Truths?
+  Go to: gw1ba
+> Ask the Clansinger why it is leaving the lands of its People.
+  Go to: gw1bb
+> Ask the Clansinger whether it has knowledge of any Treasure.
+  Go to: gw1bc
+> Ask the Clansinger why its people sing to Moon.
+  Go to: gw1bd
+> Attack it, now that it has lowered its guard.
+  Go to: gw1bes, gw1bef
+> Dismiss it from your presence.
+  Go to: gw1bf
+
+==============================
+Event: gw1ba
+
+<color #7832c0><wolf>The Clansingers are proud children of Earth and Sun. We have knowledge of a Great Truth: Many can become One.</color>
+
+<color #7832c0><wolf>We join together to hunt greater prey, as all know. Even the Great Grazers are not safe from us when we see with many eyes, hear with many ears, and strike with many fangs. When we succeed, we celebrate with crystal-pure Song, and sleep, drunk with warm flesh.</color>
+
+<color #7832c0><wolf>But the Truth of the Many-And-One goes beyond this. We form bonds with each other in which a new Essence is created: the Spirit of the Clan. Each Clan has a different spirit, bound by Love and defined by the Wisdom of its members.</color>
+
+<color #7832c0><wolf>From birth, we are taught not only to Survive, but to Love; to Love our Clan, to Love our prey, to Love rich Earth and clear Night and the scent of our Creators.</color>
+
+<color #7832c0><wolf>Our people are found all over the Great Mother's Body, and our Song echoes from every Green. More proof that we are beloved of Earth can never be given.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw1b
+
+==============================
+Event: gw1bb
+
+<color #7832c0><wolf>I am Loved by my wise Birther-creator and bold Giver-creator, and safe in the embrace of my Clan. This land is rich and good. Few indeed would leave such wealth.</color>
+
+<color #7832c0><wolf>However, it is the Way of the Clansingers that only the worthy may do the Dance of Creation. Only the mightiest Birther and the mightiest Giver may join together to make the future. In this way, we pass down strength to those who come after us.</color>
+
+<color #7832c0><wolf>The noble desire to Create has arisen within me, and as I am related to the rest of the Clan, I must seek out a stranger whose heart I will hunt, and who will hunt mine, and we shall become One, forging a new Clan and bringing the Song of my people to new lands.</color>
+
+<color #7832c0><wolf>Most are content to live and die in their birth-Clan, but to bravely enter the unknown is the price one must pay if one wishes to pass on their Essence. I will Create, or I will perish. So have I sworn, and sundered the bonds of my birth-Clan.</color>
+
+<color #7832c0><wolf>I am cold and alone now, but I have chosen this path, and will walk it with sure paws and clear eyes.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw1b
+
+==============================
+Event: gw1bc
+
+<color #7832c0><wolf>Indeed, I know of many Treasures. My Creators, Splits-the-Night and Fragrant-Spirit, are Treasures to me.</color>
+
+<color #7832c0><wolf>My Clanmates, each of them, I Treasure in my heart and will never forget. The hill-den where I was born is a Treasure, the prey I have consumed were all Treasures, and this land is a Treasure. I hold them all within me, and they can never be lost or taken.</color>
+
+<color #7832c0><wolf>It is sung that the Kin seek strange Treasures, things which cannot show Love and which can be stolen away, yet are somehow valuable.</color>
+
+<color #7832c0><wolf>If you seek such things, Great Kin, I know of none.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw1b
+
+==============================
+Event: gw1bd
+
+<color #7832c0><wolf>We do not sing to Moon. That is a False Truth.</color>
+
+<color #7832c0><wolf>We Sing upwards so that the sound goes out along the Air-paths, travelling far before it falls back to blessed Earth and other ears, and we sing on the bright Moon-drenched nights, for that is when it is easiest to hunt and the Land is at its most beautiful.</color>
+
+<color #7832c0><wolf>Our praise, though, is not to Moon, but to our honorable prey who has given its Life so that we may Live, and to our Clan, and to Earth, Great Mother of us all.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw1b
+
+==============================
+Event: gw1bef
+
+Just in time, the Clansinger realizes your intention and bolts away!
+
+
+
+------------------------------
+> [Continue]
+  Go to: gw1befs, gw1beff, ChaseBase
+
+==============================
+Event: gw1beff
+
+The agile Clansinger has escaped. Its mastery of Air was greater than yours, and a potential meal has been lost.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw1befs
+
+The Clansinger attempted to run away, but your Air-mastery gave you victory in the chase! Begin the True Dance of Destruction?
+
+------------------------------
+> No, not this Sun.
+  Go to: DayTransition
+> Indeed! Let us Dance!
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw1bes
+
+Your treacherous yet effective plan is a success - before it can even react, you have dealt it a grievous wound! As the Dance of Destruction begins, you have a sizable advantage.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw1bf
+
+<color #7832c0><wolf>May you Learn, Live, and Love, Great Kin, if Love your People can know.</color>
+
+It continues on its way with the easy, loping gait of a long-distance traveler. You never see nor smell it again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw1c
+
+You have no business with the Clansingers. You allow it to move on in peace.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2
+
+A sleepless night sends you wandering through your domain. In the still dark, a Song of Victory draws you to the top of a hill.
+
+Clansingers. You can barely see their Bodies in the early dawn... Moon is gone, and Sun has not yet been born... but you smell and hear them with great clarity, and their spirits burn bright.
+
+Their Giver-chief raises its Essence-stained muzzle and sings a grinding Song of Warning from deep in its throat:
+
+<wolf><color lightred>Hear me, Scion of the Ancient Ones;
+We are the Claws-of-the-Spirit Clan,
+Many talons united in one paw.</color>
+
+<wolf><color lightred>By strength and wisdom
+And the generosity of this Plainsrunner,
+We share a victory-feast well-earned.</color>
+
+<wolf><color lightred>Disturb us not,
+For we are Many and One
+And you are but One.</color>
+
+What will you do?
+
+------------------------------
+> Ask if they are not afraid of a mighty Draak.
+  Go to: gw2a
+> Ask if they are not ashamed of their cowardice, using many to hunt just one.
+  Go to: gw2b
+> Warn them that aiding each other will breed weakness; only self-sufficiency will ensure that their people will grow stronger with time.
+  Go to: gw2c
+> Challenge them for a share of the kill.
+  Go to: gw2d
+> Leave them in peace.
+  Go to: gw2e
+
+==============================
+Event: gw2a
+
+<wolf><color lightred>Indeed, we are afraid.
+We know you hold red Destruction in your mouth
+Lightly, like an adult holds a cub in its jaws.</color>
+
+<wolf><color lightred>We know that your claws are sharp,
+Your fangs like unbreaking Stone.</color>
+
+<wolf><color lightred>That is why you should fear us:
+Though afraid, we choose to stand with honor.
+We see clearly, and know our own hearts.</color>
+
+<wolf><color lightred>We are Many-and-One, while you are only One.
+If you doubt, let us Dance the Final Dance.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw2
+
+==============================
+Event: gw2b
+
+<wolf><color lightred>It is not only that we are Many;
+We are Many-and-One.</color>
+
+<wolf><color lightred>It is not our numbers which grant us victory,
+But a unity of Essence, trust, and Love.</color>
+
+<wolf><color lightred>We hunt as One, just as our prey lives as One,
+And we acknowledge their sacrifice with Song.</color>
+
+<wolf><color lightred>To choose to Love and to trust
+Takes more courage than to hunt great prey.
+You cannot know our power.</color>
+
+/MasteryDisplay
+
+------------------------------
+> [Continue]
+  Go to: gw2
+
+==============================
+Event: gw2c
+
+Their Birther-Chieftain sings:
+<wolf><color lightblue>Among us, only the strong may Dance,
+Only the mighty may Create.</color>
+
+<wolf><color lightblue>I have birthed many from this Body.
+My burning Essence lives on in my cubs,
+Strong warriors and hunters all
+Who know both Love and Violence.</color>
+
+<wolf><color lightblue>Do you hunt prey many times your size
+As we have hunted this Plainsrunner?
+How can you see proof of our strength
+And accuse us of weakness?</color>
+
+<wolf><color lightblue>Not even the Great Lumberers dare to threaten us.
+Your song dies a swift death
+In the face of our obvious might.</color>
+
+------------------------------
+> [Continue]
+  Go to: gw2
+
+==============================
+Event: gw2d
+
+The Clansingers acknowledge your challenge by backing away from the kill. It lies now directly between you and they. Both their Giver-Chief and their Birther-Chief's tails are raised and waving boldly back and forth.
+
+<wolf><color lightblue>A trial by fang and claw?</color>
+
+<wolf><color lightred>Or a trial by Song?</color>
+
+------------------------------
+> The former. Let the Dance of Destruction begin!
+  Go to: gw2da
+> The latter. Engage in contest of Song.
+  Go to: gw2db
+
+==============================
+Event: gw2da
+
+As you roar forth your defiance, the Clan circles you, led by their Giver-Chief. They are smaller than you, but they have learned the forbidden art of Cooperation. This will not be an easy Dance.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw2daf
+
+Bruised and bloodied, you flee from the Clan and their horrible Love. As you enter the safety of the Trees, they break out in an awful, beautiful Song of Victory:
+
+<color 00b4ff><wolf>We are the Clansingers,</color>
+<color 1496ff>Victors over even the Draak!</color>
+<color 2878ff>Let all know the power</color>
+<color 3c5aff>Of our Music, of the One-and-Many Way!</color>
+
+The song follows you all the way back to your Lair.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2das
+
+The Clan scatters and flees, tails held low between their legs in deference to your power.
+
+The prize is yours, and more than this, you have proven your might. You partake of the small feast which you have won.
+
+Clansingers can defeat even Great Lumberers, but not a Great Draak such as yourself!
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2db
+
+Silhouetted against the fading night, the Birther-Chieftain throws back its head and becomes a pillar of wild Music. Its song slices through you straight to your Essence as it recounts the honor and exploits of its Clan.
+
+It Sings of successful hunts against powerful prey whose hooves set the very Earth quaking as they passed.
+
+It Sings of the mighty voice of its People, how their Songs have echoed from the Mountains and run down the Rivers to the Great Blue, where Those Who Dwell Below marvel at their Truth.
+
+It Sings of the seeds they have planted in the field of Time; cubs birthed and raised with such skill that they journeyed alone through the unknown wilds to far lands and founded Clans of their own.
+
+It Sings of the sacred pilgrimage taken by the Clan to the Heart of the Great Green, where they obtained the Gnosis of their True Being: that they are the Claws of the Spirit, Talons of the Green One.
+
+And finally, it Sings of the Love which binds the Clan together and which will never fade, and the others lift their voices in affirmation.
+
+The very Stars seem to echo their Song. How shall you reply?
+
+------------------------------
+> Sing a Song of Wisdom, painting the Onesong with your voice.
+  Go to: gw2dbas, gw2dbaf
+> Sing a Song of Renown, countering their accomplishments with your own great feats. (You must be well-renowned and respected to be victorious.)
+  Go to: gw2dbbs, gw2dbbf
+
+==============================
+Event: gw2dbaf
+
+You sing eloquently of the many things which your vast Mind can encompass which no individual Clansinger could: such glories as Number, and the secrets of shinestone and Earth's many other silent children, and Green Knowledge of beings great and small.
+
+You sing of the Treasures you have found, of their color and beauty and power, and how your shining Trove is filled with things which no furbeast could obtain.
+
+You can tell, however, that you are losing the Clansingers' interest. They cannot follow your line of Song, nor do they care for such things as the Draak would find beautiful and fine.
+
+In the end, you have failed to touch them deeply, and you know that it is so. You are forced to retreat, your confidence weakened. The Clansingers return to their feast under the pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2dbas
+
+Closing your senses, you reach out with your Essence, expanding your Mind until you can hold all of the Great Green within it. When you at last behold its Truth, you begin to paint symbols on the Minds of the Clansingers.
+
+You reveal the great Web which connects all things, spun by Sun and Earth but older even than they. You reveal all things to be bound by one spirit, one Essence, from the smallest of Tiny Beings to the greatest of the Draak, lords of this world.
+
+To their wondering Minds, you show that you and they and all Beasts are part of one Clan, and all Dances, whether of Destruction or Creation, are intersections of the Web, branching pathways which have no end.
+
+The Clansingers are shocked at the vastness of your Mind, at the wonders which you can comprehend of which they have only dreamed. They feel the Truth heavy in your words, though they cannot fully understand it.
+
+When you finish, they silently leave, allowing you the prize. Quietly, you consume your winnings and depart. When Sun is at last born again, nothing remains on top of the hill but the bones of a Plainstrider and the echo of your mighty Music.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2dbbf
+
+Assertively, you roar out your greatness; your wisdom and strength are known to many, and beings both large and small have sung of your exploits!
+
+Your boasts, however, ring hollow. While all know you as the Kin-lord of the Spiritwood, too few have sung of your adventures, and the Clansingers question their truth.
+
+You attempt to insist upon it, but already you have been thrown off-balance, and soon it becomes clear that their Song is mightier than yours. You have failed to touch them deeply, and you know that it is so.
+
+You are forced to retreat, your confidence weakened, though you have learned something about how to succeed in contests of Song. The Clansingers return to their feast under the pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2dbbs
+
+You sing of your beginning; how you emerged alone into the world from the Chamber, with no Birther from whom to feed and none to rely upon for protection.
+
+You recount your trials in Heartbone Valley, your struggle to survive, how you won the stewardship of the Great Green, and how even old and wise Draak honor your claim.
+
+You sing of the many times you have proven your skill, might and wisdom against challenges which might have Destroyed you. You were alone, and yet triumphed over incredible odds.
+
+You sing of your lordship over the First Forest and how your subjects great and small have praised you even as you have consumed them, for your Essence burns bright and your Justice is clad in armor like Stone.
+
+Who is like you? Who can compare to you? While young, you have achieved what no Clansinger has before, and even some elder Draak have failed at.
+
+Through your Song, your shadow looms so large in their Minds so that they cower like Treetails in the shadow of a Skyclaw.
+
+When you finish, they silently leave, one by one, allowing you the prize. You consume your winnings and depart.
+
+When Sun is at last born again, nothing remains on top of the hill but the bones of a Plainstrider and the echo of your mighty Music.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2e
+
+As you turn to leave, the Birther-Chieftain raises its head.
+
+<wolf><color lightblue>Do you leave us to our feast
+Out of fear, or out of honor?</color>
+
+Clansingers are rumored to be able to smell Truth...
+
+------------------------------
+> Honor; you would be ashamed to take their kill for yourself.
+  Go to: gw2eas, gw2eaf
+> Fear; you do not wish to test your strength against them.
+  Go to: gw2eb
+> Disinterest; you are simply not hungry.
+  Go to: gw2ecs, gw2ecf
+
+==============================
+Event: gw2eaf
+
+<wolf><color lightblue>So you sing,
+Yet the tang of your salty fear
+Dances in my nostrils.</color>
+
+<wolf><color lightblue>Either you know not yourself,
+Or you know not honor.
+Begone from us.</color>
+
+They return to their feast beneath the Sun-pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2eas
+
+<wolf><color lightblue>So you take pride in your lone Way,
+As we take pride in our Way of One-and-Many.</color>
+
+<wolf><color lightblue>It is good; let Time judge with fairness
+Which way is stronger.</color>
+
+They return to their feast beneath the Sun-pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2eb
+
+<wolf><color lightblue>Your honesty suggests Wisdom.
+If Fear is known, it can be overcome.</color>
+
+<wolf><color lightblue>Neither do we wish to test ourselves against you.
+May the boundaries be respected.</color>
+
+They return to their feast beneath the Sun-pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2ecf
+
+<wolf><color lightblue>Your belly growls,
+The scent of prey is not on your breath.
+Perhaps the Kin are not as honorable as we believed.</color>
+
+They return to their feast beneath the Sun-pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw2ecs
+
+<wolf><color lightblue>Indeed, you are well-fed.
+We accept your answer as true.</color>
+
+They return to their feast beneath the Sun-pregnant sky.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw3_1
+
+You have found the Lair of the Clansingers deep in the heart of the Packlands. Most of the Clan is out hunting this day, but they have posted a sentry.
+
+Its posture and energy leave absolutely no room for doubt: it is guarding some kind of Treasure.
+
+Sneaking past it will be impossible, as it is directly blocking the Lair. How will you proceed?
+
+------------------------------
+> Ambush it stealthily.
+  (Hidden: If only you could blend in with your surroundings...)
+  Go to: gw3_1a
+> Challenge it honorably.
+  Go to: gw3_1b
+> Leave this place, for now, and spend this Sun elsewhere.
+  Go to: gw3_1c
+
+==============================
+Event: gw3_1a
+
+You shift your armor's colors to blend in with your surroundings. Circling around, you climb up the opposite side of the Lair-hill. Your movements are slow, so slow you are barely moving, but you are a patient and accomplished predator.
+
+Clansingers have powerful ears and noses, but your expertise has brought you victory; you are within pouncing range of the guard, perched on the hill above it, and it does not know you are there. When the moment is right, you strike.
+
+The sentry is shocked by your sudden attack, and its red Essence is already upon your claws and fangs before it can properly react. Dazed and wounded, it flees into the Green.
+
+Soon, you hear its Summoning Song ringing out, calling the Clan back to the Lair to defend it. You must be swift.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gw3_2
+
+==============================
+Event: gw3_1b
+
+After you step out of hiding and announce your challenge, the sentry replies:
+<color 3d5bff><wolf>I am Guards-the-Treasure, the One Left Behind.
+I am old, but strong, forged in many battles.</color>
+
+<color 3d5bff><wolf>My Body and Essence are unified
+In standing between our most prized possession
+And any who would take it.</color>
+
+<color 3d5bff><wolf>Though I fear you, I shall remain, like a Stone
+Unmoved and ever-ready, and honor your challenge.
+Let the Dance of Destruction begin.</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw3_1c
+
+You are not yet ready to make an attempt for the Treasure of the Clansingers. You decide to return another Sun.
+
+------------------------------
+> /EndEvent
+  Go to: GreatGreenAct2_Map
+
+==============================
+Event: gw3_1f
+
+Defeated by the Guardian, you retreat. When next you return, the Clansinger Lair stands empty, their Treasure moved to a new location.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw3_1s
+
+The guardian is defeated, and attempts to escape. Will you allow it to leave?
+
+------------------------------
+> Yes.
+  Go to: gw3_2
+> No, fight to the death.
+  Go to: gw3_2
+
+==============================
+Event: gw3_2
+
+Entering the Lair, you are dismayed to find no shiny things or rare objects. Instead, you see several hatchlings of the Clansinger people. They are redolent with fear, but one of them bravely stands and approaches you.
+
+<color 2878ff><wolf>I am Shining-Eye, last-born
+Of the Future of the Claws-of-the-Spirit Clan.
+Have you come to Destroy us, Great Draak?</color>
+
+The aroma of their delicious, tender, milk-fed flesh calls to you. All together, they would be a very fine meal indeed, and they are defenseless, their small fangs and claws not even capable of piercing your armor.
+
+How will you answer the hatchling's question?
+
+------------------------------
+> Yes. (Consume them.)
+  Go to: gw3_2a
+> Perhaps not. (Converse with them.)
+  Go to: gw3_2b
+
+==============================
+Event: gw3_2a
+
+The hatchlings have the spirits of warriors, and they attempt to fight you as best they can, but they do not yet have the Bodies to put up an effective defense. One by one, you Silence and Consume them.
+
+The flavor is exquisite. Their flesh practically melts in your mouth, and even their fur adds to the experience, short and velvety as it is.
+
+As their Essence becomes yours, you feel invigorated. The adults approaching, so you make a hasty retreat, but you have eaten well this Sun.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw3_2b
+
+You explain to the younglings that you came here in search of Treasure, not food. Shining-Eye replies:
+
+<color 2878ff><wolf>We are the greatest Treasure of the Claws-of-the-Spirit Clan.
+We are the Immortality of our People.</color>
+
+<color 2878ff><wolf>From our Birther-Creator's Body, we draw sacred milk,
+And from our Giver-Creator's mouth, we receive warm flesh.</color>
+
+<color 2878ff><wolf>We flow from them, like a River, bringing their Songs
+Into the Future; there can be no greater Treasure, or so they Sing.</color>
+
+What will you do?
+
+/MasteryDisplay
+
+------------------------------
+> Let them Live, and leave this place.
+  Go to: gw3_2ba
+> Take one of them alive back to your Lair.
+  Go to: gw3_2bb
+> Consume them after all.
+  Go to: gw3_2a
+
+==============================
+Event: gw3_2ba
+
+Silently, you withdraw from the Lair of the Clansingers and hasten into the Green, leaving before the Clan arrives. When they do, they are relieved and joyous to find their precious Treasure still alive and whole.
+
+You can hear them raise a Song of Thanksgiving for their good fortune, the Song echoing and twisting joyfully among the Trees:
+
+<color 00b4ff><wolf>Our Future lives! Love's labor is not lost!</color>
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw3_2bb
+
+Seizing Shining-Eye gently but firmly in your jaws, you retract your head from the Lair and make swift progress through the woods.
+
+You almost swallow or choke on it a few times in your haste, and the Clan is in close pursuit, but they give up after you pass the boundary of their territory.
+
+When you deposit Shining-Eye in your Lair, it sings a pitiable song, trying to call its Clan to it, but it is much too far away to be heard.
+
+Eventually, it collapses in despair, and you think it may have gone Silent, Destroyed by pure grief, but after a few Suns it grows accustomed to its new home and regains its energy.
+
+Soon, it has learned to look to you for sustenance and entertainment. You must provide food for it, reducing your own stores, and your tail becomes a veritable chew-toy.
+
+You can, at least, consume it if it grows too troublesome.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw4
+
+It is a hunting-moon, and as you bathe in the moonlight outside of your Lair and look over your domain, a many-voiced Song rises up from the depths of the Great Green. The Clansingers are singing a Song of Summoning:
+
+<wolf><color lightred>We call upon the Long-necked Lord,
+The Firebringer, Remnant of Before-Time.
+If you know Honor, come to us.
+The Spirit-Claw Clan summons you.</color>
+
+You find all of the warriors of the Clan waiting for you on a hill at the edge of their territory, facing your Lair. As you approach, their Giver-Chief and their Birther-Chief rise. The Giver-Chief speaks first:
+
+<wolf><color lightred>I am Splits-the-Night, 
+who rends the darkness with a clear voice,
+Creator of many and First Into Danger.</color>
+
+<wolf><color lightred>This Night, it is given to me 
+to sing of our grievances with you.</color>
+
+<wolf><color lightred>You have attacked our Seedling,
+A bold Dispersed, treacherously,
+Slain them without honor.
+Our Song and Future are wounded.</color>
+
+<wolf><color lightred>Unwisely, you have dared
+To challenge our might
+And found only failure.
+The scent of weakness clings to you.</color>
+
+<wolf><color lightred>You have sung songs
+At odds with reality as we know it.
+Your voice has been the voice of Untruth,
+To which only the weak resort.</color>
+
+<wolf><color lightred>You have committed the ultimate crime:
+You have Destroyed our Future.</color>
+
+<wolf><color lightred>Moons and moons of flesh and milk and Love
+Turned to Silence.
+Our ancestors whine in grief.</color>
+
+<wolf><color lightred>You have stolen away
+Shining-Eye, the beloved.</color>
+
+<wolf><color lightred>Of the Future of the Clan
+You have taken, bringing painful quiet
+to our Den.</color>
+
+<wolf><color lightred>But you have not transgressed,
+No, not once.
+Never have you earned our condemnation,
+Never have you shown weakness, nor dishonor.</color>
+
+<wolf><color lightred>My Song of Blame has no fangs.</color>
+
+Their Birther-chief then comes to the fore:
+<wolf><color lightblue>I am Fragrant-Spirit,
+Whose Essence is pleasing to the Green One,
+Creator of many and Source of Life.</color>
+
+<wolf><color lightblue>This Night, it is given to me
+To sing on your behalf, to count your virtues.</color>
+
+<wolf><color lightblue>You have dealt fairly with our Seedling,
+The bold Dispersed you allowed to pass
+And carry our Essence to places unknown.
+Our Song and Future are strengthened.</color>
+
+<wolf><color lightblue>You have shown strength
+Greater even than the rumors of the Kin.</color>
+
+<wolf><color lightblue>You bested us in a fair challenge,
+Honorably winning renown
+And a bounty of flesh.</color>
+
+<wolf><color lightblue>Great and wonderful is your mystery,
+For you have spared our Future.</color>
+
+<wolf><color lightblue>Our cubs are safe in their Den,
+Though you had the power and the moment
+To Destroy them.</color>
+
+<wolf><color lightblue>Though we understand it not,
+We give thanks for your mercy,
+For the shadow of Love we find in you.</color>
+
+<wolf><color lightblue>But a seal is set upon me.
+I cannot raise my voice for you.
+No special honor have you shown
+In your dealings with my Clan.</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gw4b, gw4a
+
+==============================
+Event: gw4a
+
+The Clan joins in song:
+<color 00b4ff><wolf>Behold: we are the Claws of the Great Green,</color>
+<color 1496ff>And you are not respected by our Clan.</color>
+<color 2878ff>Your actions dismay us; you are our Enemy.</color>
+
+<color 00b4ff><wolf>Thus do we pronounce this judgment:</color>
+<color 1496ff>You shall not enter the Packlands again.</color>
+<color 2878ff>Never shall you hunt in our domain</color>
+<color 3c5aff>Nor seek your "Treasure" there.</color>
+
+<color 00b4ff><wolf>Swear to stay far from us</color>
+<color 1496ff>Or feel the wrath of our Bodies and Minds.</color>
+<color 2878ff>So it is Sung, and so shall it Be.</color>
+
+It seems that you have been declared unwelcome in the domain of these fierce Goodbeasts.
+
+How will you respond?
+
+------------------------------
+> Swear to never again enter the Packlands area, where the Den of the Clansingers rests. (This is safest.)
+  Go to: gw4aa
+> Refuse to accede to their demands.
+  Go to: gw4ab
+> Negotiate with the Clansingers.
+  Go to: gw4ac
+
+==============================
+Event: gw4aa
+
+You swear a mighty oath to the Spirit of the Great Green that you shall never again enter their territory or hunt on their lands. Satisfied, the Clansingers depart.
+
+Their homeland is just a small part of your territory, and avoiding it will not be too difficult, nor deprive you of your means to survive.
+
+Others, however, will hear of how you were barred from part of your own domain by lesser beasts, and will tell of it to many...
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gw4ab
+
+<color 00b4ff><wolf>Then let our disdain become marked on your Body. We shall taste the dark Essence of one of the ancient Draak-Kin People.</color>
+
+You are fighting against the entire Clan in a Dance of Refusal... if you flee, you will be forced to accede to their demands.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw4abf
+
+Alas, your strength is not great enough to oppose the Clan and you are forced to flee, implicitly agreeing to their demand. You will never again enter their territory or hunt on their land.
+
+Their homeland is just a small part of your territory, and avoiding it will not be too difficult, nor deprive you of your means to survive.
+
+Others, however, will hear of how you were barred from part of your own domain by lesser beasts, and then tried to fight them unsuccessfully, compounding folly on folly.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gw4abs
+
+Though bloodied, you emerge victorious. The Clansingers flee, having realized that they are powerless to bar your way. All of your lands remain open to you, and these impudent furbeasts will not dare to oppose you again.
+
+You let out a fiery, triumphant roar which echoes through the Green. You, and you alone, are Lord of these lands!
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gw4ac
+
+Fragrant-Spirit turns away from you.
+<wolf><color lightblue>Your shining rocks and strange things
+Have no meaning to the Clansingers.</color>
+
+<wolf><color lightblue>What would a Draak have in its Den
+Which could sway the hearts of the Clansingers?</color>
+
+------------------------------
+> Nothing.
+  Go to: gw4a
+> Show them Shining-Eye.
+  (Hidden: If only you had something they loved and cherished...)
+  Go to: gw4acb
+
+==============================
+Event: gw4acb
+
+The Clansingers are taken aback by the sight of their beloved Shining-Eye alive. While you hold it hostage, they dare not attack you.
+
+Grudgingly, they retract their demand; you will be allowed to pass through and hunt in their lands, in exchange for your return of Shining-Eye to them. Considering how much it eats, having it gone will be a blessing for you, and the deal is sealed.
+
+You earned the wrath of the Clansingers, but have escaped the consequence by using their "Love" against them.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gw4b
+
+<color 00b4ff><wolf>We perceive that you are not an Enemy,</color>
+<color 1496ff>But we understand not your ancient Mind.</color>
+<color 2878ff>Our confusion disturbs us.</color>
+
+<color 00b4ff><wolf>Why have you shown Love and Honor</color>
+<color 1496ff>To a People not your own?</color>
+
+------------------------------
+> Say that it had nothing to do with them; you were merely following your own Nature.
+  Go to: gw4ba
+> Say that you have come to Love their People, their Clan, more than other goodbeasts.
+  (Hidden: If only you were more beloved by the Clansingers...)
+  Go to: gw4bb
+
+==============================
+Event: gw4ba
+
+<color 00b4ff><wolf>Strange are the ways of the Draak.</color>
+<color 1496ff>We had heard that they were a vicious and powerful people,</color>
+<color 2878ff>But now we know them as generous and wise.</color>
+<color 3c5aff>We shall sing of this to the Spirit, and all those who would hear.</color>
+
+After that night, you often hear the shadow of your own song-name in their magnificent anthems. <color 00b4ff><wolf>Worthy is the Draak-Kin whose realm we tread,</wolf></color> they sing.
+
+A strange feeling, a warmth, tickles your breast whenever you hear it. Pride, yes, of course, but also something else, something warmer, deeper.
+
+------------------------------
+> /EndEvent
+  Go to: timed_events_day
+
+==============================
+Event: gw4bb
+
+This sends the Clansingers into confusion. Can Love, so holy to them, extend between beasts of different kinds?
+
+After some discussion, they ask what you wish of them.
+
+------------------------------
+> Say that you wish nothing of them, and offer your blessing.
+  Go to: gw4bba
+> Say that you wish to become their Chief; your lands shall become theirs, and your Wisdom and protection shall be upon them always.
+  (Hidden: If only you knew more about the Clansingers' Way and were more highly regarded by their Clan...)
+  Go to: gw4bbb
+
+==============================
+Event: gw4bba
+
+They band together in chorus:
+<color 00b4ff><wolf>Great Mother below, great Father above,</color>
+<color 1496ff>We thank you for sending us a Draak-Kin</color>
+<color 2878ff>Who loves our people and our Music.</color>
+
+<color 00b4ff><wolf>May it never know parching thirst</color>
+<color 1496ff>Nor wasting disease,</color>
+
+<color 00b4ff><wolf>May it find much meat upon which to feast</color>
+<color 1496ff>And perform the Dance of Creation many times</color>
+<color 2878ff>With lovers beautiful and strong.</color>
+
+They depart, filled with wonder and gratitude. Perhaps the Spirit has heard their blessing.
+
+Later, you find that they have left a generous thanksgiving offering for you; the Body of a young Hillback, which you enjoy.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: gw4bbb
+
+You speak of your deep understanding of their Way, how your very Essence resonates with their Music. You sing of their honor and bravery, their wild strength and beautiful song.
+
+But most of all, you speak of the Love which binds them together, and how that same Love has now crossed new boundaries and bound your Essence to theirs.
+
+You were meant to find them, and become their Chief, to make from yourself a pathway for them to achieve new heights of goodness and power.
+
+Into your song, you weave the knowledge you have gained of their people, and they are awestruck. It is as though your sigils are imprinted not only on their Minds, but onto their very souls.
+
+In the end, their Giver-Chief and Birther-Chief step forward. Nothing else need be sung. They have acknowledged your challenge for the leadership of their people, and now you must prove your strength according to their Tradition.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: gw4bbbs
+
+The Chief surrenders, baring its throat and belly to you.
+
+Having defeated a standing Chief in open combat, the Clan acknowledges you as worthy to lead them.
+
+If you are mighty enough, you can challenge the other to a fight, if you wish. Defeating both their Giver-Chief and Birther-Chief at once would surely be a tale retold through many generations.
+
+------------------------------
+> Challenge the other Chief as well.
+  Go to: HuntingBaseCombat
+> Accept this as enough, and lead them to their new home.
+  Go to: gw4bs
+
+==============================
+Event: gw4bbbsa
+
+As you accept the honorable surrender of the other Chief, the Clan dances and sings around you.
+
+<color 00b4ff><wolf>It is the will of the Green! Praise our all-powerful Great Chief!</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gw4bs
+
+==============================
+Event: gw4bs
+
+Over the next few Suns, the Spiritclaw Clan migrates to its new home: your Lair.
+
+The acceptance of a Draak as their leader is unprecedented, but the connection you have forged with these noble Goodbeasts is powerful and true.
+
+Shining-Eye rejoins the Clan amidst a riot of tongue-greetings and Dances of Joy, and the Singers give thanks for the miracle.
+
+When the Hunting-Moon rises over the Great Green, a new Song may be heard. The Clansingers' chorus now features a new Voice: yours.
+
+Goodbeasts far and wide comment on the spectacle. Some even journey to your lands to hear this wonderful dissonance, harmonious in its diversity. Now, from your own Lair, Clansinger voices ring out:
+
+<color 00b4ff><wolf>We are the People of the Far-telling Song,</color>
+<color 1496ff>Who sing with One Voice, which is Many Voices.</color>
+<color 2878ff>To be alone is Weakness,</color>
+<color 3c5aff>To be together is Strength.</color>
+
+<color 00b4ff><wolf>Praise be to the Great Green, shard of the Mother's Being,</color>
+<color 1496ff>Pouring out sweetness in the crystal-pure Waters</color>
+<color 2878ff>And the ruby-sweet Essence of our honorable Prey.</color>
+
+<color 00b4ff><wolf>Praise be to our Prey, whose flesh becomes ours,</color>
+<color 1496ff>Givers of Life, Dance-partners eternal,</color>
+<color 2878ff>We remember with Song your great Sacrifice.</color>
+
+<color 00b4ff><wolf>Praise be to Those Who Came Before,</color>
+<color 1496ff>Our ancestors, who learned to bridge Love and Violence,</color>
+<color 2878ff>Across being One and being Many,</color>
+<color 3c5aff>And not be split in twain.</color>
+
+And, for the first time, a new verse is added:
+<color 00b4ff><wolf>Praise be to our Great Chief,</color>
+<color 1496ff>Many-colored Kin to the Ancient Ones</color>
+<color 2878ff>Who bridges what Was and what Shall Be,</color>
+
+<color 00b4ff><wolf>Who burns a new path for us</color>
+<color 1496ff>With Strength and Honor and Fire.</color>
+
+<color 00b4ff><wolf>Praise be to Earth, Great Mother of us all,</color>
+<color 1496ff>For we Love Her, and are One in Her.</color>
+<color 2878ff>Hear now our Song of Joy:</color>
+
+<color 00b4ff><wolf>We Live!</color>
+<color 1496ff>We Live!</color>
+<color 2878ff>We Live!</color>
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================

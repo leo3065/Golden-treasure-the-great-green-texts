@@ -1,0 +1,28 @@
+Event: hatch_end
+
+------------------------------
+> [Complete]
+  Go to: act1_quote
+
+==============================
+Event: new_life
+
+<color #ffbb00>From w</color><color #FFBB00>here would you like to begin?</color>
+
+------------------------------
+> The very beginning.
+  Go to: intro_quote
+> The moment I hatch from my egg. 
+(Tutorial)
+  Go to: StatDistributor
+> Childhood in Heartbone Valley.
+(Part I)
+  Go to: StatDistributor
+> Adolescence in the Spiritwood.
+(Part II)
+  Go to: StatDistributor
+> Young adulthood in the Great Green.
+(Part III)
+  Go to: StatDistributor
+
+==============================

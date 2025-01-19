@@ -1,0 +1,2062 @@
+Event: gl1
+
+Yes... this is the place.
+
+That unusual foreign Tree must be the final marker in the mental directions given to you by Darktooth.
+
+Here lies the entrance to the <color blue>Great Lesson.</color>
+
+A Skyclaw rests on the expatriate Tree, watching. As you draw near, it sings:
+
+<eagle>One draws near,
+Pulling away from what it was
+And toward what it shall be.
+
+<eagle>This is the Gate of Beginning.
+Its vastness represents
+All Truth, all Wisdom.
+
+<eagle>Why are you worthy to enter?
+What do you possess?
+
+<eagle>Do you know the Great Truth?
+
+------------------------------
+> Yes, I know the Great Truth.
+  Go to: gl1a
+> No, I do not know the Great Truth.
+  Go to: gl1b
+
+==============================
+Event: gl10
+
+The Lair of an Elder.
+
+Only in your dreams have you visited such a place. Darktooth's ample Essence flows in every Stone cranny, every drop of Water.
+
+Artifacts of many shapes and colors, some beyond your ability to comprehend, are meticulously arranged in many compartments.
+
+Skyclaws of the Night Clan fly gracefully to and fro, whispering secrets to their Master, and Water continuously blesses the huge Draak known to many as the Wise One.
+
+As you emerge from the submerged passageway, Darktooth eyes you indulgently, welcoming you with a slight inclination of its head and a relaxed half-sweep of its tail.
+
+<darktooth>THE LESSON IS CONCLUDED.</darktooth>
+
+<darktooth>TO ENTER, ONE MUST ADMIT THAT ONE IS NOT WISE. ONE CANNOT TRULY LEARN UNLESS ONE EMBRACES ONE'S OWN LIMITED NATURE.</darktooth>
+
+<darktooth>ONE THEN LEARNS THE HIGH STORY OF THE DRAAK. FEW INDEED ARE WE WHO REMEMBER THE OTHER-WAR AND THE FIREFALL.</darktooth>
+
+<darktooth>SOME THINGS SHOULD NOT BE FORGOTTEN, AND SO I CONSTRUCTED THE MAZE OF WHAT WAS, TO PASS ON WHAT HAS GONE BEFORE.</darktooth>
+
+<darktooth>YET BE NOT A SLAVE TO THE PAST, WHICH IS GONE. THE PRESENT ALONE IS IMMORTAL.</darktooth>
+
+<darktooth>IF ONE FOCUSES ON WHAT <bold><italic>WAS</bold></italic> AS IF IT WERE WHAT<bold><italic> IS</bold></italic>, ONE WILL BE TRAPPED, UNABLE TO FIND A WAY FORWARD.</darktooth>
+
+<darktooth>UNTIL THE LAST DARKNESS AND SILENCE, THERE IS ALWAYS HOPE. BOTH THE DRAAK-KIN AND THE OTHERS, AND ALL BEINGS, CAN CHANGE. REMEMBER THIS.</darktooth>
+
+<darktooth>AFTER THE FIRST TEST, ONE DESCENDS INTO THE MAZE OF PHILOSOPHY, WHERE ONE ENCOUNTERS FOUR INSTRUCTORS, EACH OF A DIFFERENT WAY.</darktooth>
+
+<darktooth>IN THE <bold>SCHOOL OF KNOWLEDGE</bold>, ONE LEARNS THAT MEMORY AND FACTS HAVE POTENTIAL TO FORGE A NEW WAY, BUT ONE MUST BE WISE ENOUGH TO SEE ITS FLAWS. INFORMATION WITHOUT GROWTH OR APPLICATION IS MEANINGLESS.</darktooth>
+
+<darktooth>THE MATERIALISM TAUGHT BY THE <bold>SCHOOL OF WEALTH</bold> IS INDEED CONDUCIVE TO ACQUIRING MATTER, BUT CHASING AFTER WEALTH AND SECURITY CAN EASILY BECOME A TRAP.</darktooth>
+
+<darktooth>ONE WILL NEVER HAVE ALL THINGS OR BE PERFECTLY SAFE. LEARNING TO ACQUIRE WITHOUT LEARNING TO LET GO LEADS ONLY TO PAIN AND FEAR.</darktooth>
+
+<darktooth>PERHAPS ONE WOULD BE TEMPTED TO JOIN THE <bold>SCHOOL OF FAITH</bold>, TO WORSHIP THEIR DEITY AND ASCRIBE TO THEIR BELIEFS.</darktooth>
+
+<darktooth>THOSE BELIEFS, HOWEVER, ARE ROOTED NOT IN TRUTH BUT ON A DESIRE FOR ACCEPTANCE AND ORDER, BASED ON A PAST WHICH HAS NEVER BEEN. SUCH IS NOT THE WAY OF THE DRAAK-KIN.</darktooth>
+
+<darktooth>AND THE <bold>SCHOOL OF EMPTINESS...</bold> THE INSTRUCTOR WAS CORRECT IN TEACHING THAT ALL JUDGMENTS ARE RELATIVE, AND MANY OF THE CONCEPTS WE USE TO LABEL OURSELVES AND OTHERS ARE NOT REAL.</darktooth>
+
+<darktooth>BUT WHILE IT MAY BE TEMPTING TO FALL INTO NIHILISM, REMEMBER THAT ONE IS ALIVE, AND EVERY ACT OF DESTRUCTION AND CREATION WROUGHT BY YOU CHANGES THE ONESONG. YOU ARE AT ONCE LARGE AND SMALL, BEAUTIFUL AND UGLY, WISE AND IGNORANT. EMBRACE THAT PARADOX, AND LIVE.</darktooth>
+
+<darktooth>AT THE FINAL GATE, ONE GRADUATES BY REFUSING TO BE TRAPPED BY ANY SINGLE PERSPECTIVE.</darktooth>
+
+<darktooth>FOUR TIMES ONE MUST REJECT THEM, UNDERSTANDING THAT WHILE ALL FOUR INSTRUCTORS WERE INTELLIGENT, NONE WERE TRULY WISE.</darktooth>
+
+<darktooth>NEVER CONFUSE INTELLIGENCE FOR WISDOM. WISDOM IS NEITHER A KNOWING NOR A FINDING, BUT RATHER, A SEEKING.
+
+<darktooth>THIS IS THE ESSENCE OF THE GREAT LESSON I HAVE PREPARED FOR A YOUNG KIN. LOOK BENEATH LIFE'S SURFACES. DEEP TRUTH IS THAT WHICH CONNECTS, NOT THAT WHICH SEPARATES.</darktooth>
+
+<darktooth>THROUGH MY GROWING UNDERSTANDING OF THE ONESONG, I HAVE CRAFTED ARTIFACTS WHICH USE THE LAWS OF REALITY TO ACHIEVE ENDS THOUGHT TO BE IMPOSSIBLE. I CAN IMBUE MY MIND-SONG WITH THE POWER OF EARTH AND SUN.</darktooth>
+
+<darktooth>AND YET, THOUGH SOME SAY THAT I AM WISE BECAUSE OF SUCH THINGS, I BELIEVE THAT, IF I AM WISE, IT IS BECAUSE I HAVE NOT GIVEN UP THE SEARCH FOR EVEN DEEPER TRUTHS, AND AM CAREFUL TO REMIND MYSELF THAT I AM IMPERFECT, AND THAT THERE ARE INFINITE THINGS I HAVE YET TO DISCOVER.</darktooth>
+
+<darktooth>ANSWERS CAN BECOME CAGES. LEARN INSTEAD TO LOVE QUESTIONS.
+
+<darktooth>CERTAINTY CAN BECOME IGNORANCE. LEARN INSTEAD TO EMBRACE UNCERTAINTY, TO CHERISH IT LIKE A TREASURE.
+
+<darktooth>SUCH IS MY LESSON TO A YOUNG KIN. SUCH IS MY LESSON TO YOU...</darktooth>
+
+<darktooth>MY CREATION.</darktooth>
+
+Darktooth blinks slowly, waiting.
+
+------------------------------
+> Ask Darktooth about itself. Is it truly one of your Creators?
+  Go to: gl10a
+> Ask Darktooth about this Trove. What are all of these Artifacts?
+  Go to: gl10b
+> Ask Darktooth about the unusual creatures of the Labyrinth.
+  Go to: gl10c
+> Ask Darktooth about the Others and their Seed.
+  Go to: gl10d
+> Ask about the Skyclaws and their relationship with Darktooth.
+  Go to: gl10e
+> Ask Darktooth for permission to leave.
+  Go to: gl10f
+
+==============================
+Event: gl10a
+
+<darktooth>THE EMERALD FLAME, YOUR BIRTHER-CREATOR, WAS GUARDIAN OF THE SPIRITWOOD AT THE TIME OF YOUR CREATION. WE DANCED, AND SO YOU WERE CREATED, ALONG WITH SEVERAL OTHERS.</darktooth>
+
+<darktooth>WHILE PASSIONATE IN ITS DEFENSE OF THE SACRED LAND, THE EMERALD FLAME WAS DEEPLY TRADITIONAL, AND STRONG WITH THE ELEMENT OF FIRE. ITS HATRED OF THE NO-TAILS WAS... IMMODERATE.</darktooth>
+
+<darktooth>MANY TAILLESS PERISHED. IT WOULD BE NO EXAGGERATION TO SAY THAT THE EMERALD FLAME RELISHED THE FLAVOR OF THEIR FLESH. A DANGEROUS ADDICTION.</darktooth>
+
+<darktooth>FINALLY, ON THE SUN OF YOUR HATCHING, IT WAS DESTROYED BY THE NO-TAILS, WHO UTILIZED A CUNNING TRAP. NOW, YOU ARE THE EMERALD FLAME'S LEGACY. YOU POSSESS ITS TERRITORY AS WELL AS MOST OF ITS FORM.</darktooth>
+
+<darktooth>THAT IS COMMON. NEWLY-CREATED KIN NEARLY ALWAYS TAKE ON THE CLAN OF THEIR BIRTHER-CREATOR. YOUR SCALES, FEATHERS AND WINGS ARE DEEPLY REMINISCENT OF MY OLD DANCE-PARTNER.</darktooth>
+
+<darktooth>YOUR EYES ALONE ARE MINE. AND YOUR ESSENCE IS WHOLLY YOUR OWN, FOREVER.</darktooth>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl10
+
+==============================
+Event: gl10b
+
+<darktooth>WHAT YOU BEHOLD HERE IS BUT A SMALL PORTION OF MY POSSESSIONS. THESE ARE THE ARTIFACTS CURRENTLY UNDER RESEARCH OR USE.</darktooth>
+
+<darktooth>I HAVE SEVERAL CAVERNS FULL OF SMALL SHINY THINGS, AND OTHER ARTIFACTS IN STORAGE AT VARIOUS LOCATIONS, MOST OF THEM IN THE GREAT BLUE.</darktooth>
+
+<darktooth>I AM CURRENTLY INVOLVED IN A VERY SPECIAL RESEARCH ENDEAVOR. FATHOM THE GREAT, PARAGON OF THE SEA, JOINS ME IN THE SEARCH FOR A DIFFERENT ANSWER.</darktooth>
+
+When you ask what Darktooth is seeking an answer to, it falls silent and sings no more of the matter.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl10
+
+==============================
+Event: gl10c
+
+<darktooth>YES... THE ENKINDLED. THE OMS, THE FOUR INSTRUCTORS... I ENKINDLED THEM ALL HUNDREDS OF TURNINGS AGO.</darktooth>
+
+<darktooth>I ENDOWED THEM WITH A SMALL PART OF MY OWN ESSENCE, PROLONGING THEIR LIVES AND GRANTING THEM SPECIAL GIFTS.</darktooth>
+
+<darktooth>EACH SERVED A MINOR PURPOSE AT THE TIME, BUT I CAME TO REGRET WHAT I HAD DONE. ENKINDLED BEINGS ARE POWERFUL, BUT THE EXPANSION OF THEIR BEING CAN EASILY LEAD THEM TO MADNESS OR DESTRUCTION.</darktooth>
+
+<darktooth>I RELOCATED THEM HERE TO KEEP THEM SAFE AND TO SERVE AS LESSONS, NOT ONLY ON PHILOSOPHY BUT ALSO ON THE DANGERS OF ENKINDLING. </darktooth>
+
+<darktooth>NOT ALL OF MY ENKINDLINGS WERE MAD FAILURES LIKE THE INSTRUCTORS, HOWEVER. I WAS ABLE TO GUIDE SOME, LIKE THE SKYCLAW AT THE ENTRANCE, TO BETTER PATHS.</darktooth>
+
+<darktooth>A FEW EVEN CAME TO SURPASS ME IN SOME RESPECTS, LIKE THE GREAT GLIDER WHO ATTENDS THE GATE OF GRADUATION. I CONSIDER IT A LIVING TREASURE.</darktooth>
+
+<darktooth>BUT MANY MORE HAVE BEEN LOST OR SPIRALED INTO RUIN, SUNDERED FROM THEIR OWN PEOPLE AND BURDENED WITH A MIND GREATER THAN THEIR NATURES COULD SUPPORT.
+
+<darktooth>BEWARE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl10
+
+==============================
+Event: gl10d
+
+<darktooth>YOU NOW KNOW THE HIGH STORY. THE OTHERS, WHO CAME FROM THE GREAT BREATHLESS ABOVE, USURPED OUR DOMINION, CHANGED EARTH'S FACE AND CREATED THE TAILLESS FOR THEIR OWN MYSTERIOUS PURPOSES.</darktooth>
+
+<darktooth>THEY NEVER EVEN ATTEMPTED TO COMMUNICATE. WE WERE SIMPLE VERMIN TO THEM, SMALL THINGS TO BE ERADICATED. I BELIEVE THEY WERE SURPRISED, IN THEIR WAY, THAT WE WERE ABLE TO MOUNT A SIGNIFICANT DEFENSE.</darktooth>
+
+<darktooth>AGAINST THE NEW MUSIC THEY BRANDISHED IN THE END, THOUGH, THERE COULD BE NO VICTORY. PERHAPS ONE IN A THOUSAND KIN SURVIVED, AND EVEN FEWER NOW REMAIN. </darktooth>
+
+<darktooth>ONE THING, HOWEVER, IS STRANGE. IT IS CLEAR THAT THEY INTENDED TO RETURN, BUT TENS OF THOUSANDS OF TURNINGS HAVE PASSED AND STILL THEY HAVE NOT. THE DELVERS AND THE TAILLESS, THEIR CREATIONS, EXPECTED THEM LONG AGO.</darktooth>
+
+<darktooth>PERHAPS THEY WILL RETURN SOON. PERHAPS THEY WILL RETURN IN A THOUSAND THOUSAND TURNINGS. PERHAPS THEY HAVE BEEN DESTROYED, OR FORGOTTEN OUR WORLD.</darktooth>
+
+<darktooth>THE THREAT OF THEIR RETURN, ALONG WITH THE CHANGES WROUGHT BY THEIR CREATIONS UPON OUR SACRED MOTHER EARTH, HANG HEAVY OVER US. BUT HOPE REMAINS.</darktooth>
+
+<darktooth>LEARN ALL YOU CAN, AND ACCEPT NOTHING AS FINAL. SUCH IS MY SONG TO A YOUNG KIN.</darktooth>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl10
+
+==============================
+Event: gl10e
+
+<darktooth>AN ADMIRABLE PEOPLE. LIKE ALL FEATHERBEASTS, THEY WERE KIN LONG AGO, AND OF ALL FEATHERBEASTS THEY HAVE BEST RETAINED OUR QUALITIES.</darktooth>
+
+<darktooth>AFTER COMING TO THE GREAT GREEN FROM THE GREAT BLUE, I QUICKLY FOUND THAT THEIR EYES WERE AS SHARP AS THEIR TALONS, AND THEIR MINDS SHARPER STILL.</darktooth>
+
+<darktooth>I STRUCK A BARGAIN WITH THE WHITEFACE CLAN OF THE NIGHT SKYCLAWS AND THE BROADWING CLAN OF THE DAY SKYCLAWS; THEY SERVE AS MY EYES, AND I TEND TO CERTAIN OTHER MATTERS ON THEIR BEHALF.</darktooth>
+
+<darktooth>MORE THAN THIS, I CANNOT SING. THEY HAVE THEIR OWN SECRETS, WHICH I AM SWORN NOT TO BETRAY, EVEN TO OTHER KIN, FOR ANY PRICE.</darktooth>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl10
+
+==============================
+Event: gl10f
+
+Being in Darktooth's Lair is both awesome and terrifying; your fate is entirely in its control while you are here. Even if you are its own Creation, you know that one false move could mean your doom.
+
+Before you even give voice to your desire to leave, Darktooth speaks:
+
+<darktooth>PERMISSION TO LEAVE IS GRANTED. DO NOT RETURN HERE AGAIN, UNLESS ASKED.</darktooth>
+
+<darktooth>I WILL STILL ANSWER YOUR SUMMONS AT THE BORDER OF MY TERRITORY, IF I WILL IT, AND PROPER TRIBUTE IS BROUGHT, OF COURSE. THE OLD WAYS SHALL BE HONORED.</darktooth>
+
+<darktooth>YOU HAVE WON A SUBTLE YET VALUABLE TREASURE HERE. DO NOT FORGET THE GREAT LESSON WHICH I HAVE IMPARTED TO YOU IN THE FORM OF THE BLUE LABYRINTH.</darktooth>
+
+<darktooth>ONE THING ONLY REMAINS. TAKE THIS.</darktooth>
+
+<darktooth>PAYMENT IS NOT REQUIRED. I DO THIS FOR MY OWN PURPOSES. IF MY ESTIMATION OF THE YOUNG KIN BEFORE ME IS ACCURATE, WHAT RESULTS SHALL BE TO MY BENEFIT.</darktooth>
+
+<darktooth>REMEMBER THAT ONLY BY WISDOM, THE NOBLE AND ENDLESS QUEST, MAY WE ATTAIN OUR DEEPEST DESIRES AND OUR TRUE DESTINY. REMEMBER THAT ALL THINGS ARE ONE, AND JOINED AT THE CENTER.</darktooth>
+
+<darktooth>SUCH IS MY ADVICE TO MY MOST PROMISING CREATION.</darktooth>
+
+The Skyclaws lead you to a hidden passage which leads you back under the open sky, vanishing behind you. Soon, you are amongst the comforting sights and smells of your own domain.
+
+Your own Lair and Treasures seem like dirt and pebbles in comparison, but perhaps one day you will be an Elder such as Darktooth, who possesses Treasures and Artifacts beyond imagination.
+
+But Darktooth's greatest Treasure is none of those things.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gl1a
+
+<eagle>If you know the Great Truth,
+Then you need no help
+To conquer this or any other obstacle.
+
+The Skyclaw flies away, leaving you alone. You attempt to move the great stone barrier in a variety of ways, but all prove fruitless.
+
+You will have to return another Sun.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gl1b
+
+<eagle>Do you have great Wisdom?
+
+------------------------------
+> Yes, I am Wise.
+  Go to: gl1ba
+> No.
+  Go to: gl1bb
+
+==============================
+Event: gl1ba
+
+<eagle>Then let your great Wisdom
+Move this Stone,
+Which is as nothing in the face of true Wisdom.
+
+The Skyclaw flies away, leaving you alone. You attempt to move the great stone barrier in a large variety of ways, but all prove fruitless.
+
+You will have to return another Sun.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: gl1bb
+
+<eagle>Then you are worthy.
+
+<eagle>Remember always
+That nothing can be filled
+Unless it is first empty,
+
+<eagle>Nothing improved
+Until it finds it is lacking,
+
+<eagle>Nothing learned
+Until one admits ignorance
+With humility and openness.
+
+<eagle>Look down, look down.
+
+Looking down at the base of the foreign Tree, you see a hole in the ground. It was always there, but it seemed so obvious that the huge Stone was the entrance that you did not even notice.
+
+It is time to begin the Lesson.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL2/MWW_Manager
+
+==============================
+Event: gl2
+
+The passageway of roots and brown Earth-flesh soon leads to a space defined by Her bones. They glisten with tiny motes of Water as they slowly melt, a dissolution of millennia.
+
+This cavern is vast... becoming lost would be quite easy, as the trickling waters wipe away even the scent of your passing.
+
+------------------------------
+
+==============================
+Event: gl2r
+
+Would you like to leave the labyrinth?
+
+------------------------------
+> Yes.
+  Go to: glescape
+> No, continue exploring.
+  Go to: Backgrounds/GL2/MWW_Manager
+
+==============================
+Event: gl3
+
+<om><color yellow>OM.</color>
+
+<om><color cyan>OM.</color>
+
+<om><color magenta>OM.</color>
+
+You have discovered a Water-laved chamber, but your way forward is barred by three curious beings.
+
+They seem to have no eyes and are naked, lacking scales, feathers or fur.
+
+<om><color yellow>We hear you.</color>
+
+<om><color cyan>We smell you.</color>
+
+<om><color magenta>We welcome you by way of the cosmic sound: OM.</color>
+
+<om><color yellow>This is the Gate of What Was.</color>
+
+<om><color cyan>The only way forward from the Maze of What Was.</color>
+
+<om><color magenta>None shall pass here, UNLESS.</color>
+
+<om><color cyan>UNLESS. OM.</color>
+
+<om><color yellow>OM, OM, OM.</color>
+
+------------------------------
+> Ask the bizarre goodbeasts to allow you to pass.
+  Go to: gl3a
+> Ask the OMs about their People. Who are they, and how did they come to be here?
+  Go to: gl3b
+> Challenge them to a Trial of Combat to allow you to pass.
+  Go to: gl3c
+> Go back to the Maze of What Was.
+  Go to: gl3d
+
+==============================
+Event: gl3a
+
+<om><color yellow>The way forward cannot be seen with the lying Eye.</color>
+
+<om><color cyan>Only we know the way to the Deeper Mysteries.</color>
+
+<om><color magenta>The Wise One commands: none shall pass, UNLESS...</color>
+
+<om><color yellow>UNLESS the High Story is sung.</color>
+
+<om><color magenta>How we long to hear it! No song is greater than the High Story of the Draak-Kin, save only the sacred syllable...</color>
+
+<om><color cyan>OM.</color>
+
+<om><color yellow>Those who have seen the <bold>Seven Sights</bold>, and translated them into true understanding...</color>
+
+<om><color magenta>Only such beings may be shown the way downward to the Schools.</color>
+
+<om><color cyan>OM.</color>
+
+------------------------------
+> Share what you know of the High Story of the Draak-Kin People.
+  Go to: gl3aas, gl3aaf
+
+==============================
+Event: gl3aa1
+
+Earth and Sun mated. Earth gave birth to Life, whose Body was Her Body and whose Essence was His Essence, but whose true soul belonged to neither.
+
+Thus the Draak-Kin came into being.
+
+
+
+------------------------------
+> [TEST_HISTORY2]
+  Go to: gl3aa2
+> [TEST_HISTORY3]
+  Go to: gl3f
+> [TEST_HISTORY4]
+  Go to: gl3f
+> [TEST_HISTORY5]
+  Go to: gl3f
+> [TEST_HISTORY6]
+  Go to: gl3f
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3aa2
+
+The Kin spread across the world, adopting many shapes, many Minds, but were always of one Essence, and always adhering to the Great Law of Destruction, which they learned from Sun, and the Great Law of Creation, which they learned from Earth.
+
+They thrived and prospered, and at last one rose over them, Elder of Elders, First of the First, the Queen and Empress of all Kin.
+
+She held Destruction itself in her mouth and Creation itself in her Core, and all lowered themselves in her presence.
+
+
+
+------------------------------
+> [TEST_HISTORY3]
+  Go to: gl3aa3
+> [TEST_HISTORY4]
+  Go to: gl3f
+> [TEST_HISTORY5]
+  Go to: gl3f
+> [TEST_HISTORY6]
+  Go to: gl3f
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3aa3
+
+Then came the Others in their circle-chariots, and the heavens fell, burning. The very sky turned against the Draak, and in brief moments, eons were unmade. The slaughter was unprovoked and unfathomable.
+
+Nearly all of the great Kin died, though some of the smaller ones survived. Sun shed burning tears which fell to the ground, and Earth vomited up slow fire in horror.
+
+
+
+------------------------------
+> [TEST_HISTORY4]
+  Go to: gl3aa4
+> [TEST_HISTORY5]
+  Go to: gl3f
+> [TEST_HISTORY6]
+  Go to: gl3f
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3aa4
+
+The Great Empress was filled with wrath. Calling upon the power of Creation, she gave birth to a mighty legion of powerful Draak-Kin. Then, using the True Sigil of the Void, she remade herself as the Ruiner, the most powerful beast ever to exist, a force of Destruction which terrified even the Others.
+
+In this new form, she led her children into a battle in the name of Earth Herself for the fate of all Goodbeasts.
+
+
+
+------------------------------
+> [TEST_HISTORY5]
+  Go to: gl3aa5
+> [TEST_HISTORY6]
+  Go to: gl3f
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3aa5
+
+At first, victory was with the Ruiner-Empress, but the Others secretly wrought a new weapon, a Music which ripped apart Reality.
+
+This terrible New Music of the Others bypassed Body and even Essence to Destroy What Should Never Be Destroyed, and the Kin were defeated. Nearly all perished, and the Ruiner-Empress was stripped of her spirit-crown and authority.
+
+Imprisoned deep within the flesh of her own Mother, she sleeps through the ages, knowing only the nightmare of rage and sorrow which she still carries in her immortal breast.
+
+
+
+------------------------------
+> [TEST_HISTORY6]
+  Go to: gl3aa6
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3aa6
+
+Having defeated the Kin, Guardians of Earth, the victorious Others created three flat-faced, tailless tribes to spread their dominion: the short, strong Delvers to seize Earth's bounty from within, the wily Custodians to tame the Great Green and gather the Treasures of the surface, and the massive Enforcers, to administer a New Law and keep the others weak and docile.
+
+The Others then departed, promising to return in the future. The few remaining Kin slept for long ages in dark, cold places, hiding from the Others and their Seed.
+
+
+
+------------------------------
+> [TEST_HISTORY7]
+  Go to: gl3aa7
+
+==============================
+Event: gl3aa7
+
+Though the Other-Seed waited many, many Turnings, the Others did not return. They grew confused and despondent.
+
+In their chaos, the Custodians rose up against the Enforcers and Destroyed them. The Delvers disappeared underground, leaving only the Custodians to bear the legacy of the Others on the surface. They were now simply the No-Tails.
+
+In time, the few True Kin who were left emerged from hiding and sought their crown again among the Goodbeasts of a new and changed Earth, but they were no longer unopposed.
+
+Now the No-Tails multiply, their strange Music warping the world, while the Kin are squeezed between a departed Past and an unknown Future. Earth Herself and the fate of all of Her children hang uncertain in the silent Void, awaiting the verdict of Time.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl3s
+
+==============================
+Event: gl3aaf
+
+You begin to sing eloquently of what was before your own existence, but after a certain period are interrupted:
+
+<om><color yellow>Gaps. Rifts.</color>
+
+<om><color cyan>Incomplete, incomplete.</color>
+
+<om><color magenta>More rests in the Maze. They sing out, begging you to find them.</color>
+
+<om><color yellow>Look for hidden paths, hold the Whole of the Maze in your Mind.</color>
+
+<om><color cyan>A sacred test. For patience, only the repetition of the cosmic syllable is needed:</color>
+
+------------------------------
+> [Continue]
+  Go to: gl3
+
+==============================
+Event: gl3aas
+
+Casting your Mind back to what you have witnessed in the labyrinth, a story emerges, binding all together.
+
+In the beginning...
+
+------------------------------
+> [TEST_HISTORY1]
+  Go to: gl3aa1
+> [TEST_HISTORY2]
+  Go to: gl3f
+> [TEST_HISTORY3]
+  Go to: gl3f
+> [TEST_HISTORY4]
+  Go to: gl3f
+> [TEST_HISTORY5]
+  Go to: gl3f
+> [TEST_HISTORY6]
+  Go to: gl3f
+> [TEST_HISTORY7]
+  Go to: gl3f
+
+==============================
+Event: gl3b
+
+<om><color yellow>We are the Cosmic Song, given Form.</color>
+
+<om><color cyan>Blessed with blindness, so that we may see only Truth.</color>
+
+<om><color magenta>Enkindled by the Wise One, so that we may sing:</color>
+
+<om><color yellow>OM.</color>
+
+<om><color cyan>OM.</color>
+
+<om><color magenta>OM.</color>
+
+<om><color cyan>Our people were ancient Draak...</color>
+
+<om><color magenta>Who fled to the cool underground Waters to escape the Skyfall.</color>
+
+<om><color yellow>A Secret People, known to none, shedding all coverings over long eons until we stood naked before the Onesong.</color>
+
+<om><color cyan>And then, with nothing between ourselves and infinity...</color>
+
+<om><color yellow>We heard it... the Cosmic Sound which cleanses Mind and Essence, and contains all things...</color>
+
+<om><color cyan>It begins open, and ends closed, an aria into a hum...</color>
+
+<om><color magenta>OM.</color>
+
+<om><color cyan>OM.</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl3
+
+==============================
+Event: gl3c
+
+Your Body is suddenly flooded with some horrific invisible force which sets you jerking helplessly into a prone position. It takes some time to fade, during which you are afraid, humiliated and in pain all at once.
+
+As you regain control and struggle to your feet, the OMs sing:
+
+<om><color yellow>OM. Apologies, honored guest.</color>
+
+<om><color cyan>When we are dismayed or confused, the lightning-power within our Bodies issues forth unbidden.</color>
+
+<om><color magenta>It is for this reason that we keep ourselves calm with the sacred syllable. OM.</color>
+
+<om><color yellow>We ask that you avoid any actions which might cause us to lose control of the great power the Wise One has given us.</color>
+
+<om><color cyan>It takes much of our Minds to keep it in check. OM.</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl3
+
+==============================
+Event: gl3d
+
+<om><color yellow>It is retreating, going backwards...</color>
+
+<om><color cyan>Backwards and forwards are illusions.</color>
+
+<om><color magenta>May it go backwards, in order to go forwards.</color>
+
+<om><color yellow>OM.</color>
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL2/MWW_Manager
+
+==============================
+Event: gl3f
+
+Forgive us, Guest... your incorrect choice dismayed us, and we briefly lost control of our powers. Please, speak only Truth, and in the order of Time. OM.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl3aas, gl3aa1, gl3aa2, gl3aa3, gl3aa4, gl3aa5, gl3aa6
+
+==============================
+Event: gl3s
+
+<om><color yellow>OM. So It Was, So It Was.</color>
+
+<om><color cyan>The High Story has been sung, and the way now opens. OM.</color>
+
+<om><color magenta>We offer gratitude for the pleasure of hearing the High Story once more. Pass on, and remember. OM.</color>
+
+One of the OMs shows you the way: a hidden nook below the Water. You enter in, flowing downwards through dark rapids...
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl4_monitor
+
+<eel>UnSchooled! UnSchooled! Following Monitor protocol!
+
+<eel>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_MATH>
+  Go to: gl4_monitor_s, gl4_monitor_f
+> [TIMEOUT]
+  Go to: gl4_monitor_f
+
+==============================
+Event: gl4_monitor_f
+
+<eel>Incorrect! Administering discipline!
+
+<eel>Stay In School!
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl4_monitor_s
+
+<eel>Correct! Exception allowed!
+
+<eel>Lateral movement is discouraged! Please proceed quickly to an approved source of Wisdom!
+
+<eel>Stay In School!
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl4r
+
+Would you like to leave the labyrinth?
+
+------------------------------
+> Yes.
+  Go to: glescape
+> No, continue exploring.
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl5
+
+Water delivers you to a flooded chamber filled with Waterbound beasts.
+
+They hardly react to your presence, engaged in some kind of group activity. The largest one sings, and the smaller ones echo it.
+
+<pedantus>One plus three equals four.
+
+<student>one plus three equals four
+
+<pedantus>Momentum is equal to the product of mass and velocity.
+
+<student>momentum is equal to the product of mass and velocity
+
+<pedantus>Cavern seven features 4721 individual stalactites.
+
+<student>cavern seven features 4721 individual stalactites
+
+Pausing, the large one sucks several of the smaller ones into its giant mouth, and then placidly continues.
+
+One of the larger Waterbound approaches you, singing a soft Song of Greeting:
+
+<student><color green>Greetings, honored visitor, and welcome to the School of Knowledge. What do you seek here?</color>
+
+When you inform it that you have come in search of Wisdom, it seems gratified.
+
+<student><color green>You have come to the right place. Wisdom is simply another term for Knowledge. Here, the Instructor imparts crucial information which should be known by all.</color>
+
+<student><color green>Please feel at liberty to join the other students in learning the essential facts of the world. Leaving is not recommended; the Monitors do not take kindly to those who leave class before it is properly dismissed.</color>
+
+<student><color green>Please note that class has never been dismissed within the collective memory of the beings here present. Enjoy your educational experience.</color>
+
+What will you do?
+
+------------------------------
+> Take a lesson from the School of Knowledge.
+  Go to: gl5a
+> Question the Instructor.
+  Go to: gl5b
+> Take a few moments to observe the followers of the School of Knowledge.
+  Go to: gl5c
+> Ask for the Instructor's blessing.
+  Go to: gl5d
+> Leave the cavern by the way you came.
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl5a
+
+This particular lesson is based on something called "roots", which actually have nothing to do with Trees, as you discover.
+
+Apparently, a "root" is a number which when multiplied by itself gives another number, of which the first number is considered the "root".
+
+The Instructor then proceeds to address the (unasked) question of whether the "root" of the number 2 can be expressed as a fraction, that is, as the ratio of any 2 whole numbers.
+
+If the root of 2 could be expressed as a ratio, then the number 2 would be equal to "a" multiplied by "a" over "b" multiplied by itself where "a" and "b" are different numbers with no common factors, which further implies that "a" squared would equal 2 times "b" squared, which would mean that both "a" and "b" must be even, which means that they share the factor of 2, and therefore could not be a proper ratio of two numbers with no common factors.
+
+The fact that none of the students seem to truly comprehend the reasoning or significance of this, or even care about it for its own sake, does not stop the Instructor from doing the exact same thing all over again with another unasked question and another and another.
+
+In the end, a "test" is given in which the students are required to repeat various facts and principles. Those who repeat them well are rewarded with food; those who do very poorly become food.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl5
+
+==============================
+Event: gl5b
+
+The Instructor is usually either lecturing or sleeping, but you manage to get in a question: who is it, and what is it doing here?
+
+<pedantus>I am known as .
+
+<pedantus>I was once a simple Flathulk Waterbound, sibling of three hundred million spawned by my Birther-parent one Sun.
+
+<pedantus>My existence was filled with hardship and danger until the Wise One chose me and opened my Mind to the beauty of Facts, of hard, unbiased Knowledge.
+
+<pedantus>My newfound ability to retain these Facts made me useful to the Wise One. Now, I distribute my Knowledge generously to all who would hear.
+
+<pedantus>These are the principles of my school, the School of Knowledge:
+
+<pedantus><bold>First</bold>, that only verifiable, quantitative and unbiased information constitutes Fact;
+
+<pedantus><bold>Second</bold>, that Facts are the basis of Knowledge;
+
+<pedantus><bold>Third</bold>, that Knowledge is the basis of Wisdom.
+
+You ask whether the theorems and combinations of numbers and sigils and labels serve a purpose.
+
+<pedantus>Of course. Who knows when knowledge of how to calculate the length of the longest leg of a triangle from the lengths of the other two legs might save one's Life? Or when knowing the names of the tiny bones within one's nose may bring one success?
+
+<pedantus>But even beyond the Facts themselves, what I teach is a better Way, a Way in which beings are judged on the basis of Mind rather than Body.
+
+<pedantus>From this shall flow a new Future, one in which brute force shall become obsolete and Fact shall reign supreme.
+
+<pedantus>Perhaps in time, one may solve the Hidden Equation and all shall be ease and blessedness forever, but even if one does not, we create by this new Way a more correct and placid Earth where mystery lies dead and all rest in the embrace of Certainty.
+
+(You refrain from pointing out that its Way does not seem to be affecting anything at all outside of this small cavern.)
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl5
+
+==============================
+Event: gl5c
+
+The School of Knowledge is a place fraught with both information and tension.
+
+The students survive and thrive by their ability to repeat the myriad lessons of the Instructor, and so they obsessively repeat the Instructor's song.
+
+At various points, the Instructor falls asleep and the students are free to do what they will, but because of the threat of upcoming "tests", much of this "free time" is spent going over what the Instructor has previously sung. After "tests", most of the content is quickly forgotten and replaced by new material to obsess over.
+
+Some of the information given by the instructor relates to the realm of Nature, such as anatomy, and while a little of it is useful, most of it just applies long names to very specific parts of the Body to which you can already refer in much simpler terms.
+
+Other times, the information relates to the study of Numbers. The basics, such as addition and division, are indeed useful, but these are studied only briefly; most of the students' time is spent memorizing complex theorems and operations which you are quite certain the vast majority will never put to any practical use.
+
+In fact, only rarely do the learners apply any of facts which they are constantly given in their lessons. When you point this out, they are surprisingly undismayed.
+
+<student><color green>Do we not know much more than others, and is not Knowledge the root of Wisdom? One Sun, it shall be useful, surely.</color>
+
+<student><color green>And besides, in this cavern, our success will be guaranteed if we can survive enough tests. Better to hone one's Mind than to rely on one's Body for safety.</color>
+
+You do notice that more survive here than in the Great Blue by far.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl5
+
+==============================
+Event: gl5d
+
+Pedantus the Instructor at first ignores your request; it is waxing eloquent on the relationship between certain parts of a nonexistent theoretical circle. When it finishes, it responds slowly:
+
+<pedantus>Only through a sacred Test can my blessing be earned. Since you are not of the School of Knowledge, we shall begin with a basic test of Number.
+
+<pedantus>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5d1, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5d1
+
+<pedantus>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5d2, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5d2
+
+<pedantus>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5d3, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5d3
+
+<pedantus>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5d4, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5d4
+
+<pedantus>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5d5, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5d5
+
+<pedantus>What is the result when one subtracts nine from the product of the root of sixteen and the sum of eight and seven?
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl5ds, gl5df
+> [TIMEOUT]
+  Go to: gl5df
+
+==============================
+Event: gl5df
+
+<pedantus>Incorrect. Study the sacred mysteries of Number, and then try again.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl5
+
+==============================
+Event: gl5ds
+
+<pedantus>Your skill in the realm of Number is recognized. You have my blessing.
+
+<pedantus>Relay my greetings to the Wise One, and inform it that I continue my sacred charge of spreading Knowledge to all.
+
+You take your leave, having proven yourself to the School of Knowledge. You are not at all sure, however, that its theorems and facts have made you any wiser.
+
+
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl6
+
+You come to a sandy, shallow pool inhabited by a strange Waterbound, relic of a bygone era. It is surrounded by smaller beings, who listen to it intently.
+
+<coelacanth>And lo, the Greatest Being was filled with wrath for those who dared to defy the Law, and it spoke: "If thou lovest the Surface so greatly, then there shalt thou abide forever!"
+
+<coelacanth>Then unwillingly they shed their scales, which fell like sand to the bottom of the Great Blue, and wasted away, and perished, floating upwards into the accursed Air.
+
+<coelacanth>And this holy miracle, in which the loving and merciful Greatest Being killed all who disagreed with It, was a sign of the Law: Thou shalt not approach the Surface.
+
+<coelacanth>But those who kept the Law, and did as they were commanded by Greatest Being, and did not approach the Surface, were blessed with much food and many eggs. Lokilokilo.
+
+<bold>Lokilokilo, reply the listeners with joy. The original speaker then addresses you.</bold>
+
+<coelacanth>Welcome to the <bold>School of Faith.</bold> I am Keeper One, Instructor of the School.
+
+<coelacanth>No doubt you are dismayed by the false doctrines of the other so-called "Schools". Here at last the path to true Wisdom shall be revealed, in the form of the Unquestionably Correct Tradition.
+
+You are, of course, familiar with the concept of Tradition, but this does not seem to be the tradition which you know. When you ask for more information, the Instructor responds:
+
+<coelacanth>The basic principles of the School of Faith are simple and elegant.
+
+<coelacanth>According to the Unquestioningly Correct Tradition, which has never been and never will be wrong, there is a relatively simple set of principles by which all beings must live.
+
+<coelacanth>The Core of the Tradition is the Five Great Laws, which were given by the Greatest Being to our ancestors long ago. They are as follows:
+
+<coelacanth>One must never harm others, unless they have broken a Law.
+
+<coelacanth>One must never approach the Surface.
+
+<coelacanth>One must share what one has, if one has more than enough.
+
+<coelacanth>One must eat nothing which contains the color yellow.
+
+<coelacanth>One must have Faith.
+
+<coelacanth>Following these primary Laws and the hundreds of smaller Laws which proceed from them has granted us prosperity and happiness.
+
+<coelacanth>Wisdom is defined as adherence to the Tradition at all times and in all places. If one keeps the Laws, then one will never know fear nor doubt, and when one's Body is Destroyed, the Greatest Being will grant one Life Unending in the Starry Ocean above.
+
+What will you do?
+
+------------------------------
+> Ask the instructor about the Greatest Being.
+  Go to: gl6a
+> Ask the instructor about Faith.
+  Go to: gl6b
+> Spend a little time observing the followers of the School of Faith.
+  Go to: gl6c
+> Ask about "Lokilokilo."
+  Go to: gl6d
+> Ask for the Instructor's blessing.
+  Go to: gl6e
+> Humble yourself and ask for some food in the name of the Greatest Being. (You will lose Renown for begging from lesser beasts, but gain much food.)
+  Go to: gl6f
+> Ask to hear the Wisdom of the School of Faith again.
+  Go to: gl6g
+> Leave this place and return to the channels.
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl6a
+
+<coelacanth>The Greatest Being is the most supreme entity which could ever be imagined.
+
+<coelacanth>One may never depict it in detail, for any given detail can be improved upon, and the Greatest Being can never be improved upon.
+
+<coelacanth>The Greatest Being made the Onesong, and everything in it, from the mighty Draak-Kin to the smallest secret beings.
+
+<coelacanth>The Greatest Being resides in the Starry Ocean above us. The Stars which shine above us at this very moment are the eyes of every faithful being which has followed the Laws, and now lives in blessedness forever.
+
+It points out a few particularly bright points of light on the cave ceiling. <coelacanth>That one there is the eye of a great Instructor of the School in the past, and that one belongs to my Birther-Creator, shining down with love upon me still. Lokilokilo.
+
+You begin to explain that the points of light above are neither Stars nor eyes but merely small bioluminescent Worms which cling to the ceiling over this small subterranean pool, but are quickly hushed by the Instructor and several of its followers:
+
+<coelacanth>Please, do not joke. Those ARE the eyes of the faithful, proof of the rightness of our Tradition, and not anything else, certainly not something as base and tasty as a Worm.
+
+<coelacanth>You cannot possibly know otherwise; to even approach the Surface, let alone rise above it, is forbidden. And this is surely the Great Blue, open to the Stars, and not an underground pool. Lokilokilo.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6b
+
+<coelacanth>Faith is obedience to the Tradition even in times of doubt or fear. One must always believe, even when it is difficult to do so.
+
+<coelacanth>Many beings attempt to use Logic and Reason in order to navigate Life. This is a serious error.
+
+<coelacanth>The Onesong is too vast and too complex to ever be comprehended by the inherently limited Mind. Only the Greatest Being knows all.
+
+<coelacanth>Sometimes, the individual may perceive something which appears to go against the Wisdom of the Tradition, but knowing that one is far less than the Greatest Being, one must surrender doubt and return to the Tradition, which is the very Word of the Greatest Being.
+
+<coelacanth>This returning is called Faith.
+
+When you ask why believing in something without evidence is considered a virtue in this context while in all other contexts it is seen as a flaw, the Instructor responds:
+
+<coelacanth>The Greatest Being transcends all Logic, and is an exception to all of them, except when it is not. So speaks the Tradition.
+
+<coelacanth>Moreover, if Faith is abandoned, the community would shatter and the deep peace we have achieved would be lost. Faith is a morally-correct submission by the will of the individual to the will of the transcendent, and the basis of social order.
+
+<coelacanth>Faith is spiritually, morally and socially correct. What are Logic and Reason to such things? Lokilokilo.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6c
+
+This is certainly an unusual community of goodbeasts. They greet each other in the name of the Greatest Being and are careful not to do harm to others.
+
+A feeling of solidarity, kinship and optimism pervades the entire pool. Even if untrue, their belief that those who have gone before are watching them from above tends to modify their behavior in constructive ways.
+
+When they encounter difficulty, they often interpret it as a "test", which reinforces their beliefs and encourages them to act in the best interest of all rather than merely themselves and helps them feel as though a greater being cares for and watches over them personally in all circumstances.
+
+Excessive materialism is almost unknown, and they freely give to each other when in need. They do not worry about changing circumstances, sure in the knowledge that they are keeping the Laws of the Greatest Being and are protected by its power.
+
+There do seem to be a few drawbacks to the system. There are a number of delicious things which could be said to be "yellow" in some way, and they deprive themselves of such things simply because the Law commands it, though no reasons are given.
+
+When a Law is broken, even accidentally, the response can be quite violent. So long as the offender continues to profess Faith and attempts to adhere to the Laws, forgiveness is easy to earn.
+
+However, those who openly question the Laws themselves, the nature of the "Stars" above or the existence of the Greatest Being are summarily banished from the School. Some make it to other Schools, though many are Destroyed by the Monitors.
+
+By and large, however, this is the happiest and most stable community you have encountered. If you were not bound to the Way of the Draak, you might be tempted to join merely for the sense of support and unity it affords, even knowing that it is based upon factual mistruths.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6d
+
+<coelacanth>Ah, Lokilokilo is an ancient song of praise to the Greatest Being. We sing it often, to remind ourselves of its presence and protection.
+
+<coelacanth>It is also an easy way to tell those who follow the Unquestionably Correct Tradition from those who do not have Faith.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6e
+
+<coelacanth>I wish to bless you in the Greatest Being's name, but before I do, you must cleanse yourself.
+
+<coelacanth>You have been observed not only approaching the surface, but even breaking through it on occasion. This is a grave violation of the Law.
+
+You explain that, not being Waterbound, you cannot breathe in Water and must occasionally take in Air from the surface. It is not a choice to break the Law but merely your intrinsic Nature.
+
+<coelacanth>Irrelevant. The Law supersedes all Logic and even Nature. If you find true Faith, you will be able to breathe Water. All things are possible for the Greatest Being.
+
+<coelacanth>As penance, you shall take the Test of the Law, as all those who wish to join our School must. I shall question you, and you shall answer.
+
+<coelacanth>What must one never approach?
+
+------------------------------
+> Those who have no Faith.
+  Go to: gl6ef
+> The Surface.
+  Go to: gl6e1
+> The color yellow.
+  Go to: gl6ef
+
+==============================
+Event: gl6e1
+
+Which of the Five Great Laws is that?
+
+------------------------------
+> The First.
+  Go to: gl6ef
+> The Second.
+  Go to: gl6e2
+> The Third.
+  Go to: gl6ef
+
+==============================
+Event: gl6e2
+
+Which of these colors is it not lawful to eat?
+
+------------------------------
+> Chartreuse.
+  Go to: gl6e3
+> Veridian.
+  Go to: gl6ef
+> Puce.
+  Go to: gl6ef
+
+==============================
+Event: gl6e3
+
+Under what circumstance must something be shared with others?
+
+------------------------------
+> If one has a surplus of it.
+  Go to: gl6e4
+> If another is in great need.
+  Go to: gl6ef
+> Under all circumstances.
+  Go to: gl6ef
+
+==============================
+Event: gl6e4
+
+The Fifth Law states that one must have
+
+------------------------------
+> <input : TEMP_ANSWER>
+  Go to: gl6es, gl6ef
+
+==============================
+Event: gl6ef
+
+<coelacanth>You still have more to learn of the Great Laws, o Draak-Kin. Study them further, and then try again.
+
+<coelacanth>The Greatest Being is patient. Lokilokilo.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6es
+
+<coelacanth>Very good. You have learned our great Way.
+
+<coelacanth>I give you my blessing. May you carry the teachings of the Unquestionably Correct Way to the ends of Earth.
+
+<coelacanth>May we meet again in the Starry Ocean. Lokilokilo.
+
+
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl6f
+
+The followers of the Unquestionably Correct Tradition are at first overwhelmed at the idea that a great Kin would ask them for food, but when the Instructor relates that this is a "test", a chance to show their great faith by extending charity to a newcomer, they set to work with zeal.
+
+Several even offer themselves up for your consumption, firm in the knowledge that they will surely be rewarded in the afterlife for such a gift.
+
+Whether or not they are, you have had a filling meal.
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl6g
+
+<coelacanth>The basic principles of the School of Faith are simple and elegant.
+
+<coelacanth>One must merely memorize the Unquestionably Correct Tradition. According to this Tradition, which has never been and never will be wrong, there is a relatively simple set of principles by which all beings must live.
+
+<coelacanth>The Core of the Tradition is the Five Great Laws, which were given by the Greatest Being to our ancestors long ago. They are as follows:
+
+<coelacanth>One must never harm others, unless they harm one first, have broken a Law, or are prey.
+
+<coelacanth>One must never approach the Surface.
+
+<coelacanth>One must share what one has, if one has more than enough.
+
+<coelacanth>One must eat nothing which contains the color yellow.
+
+<coelacanth>One must have Faith.
+
+<coelacanth>Following these Laws, and the hundreds of smaller Laws which proceed from them, has granted us prosperity and happiness.
+
+<coelacanth>Wisdom is no more nor less than adherence to the Tradition at all times and in all places. If one keeps the Laws, then one will never know fear nor doubt whilst one dwells here in the Below, and when one's Body is Destroyed, the Greatest Being will resurrect one in the Starry Ocean above.
+
+------------------------------
+> [Continue]
+  Go to: gl6
+
+==============================
+Event: gl7
+
+You arrive at a rocky pool containing an eight-limbed creature which seems to be guarding several piles of ordinary sand. Some creatures nearby are doing the same.
+
+<pecunius>Welcome, Draak-Kin! You have traveled far, and have at last arrived at the one true School. This is the School of Wealth, and I am Instructor Pecunius.
+
+<pecunius>Our philosophy is embraced by all the world. Even the Draak-Kin live by our Way, collecting many, many things to themselves.
+
+<pecunius>I currently possess exactly two million seventy-six thousand four hundred and thirty-eight objects. They are mine, and mine alone.
+
+<pecunius>How many objects do you possess?
+
+You confess that, although you have many objects in your Trove, it does not approach such a number.
+
+<pecunius>Ah! Then joy indeed is mine today. I can call myself <bold>Pecunius, Whose Wealth Is Greater Than The Draak!</bold></pecunius>
+
+Its many appendages squirm with pleasure. When you enquire about where these millions of valuable objects are, it replies:
+
+<pecunius>Right before your very snout! They are all grains of sand, and they are all mine.
+
+What will you do?
+
+------------------------------
+> Ask for a lesson from the School of Wealth.
+  Go to: gl7a
+> Question the use of sand as a valuable object.
+  Go to: gl7b
+> Spend a little time observing the members of the School of Wealth.
+  Go to: gl7c
+> Ask for the blessing of the Instructor of the School of Wealth.
+  Go to: gl7d
+> Leave this place, and return to the channels.
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl7_monitor
+
+<eel>UnSchooled! UnSchooled! Following Monitor protocol!
+
+<eel>{GENERATE_MATH}
+
+------------------------------
+> <input : TEMP_MATH>
+  Go to: gl7_monitor_s, gl7_monitor_f
+> [TIMEOUT]
+  Go to: gl7_monitor_f
+
+==============================
+Event: gl7_monitor_f
+
+<eel>Incorrect! Administering discipline!
+
+<eel>Stay In School!
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7dbs, gl7_monitor
+
+==============================
+Event: gl7_monitor_s
+
+<eel>Correct! Exception allowed!
+
+<eel>Lateral movement is discouraged! Please proceed quickly to an approved source of Wisdom!
+
+<eel>Stay In School!
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7dbs, gl7_monitor
+
+==============================
+Event: gl7a
+
+<pecunius>Why, certainly! Normally, I would require a payment in sand, but the pleasure of instructing a mighty Kin will be reward enough.
+
+<pecunius>The first principle of the School of Wealth is this: <bold>only material things are real.</bold> Only physical matter can truly be proven to exist, and matter is therefore sovereign.
+
+<pecunius>Once one disposes of all intangible and ephemeral ideas, one is easily led to the second principle: <bold>the purpose of existence is the gathering of material possessions.</bold>
+
+<pecunius>Having great material wealth affords one respect and security. I need hardly lecture a Draak-Kin on this; in your own culture, mating opportunities are based largely on Trove size... a commendable practice!
+
+<pecunius>And even lesser beings understand this. Birthers select Givers who are of the greatest size, or have the best territory, or who demonstrate dominance over others. All of these things are indications of material success, and nothing more nor less.
+
+<pecunius>To most beings, success is measured by the collection of vast amounts of food, stored in the Body as fat. This is indeed a legitimate form of wealth, physical and inarguable, but more advanced beings, such as your own People, have moved beyond this and discovered the joy of <bold>possessions!</bold>
+
+<pecunius>Ah, possessions... what pleasure they bring! The Draak seek possessions with certain characteristics, loosely defined as "Treasure", but in truth, anything can be hoarded, and anything can have value!
+
+<pecunius>Here at the School of Wealth, we have agreed that sand is valuable, and it has created a wonderful, enlightened Way! For a certain number of grains of sand, I can compel the beings here present to do nearly anything.
+
+<pecunius>Bringing food, cleansing parasites, even the performance of Songs and Dances... everything has a price!
+
+<pecunius>Morality and ethics, which are nonexistent falsehoods spread by the poor, have no place here, nor in the Onesong. Even Tradition does not truly exist. I urge you to cast away all of these things, which are impediments to finding success in the only way which matters.
+
+<pecunius>This is the essence of Wisdom: to abandon the intangible and devote oneself to the fulfillment of one's material desires through Wealth!
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7
+
+==============================
+Event: gl7b
+
+<pecunius>Ah, youngling... have you still not understood the central Truth of the world?
+
+<pecunius>Many assume that certain objects have instrinsic value; that is, that certain things are simply more precious than others by nature.
+
+<pecunius>But this is not so! All that is required is that others agree that an object has value, and once that is established, quantity, not quality, is the key.
+
+<pecunius>When I first entered this cavern, there was a great deal of sand scattered throughout. I realized that I could be rich in sand!
+
+<pecunius>I then had the (brilliant) idea of gathering it all into one place and guarding it, which in turn made others desire it for their own.
+
+<pecunius>The Monitors make travel to other caverns perilous, so this is the only sand available. I made it scarce, and therefore valuable!
+
+<pecunius>It would now be no exaggeration to say that this entire cavern runs on sand, and I have more than any other. What bliss! If something is too common, o Kin, consider making it rare yourself!
+
+<pecunius>A few complained that my hoarding of sand was depriving others of what they needed, such as a soft place to rest or lay eggs, but these were the objections of the weak and unfortunate. They have only themselves to blame for not thinking of it first!
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7
+
+==============================
+Event: gl7c
+
+Sand itself seems to be the basis of all activity here. The focus is not on living beings, but rather the number of grains of sand which they possess.
+
+Every movement and interaction carries a price in sand. It is traded for food, territory, entertainment, and mating opportunities.
+
+Some of the goodbeasts here have even forgotten how to hunt, having used sand to gain sustenance their whole Lives.
+
+Some few have large quantities of sand, more than enough, but instead of enjoying it they constantly seek more, finding new and more expensive things on which to spend it.
+
+In this sense, everyone seems to desire much more than they have. The discovery of Wealth has made everyone quite poor, and their dependence on others has made them weak, as they now buy what they desire rather than win it.
+
+When an individual's pile diminishes, they wail with sorrow and become despondent, even though their ancestors (and most currently living beings) would never have cared about it at all.
+
+Despite all of this, they routinely bless themselves for having created this system, and sing about how this is the best possible Way.
+
+It certainly does allow some who would not survive in the wilderness to thrive, but they are so focused on the cost of objects within the system that they do not perceive the cost of the system itself or the weakness it brings.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7
+
+==============================
+Event: gl7d
+
+<pecunius>Everything has a price, o Kin! My blessing, like everything else, can be bought with grains of sand. Ten thousand grains: such is my price, and my blessing shall be given!
+
+What shall be your reply?
+
+------------------------------
+> Spend two Suns working in the cavern for other beings to earn ten thousand grains of sand.
+  Go to: gl7daytransition
+> Brave the passageways and import the necessary sand from other chambers.
+  Go to: gl7db
+> Ask Pecunius the value of its own life in sand.
+  Go to: gl7dc
+
+==============================
+Event: gl7da
+
+Well, this has been a baffling experience. Your services were definitely in demand
+
+Some wanted you to bring them food, some wanted you to entertain them by Singing of faraway places and experiences, and some used you to guard their piles of sand as they went elsewhere. Some even used you to threaten or steal sand from others.
+
+At times, you even caught yourself feeling happy or disappointed with your own pile of gathering sand. You never would have imagined that a pile of miniscule common matter could make a Draak feel joy or despair, but the culture of the cavern is quite skilled at encouraging such things.
+
+Pecunius seems deeply satisfied as it accepts your payment.
+
+<pecunius>Now you see the great Wisdom of the School of Wealth, do you not? Here, any desire can be satiated in mere moments. It is nearly effortless!
+
+<pecunius>Congratulations on your success. When you return to your home, do not forget what you learned here. One Sun, perhaps the whole of Earth will live in glorious thrall to Wealth!
+
+Imagining billions of beings safe from physical harm but enslaved to Wealth does not seem ideal, but you take the blessing and leave, having learned a new and strange Way.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl7daytransition
+
+------------------------------
+> [EventLoad]
+  Go to: 
+> [Complete]
+  Go to: gl7da
+
+==============================
+Event: gl7db
+
+You leave the School of Wealth and flow from chamber to chamber. You never believed the time would come when you would risk danger for the sake of sand, and yet, here you are.
+
+Of course, the Monitors confront you repeatedly...
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl7_monitor
+
+==============================
+Event: gl7dbs
+
+You have finally gathered enough sand to please Pecunius. It offers you its blessing, which you receive.
+
+<pecunius>Congratulations on your success. When you return to your home, do not forget what you learned here. One Sun, perhaps the whole of Earth will live in glorious thrall to Wealth!
+
+Imagining billions of beings safe from physical harm but enslaved to Wealth does not seem ideal, but you take the blessing and leave, having learned a new and strange Way.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl7dc
+
+<pecunius>Millions of grains. Why do you ask?
+
+------------------------------
+> Point out that you are capable of destroying Pecunius and this entire cavern, and suggest that it barter its blessing in exchange for your not doing so.
+  Go to: gl7dca
+> No reason.
+  Go to: gl7d
+
+==============================
+Event: gl7dca
+
+Pecunius blanches a lighter shade of scarlet.
+
+<pecunius>How deeply unethical! I must admit I expected better from a Draak-Kin.
+
+<pecunius>Do you not know that it is immoral to harm others when peaceful solutions exist?
+
+------------------------------
+> Remind Pecunius that "ethics" and "morality" are intangible and nonexistent concepts according to the School of Wealth.
+  Go to: gl7dcaa
+> Admit that you were in the wrong, and consider other options.
+  Go to: gl7d
+
+==============================
+Event: gl7dcaa
+
+Pecunius fumes and writhes, but sings nothing; it knows it is defeated.
+
+<pecunius>I give you my blessing, then... take it, and leave me in peace. I am disappointed that you did not earn it through the principles of the School of Wealth.
+
+As you leave the cavern, however, you cannot help but feel that you have utilized the School of Wealth's philosophy to attain your goal quite well.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl8
+
+This shadowy crevasse features quite a few Goodbeasts, mostly Waterbound, living a Plant-like existence.
+
+Each seems to have created a hole in the sand for itself, and there it remains, occasionally extending or retracting but never leaving. None acknowledge your presence.
+
+When you introduce yourself as a young Draak-Kin who has come to learn the ways of Wisdom from an Instructor, the narrow one in the center replies:
+
+<gardeneel>What is a Draak-Kin?
+
+------------------------------
+> Define Draak-Kin generally.
+  Go to: gl8a
+> Meticulously define the physical characteristics of the Kin.
+  Go to: gl8b
+> Describe the unique history of the Draak.
+  Go to: gl8c
+> Say that a Draak is simply what you are.
+  Go to: gl8d
+> Give up.
+  Go to: gl8e
+
+==============================
+Event: gl8_end
+
+The "Instructor" of the "School of Emptiness" and its disciples float placidly here. Their only song is Silence.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl8a
+
+You explain that Draak-Kin are mighty beasts which prey upon many other beings, gather precious Treasure, and grow to immense size.
+
+<gardeneel>"Mighty," "Precious", and "Immense" are all empty of meaning. Many beings might use the same words to describe themselves, though they are nothing to you, or even to me.
+
+<gardeneel>What is mighty to one is weak to another; what is precious to one is useless to another; what is large to one is tiny to another.
+
+<gardeneel>You are trapped by judgments of yourself, and the world, which do not exist. I ask again:
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8
+
+==============================
+Event: gl8b
+
+You take great care to dilineate the Draak from all other beings by their physical appearance; number, ratio and angle of limb, shape and structure of bone, hues of armor and feather, number of teeth, and more.
+
+When finished, you are certain you have succeeded in describing a beast which could only be Draak-Kin.
+
+<gardeneel>You say that a Draak has a certain number of teeth... if a Draak loses a tooth to some misfortune, is it no longer a Draak?
+
+You reply that it is, of course, still a Draak if it loses one or even all of its teeth.
+
+<gardeneel>Then why did you include that in your definition? Do you not see that all of those points which you labored so greatly to illuminate are false? Exceptions exist for all of them, and yet those who are the exceptions are still Draak-Kin.
+
+<gardeneel>The more you attempt to confine Reality to narrow definitions, the more it will defy you. I ask again:
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8
+
+==============================
+Event: gl8c
+
+Using what you learned in the Maze of What Was, you explain the High Story of the Kin; they are the first Children of Earth and Sun who battled the Others in times long gone and were defeated, but now seek to rise again.
+
+<gardeneel>You speak of events which you have not yourself witnessed. They may well be inaccurate, or even wholly fallacious. I have no way of verifying them, and neither do you.
+
+<gardeneel>But more importantly, how can speaking of the past define the present?
+
+<gardeneel>I asked what a Draak-Kin IS, not what they have done in the past. Your answer fails to answer the question, and so I ask again:
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8
+
+==============================
+Event: gl8d
+
+<gardeneel>That answer is empty of content. If you asked me what I am, an I answered "I am myself," you would not be at all satisfied, and the intended question would remain unanswered. I ask again:
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8
+
+==============================
+Event: gl8e
+
+<gardeneel>You do not know what you are, and cannot even define your own species.
+
+<gardeneel>The same can be said for yourself as an individual, and for anything which you behold in this world.
+
+<gardeneel>You have failed.
+
+------------------------------
+> Destroy this annoying "Instructor".
+  Go to: gl8ea
+> Insist that, nonetheless, you are Draak-Kin, and being unable to define it in sigils does not change the fact.
+  Go to: gl8eb
+> Ask it to define itself.
+  Go to: gl8ec
+
+==============================
+Event: gl8ea
+
+Angrily, you reach out to snap this recalcitrant beast in half with your jaws, but it slips down into its hole with remarkable alacrity.
+
+When it emerges, you attempt to harm it again, but each time it retreats, evading you. Eventually you give up, finding it a waste of effort.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8e
+
+==============================
+Event: gl8eb
+
+<gardeneel>But what are "facts" themselves, if not conglomerations of ideas which the speaker is unable to define?
+
+<gardeneel>If you yourself cannot define what a Draak is, how can you say you are one, or even that it matters to be one at all?
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8e
+
+==============================
+Event: gl8ec
+
+<gardeneel>You are not an Instructor, and I am not your student. You do not have the right to test me.
+
+<gardeneel>I will, however, be indulgent. I have no definition, and am comfortable with that fact. Any applications of words or judgments to me would limit me, and so I reject them.
+
+<gardeneel>However, I will note, for your sake, that my people are often called Reachers, that I am sometimes labelled an Instructor, and that others call this place the School of Emptiness.
+
+<gardeneel>These are all labels, and as such are all false, but still others use them.
+
+What will you ask the Instructor of the School of Emptiness?
+
+------------------------------
+> Ask for a lesson from the School of Emptiness.
+  Go to: gl8eca
+> Ask for the Instructor's blessing.
+  Go to: gl8ecb
+> Leave the School of Emptiness and return to the channels.
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl8eca
+
+<gardeneel>This is the <bold>First Truth:</bold> all judgments are relative, and therefore meaningless.
+
+<gardeneel>Consider: to me, a common Rainscale is larger than myself, and so I may be tempted to judge it to be "large". You, though, are larger than any Rainscale, and so you may be tempted to perceive it as "small".
+
+<gardeneel>In reality, however, a Rainscale is not large or small. It simply is.
+
+<gardeneel>The same applies to all judgments. Hot and cold, low and high, good and bad, intelligent and stupid, beautiful and ugly; all of these are wholly dependent on perspective, and therefore do not exist.
+
+<gardeneel>This is the <bold>Second Truth</bold>: all labels are false.
+
+<gardeneel>As you learned, the term "Draak" or "Kin" is often used to describe beings which look or behave somewhat like you. But the word "Draak" has no actual definition.
+
+<gardeneel>We can speak of what it is <italic>not</italic>... a Draak-Kin is not, for example, a furbeast the size of a grain of sand... but we cannot actually define it, or anything.
+
+<gardeneel>We may agree that the term "Draak" applies to you and "Reacher" applies to me, but we cannot actually define what those things themselves are.
+
+<gardeneel>The nature of objects in and of themselves is unknown, and cannot be known.
+
+<gardeneel>This is the <bold>Third Truth:</bold> reality is unknowable.
+
+<gardeneel>You have the experience of being here and understanding me, but what if you are now asleep, and this is but a Dream? Can you prove that it is not so?
+
+<gardeneel>It is even possible that this is a simulation of some kind, and not only do I not physically exist, but even you do not. Perhaps all of this "reality" is some kind of <italic><bold>game</italic></bold> for a higher being whose interests and purposes we cannot fathom.
+
+<gardeneel>All things float from dream to waking and from existence to existence fluidly; none of the Treasure you hoard nor the prey you consume can be proven to actually exist.
+
+<gardeneel>These Truths alone hold. Such is my instruction, and those who truly understand it are able to reach true peace, free from the bondage of what others judge, label, or even do.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8ec
+
+==============================
+Event: gl8ecb
+
+<gardeneel>Who are you?
+
+------------------------------
+> A mighty Draak.
+  Go to: gl8ecbf
+> A humble and ignorant seeker.
+  Go to: gl8ecbf
+> (Keep Silent)
+  Go to: gl8ecb1
+
+==============================
+Event: gl8ecb1
+
+<gardeneel>What is Wisdom?
+
+------------------------------
+> Knowledge of the Truth.
+  Go to: gl8ecbf
+> Knowledge of the Self.
+  Go to: gl8ecbf
+> (Keep silent)
+  Go to: gl8ecb2
+
+==============================
+Event: gl8ecb2
+
+<gardeneel>What is Life?
+
+------------------------------
+> The time between Creation and Destruction.
+  Go to: gl8ecbf
+> The feeling of existence.
+  Go to: gl8ecbf
+> (Keep silent)
+  Go to: gl8ecbs
+
+==============================
+Event: gl8ecbf
+
+<gardeneel>You spew falsehoods, just as you have been taught by others. I find you wanting.
+
+
+
+------------------------------
+> [Continue]
+  Go to: gl8ec
+
+==============================
+Event: gl8ecbs
+
+<gardeneel>Yes... empty silence alone is accurate, and will never be proven wrong.
+
+<gardeneel>You have my blessing. Doubtless, you now wish to put what you have learned into practice through abandoning all judgments and endeavors and existing as minimally as possible, just as the rest of us.
+
+<gardeneel>Your Body is too large for this chamber, however. Go, and dig yourself a hole in another place, and occupy it passively. May you rest in the Emptiness.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl9
+
+The stone-rimmed channels bring you before a vast living being. It is clearly Waterbound in nature, though you have no idea what kind... you have never seen or heard of anything vaguely like it.
+
+At first, you fear being devoured, but then you sense its powerful yet gentle Essence, and terror turns to awe. Its Mind-song pours into you like molten shinestone:
+
+<manta>In the name of Wisdom, and of the Eternal Deep: welcome.
+
+<manta><italic>Imparting a minor truth:</italic> this is the Gate of Graduation, through which all must pass to leave the Schools and earn an audience with the Wise One.
+
+<manta><italic>For the purpose of clarification, and also to ascertain the aspirant's self-knowledge</italic>: have you received the blessings of the Four Instructors, thereby becoming ready for the Test?
+
+
+
+------------------------------
+> Yes.
+  Go to: gl9a1
+> No.
+  Go to: gl9b
+
+==============================
+Event: gl9a1
+
+Your acceptance echoes through the dark Water and a long silence reigns. Then, out of the darkness, Pedantus, the Instructor of the School of Knowledge, appears.
+
+<pedantus>Young one, you have received my blessing, and arrived at the Gate of Graduation. You have learned the importance of Number and Fact from my School of Knowledge.
+
+<pedantus>You have seen how a new Way could be forged in which information could be spread from one to many and be used to measure one's worth.
+
+<pedantus>In time, Facts shall be the key to newfound Powers and Ways. Only those who know every detail can hope to understand the All.
+
+<pedantus>Will you join our School, and devote yourself solely to the gathering of Knowledge in all forms? Will you renounce your Lair, the search for Treasure, and the Hunt, and remain here, becoming a beacon of Facts, and Facts alone?
+
+------------------------------
+> Yes.
+  Go to: gl9a1f
+> No.
+  Go to: gl9a1s
+
+==============================
+Event: gl9a1f
+
+Accepting Pedantus' offer, you join the School of Knowledge. For many Turnings, you exist in the cavern with Pedantus, absorbing its vast Trove of Facts.
+
+In time, having mastered all that Pedantus knows, you consume it and take its place as the Instructor of the School. Your superior Mind uncovers new theorems and laws, and you succeed in codifying many of the secret ways of the Onesong through the use of Number.
+
+Your Life becomes so comfortable, so safe from harm, that you forget Fear, becoming lost in the Mind. Mighty events unfold among Draak-kind, but you remain separate, safe in your tiny cavern.
+
+Eventually, an unfortunate Truth appears; after countless Turnings of teaching and eating, teaching and eating, your Body has grown too vast for the small cavern, nor is there any way for you to leave.
+
+There is little room for students, and not enough food to sustain you. Despair and Panic cannot forge an outward path through the dark Stone.
+
+Your final hope is that some of the Facts which you gathered and disseminated to your Students might one day make a difference, but such a hope is slim. Even they are trapped in the labyrinth which holds the Schools.
+
+Thus you perish without ever having applied the Facts which you professed, and are suffocated by the chamber which was meant to keep you safe from the world.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gl9a1s
+
+<pedantus>But why not? Is not my Way great and perfect? What flaw is there in my Path?
+
+------------------------------
+> Because I will not be trapped in a small chamber, nor receive my Truths from others; I wish to be free, and learn of the world myself.
+  Go to: gl9a2
+> Because you teach Facts which are never applied, and Information which has no practical purpose.
+  Go to: gl9a2
+> Because Knowledge alone is not Wisdom.
+  Go to: gl9a2
+
+==============================
+Event: gl9a2
+
+Pedantus fades away, and for a moment there is silence and darkness.
+
+Then, out of the darkness, Keeper One swims into view.
+
+<coelacanth>Blessings of the Greatest Being upon you, young Draak-Kin.
+
+<coelacanth>You have received my blessing, and learned the sacred Laws given by the Greatest Being.
+
+<coelacanth>You have borne witness to our community of Faith, and seen the harmony and peace which come from embracing the Inarguably Correct Tradition.
+
+<coelacanth>When our bodies are Destroyed, we will surely live on in the Great Above, and look down upon others from the bright blue Stars.
+
+<coelacanth>I invite you now to take the final step, and become one of us forever.
+
+<coelacanth>If you will swear always to have Faith in the Greatest Being and follow the True Laws alone, then you too can live without Fear and Doubt, and have the support of others.
+
+<coelacanth>Will you join our school, and embrace Faith above all other things?
+
+------------------------------
+> Yes.
+  Go to: gl9a2f
+> No.
+  Go to: gl9a2s
+
+==============================
+Event: gl9a2f
+
+Though you know that some of the dogmas of the Inarguably Correct Way are problematic and unlikely to correspond to Truth, your desire to be embraced by a community, to be constantly supported and assured of your correctness and special status within the Onesong, is so great that you accept the Keeper's offer.
+
+Your "conversion" to the Inarguably Correct Way is celebrated by the denizens of the School of Tradition. You find a certain peace in the acceptance of a simple explanation for Life, Time and the Onesong.
+
+There are even special experiences, beautiful Songs of Praise and discussions of the interpretation of the many Great and Lesser Laws which please you and which you never would known if you had continued to live as other Draak-Kin.
+
+Ultimately, however, an unfortunate Truth appears: you have grown too large to leave the cavern. You are not like the small Waterbound of the School; you need far more space and much more food.
+
+The members of the School of Tradition assure you that some miracle will occur which will allow you to thrive, that your increasing size is but a test of your Faith...
+
+But no miracle occurs, and despite the fact that you gave up everything for its sake, and in spite of the many stories about the Greatest Being magically intervening on behalf of the Faithful in need, you are slowly crushed and starved by the restrictive cavern you chose for yourself.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gl9a2s
+
+<coelacanth>But why not? Why would you choose the difficult and lonely path of the Draak-Kin over the comfortable and supportive community of Faith? What flaw is there in our Path?
+
+------------------------------
+> Because your Way is not the way of Truth. Your Stars are not the true Stars, and your Laws are not the true Laws which govern the Onesong.
+  Go to: gl9a3
+> Because the Freedom to seek my own Truth is more sacred than the Servitude which you offer.
+  Go to: gl9a3
+> Because I am Draak-Kin, and we are imminent beings of Power who forge our own paths, not small beings which huddle in the shadow of ancient promises.
+  Go to: gl9a3
+> Because you wish to live in a nonexistent Past, and I am a being of the True Present.
+  Go to: gl9a3
+
+==============================
+Event: gl9a3
+
+Another darkness. Another silence. In a tumble of limbs, Instructor Pecunius appears.
+
+<pecunius>Greetings, Draak-Kin! You have made it to the Gate of Graduation, as I knew you would. Your ambition and power are worthy of your People.
+
+<pecunius>Now, the time has come for you to join us permanently. We are in need of your strength, and you shall become rich and powerful within our School of Wealth.
+
+<pecunius>Imagine! You will have such Wealth as has never been seen! Other beings will rush to do your bidding, and never again will you have to hunt. For a few hundred grains of sand, others will bring you your food, or even become it!
+
+<pecunius>You will never have to concern yourself with empty beliefs or agonize over what may be. You can buy pleasure and security, and beyond these things, there is no meaning to Life.
+
+<pecunius>Come now with me. I will even grant you a small starting amount of sand to begin your rise to Wealth and Success. Be huge and powerful among lesser beings, and give up the strife and hardship of the Life you have known.
+
+------------------------------
+> I accept.
+  Go to: gl9a3f
+> I decline.
+  Go to: gl9a3s
+
+==============================
+Event: gl9a3f
+
+You join the School of Wealth. Due to your powerful Body and complex Mind, you swiftly rise to the apex of success within the small cavern.
+
+Lesser beings swarm around you, eager to do your will. With a pinch of sand, you learn to cause massive upheavals, and your actions are sung of by all.
+
+Eventually, you strip Pecunius first of its wealth, and then of its Life. Having taught you that ethics are but a lie of the weak, it has no defense against you. It was quite delicious, and pleasantly chewy.
+
+Being the supreme being of the School of Wealth is amusing for a while, but eventually, you realize that you have exhausted all of the physical pleasures and experiences of the cavern, and with nothing but sand to comfort you, you feel cold and empty.
+
+In the end, unwilling to leave the vast pile of sand which you spent so much time and effort collecting, you are trapped in the cavern, growing too large to leave, and then to even move.
+
+Your last thought before you perish is that it is better to live a short and uncertain life in freedom than it is to live in luxury and then be crushed by a cage.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gl9a3s
+
+<pecunius>But why? You cannot deny that my way is the quickest to power and pleasure, and that hoarding sand among us would be easier than hoarding rarer things among the Kin.
+
+------------------------------
+> Because I seek Wisdom and Truth over shallow Matter.
+  Go to: gl9a4
+> Because some of the greatest Treasures of Life are those which cannot be seen, nor touched, nor smelled.
+  Go to: gl9a4
+> Because I do not wish for ease; I wish for worthy Treasures beyond imagining and true Strength, which you do not have.
+  Go to: gl9a4
+> Because Freedom is worth more than all of the Wealth on Earth.
+  Go to: gl9a4
+
+==============================
+Event: gl9a4
+
+<gardeneel>Greetings, in the name of Emptiness.
+
+<gardeneel>From me, you have learned a powerful Truth; that all things are Empty.
+
+<gardeneel>Beauty, ugliness, wisdom, ignorance... none of these things truly exist. They are all relative. All beings are all of them in comparison to certain others.
+
+<gardeneel>Many search for a meaning to Life, but the true meaning is only that there is no meaning. Your scrabbling for Treasure, your desire to be strong... you will never have everything, and you will never be as strong as Sun or Earth, no matter how hard you try.
+
+<gardeneel>This cavern is large, dark and peaceful. It will suffice.
+
+<gardeneel>Embrace Emptiness and know the only true peace. Dig a hole for yourself here, seize what drifts by, and give up all of the meaningless struggles of Life, which bring only pain and delusion.
+
+------------------------------
+> I shall embrace Emptiness, and remain here.
+  Go to: gl9a4f
+> I shall not; I must move forward.
+  Go to: gl9a4s
+
+==============================
+Event: gl9a4f
+
+You dig a comfortable hole for yourself and settle in, allowing all of the false judgments and expectations you were taught in the Chamber to fall away.
+
+The Draak are not the Greatest of all... the word "Great" is dependent entirely upon judgments which are relative and do not actually exist. You need not seek Treasure, which is only a useless scramble.
+
+Eventually, you begin to get hungry... the small Water-beings which float about in this cavern do not give you enough sustenance. You consider leaving and hunting something more substantial...
+
+But you quickly realize that even Destruction and Creation themselves are pointless, leading only to an endless cycle of the transformation of matter. It would not be "bad" if you were simply to starve, because "bad" does not exist in absolute terms.
+
+Survival itself being selfish and pointless, you resolve to simply accept your ultimate fate, and perish in the darkness, satisfied that you have at last achieved Wisdom.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: gl9a4s
+
+<gardeneel>But there is no "forward". The very concept relies upon the idea that there is a "right" or "wrong" way to be, which is judgmental, inaccurate and harmful to yourself and others.
+
+<gardeneel>If you move forward from here, you will only be contributing to the morass of action, spinning about on the wheel of Destruction and Creation, achieving nothing which will not fade with Time.
+
+<gardeneel>What possible reason could you have to leave this place, and continue your old Life? What flaw is there in the perfect Way of Emptiness?
+
+------------------------------
+> Even if judgments are empty of true meaning, that realization should be liberating, not confining.
+  Go to: gl9a5
+> Life is not empty, but filled with possibilities. We are children of Sun and Earth, not of the Void.
+  Go to: gl9a5
+> I am what I am, and must follow my own Nature, feel Sun upon my scales, Wind in my feathers, and the savory flesh of prey upon my tongue.
+  Go to: gl9a5
+
+==============================
+Event: gl9a5
+
+The last of the visions fade away, and the golden Mind-song of the vast floating being flows into you:
+
+<manta>T<italic>o expand the aspirant's mental perspective: </italic>all lessons, all Truths, are like the Great Blue, possessing an apparent surface but also harboring vast and secret depths.
+
+<manta>Most are satisfied with the surface. Few dive beneath to discover the substance, and fewer still plumb the depths to find the strands which weave Reality.
+
+<manta>But such is the Way of all who are truly Wise. While they may move within one School, they are never truly of them, and Ideas are to them challenges and inspirations, not shackles or walls.
+
+<manta>To acknowledge the Truth carried by others, but to also see their weaknesses... to see all sides of the Gem of Truth and not fall in love with merely one of its facets...
+
+<manta>Such is <gradient 4444ff ffffff>Wisdom.</gradient>
+
+<manta><italic>Tenderly stating a final judgment:</italic> this place is not your Home. You are bound for wider horizons.
+
+<manta><italic>To express the kinship which exceeds all boundaries of People and Mind:</italic> May You Be Blessed.
+
+The way ahead is revealed. You have Graduated.
+
+------------------------------
+> /EndEvent
+  Go to: gl10
+
+==============================
+Event: gl9af
+
+<manta><italic>Gently revealing a potentially disappointing truth:</italic> you have not received the blessings of all of the Instructors. Seek to understand their Truths, and then return.
+
+The gigantic creature falls silent, and does not speak again. Unable to find any other way out, you leave by the way you came to continue your studies.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: gl9b
+
+The gigantic creature falls silent, and does not speak again. Unable to find any other way out, you leave by the way you came to continue your studies.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/GL4/MP_Manager
+
+==============================
+Event: glescape
+
+The vastness of the outer world calls to you; you retrace your steps and are soon back in your own Lair.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================

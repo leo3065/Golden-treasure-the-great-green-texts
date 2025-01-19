@@ -1,0 +1,1524 @@
+Event: fl_1_1
+
+Self. New self.
+
+Strong. Grown. Ready.
+
+Want to help. Want to find. Want to bring back.
+
+Want to live, to love.
+
+Help selves, help self. One self, many selves.
+
+Place-of-beginning. Many selves. All I. Love all, as I.
+
+------------------------------
+> Greet worker-selves.
+  Go to: fl_1_1a
+> Greet eggs.
+  Go to: fl_1_1b
+> Care for larvae.
+  Go to: fl_1_1c
+> Move up.
+  Go to: fl_1_2
+
+==============================
+Event: fl_1_1a
+
+Other-selves. I-am-Them, They-are-I.
+
+Helping. Feeding. Bringing. Moving.
+
+Many Bodies; one Essence. Beautiful. Powerful. Right.
+
+Love them all.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_1
+
+==============================
+Event: fl_1_1b
+
+Other-selves, selves-yet-to-be.
+
+Growing, turning, awakening. Awakening, slowly. Quickly.
+
+Love them all.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_1
+
+==============================
+Event: fl_1_1c
+
+Children, selves-yet-to-be. So many!
+
+Clean them.
+
+Comfort them.
+
+Feed them.
+
+They-are-I, I-am-they. Care. Love. Forever.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_f, fl_m, fl_1_1
+
+==============================
+Event: fl_1_2
+
+SHE.
+
+HER.
+
+Heart-of-Self. Creator. God.
+
+Source-of-self. Source-of-love.
+
+Beautiful. Perfect. HER.
+
+
+
+------------------------------
+> Hear HER.
+  Go to: fl_1_2a
+> Clean HER.
+  Go to: fl_1_2b
+> Move eggs to safety.
+  Go to: fl_1_2c
+> Move up.
+  Go to: fl_1_3
+> Move down.
+  Go to: fl_1_1
+
+==============================
+Event: fl_1_2a
+
+<ant_queen>LITTLE-SELF. LOVE. CREATION.</ant_queen>
+
+<ant_queen>MUST CREATE MORE SELVES. HELP. FIND. BRING.</ant_queen>
+
+<ant_queen><color blue>THIRST. NEED WATER TO CREATE MORE SELF.</ant_queen></color>
+
+<ant_queen><color blue>WATER FLOWS. COOL. JOY. WE THRIVE. CREATE.</ant_queen></color>
+
+<ant_queen><color green>SWEETNESS. NEED SWEETNESS. SWEETNESS BECOMES ESSENCE OF YET-TO-BE.</ant_queen></color>
+
+<ant_queen><color green>BRING SWEETNESS. MUST CREATE. ALL-SELF MUST GROW. MUST BECOME.</ant_queen></color>
+
+<ant_queen><color green>TASTE SWEETNESS. MANY MOUTHS. NEW ESSENCE.</ant_queen></color>
+
+<ant_queen><color green>PLEASURE. JOY. CREATE MORE SELVES. MUST CREATE.</ant_queen></color>
+
+<ant_queen><color brown>EMPTY. NEED MATTER. NEED FOOD.</ant_queen></color>
+
+<ant_queen><color brown>FOOD WILL BECOME NEW SELVES. MUST CREATE.</ant_queen></color>
+
+<ant_queen><color brown>NEED FOOD. LOVE. WANT.</ant_queen></color>
+
+<ant_queen><color brown>FULL. BIG. JOY.</ant_queen></color>
+
+<ant_queen><color brown>WILL SPREAD SELF, SPREAD JOY. CREATE NEW SELVES.</ant_queen></color>
+
+<ant_queen><color brown>SELF WILL BE FOREVER. NEVER END. ALL. LOVE. CREATE.</ant_queen></color>
+
+<ant_queen>LITTLE-SELF. LOVE. I AM YOU, YOU ARE I. ALWAYS. FOREVER.<ant_queen>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_2
+
+==============================
+Event: fl_1_2b
+
+SHE has spilled much waste. Sacred work. Hard work. Creation.
+
+Must clean HER. Remove waste, outside nest.
+
+Remove waste. Remove waste. Remove waste.
+
+Again. Again. Again.
+
+Cleaner, now. Joy.
+
+Clean the rest of HER. One leg, one part, next leg, next part.
+
+SHE is the Greatest-Self. HER joy is our joy.
+
+SHE is clean. Joy. Joy!
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_f, fl_m, fl_1_2
+
+==============================
+Event: fl_1_2c
+
+SHE Creates. So many, so often. Selves-to-be.
+
+Beautiful, tiny, helpless. Need to help!
+
+Carry to nursery.
+
+Come back, carry more.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_2c1
+
+==============================
+Event: fl_1_2c1
+
+Carry, come back.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_2c2
+
+==============================
+Event: fl_1_2c2
+
+Carry, come back.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_2c3
+
+==============================
+Event: fl_1_2c3
+
+None left. All safe. Soon, Selves-to-be will be Selves. Joy!
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_f, fl_m, fl_1_2
+
+==============================
+Event: fl_1_3
+
+So many. So many Selves. Keep moving. Keep helping. Keep growing.
+
+
+
+------------------------------
+> <color blue>Go left and down.</color>
+  Go to: Backgrounds/FL/FL_2_Manager
+> <color a87141>Go straight.</color>
+  Go to: Backgrounds/FL/FL_3_Manager
+> <color green>Go right and up.</color>
+  Go to: Backgrounds/FL/FL_4_Manager
+> Go back.
+  Go to: fl_1_2
+> Milk Sweetkins. Drink sweetness.
+  Go to: fl_1_3a
+
+==============================
+Event: fl_1_3a
+
+Stroke Sweetkins' sides. Sweet comes out. Joy!
+
+Drink, drink. Joy! Energy! LOVE!
+
+Enough. Enough. Leave for other-Selves. All need. Feel need. Leave.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_1_3
+
+==============================
+Event: fl_2_4
+
+Feastling. Consuming, becoming.
+
+Dangerous bigchild. Slow, resting.
+
+Good, soft flesh inside, can become food. But heavy, hard-biting, stone-jawed child.
+
+Also juicy plant-egg behind.
+
+The Feastling stirs; heart dancing. What to do?
+
+------------------------------
+> Leave. Too much danger.
+  Go to: Backgrounds/FL/FL_2_Manager
+> Destroy.
+  Go to: fl_2_4b
+
+==============================
+Event: fl_2_4b
+
+Alone? Fetch other selves to help Dance?
+
+Will take time, effort. But stronger, safer.
+
+------------------------------
+> Fetch one other-self to help.
+  Go to: fl_2_4ba
+> Fetch a few other-selves to help.
+  Go to: fl_2_4bb
+> Fetch several other-selves to help.
+  Go to: fl_2_4bc
+> Let other-selves be; Dance alone with the Feastling.
+  Go to: fl_2_4bd
+
+==============================
+Event: fl_2_4ba
+
+One other-self. Good. Dance now. Now!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2_4bb
+
+Other-selves. Work together. Dance strongly!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2_4bc
+
+Many selves. Taste victory. Victory!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2_4bd
+
+Alone, but still strong. Will not risk other-selves.
+
+Be brave. Brave for all selves. Take the burden.
+
+Feastling strong, but slow. Little Air, Water. Mostly Earth, Fire. Dance!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2_4s
+
+Dance finished. Feastling silent, empty.
+
+Juicy-sweet Plant-egg still here. Smells sweet, but also strange.
+
+What to do?
+
+------------------------------
+> Bring the Feastling Body to the Hive.
+  Go to: fl_2_4sa
+> Consume the Plant-egg.
+  Go to: fl_2_4sb
+> Leave for now.
+  Go to: fl_2_4sc
+
+==============================
+Event: fl_2_4sa
+
+Lift, carry. Heavy - so heavy! But strong.
+
+Other-selves help. Carry, carry.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_f, fl_m, fl_2_4saa
+
+==============================
+Event: fl_2_4saa
+
+Finished now. Little becoming-selves fed. But need more, much more for HER, for Source-of-Self.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2_4s
+
+==============================
+Event: fl_2_4sb
+
+Juicy-sweet, tasty.
+
+Tasty, so why PAIN?
+
+Pain... darkness...
+
+Stay away, other-selves... stay safely... away...
+
+Bad... bad fruit...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_exit
+
+==============================
+Event: fl_2_4sc
+
+Much to do, much to do. Can return.
+
+
+
+------------------------------
+> [Continue]
+  Go to: Backgrounds/FL/FL_2_Manager
+
+==============================
+Event: fl_2_4sr
+
+------------------------------
+> [EventLoad]
+  Go to: fl_2_4s
+
+==============================
+Event: fl_2_8
+
+Returner.
+
+Priest-servant of Earth. Returns all things to Her.
+
+<worm>RETURN. RETURN. RETURN TO HER.</worm>
+
+<worm>BREAK DOWN. BE LOST IN HER.</worm>
+
+<worm>ALL THINGS SHALL RETURN TO EARTH.</worm>
+
+Comforting, preaching.
+
+What to do?
+
+------------------------------
+> Listen to the Returner's sermon.
+  Go to: fl_2_8a
+> Bite off a small segment.
+  Go to: fl_2_8b
+> Leave the priest-child's presence.
+  Go to: fl_2_8c
+
+==============================
+Event: fl_2_8a
+
+<worm>ALL BEINGS: YOU SHALL RETURN. YOU MUST RETURN.</worm>
+
+<worm>FEAR NOT THE END OF THE SELF. IT IS ONLY A RETURNING.</worm>
+
+<worm>DECAY... HER LOVE TAKES THE FORM OF DECAY.</worm>
+
+<worm>WHEN THE PRIDE AND FALSEHOOD CALLED "I AM" IS TORN FROM YOU AT LAST.</worm>
+
+<worm>WHEN YOUR TWITCHING, FEARING MIND IS GONE, AND YOU ARE BUT PEACEFUL, SILENT MATTER.</worm>
+
+<worm>WE SHALL RETURN YOU, DEEPER THAN SLEEP, TO THE BEGINNING. THIS IS YOUR DESTINY.</worm>
+
+<worm>PRAISE GREAT MOTHER EARTH, FOR THOUGH YOU LABOR AND SUFFER, AT LAST YOU SHALL BE LOST IN HER.</worm>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2_8
+
+==============================
+Event: fl_2_8b
+
+<worm>YES. RETURN ME.</worm>
+
+<worm>LET ME PASS THROUGH YOU, AND THEN BACK DOWN.</worm>
+
+<worm>SIMPLIFY ME. LESSEN ME. I DANCE WITH JOY AT THE PAIN.</worm>
+
+<worm>MOTHER, I AM COMING. WE ALL ARE COMING.</worm>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2_8
+
+==============================
+Event: fl_2_8c
+
+<worm>WE SHALL MEET AGAIN IN EARTH'S BODY.</worm>
+
+<worm>SHE DRAWS ALL THINGS TO HERSELF. THERE IS NO ESCAPE.</worm>
+
+<worm>ALLELUIA. THERE IS NO ESCAPE. ALLELUIA.</worm>
+
+
+
+------------------------------
+> [Continue]
+  Go to: Backgrounds/FL/FL_2_Manager
+
+==============================
+Event: fl_2x
+
+<color blue>Water</color> close. Antennae fresh-coated with cool cleanness in the breeze.
+
+Sand-pits here, many. Deep, but can go through.
+
+What to do?
+
+------------------------------
+> Go through the pits to the <color blue>Water.</color>
+  Go to: fl_2xa
+> Throw something into the pit.
+  Go to: fl_2xb
+> Dance the Last Dance with the Deathpit.
+  Go to: fl_2xc
+> Go back, away from the <color blue>Water.</color>
+  Go to: Backgrounds/FL/FL_2_Manager
+> Pass through safely to the <color blue>Water.</color>
+  Go to: fl_2z
+
+==============================
+Event: fl_2xa
+
+Down into empty pit. Slick, tumbling down...
+
+DEATHPIT! DEATHPIT!
+
+MUST ESCA...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_exit
+
+==============================
+Event: fl_2xb
+
+Throw what?
+
+------------------------------
+> Some nearby small rocks.
+  Go to: fl_2xba
+> One of your own legs. (Will hurt!)
+  Go to: fl_2xbb
+> The strange, sweet Plant-egg the Feastling had.
+  Go to: fl_2xbc
+> Nothing.
+  Go to: fl_2x
+
+==============================
+Event: fl_2xba
+
+Nothing happens.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2x
+
+==============================
+Event: fl_2xbb
+
+Chew off foot-part. Hurts, but necessary. Must be sure.
+
+Fling into pit...
+
+Deathpit! Danger! Deathpit!
+
+Hidden, crunching Destruction! Trap!
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2x
+
+==============================
+Event: fl_2xbc
+
+Back, back, back to the place...
+
+Carry, carry the Sweet-egg, Plant-egg. So heavy!
+
+Roll, roll into the pit...
+
+Deathpit! Deathpit jaws eating Sweet-egg...
+
+Deathpit Dancing in pain! Sweet-egg is Bad-egg!
+
+<antlion><size 150>IT BURNS.... FIRE INSIDE... BURNS!</size></antlion>
+
+Deathpit gone. Safepit, now.
+
+Safe. Go through.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2z
+
+==============================
+Event: fl_2xc
+
+Alone? Fetch other selves to help Dance?
+
+Will take time, effort. But stronger, safer.
+
+------------------------------
+> Fetch one other-self to help.
+  Go to: fl_2xca
+> Fetch a few other-selves to help.
+  Go to: fl_2xcb
+> Fetch several other-selves to help.
+  Go to: fl_2xcc
+> Let other-selves be; Dance alone with the Deathpit.
+  Go to: fl_2xcd
+
+==============================
+Event: fl_2xca
+
+One other-self. Good. Dance now. Now!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2xcb
+
+Other-selves. Work together. Dance strongly!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2xcc
+
+Many selves. Taste victory. Victory!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2xcd
+
+Alone, but still strong. Will not risk other-selves.
+
+Be brave. Brave for all selves. Take the burden.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_2z
+
+Water. Water! <color blue>WATER!</color>
+
+Cool, clean. Pure. Perfect.
+
+Enough here for all. Creator, Source-of-Self thirsts.
+
+Pit now safe. Other-selves will follow your path, find <color blue>Water.</color>
+
+Will bring <color blue>Water</color> for Greatest-Self. Refresh Her. Make Her strong.
+
+All will thrive.<italic> (You have found a water source for the colony.)</italic>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_f, fl_m, fl_2zc
+
+==============================
+Event: fl_2za
+
+Drink, drink. Rest. Wash antennae.
+
+Joy. Life!
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_2zc
+
+==============================
+Event: fl_2zc
+
+What to do?
+
+------------------------------
+> Refresh your Body here.
+  Go to: fl_2za
+> Leave.
+  Go to: fl_1_3
+
+==============================
+Event: fl_3_8
+
+Smell panic, desperation...
+
+Armorling! Selves in danger!
+
+Feel their pain, their fear! Only two selves, Armorling large and hungry!
+
+No time to fetch more! Make three and Dance, or escape as one?
+
+------------------------------
+> Fight! Save myselves!
+  Go to: HuntingBaseCombat
+> Must serve Creator-self, find food elsewhere.
+  Go to: fl_3_8b
+
+==============================
+Event: fl_3_8as
+
+Victory! Victory!
+
+Other selves arriving, helping break down, move the Armorling.
+
+Will become food for many children, becoming-selves.
+
+Mighty, mighty. Love becomes strength.
+
+------------------------------
+> /EndEvent
+  Go to: fl_f, fl_m, Backgrounds/FL/FL_3_Manager
+
+==============================
+Event: fl_3_8b
+
+Creator-self is more. Creator-self is most.
+
+Creator-self can make more selves. Ignore the cries, the overtaking unexistence.
+
+Keep helping. Keep searching. Keep moving.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_3_Manager
+
+==============================
+Event: fl_3z
+
+<color brown>FOODSCAPE!</color>
+
+<color brown>MEAT-HULK!</color>
+
+Fallen Sky-Titan, ripped Silent! Still much Essence, much flesh!
+
+Flesh for strength of many, strength for Suns and Suns, Moons and Moons!
+
+But SHREDDER nearby. Watching, waiting, slavering, hungering.
+
+Scythe-claws, razorjaw. Very dangerous.
+
+What to do?
+
+------------------------------
+> Dance. Claim the <color brown>foodscape.</color>
+  Go to: fl_3za
+> Leave.
+  Go to: Backgrounds/FL/FL_3_Manager
+
+==============================
+Event: fl_3za
+
+Deadly Shredder. Tall, thin, lonely Body, shaped to Destroy.
+
+Dance alone? Fetch other selves to help Dance?
+
+Will take time, effort. But stronger, safer.
+
+------------------------------
+> Fetch one other-self to help.
+  Go to: fl_3zaa
+> Fetch a few other-selves to help.
+  Go to: fl_3zab
+> Fetch several other-selves to help.
+  Go to: fl_3zac
+> Let other-selves be; Dance alone with the Shredder.
+  Go to: fl_3zad
+
+==============================
+Event: fl_3zaa
+
+One other-self. Good. Dance now. Now!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_3zab
+
+Other-selves. Work together. Dance strongly!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_3zac
+
+Many selves. Taste victory. Victory!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_3zad
+
+Alone, but still strong. Will not risk other-selves.
+
+Be brave. Brave for all selves. Take the burden. Dance!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_3zs
+
+<color brown>Food!</color> Food for all!
+
+Shredder now becomes meat-essence Treasure as well!
+
+Quickly, quickly. Help break down, break down.
+
+Carry carry. Carry back.
+
+Creator-self will soon be filled with strength, with flesh.
+
+Will make many new selves, strong future. Good future.
+
+Weak as one, strong as many. Many is one, and one is many.
+
+Glorious <color brown>meatfall!</color> Death becomes Life.
+
+------------------------------
+> /EndEvent
+  Go to: fl_f, fl_m, fl_1_3
+
+==============================
+Event: fl_4_7
+
+Pulled forward, antennae lusting.
+
+<color green>Sweetness.</color> Such <color green>sweetness!</color>
+
+Tree-egg, spilling perfection! Enough for all!
+
+Creator-self will consume with pleasure! So many future-selves will grow!
+
+What to do?
+
+------------------------------
+> Taste it. Sample it.
+  Go to: fl_4_7f
+> Take it back. Piece-by-piece.
+  Go to: fl_4_7f
+> Chew the stem. Send it all down.
+  Go to: fl_4_7f
+> Leave.
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4_7f
+
+------------------------------
+> [EventLoad]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_4_7s
+
+Weaver. End-most-ancient.
+
+Fear-taken, but living still. Quick escape. Unbind!
+
+Not this <color green>sweetness...</color> must find another.
+
+Spread bad scent behind, protect other-selves from trap.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4_8
+
+Woodeaters!
+
+Small. Tasty. Bound-together.
+
+Too small for many-Selves, but good for one Self.
+
+Dance, consume? To give energy, helping-fuel?
+
+------------------------------
+> Dance, consume!
+  Go to: HuntingBaseCombat
+> Leave.
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4_8s
+
+Snap-crunch! Click-clack!
+
+Strength! Life! Delicious!
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4x
+
+...
+
+Sky-Titan.
+
+Still. Black-burned.
+
+Sun-staring. Broken? Twisted?
+
+Singing...
+
+<raven>BLAZE-FATHER, CIRCLE-BURNING COOL GASHES THROUGH IMPOSSIBLE BREATHS...</raven>
+
+<raven>HOLD OPEN MY MOUTH, SLIDE YOUR SHARP FEATHERS ACROSS MY TONGUE.</raven>
+
+<raven>LEAVE ME SCREAMING, SCREAMING WITH JOY.</raven>
+
+<raven>HELP ME SING TO THE UNCHARRED, TO THE RAW, TO HELP THEM SPLAY THEMSELVES ACROSS THE DIVIDE.</raven>
+
+<raven>I SEE THEM, WHOLE AND CONTENT, UNBROKEN, AND I CRY OUT IN DESPAIR AT THE LIVING FALSEHOOD.</raven>
+
+<raven>THE STRAIGHT LINES... I SEVER THEM, SEVER THEM WITH MY BEAK, BUT THEY REFUSE TO CURVE! THEY REFUSE!</raven>
+
+<raven>WHERE IS THE ONE WHO WILL CHOOSE THE FOURTH WAY? WHERE IS THE ONE WHO WILL FACE THE SPIRIT AND REJECT ITS DECEPTIVE BLESSING?</raven>
+
+<raven>YOU OPEN THE WAY FOR ME, BUT I DO NOT WISH TO ENTER, ONLY TO BE SWEPT INSIDE HELPLESSLY.</raven>
+
+<raven>I WISH TO RUB MYSELF AGAINST HER FEATHERS, HER SCALES, HANGING BURNING IN THE NOTHING.</raven>
+
+<raven>THOSE WHO KNOW THE TRUTH... THAT THE FATHER ON HIGH IS BUT A MOTE OF TAIL-SKIN...</raven>
+
+<raven>THOSE WHO DISCOVER THE FOUR NUMBERS AND OPEN THE DOOR...</raven>
+
+<raven>MAY THEY BE FOREVER BROKEN, AND NEVER UNITE AGAIN.</raven>
+
+<raven>....</raven>
+
+<raven>....</raven>
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4xa
+
+<raven>WHERE IS THE ONE WHO WILL CHOOSE THE FOURTH WAY? WHERE IS THE ONE WHO WILL FACE THE SPIRIT AND REJECT ITS DECEPTIVE BLESSING?</raven>
+
+<raven>THOSE WHO DISCOVER THE FOUR NUMBERS AND OPEN THE DOOR...</raven>
+
+<raven>MAY THEY BE FOREVER BROKEN, AND NEVER UNITE AGAIN.</raven>
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4xb
+
+<raven>THE WEAVER UPON THE EYE.</raven>
+
+<raven>THE WHITEBLACK, MASTERED.</raven>
+
+<raven>THE LONGSCALE CHIEFTAIN, INSIDE-OUT.</raven>
+
+<raven>THEY HOLD THE KEYS.</raven>
+
+<raven>THANKS TO THE POWERS INFINITE FOR NOT GRANTING THEM TO ME.</raven>
+
+<raven>I AM NOT SPECIAL. I HOLD NOTHING. THANKS BE.</raven>
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4z
+
+<color green><size 90>Sweetkins...</size></color>
+
+<color green>SWEETKINS!</color>
+
+Living sugarfalls! Stroke their sides, taste sugary <color green>sweetsweat!</color>
+
+Underside-huddling tide, sucking Tree-blood, oozing perfection!
+
+But DANGER! Berryback prowling, ruining! Gluttoning Sweetkin flesh for just one, leaving nothing for the many!
+
+Fight bravely, save Sweetkins?
+
+------------------------------
+> YES!
+  Go to: HuntingBaseCombat
+> Not now... too weak...
+  Go to: Backgrounds/FL/FL_4_Manager
+
+==============================
+Event: fl_4zas
+
+Victory! Berryback buzzes away, Sweetkins sweet and safe.
+
+Bringing, bringing, bringing...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_4zasa
+
+==============================
+Event: fl_4zasa
+
+<color green>Sweetness, sweetness!</color> Enough for all!
+
+Protection, safety for Sweetkins, sweetness for selves!
+
+Benefit for all! Flourishing, prospering!
+
+------------------------------
+> /EndEvent
+  Go to: fl_f, fl_m, fl_1_3
+
+==============================
+Event: fl_birth
+
+------------------------------
+> [Complete]
+  Go to: fl_1_1
+
+==============================
+Event: fl_death
+
+Slowly, you open your eyes, and yawn. Sun is dying setwards, and a cool scent rises from Earth.
+
+<writhing_question>Was it our Song and Dance which lulled it to slumber?</writhing_question>
+
+<writhing_question>Will it forgive us, and return another Sun to meet with blessed Allmother, who longs to meet it?</writhing_question>
+
+The journey home is uneventful, but despite the fact that you seem to have spent a long time sleeping, you are strangely tired when you arrive. Sleep comes straight into your jaws, and swallowing it, you are at peace.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: fl_exit
+
+You're not supposed to be here.
+
+------------------------------
+> [EventLoad]
+  Go to: fl_death, fl_fsa
+
+==============================
+Event: fl_f
+
+The colony thrives! We are! WE ARE!
+
+Creator-self swells with Life! New selves coming soon.
+
+Tiny Life-poetry goes on, new beginnings, bridging was and is...
+
+Fear, terror of many sweeps in on the wind! Pungent, alarming!
+
+Return to colony, help selves...!
+
+TITAN! TITAN! DANGER!
+
+GIANT! FEARSOME! LIVING DISASTER!
+
+CREATOR-SELF, SELVES-YET-TO-BE, OTHER-SELVES IN DANGER! FALLING, DYING!
+
+COLONY MUST BE SAVED! FIGHT!
+
+FIGHT THE TITAN! JOIN TOGETHER!
+
+BECOME GREATER THROUGH SACRIFICE! MANY ARE ONE! ONE IS MANY!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fl_ff
+
+------------------------------
+> [EventLoad]
+  Go to: , {HUNT_SUCCESS_LOCATION}, HuntingBaseCombat
+
+==============================
+Event: fl_fs
+
+Over.
+
+Danced away. Colony is safe.
+
+Self-Body wounded, broken, but still Self.
+
+Other-selves lift us up, carry us into the presence of HER.
+
+<ant_queen>BLESSINGS. BLESSINGS INFINITE AND ETERNAL.</ant_queen>
+
+<ant_queen>WE LIVE. WE SPREAD. WE DANCE. WE ENDURE.</ant_queen>
+
+<ant_queen>REST NOW, LESSER-SELF. BECOME STILL.</ant_queen>
+
+Creator-self's scent washing over, drowning light, sound.
+
+Can rest now. Rest at last.
+
+Carried to Place of Beginnings.
+
+Fading. Sleep coming on, cool and deep.
+
+Body will be food for selves-yet-to-be. Good. Right.
+
+Perfect.
+
+Love. We are One, in Truth, in Eternity.
+
+Devour, new-selves. Take me inside. Become strong, as we are, and were, and shall be forever.
+
+Love. Forever. Love.
+
+Forev
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_exit
+
+==============================
+Event: fl_fsa
+
+...
+
+...
+
+<writhing_question>There they stood: the Hunter, the Prey, and the Draak.</writhing_question>
+
+<writhing_question>Seeing its own fears, its own Essence, mirrored in the Longear, the Draak could not allow the Blazetail to Destroy it.</writhing_question>
+
+<writhing_question>In its Mind, the Draak was the Longear, and the Longear the Draak.</writhing_question>
+
+<writhing_question>But the mighty Kin had also learned that to save one was to doom the other, and it could not bear to see the Blazetail waste away and perish empty.</writhing_question>
+
+<writhing_question>For in its Mind, the Draak was the Blazetail, and the Blazetail was the Draak.</writhing_question>
+
+<writhing_question>As a being of great power, the Draak-Kin held the fate of both Goodbeasts in its jaws. Would it allow the Longear to perish, or the Blazetail?</writhing_question>
+
+<writhing_question>The dying breath of either would be as a twisting thorn in the Draak-Kin forever.</writhing_question>
+
+<writhing_question>At last, the Kin made its fateful choice.</writhing_question>
+
+<writhing_question>It bared its blade-teeth, and sank them into flesh...</writhing_question>
+
+<writhing_question><bold>Its own.</bold></writhing_question>
+
+<writhing_question>It tasted its own Essence, carved out a generous portion of its own Body, tore it away.</writhing_question>
+
+<writhing_question>It then placed it on the cool, good Earth before the Blazetail, and blessed it, and sang:</writhing_question>
+
+<allmother>TAKE THIS, MY FLESH, O BLAZETAIL, THAT YOU MAY LIVE AND THRIVE. AND YOU, LONGEAR, DEPART IN PEACE, AND PARTAKE OF THE ENDLESS GREEN FEAST WITHOUT FEAR.</allmother>
+
+<allmother>I HAVE CHOSEN A THIRD WAY, AND THOUGH MY FORM IS DIMINISHED, MY INNERMOST SELF, ESSENCE OF ESSENCE, SINGS WITH JOY AND HEALTH.</allmother>
+
+<allmother>FOR I AM YOU, AND YOU ARE I, AND WE ARE ONE FOREVER.</allmother>
+
+<writhing_question>So ends my tale.</writhing_question>
+
+<writhing_question>The Draak-Kin had dispelled the Great Illusion of Separation. It had seen that all things which appear separate are in fact part of a greater whole, a collective eternal and immortal.</writhing_question>
+
+<writhing_question>To all beings it encountered, it was as a loving Creator, giving health, life, blessings and wisdom. All beings were as its own hatchlings, whether small or great.</writhing_question>
+
+<writhing_question>And so it was that the Draak was named by those it encountered "Nurturing Birther-Creator Of The Great Oneness..."</writhing_question>
+
+<writhing_question><bold>ALLMOTHER.</bold></writhing_question>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_fsaa
+
+==============================
+Event: fl_fsaa
+
+<allmother>AT LAST, BELOVED. AT LAST, YOU COME TO ME.</allmother>
+
+A riot of scents fill the air, making you want to sleep, dance, and die all at once.
+
+<allmother>BENEATH THE SCARS, BEYOND THE ILLUSIONS WHICH COVER YOU LIKE SCALES...</allmother>
+
+You have no idea how you got here. It does not matter.
+
+<allmother>I SMELL IT. YOUR TRUE SELF. NAKED, CRYSTALLINE, PERFECT.</allmother>
+
+<allmother>YOUR DREAMS OF POWER AND GREATNESS...</allmother>
+
+<allmother>THEY ARE BUT A REACHING FOR THE LIGHT, A YEARNING TO BECOME ONE WITH THE UNBOUNDED ONESONG.</allmother>
+
+<allmother>YOUR FEARS OF DESTRUCTION AND INSIGNIFICANCE...</allmother>
+
+<allmother>THEY ARE BUT A LONGING FOR TRUTH, A PASSIONATE LOVE OF EXISTENCE.</allmother>
+
+<allmother>EVEN YOUR WEAKNESSES, YOUR IMPERFECTIONS, ARE DEAR TO ME, BEAUTIFUL IN MY SIGHT, FRAGRANT IN MY NOSTRILS.</allmother>
+
+<allmother>FOR YOU ARE I, AND I AM YOU FOREVER. OUR SEPARATION IS THE LAST ILLUSION.</allmother>
+
+<allmother>IN DREAMS, I TIED YOUR DRIFTING ESSENCE TO THE MIND OF A TINY BEING, TO TEACH YOU WHAT THE SMALLEST AND MOST ANCIENT OF SUN AND EARTH'S CHILDREN ALREADY KNOW.
+
+<allmother>THOUGH TINY AND WEAK, THEY HAVE REALIZED THE UNIFYING TRUTH. THEY GIVE OF THEMSELVES TO EACH OTHER UNTIL THE LINE IS BROKEN.
+
+<allmother>SO JOINED, THEY ARE ABLE TO OVERCOME ANY DIFFICULTY. THEY SWELL AND DIMINISH AS THEY MUST, AS THEY SHOULD, SO THAT EVEN TITANS CANNOT STAND AGAINST THEM.
+
+<allmother>IT HAS BEEN SUNG AMONG OUR PEOPLE ALWAYS THAT COOPERATION, THE BINDING OF OURSELVES TO OTHERS, IS A DEGRADING WEAKNESS. THAT IT ALLOWS FOR THE SURVIVAL OF THE WEAK, AND ENCOURAGES SLOTH OF THE MIND AND ESSENCE.
+
+<allmother>WE ARE LARGE, AND STRONG, AND HOLD FIRE IN OUR THROATS, DESTRUCTION UNDER OUR CLAWS. WE WERE MEANT TO BE ALONE, STRONG, RIVALS TO ALL OTHERS.
+
+<allmother>SO IT IS SUNG.
+
+<allmother>BUT THIS IS A BLINDNESS, A STAIN ON OUR SPIRITS.
+
+<allmother>A LIE.
+
+<allmother>THE TINY BEINGS, THE CLANSINGERS...
+
+<allmother>EVEN THE ORPHANS, THE TAILLESS ONES WHO ARE THE SEEDS OF THE STARS...
+
+<allmother>THEY HAVE DISCOVERED THE TRUTH WHICH IS CALLED LOVE, TOGETHERNESS, AND COMPASSION, AND THEY GROW STRONG BEYOND OUR FEEBLE AND SELFISH IMAGININGS.
+
+<allmother>THEY ARE DESTINED TO RISE. THE ORPHANS SHALL INHERIT EARTH, AND WE LONELY GIANTS SHALL BE NO MORE.
+
+<allmother>NO MATTER HOW WE THRASH AND SCHEME, TIME AND THE ORPHANS SHALL DANCE US ALL TO FINAL DESTRUCTION. OUR PRIDE HAS DOOMED US.
+
+<allmother>TO FIGHT AGAINST THIS TRUTH IS FRUITLESS, AND TO ESCAPE IT IS TO ABANDON EARTH AND SUN AND THIS BLUE-GREEN WORLD WE LOVE.
+
+<allmother>BUT THERE IS ANOTHER WAY. A THIRD WAY.
+
+<allmother>HAVE YOU NEVER DREAMED OF BECOMING OTHER THAN WHAT YOU ARE, MY BELOVED?
+
+<allmother>TO SING WITH A NEW VOICE, SOFT AND HIGH? TO FEEL THE WIND UPON SCALELESS, FEATHERLESS SKIN?
+
+<allmother>TO NOT MERELY SEIZE TREASURES, BUT TO CRAFT THEM YOURSELF WITH SLENDER PAWS, HOLDING PATTERNS IN YOUR MIND BORN FROM YOU AND YOU ALONE?
+
+<allmother>TO KNOW THE SAFETY AND TRUTH OF JOINING WITH OTHERS OF YOUR KIND IN ACHIEVING THE IMPOSSIBLE?
+
+<allmother>I HAVE GAZED INTO THE LOST, ABANDONED SOULS OF THE ORPHANS, AND I HAVE WITNESSED A TERRIFYING BEAUTY, A POTENTIAL WHICH CANNOT BE EXPRESSED.
+
+<allmother>THEY ARE THE FUTURE OF EARTH. AND I BELIEVE.
+
+<allmother>I BELIEVE THAT "THEY" CAN BECOME "WE". THAT OUR TWO PEOPLES, OUR WAYS, CAN AT THE LAST BECOME ONE, AND TOGETHER, INHERIT THIS SPHERE WHICH DANCES IN THE VOID.
+
+<allmother>THE TIME OF RECKONING COMES QUICKLY. REMEMBER WHAT YOU LEARNED AS A TINY BEING: PRIDE IS THE ONLY TRUE WEAKNESS.
+
+<allmother>HUNT YOUR PRIDE AS YOU HAVE NEVER HUNTED BEFORE. SLAY IT AND DEVOUR IT UNTIL NOTHING IS LEFT, AND THEN STAND WITH ME AT THE END.
+
+<allmother>TOGETHER... AND ONLY TOGETHER...
+
+<allmother>WE CAN BE WHOLE AT LAST, AS WE WERE ALWAYS MEANT TO BE.
+
+<allmother>WE CAN TRANSCEND OURSELVES, AND BECOME TRULY KIN, NOT ONLY TO EACH OTHER, BUT TO ALL LIFE.
+
+<allmother>IF WE ONLY BELIEVE. IF WE ONLY LOVE.
+
+<allmother>HOW I YEARN FOR YOU, MY BELOVED. HOW I LONG FOR YOU.
+
+<allmother>BECOMING ONE IN BODY WOULD NOT BE ENOUGH.
+
+<allmother>MAY WE BECOME ONE IN ESSENCE, LIKE STREAMS WHICH LOSE THEMSELVES IN THE DISTANT SEA, AND BECOME IT.
+
+<allmother>ALWAYS AND FOREVER...
+
+<allmother>MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_fsaaa
+
+==============================
+Event: fl_fsaaa
+
+<writhing_question>Is it awake? Is it still dreaming?
+
+<writhing_question>And can it tell the difference?
+
+<writhing_question>Has it learned from what it has learned?
+
+<writhing_question>Answer if you can, mighty Draak-Kin:
+
+<writhing_question>Is the Onesong in the process of folding inward, making all one in time?
+
+<writhing_question>Or is it expanding outward, hoping that new expressions of itself in Flesh and Mind will reveal at last what it has been seeking?
+
+<writhing_question>And most of all: is it better to lose oneself in Unity, or better to remain an individual?
+
+<writhing_question>Which expresses the Truth better? Which expresses Compassion better?
+
+<writhing_question>Do you remember?
+
+<writhing_question>Do you remember the way home?
+
+As you fly back to your Lair, the questions pull you back and push you forward.
+
+At least you now understand why some call Allmother the Heretic Elder. Its ideas are dangerous in the extreme.
+
+What did it mean when it proposed that it was possible to become one with the Tailless?
+
+Is it possible for the Draak to become other than what they are? And if they did, would they still be Draak in any meaningful sense?
+
+Is the knowledge that one is also others... Compassion... the salvation of the Draak-Kin, or doom?
+
+Perhaps the questions themselves are the answers. They are like great Sun; to examine them too closely is to burn one's Mind.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: fl_m
+
+<writhing_question>And so the Longear begged the mighty Kin to protect it, and seeing its own hopes and fears mirrored in the tiny Furbeast, the Draak agreed. It could not bear to see it torn apart by the sharp teeth and claws of the Blazetail.</writhing_question>
+
+<allmother>"TURN AWAY, O BLAZETAIL. THIS LONGEAR IS UNDER MY PROTECTION. THERE SHALL BE NO DESTRUCTION THIS SUN,"</allmother><writhing_question> said the gentle Draak-Kin.</writhing_question>
+
+<writhing_question>"You lie," said the Blazetail bravely to the giant one.</writhing_question>
+
+<writhing_question>"I myself am close to Destruction. I feel the breath of the Void upon my neck."
+"It has been many Suns since I ate. My vision swims; with no food, my Body devours itself."</writhing_question>
+
+<writhing_question>"I lack the strength for even one more hunt. If the Longear lives, I shall die."
+"I am Created an eater of flesh. My belly cannot hold leaves or grasses. It is not my choice to Destroy, but rather, my nature, which comes from Great Sun above and Great Earth below."</writhing_question>
+
+<writhing_question>"Therefore you lie. If you protect this Longear, then you shall surely Destroy a Blazetail. As surely as if you yourself had eaten me, you shall. And if you do not protect it, I shall Destroy it, for I must. Life is good, and I must survive, and Create before I perish."</writhing_question>
+
+<writhing_question>"This Sun shall see Destruction, as it has already seen it uncountable times. Turn away from this, and from the infinite tragedies which occur in this beautiful and tragic world."</writhing_question>
+
+<writhing_question>"The weight of Life, and of its shadow-side, is too great for any one to bear, even a great Kin." And having thus sung, it fell silent.</writhing_question>
+
+<writhing_question>The noble Draak-Kin pondered this in its heart. The Blazetail was not wrong. To save some means the certain death of others who depend upon their flesh for survival.</writhing_question>
+
+<writhing_question>And it saw itself in the Blazetail as much as it saw itself in the Longear. More, perhaps, because it too was a Hunter and had already destroyed countless beings to survive.</writhing_question>
+
+<allmother>"O BLAZETAIL,"</allmother> <writhing_question>sang the Draak-Kin,</writhing_question> <allmother>"I WILL NOT BE YOUR DESTRUCTION. YOU ARE AS TRUE AND AS BEAUTIFUL AS THE LONGEAR. IN YOUR SWIFTNESS, YOUR SHARPNESS, I SEE MYSELF. I AM YOU, AND YOU ARE I."</allmother>
+
+------------------------------
+> /EndEvent
+  Go to: {FL_LAST_LOCATION}
+
+==============================
+Event: fl_p
+
+<writhing_question>Is it dreaming?</writhing_question>
+
+<writhing_question>Is it waking?</writhing_question>
+
+<writhing_question>Is it even possible to tell the difference?</writhing_question>
+
+<writhing_question>Does it know why it has come? Is it ready?</writhing_question>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_pa, fl_pb
+
+==============================
+Event: fl_pa
+
+This is certainly the same Blazetail you encountered before your last sleep: Writhing Question, who became the envoy of Great Allmother long ago.
+
+That should, however, be quite impossible. Many lifetimes of the Blazetail People have surely passed since you encountered it.
+
+<writhing_question>We smell it... a delicious question... how does the Blazetail resist Time?</writhing_question>
+
+<writhing_question>Does it not know that Enkindling another with Kin-Essence prolongs Life?</writhing_question>
+
+<writhing_question>And does it know the still deeper secret: that all boundaries are illusions? That in the Turnings which have passed, the Blazetail which was has merged with <color rainbow>ALLMOTHER?</color></writhing_question>
+
+<writhing_question>Would it help it understand if it knew that we had sacrificed knowing ourselves as a Drop to gain understanding of ourselves as a Sea?</writhing_question>
+
+<writhing_question>Would it help to envision a single grain of Sand releasing its delusions and realizing at last that it was a Shore all along?</writhing_question>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_pc
+
+==============================
+Event: fl_pb
+
+Here, at the edge of a scent-heavy, misty grove, you have met a strange Beast. It seems to be a Blazetail, but unlike any you have ever seen.
+
+It is crowded within, as though more than one Voice speaks through its mouth, as though more than one Will sees through its eyes.
+
+<writhing_question>Is it confused? Does it need reassurance?</writhing_question>
+
+<writhing_question>Does it not know that this is the One Wood, the Unified Forest, home of the Elder Which Extends Beyond, the one to whom all are Beloved, the <color rainbow>ALLMOTHER?</color></writhing_question>
+
+<writhing_question>The last of the Crystal Clan, sundered from yet bound to all things?</writhing_question>
+
+<writhing_question>Should we hint at the fact that, with the last of its relations Destroyed, it chose to adopt all Beings, from the Tiny to the Great, as its own hatchlings, and to see their fortunes as its own?</writhing_question>
+
+<writhing_question>And more importantly, dare we reveal the existence of the Grand Design, by which all shall be healed, and the Orphans at last shall have their deepest desire fulfilled?</writhing_question>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_pc
+
+==============================
+Event: fl_pc
+
+Indeed, impossible as it may seem, everything in this forest shares a certain scent. It is as though everything here has merged.
+
+Is this place of harmony and unity the most perfect forest which has ever existed, or is it a living blasphemy against individuality?
+
+A few among the Kin regard the Elder known as Allmother as an enlightened, transcendent Being. Others see it as a dangerous heretic, a spreader of un-Truths which would degrade and weaken the Kin if they were to be embraced.
+
+<writhing_question>Is it ready? Shall we summon <color rainbow>ALLMOTHER</color> to commune with it?</writhing_question>
+
+------------------------------
+> No. Leave this bizarre place, and spend this Sun elsewhere.
+  Go to: GreatGreenAct3_Map
+> Yes.
+  Go to: fl_pcb
+
+==============================
+Event: fl_pcb
+
+<writhing_question>It will take some time for Allmother to arrive. Would our guest be displeased if we were to entertain it until the Great One arrives?</writhing_question>
+
+The Blazetail begins to Dance, slowly turning, swirling its luxurious tail this way and that, though its golden eyes never leave yours. It is beautiful, unlike any Dance you have ever seen.
+
+And then, the Song begins:
+
+<writhing_question>Long, long ago, a Kin, a True Child of Heaven and Earth, was reposing in the shadows of the forest, when suddenly there came running a Longear, with a Blazetail close behind.</writhing_question>
+
+<writhing_question>"Save me, o mighty Kin!" sang the Longear. "This Blazetail would rend apart my flesh, and Destroy me utterly!"</writhing_question>
+
+<writhing_question>"I wish to live! I wish to feel the wind in my fur, and Sun on my face!"</writhing_question>
+
+<writhing_question>"I wish to Create, so that there may be more Longears to taste the fruits of Earth and to fill the burrows of Earth with warmth and love!"</writhing_question>
+
+<writhing_question>"If I am Destroyed, my many Relations under the Good Green Hill will first worry, and then fear, and then despair! Not knowing what has become of me, my siblings and my Creators will never again know true peace, hoping forever for my return!"</writhing_question>
+
+<writhing_question>"I am innocent! I have never brought harm nor pain to others!"</writhing_question>
+
+<writhing_question>"I am afraid! Do not let the Silence overtake me! I love Life! I love Life!"</writhing_question>
+
+<writhing_question>And in that moment, the great Kin awakened to a new Truth, for it too loved Life, and feared Destruction. It smelled the same Essence, the same Spark, within the Longear as it had within itself.</writhing_question>
+
+<writhing_question>And once it found the Longear and itself to be one and the same, it felt compelled to act.</writhing_question>
+
+<allmother>"FEAR NOT, GENTLE LONGEAR,"</allmother> <writhing_question>sang the Kin to the trembling Goodbeast.</writhing_question>
+
+<allmother>"YOU SHALL NOT BE DESTROYED THIS SUN, FOR NOW I KNOW THAT I AM YOU, AND YOU ARE I."</allmother>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_hatch
+
+==============================
+Event: fl_r
+
+The bizarre Blazetail is waiting for you once again.
+
+<writhing_question>Allmother feels its presence... will it wait for the Elder to arrive?</writhing_question>
+
+Settling down, you wait, but time barely seems to be passing. Sun looks frozen in the Great Above, and Earth below is still, quiet and warm.
+
+Perhaps you will close your eyes just briefly. The Blazetail is singing something so... gentle... and sweet...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fl_hatch
+
+==============================

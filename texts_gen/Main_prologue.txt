@@ -1,0 +1,1525 @@
+Event: p1
+
+You are somewhere inside the Body of Earth, the Great Birther. Her semi-soft flesh is veined here and there with the grasping roots of Trees or blockaded by Stones who stare blindly at you.
+
+The air here tastes of comfort and slumber, and <bold>your own Body feels as though it is in good condition...</bold>
+
+...but you feel a burning in your Core. You know that it is the Destroyer within, eager for substance to fuel your being.
+
+<bold>If you fail to find anything to Destroy</bold>, the emptiness will overtake you and <bold>your Life will be lost</bold>. You sense nothing to consume here, though.
+
+A few illuminating rays tumble in from above, but your vision is still dim and unsteady. Perhaps you could leave this place by crawling up the tangle of roots overhead.
+
+Whenever you consider a task which your will alone cannot conquer, you will get a sense of whether you will succeed or fail based on your <bold>elemental attributes.</bold> Climbing up the roots would require a certain amount of fluidity and flexibility, which are the domain of the <color blue><bold>Water</color></bold> element.
+
+<bold><color e0421a>Red</bold></color> indicates that you cannot succeed (at least, not without problems) in your current state, while <color 25bf20>green</color> indicates your feeling that you certainly can. <color dce21f>Yellow</color> means that it is too close to be sure.
+
+As you make choices, your health and energy may be affected as well. Success brings benefits, but be not too afraid of failure; through it, all beings learn and grow strong, while success has little to teach. Now choose, Newborn:
+
+What will you do?
+
+------------------------------
+> Examine what is left of the Wall.
+  Go to: p1a
+> Claw your way through the hard earth downwards, in the direction of Earth's embrace.
+  Go to: p1b
+> Claw your way through the softer soil sideways and upwards, towards the light.
+  Go to: p1cs, p1cf
+> Use your limbs and jaws to climb directly up the hanging roots.
+  Go to: p1ds, p1df
+
+==============================
+Event: p10
+
+A new Sun dawns, climbing laboriously over the mountains. Today, you must emerge and seek your destiny.
+
+As you do, you may encounter many new things. You have not yet used your Body to hunt and fight, nor have you ventured far from this makeshift Den.
+
+Do you wish to learn of these things in depth, or do you wish to dive headlong into your destiny without such lessons?
+
+------------------------------
+> I wish to learn how to hunt, fight and explore. <italic>(This will begin the tutorial, which will teach you the ways of survival.)</italic>
+  Go to: p10_hunt_or_explore
+> My instruction in the Chamber was excellent; I need no lessons. <italic>(This will bypass the tutorial, and is recommended for experienced Draak.)</italic>
+  Go to: DayTransition
+
+==============================
+Event: p10_dream
+
+Your first Sun is at an end, and it was more than you could have imagined, even with your Creator's instruction. Sleeping in your lair is almost like being back in the Chamber, but now you know too much.
+
+Your Mind wanders from thought to thought, seeking to guide itself.
+
+Your hopes and fears toss you back and forth, scraping you uncomfortably between what was and what might have been.
+
+You see your Creator lying Silent before the no-Tails, their chattering, screeching voices barking something incomprehensible as the red Kin-essence spreads along the ground.
+
+The Whiteblack mocks you as you look on. You feel the dread one-two stomping of the Tailless, near you, upon you, over you.
+
+You slide underneath the mountains to hide from them, but there are Tailless everywhere, smaller and stone-skinned underground, tall and willowy in the woods, coarse and shouting in the flatlands. It is not your precious Essence they seek to shed, however... they are roaring for the flesh of something else, something older and more powerful than even a great Kin.
+
+You wake, briefly, and your second sleep is far less troubled.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p10_end_normal
+
+As a new Sun rises, you might well feel pleased with your accomplishments. You have explored your surroundings and successfully fulfilled your purpose of Destruction. Your Core no longer aches, and you can turn to other pursuits.
+
+There is one matter which refuses to leave your Mind. When you explored the warmward meadow, there was a scent there you simply could not ignore. Could it be some new kind of prey, or perhaps a Treasure of some kind?
+
+You set out to discover a new Truth...
+
+------------------------------
+> /EndEvent
+  Go to: p11
+
+==============================
+Event: p10_end_skip
+
+You spent the past two Suns hunting easy prey, testing your newly-emerged Body and exploring your surroundings. You are now reasonably well-fed and rested.
+
+The area you explored yesterday had a very strong scent which was somehow familiar and yet carried an intriguing, salty tang. Could it be some new kind of prey, or perhaps a Treasure of some kind?
+
+You set out to discover a new Truth...
+
+------------------------------
+> /EndEvent
+  Go to: p11
+
+==============================
+Event: p10_hunt_or_explore
+
+The Water which fell from the sky prevented you from fulfilling your mission of Destruction, and your Core cries out for flesh. Perhaps a hunt would be wise.
+
+It is, however, also tempting to explore more of this beautiful world in which you find yourself. Exploring your territory will reveal new opportunities, challenges, treasures, hunting grounds, and more.
+
+How will you spend this, your second Sun?
+
+------------------------------
+> I wish to taste the Essence of others: it is time to Hunt! <italic>(This will teach you how to hunt and fight.)</italic>
+  Go to: hunt_tutorial_00
+> I wish to explore my world in greater detail. <italic>(This will teach you how to explore.)</italic>
+  Go to: p10a
+
+==============================
+Event: p10a
+
+This is the area you have already explored.
+
+This is your <color #00b4ff><bold>Lair.</color></bold> You can always find your way back here.
+
+This is where you found the Tailless-slain Kin. There is nothing there now, and returning would be pointless, so it is <color #8e8e8e><bold>darkened and inert</color></bold>. Still, you will carry the place where it happened in your memory.
+
+A <color #17ff19><bold>col</color><color #f7f859>or</color><color #fb5343>ed</color><color #fb4343> </color><color #f4e4e4>sigil</bold></color> marks an area in which you can spend a Sun <color #fb7438><bold><italic>hunting</color></bold></italic> if you wish, and indicates what prey you can most easily find there, but beware... <bold>too much hunting in one place will drive away the residents</bold>.
+
+A <bold><color #17ff19>green</bold></color> sigil indicates a healthy and plentiful hunting-ground, while <bold><color #fb2929>red</bold> </color>means that the area is almost empty, with <bold><color #edff3c>yellow</bold></color> between. Hunting-grounds recover with time, but once completely depleted, they remain fallow and dead.
+
+<italic><bold>A wise predator hunts in diverse locations</italic>, </bold>allowing the local Goodbeasts to recover; otherwise, the prey will leave and the valley may become a flesh-barren wasteland.
+
+It is through the act of exploration that new locations, encounters and hunting grounds may be found. You may only explore an area which is near another area which you have already explored.
+
+<bold>Exploring a new area takes all Sun, but at least one new point of interest will always be discovered,</bold> and often more.
+
+Go, and do not be afraid; encountering new things is a basis of strength.
+
+
+
+------------------------------
+> [TUTORIAL_EXPLORE_TRIGGER]
+  Go to: p10b
+
+==============================
+Event: p10b
+
+You have uncovered a beautiful meadow. There, the grasses grow high, sheltering all manner of Goodbeast.
+
+<bold>White sigils</bold> mark the places where you have found an interesting scent. These unique locations may harbor treasures, special encounters or unknown dangers.
+
+This scent is especially powerful, and has a familiar tang which strongly piques your interest. On another Sun, when you are well-fed and rested, you should certainly investigate. It may bring weal or woe, but so long as you survive, you will grow, both within and without.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: p10j
+
+With the rising of the new Sun, a new path of discovery awaits. How will you spend the light?
+
+------------------------------
+> I wish to explore my world in greater detail. <italic>(This will teach you how to explore and find new things within the world.)</italic>
+  Go to: p10a
+
+==============================
+Event: p10k
+
+Tasting of new streams and feeling new grass under your belly was gratifying, but the ache in your Core has become urgent. This Sun, engage in the <bold>Dance of Destruction</bold>, or your Music will come to an early end.
+
+------------------------------
+> It is time to Hunt! <italic>(This will teach you how to stalk and pursue your prey, and how to fight as one of the Kin.)</italic>
+  Go to: hunt_tutorial_00
+
+==============================
+Event: p11
+
+Your exploration of the warmward meadow and the strange scent takes you into a vast region of rising hills, lightly furred with brown heather and scaled with grey boulders. Air dances more freely here than among the Trees, and many Tiny Beings flit to and fro.
+
+You have been exploring for less than half a Sun when the chirping songs of the beings hidden in the grass suddenly stop and a massive shadow falls over you. Something huge and winged circles above:<italic><bold> an adult Kin!</italic></bold>
+
+Suddenly, it all comes clear: the scent you found was the border-mark of an elder of your people, and you have thoughtlessly invaded its territory. Before you can meaningfully react, it is before you, landing surprisingly gracefully and quietly across your path.
+
+It is vast and beautiful, like a great nation unto itself, but blue, with accents like the storm-grey rocks of the hills; its scales bear the hundred thousand marks of the lovely brutality of Kin life, and yet its Essence shines healthy and bright from its melted-gold eyes, the midnight slit of its pupil eyeing you surprisingly calmly.
+
+One of its teeth, you notice, is jet-black; in your Mind, you label this Kin <bold>Darktooth.</bold>
+
+When it Sings to you, you are shocked by the lucidity of color in its thought-images as well as the clear, sharp lines with which it divides its ideas; it is, by far, the loveliest Song you have ever heard, more beautiful by far than the Voice you heard while still in the Chamber.
+
+<darktooth>O INTERLOPER, SMALL AND BARELY-BEGUN, SING TO THIS ELDER KIN OF YOUR FUTURE. SHALL YOU PERISH HERE, FOR YOUR CRIME OF VIOLATING THE TERRITORY OF A GREATER BEING? OR WILL YOU LIVE BEYOND THE FALL OF THIS SUN?</darktooth>
+
+
+
+------------------------------
+> Sing a Song of Defiance: you will live, you sing, for you will defeat the Dark-Toothed Challenger!
+  Go to: p11a
+> Sing a Song of Repentance: whether you live or die is not yours to choose now, but the choice of the Greater Being whom you have angered by your unknowing intrusion.
+  Go to: p11b
+> Attempt to distract Darktooth and make your escape.
+  Go to: p11c
+
+==============================
+Event: p11_2
+
+As you lie there, flattened in submission, images begin to enter your mind, a sequential song of images and concepts, and it dawns on you that you are being instructed.
+
+Darktooth is teaching you many things: the Song of Annunciation, in which you declare your presence in another Kin's territory and request audience; the Song of Welcome, the Song of Challenge, and many other songs which unfold from the first; Dances which communicate more complex emotions and intentions than the ones you already know, Dances of Respect, of Warning, of Curiosity, of Uncertainty.
+
+<darktooth>NOW, BARELY-BEGUN, WHAT IS MY INTENTION? DO I INTEND TO DESTROY YOU AND CONSUME YOUR YOUNG, TENDER FLESH? SPEAK OF MY HIDDEN MIND.
+
+------------------------------
+> "Great One, you intend to destroy me. I sing a Song of Pleading; do not Silence the Rhythm within me."
+  Go to: p11_2a
+> "Great One, you intend to allow me to survive this Sun. I sing a Song of Thanksgiving for your mercy."
+  Go to: p11_2b
+> "Great One, I cannot know your vast Mind, and will not presume to do so."
+  Go to: p11_2c
+
+==============================
+Event: p11_2a
+
+<darktooth>YOU LACK WISDOM. OPEN YOUR MIND AND YOUR SENSES TO WHAT I HAVE DONE. WOULD I INSTRUCT A BEING WHICH I WAS TO DESTROY? INSTRUCTION IS FOR THOSE WHO WILL LIVE TO USE IT. TIME IS PRECIOUS TO ALL. LEARN TO LISTEN, NOT ONLY TO HEAR.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_3
+
+==============================
+Event: p11_2b
+
+<darktooth>WISELY SUNG. HAD I INTENDED TO DESTROY YOU, I WOULD HAVE DONE SO, AND YOUR BODY WOULD ALREADY BE WITHIN ME. TO INSTRUCT YOU WOULD HAVE BEEN A WASTE. INSTRUCTION IS FOR THOSE WHO WILL LIVE TO MAKE USE OF IT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_3
+
+==============================
+Event: p11_2c
+
+<darktooth>YOUR HUMILITY IS FITTING, BUT IT IS FOR NAUGHT. OPEN YOUR MIND AND YOUR SENSES TO WHAT I HAVE DONE. WOULD I INSTRUCT A BEING WHICH I WAS TO DESTROY? INSTRUCTION IS FOR THOSE WHO WILL LIVE TO USE IT. TIME IS PRECIOUS TO ALL. LEARN TO LISTEN, NOT ONLY TO HEAR.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_3
+
+==============================
+Event: p11_3
+
+Darktooth extends its long neck towards you, bringing its vast stoneblue head so close you can feel the wind of its breath. You cannot help but tremble, but resist the urge to strike or flee.
+
+The elder Kin flicks its tongue out, tasting the air around you, taking a moment to savor your scent. Its tail curls slowly as it settles back into the heather. Its head is turned to the side, looking away from you, as though it is singing to itself.
+
+<darktooth>AS ONE SUN SETS, ANOTHER RISES. IT IS NOW BUT A SPARK, TINIEST OF FLAMES. TO SURVIVE, IT MUST LEARN THE GREAT CONTRADICTION: TO EVERY VIRTUE, THERE IS AN OPPOSITE WHICH MUST BE EQUALLY EMBRACED.
+
+<darktooth>IT MUST BE BOLD, YET CAUTIOUS; PROUD, YET HUMBLE; QUICK, YET SLOW, FIERCE, YET GENTLE. IT MUST LEARN TO SPREAD ITSELF BETWEEN MANY TRUTHS.
+
+<darktooth>THE LAIR IT INHABITS LIES WITHIN THE LAND OF THE TAILLESS ONES, THE BROKEN CUSTODIANS. IF IT WOULD BUILD A LAND OF ITS OWN, ITS DESTINY LIES COLDWARD, IN <color #42b538>THE <bold>GREAT GREEN</color></bold><color #28b935>.</color>
+
+<darktooth>IT MAY SURVIVE IN THIS VALLEY FOR A SHORT TIME, BUT IT <bold>MUST LEAVE BEFORE TWO MOONS HAVE PASSED.</bold>
+
+<darktooth>IF IT DOES NOT, IT SHALL BE DESTROYED. I SING THIS TO MYSELF, FOR MY OWN AMUSEMENT; PAYMENT IS NOT REQUIRED.
+
+The elder's tail thumps once on the ground, gently for one of its size, but you still feel the tremor.
+
+------------------------------
+> Ask for Darktooth's help against the Tailless.
+  Go to: p11_3a
+> Impress the Elder with your great knowledge of the world.
+  Go to: p11_3b
+> Request permission to leave Darktooth's presence.
+  Go to: p11_3c
+> Remain silent.
+  Go to: p11_3d
+
+==============================
+Event: p11_3a
+
+Darktooth tailthumps again in quiet mirth.
+
+<darktooth>INDEED. ANSWER THIS QUESTION: WHAT ARE THE TAILLESS?
+
+You attempt to reply with what you know; shadowy forms wearing too many skins, fighting with things that are not their bodies, slaying even mighty Kin with their detached weapons.
+
+Darktooth's tail sweeps across the heather to curl against its opposite side. It is a small adjustment for the elder, but had you been in the path of that mighty limb, it would have knocked you senseless, or even Destroyed you.
+
+<darktooth>A PROBLEM CANNOT BE RESOLVED UNTIL IT IS UNDERSTOOD. IF THE NEWLY-HATCHED ONE ATTEMPTS TO BATTLE THE SEED OF THE OTHERS NOW, IT WILL FIND ONLY DESTRUCTION.
+
+Darktooth rises slowly onto its vast haunches and spreads its hill-covering wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.</darktooth>
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW</darktooth>, it intones directly into your mind as it soars higher.
+
+<darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS. REMEMBER.</darktooth>
+
+It disappears from view, over the warmward mountains.
+
+You remove yourself from the edge of its territory as swiftly as you can, and wonder whether you will have the courage to return to this place again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11_3b
+
+You attempt to communicate to Darktooth that you are a seeker of knowledge, have learned much even in so few Suns of life outside the Chamber. You sing of taunting Whiteblacks and of seeing a mighty Kin, one of your own Creators, destroyed by the Tailless. You sing of the stars and the mountains and the stream outside your temporary lair.
+
+Darktooth begins to draw in breath, more and more, its vast, feathered chest swelling outward. For a moment, you stare Destruction in the face, certain that you are about to be obliterated by its breath-weapon for your insolence.
+
+However, instead of spewing forth Destruction, Darktooth's huge muzzle parts in an enormous yawn. Nothing is sung... its complete and utter indifference to what you have stated communicates your own foolishness in attempting to impress such an ancient being more loudly than any song.
+
+The elder rises slowly onto its vast haunches and spreads its hill-covering wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW, </darktooth>it intones directly into your mind as it soars higher. <darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS. REMEMBER.
+
+It disappears from view, over the warmward mountains.
+
+You remove yourself from the edge of its territory as swiftly as you can, and wonder whether you will have the courage to return to this place again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11_3c
+
+You slide sideways slowly, miming the act of turning around without actually doing so, suggesting a retreat with your Body. Darktooth accepts the request by rising and spreading its vast wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW,</darktooth> it intones directly into your mind as it soars higher. <darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS.
+
+You remove yourself from the edge of its territory as swiftly as you can, and wonder whether you will have the courage to return to this place again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11_3d
+
+Darktooth watches you placidly for some time. It seems very comfortable with silence. The wind blows, ruffling the feathers of your tiny crest and Darktooth's own mighty crown and chest.
+
+<darktooth>IT MOVES NOT, AND SINGS NOT.</darktooth> The thought-images drift into your mind slowly yet vividly.
+
+<darktooth>IS IT MOVED BY FEAR, OR RESPECT?</darktooth>
+
+------------------------------
+> Fear.
+  Go to: p11_3da
+> Respect. (For this not to be a lie, you must be strong in the Earth element.)
+  Go to: p11_3dbs, p11_3dbf
+
+==============================
+Event: p11_3da
+
+<darktooth>FEAR IS WORTHY OF RESPECT. NONE ARE EXEMPT FROM THE SHADOW OF DESTRUCTION.</darktooth>
+
+Darktooth moves its head very slightly, and its single black fang catches the light, glinting.
+
+<darktooth>FEAR IS A GOOD SERVANT, BUT A POOR LEADER. BEWARE; IT OFTEN TAKES CONTROL IN SUBTLE WAYS, AND THE CONSEQUENCES CAN BE DIRE. BUT PERHAPS IT IS TOO YOUNG TO UNDERSTAND, THE TASTE OF THE WORLD TOO FRESH IN ITS MOUTH.</darktooth>
+
+Darktooth rises slowly onto its vast haunches and spreads its hill-covering wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.</darktooth>
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW,</darktooth> it intones directly into your mind as it soars higher. <darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS.
+
+It disappears from view, over the riseward mountains.
+
+You remove yourself from the edge of its territory as swiftly as you can, and wonder whether you will have the courage to return to this place again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11_3dbf
+
+You attempt to form a calm image-song of Respect, but your song is broken and jagged, rank with the smell of terror. The truth of it is all too obvious.
+
+Darktooth's song of reply, however, is gentle.
+
+<darktooth>TERROR IS WORTHY OF RESPECT. NONE ARE EXEMPT FROM THE SHADOW OF DESTRUCTION.</darktooth>
+
+Darktooth moves its head very slightly, and its single black fang catches the light, glinting.
+
+<darktooth>FEAR IS A GOOD SERVANT, BUT A POOR LEADER. BEWARE; IT OFTEN TAKES CONTROL IN SUBTLE WAYS, AND THE CONSEQUENCES CAN BE DIRE. BUT PERHAPS IT IS TOO YOUNG TO UNDERSTAND, THE TASTE OF THE WORLD TOO FRESH IN ITS MOUTH.</darktooth>
+
+Darktooth rises slowly onto its vast haunches and spreads its hill-covering wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.</darktooth>
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW,</darktooth> it intones directly into your mind as it soars higher. <darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS.
+
+It disappears from view, over the riseward mountains.
+
+You remove yourself from the edge of its territory as swiftly as you can, and wonder whether you will have the courage to return to this place again.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11_3dbs
+
+Acknowledging your fear, you step past it, and images of yourself being rent apart like a blade of grass begin to fall away until you find a place of calm.
+
+Beneath it all, you realize, Darktooth is the same being you are, a true Kin, Child of Above and Below. Reading the many scars and imperfections in its flesh, you can sense a story great beyond singing, many hard-won triumphs, many trials, many brushes with Destruction, and admiration begins to replace terror.
+
+You sing a gentle song into Darktooth's Mind, showing it how it looks to you: powerful and beautiful, but also vulnerable.
+
+Darktooth inclines its head as you sing, its single jet-black tooth glinting in the light of the late Sun.
+
+<darktooth>NEWLY-HATCHED, AND YET ALREADY SHOWING THE BEGINNINGS OF WISDOM. THE <bold>EMERALD FLAME</bold>'S SEED SPROUTS WHAT MAY GROW INTO A MIGHTY TREE.
+
+Darktooth rises slowly onto its vast haunches and spreads its hill-covering wings.
+
+<darktooth>ON A NEW SUN, ONCE AGAIN WE SHALL STAND ON THIS PLAIN, THE NEWLY-BEGUN AND THE ELDER, AND YOU SHALL GROW STRONGER. DO NOT RETURN EMPTY-MOUTHED - NOTHING SHALL BE GIVEN FOR NOTHING, AND SOMETHING FOR SOMETHING.
+
+It bounds forward, striding over your submissive form as though it were nothing but a tiny shrub, gathering more momentum, and then, spreading its wings, is borne aloft. It turns a wide circle in the air, flying over you.
+
+<darktooth>THAT WHICH IS ABOVE IS LIKE THAT WHICH IS BELOW,</darktooth> it intones directly into your mind as it soars higher. <darktooth>ALL BEGINNINGS ARE ENDINGS, AND ALL ENDINGS BEGINNINGS.
+
+It disappears from view, over the riseward mountains.
+
+Knowing that you have been dismissed, you make your way out of the boundary of Darktooth's territory and back to your lair.
+
+When you arrive, something catches your eye. The rocky outcropping above is glittering with embedded golden stones!
+
+You harvest the bounty, softening the stones with your fiery breath to help pry them loose. As you stow them away in your lair, you wonder... were they there before? Is it possible...?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: p11a
+
+You have barely opened your maw to roar out your challenge before the massive Kin strikes, quick as a thought, slicing and scoring your tender armor with two quick strikes which spill droplets of your crimson Essence out onto the grey rocks.
+
+Though the pain is great, the wound is slight; you will survive, though the scraping discomfort reinforces Darktooth's chiding song:
+
+<darktooth>A LESSON HAS BEEN GIVEN. YOU WILL DANCE A DANCE OF SUBMISSION, AND SING A SONG OF THANKS TO THE ONE WHO HAS INSTRUCTED YOU WITH PAIN, THAT TREASURED GIVER OF LEARNING.</darktooth>
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_2
+
+==============================
+Event: p11b
+
+After hearing your Song and watching your low-headed Dance of Submission, Darktooth's tail settles into a less threatening position.
+
+<darktooth>HUMILITY IS THE BEGINNING OF WISDOM. YOU MAY, PERHAPS, TASTE THE MORNING SUN'S RAYS AGAIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_2
+
+==============================
+Event: p11c
+
+You pause, calculating the best route of escape, but as you begin to put your plan into action, Darktooth begins to sing a song to you like nothing you have ever experienced.
+
+It is a softly thundering Music which saps all of the energy from you and draws your head and tail slowly and forcefully to the ground in a simulation of a Dance of Submission. This is Kin-magic, a True Song, which are gifts belonging to the most powerful of your kind.
+
+<darktooth>YOUR BODY, YOUR ESSENCE, AND YOUR MIND ARE ALL TINY... TINY... TINY.</darktooth> Darktooth sings, surprisingly gently, as you are dominated by its superior magic.
+
+<darktooth>THIS ONE HAS FLOWN THE SKIES SINCE BEFORE YOUR CREATORS WERE HATCHED, HAS LEARNED SECRET SONGS FROM WITHIN THE BELCHING FIREMOUNTAINS AND THE DEPTHS OF THE GREAT BLUE, WHERE THE BLUE BECOMES BLACK.</darktooth>
+
+The Music which binds you relents when you at last accept your inferiority, lowering your head and tail into a flat, submissive posture of your own will.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p11_2
+
+==============================
+Event: p12
+
+A new Sun has risen, and the choice of how to spend it is yours. You have only a short time to discover the wonders of this valley, to survive, learn and grow before the No-tails discover your presence and come for you.
+
+From now on, you shall be your own guide. Remember what you have learned.
+
+<bold>Hunt when you are hungry, rest when injured, and make good use of the Body and Mind you have to discover the secrets of Heartbone Valley.</bold>
+
+A few dozen Suns, if Darktooth is correct, and then you must leave this temporary den for the emerald reaches of <color #eaf2e7>the</color><bold><color #4fec19> Great Green</bold></color>, that vast, unclaimed empire of Trees which lies coldward from here.
+
+Your destiny is now in your jaws. The world is yours to discover, as it is for all Life.
+
+So it Is, Was, and Shall Be.
+
+------------------------------
+
+==============================
+Event: p1a
+
+The Chamber of your Creation seems so small now; moments ago, it was your entire reality. Perhaps there is another reality beyond this one you now see into which you will one day hatch.
+
+Have you any further business with the Wall? It does not smell attractive.
+
+------------------------------
+> Leave the ruins of the Wall where they are.
+  Go to: p1aa
+> Consume the Wall - perhaps it will ease the emptiness within.
+  Go to: p1ab
+
+==============================
+Event: p1aa
+
+You have grown beyond the Wall, and have no further use for it. You allow Earth to reclaim it.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p1
+
+==============================
+Event: p1ab
+
+The Wall crunches and crackles pleasantly in your mouth as you consume it, but it lashes your throat as it is drawn down to your Core, causing you to cry out in discomfort. It also does not seem to do anything for your hunger.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p1
+
+==============================
+Event: p1b
+
+The dirt stubbornly resists your scrabblings... it seems that the floor of this chamber has been trod down by some great being, most likely your Creator, and now resists your attempts to unmake it. You eventually give up, feeling slightly more empty than before for your efforts.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p1
+
+==============================
+Event: p1cf
+
+The Great Mother's flesh does not readily yield to your weak limbs, still fresh from Creation. The shaft you dig out collapses twice, forcing you to begin again, but finally, you emerge.
+
+------------------------------
+> /EndEvent
+  Go to: p2
+
+==============================
+Event: p1cs
+
+Your small but powerful limbs tear through Earth's flesh; it is an effort, but you succeed in crafting a small, rough tunnel large enough to fit your Body through. More light spills into the burrow as you emerge out of the ground, shaking your Body clean.
+
+------------------------------
+> /EndEvent
+  Go to: p2
+
+==============================
+Event: p1df
+
+The labyrinth of roots foils your progress; you are not small, quick and flexible enough to clamber up and through them, and your efforts are fruitless.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p1
+
+==============================
+Event: p1ds
+
+You flow steadily upwards through the hidden spaces between the roots and stones, twisting your Body to fill the empty spaces. The light grows as you emerge into a still larger chamber.
+
+------------------------------
+> /EndEvent
+  Go to: p2
+
+==============================
+Event: p2
+
+This space is much larger than the last, and though you are still sheltered by Earth's Body, light is more plentiful here; you may be approaching Her skin.
+
+A clean azure flavor slides across your tongue... Water, the comforter and supporter of all Life, is here, gathered into a still Body before you. Something within you resonates with it, drawing you towards it.
+
+What is your will?
+
+------------------------------
+> Draw closer to the Water.
+  Go to: p2a
+> Consume some of the Water.
+  Go to: p2c
+> Leave this place behind; the light outside calls urgently.
+  Go to: p2b
+
+==============================
+Event: p2_fake
+
+What is your will?
+
+------------------------------
+> Draw closer to the Water.
+  Go to: p2a
+> Consume some of the Water.
+  Go to: p2c
+> Leave this place behind; the light outside calls urgently.
+  Go to: p2b
+
+==============================
+Event: p2a
+
+You move closer...
+
+
+
+------------------------------
+> [Continue]
+  Go to: p3
+
+==============================
+Event: p2b
+
+You have no time to waste... you smell possibilities upon the moving Air which flows into this gloomy space. Forward to the Light!
+
+------------------------------
+> /EndEvent
+  Go to: p4
+
+==============================
+Event: p2c
+
+You lower your mouth to the Body of Water and use your tongue to take some of it into you. It flows pleasantly down, trickling to your Core, relieving you of a little of the emptiness within and soothing your Essence.
+
+Water's reputation as a friend to all life is apparently well-deserved. Your Core demands something which Water alone cannot slake, though.
+
+With nothing else to do within this space, you follow the whispering Air and light outward.
+
+------------------------------
+> /EndEvent
+  Go to: p4
+
+==============================
+Event: p3
+
+...and for the first time, you see yourself.
+
+Your Body, sculpted and painted by Time and Space, is almost beyond description. Your armor shines subtly with Earth's rich hues, like the promise of precious things buried deep.
+
+Your feathers, each one dyed with more colors than you know the names of, long for the touch of Air, and you are crowned with plumes so that all other goodbeasts may know your sovereignty.
+
+Your long neck, graceful limbs and supple tail transform every motion into a weaving cascade of flowing movement.
+
+Seeing your true form for the first time, you feel...
+
+------------------------------
+> ...surprised.
+  Go to: p3a
+> ...afraid.
+  Go to: p3b
+> ...proud.
+  Go to: p3c
+> ...peaceful.
+  Go to: p3d
+
+==============================
+Event: p3a
+
+That this complex Beast, full of fierce beauty and limitless potential, should be you is almost unbelievable. Can this sacred frame truly be your own? Can so perfect a marriage of Above and Below exist?
+
+It can... yes, it can. This is the Body into which your Essence has been woven, these are the limbs with which you will walk the paths of this Life, the teeth and claws with which you will mete out the judgment of Destruction upon other beings.
+
+This is the fruit of your Creators, and this is the Body whose pattern may be bequeathed to others, if you survive long enough and are found worthy.
+
+This is your Self.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p2_fake
+
+==============================
+Event: p3b
+
+You shrink sharply away, that first time... a predator, a Beast designed for Destruction, every element threatening doom to those foolish enough to defy it! Surely, you must flee from such an obviously capable Destroyer!
+
+But as you slowly approach again and your movements are mirrored exactly, you can come to only one conclusion. This is the Body into which your Essence has been woven, these are the limbs with which you will walk the paths of this Life, the teeth and claws with which you will mete out the judgement of Destruction upon other beings.
+
+This is the fruit of your Creators, and this is the Body whose legacy may be bequeathed to others, if you survive long enough and are found worthy.
+
+This is your Self.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p2_fake
+
+==============================
+Event: p3c
+
+All of the four elements of reality sing out through your form. You are nothing short of gorgeous, every part of you the pinnacle of the possibilities of Being as channeled through the gauntlet of Time.
+
+You are of the Kin, the Children of Above and Below, and you feel a deep and shameless love for everything you are.
+
+This, indeed, is the perfect and ultimate Body into which your Essence has been woven, these are the limbs with which you will walk the paths of this Life, the teeth and claws with which you will mete out the judgement of Destruction upon other beings.
+
+This is the fruit of your Creators, and this is the Body whose legacy may be bequeathed to others, if you survive long enough and are found worthy.
+
+This is your Self, worthy of respect, admiration and every success.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p2_fake
+
+==============================
+Event: p3d
+
+Deep within your Mind, you knew the truth of what you were, even when you were in the Chamber. Yes, this is Reality.
+
+This is the Body into which your Essence has been woven, these are the limbs with which you will walk the paths of this Life, the teeth and claws with which you will mete out the judgement of Destruction upon other beings.
+
+This is the fruit of your Creators, and this is the Body whose legacy may be bequeathed to others, if you survive long enough and are found worthy.
+
+This is your Self. You are content.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p2_fake
+
+==============================
+Event: p4
+
+Now that you have emerged from the Great Mother's flesh, you can see Her more completely, and Her power and beauty are beyond your wildest hope.
+
+The Trees are Her feathers, and the Mountains Her spine; Her Breath is the Wind, and Her Essence flows in streams, rivers and the distant Sea.
+
+Above you, Sun, the Great Giver, shines his own endless Essence down upon Earth. He blazes above you, mighty in his glory, beautiful and shameless in his circle-Dance of Creation, by which all that carries the Rhythm of Life is ultimately begotten.
+
+The Air between them is sweet with Life and Light, the fruits of their union. The wind blows, teasing your wings. A wild desire to tread the air, to rise above, fills you.
+
+What will you do?
+
+------------------------------
+> Embrace the Wind: spread your wings and fly!
+  Go to: p4a
+> Know your limitations: climb down from the promontory safely.
+  Go to: p4b
+
+==============================
+Event: p4a
+
+You spread your wings and leap fearlessly from the heights, knowing that Earth cannot hold your Draak-Kin greatness. For a single, beautiful moment, you hang in the air, and then...
+
+Earth rushes swiftly at you; frantic flailing of your limbs does nothing. You tumble to the ground, crashing through treetops, then limbs, then bushes, and then the cruel, unforgiving ground.
+
+------------------------------
+> /EndEvent
+  Go to: p5
+
+==============================
+Event: p4b
+
+One day, you know deep in your Core, you will travel the unbounded paths above, but your wings are too small, yet, to bear you aloft. Wisely, you accept that some things come only with time, and arrive at the base of the cliff unhurt.
+
+------------------------------
+> /EndEvent
+  Go to: p5
+
+==============================
+Event: p5
+
+Body ringing with pain, you slowly recover from Nature's rebuke. Apparently, you are not yet worthy of treading the boundless paths of the Above. You sense that you have much growing and learning to do before you can realize your dream of a few moments ago.
+
+Your miserably failed attempt at flight seems to have been witnessed by a small winged beast, a lesser child of Earth and Sun; it stands out against its surroundings in bold black and white. It laughs at you, insulting you with a mocking song:
+
+<magpie>The mighty Draak-Kin once ruled over Earth,
+Now, I have seen, Earth rules their race!
+
+<magpie>O thou, who tried to fly just after birth,
+Are chained like a slave by Her downward embrace!
+Chk-chk-chk-chk-chk-chk!</magpie>
+
+<magpie>Let the shame of my song and your Body's own pain
+Teach you this: only reach for what you can attain!
+Chk-chk-chk-chk-chk-chk!</magpie>
+
+As you climb down the last few stones from the promontory and arrive in the lightly-wooded valley below, some kind of small flying beast calls out to you from a nearby tree.
+
+It stands out against its surroundings in bold black and white: it is a Whiteblack, one of a people known for their cleverness, ruthlessness and fondness for shiny objects. It laughs at you and mocks you with a denigrating song:
+
+<magpie>The mighty Draak-Kin once ruled over all things,
+Now, they dare not even use their own wings!
+
+<magpie>Doomed by cowardice, they lurk in damp caves,
+Grasping their wealth, seeking out golden graves.
+Chk-chk-chk-chk-chk-chk!
+
+<magpie>Of this land, you may become sovereign lord,
+But be not too proud of your great, shining hoard.
+
+<magpie>While my people grow mighty in number and fame,
+Of your weak, broken tribe, few indeed yet remain.
+Chk-chk-chk-chk-chk-chk!
+
+/MasteryDisplay
+
+How will you respond?
+
+------------------------------
+> Reply with a mockery-song of your own.
+  Go to: p5as, p5af
+> Endure the mockery calmly.
+  Go to: p5bs, p5bf
+> Attempt to get it to divulge a secret.
+  Go to: p5cs, p5cf
+> Attack the insolent Whiteblack.
+  Go to: p5d
+
+==============================
+Event: p5af
+
+You attempt to reply, but your mastery of the Mind-song of the Kin is still lacking. The images and concepts which you project into the Whiteblack's consciousness are half-formed and lacking in substance, and after a short time, it interrupts you.
+
+<magpie>So artless are you, so fresh from the shell,
+That even such things you cannot do well!
+
+<magpie>I would shame myself if my skills I employ
+Upon one the No-tails soon shall destroy.
+Chk-chk-chk-chk!</magpie>
+
+Shame gnaws at you as it wings away, but you have learned the value of skill in Song, and your bond with Air is strengthened.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5as
+
+Refusing to reduce yourself to the rhymes of the little fliers, you respond:
+
+<player>Safely you sit, out of reach, and hurl insults,
+but you would surely not dare to fight even a newborn of the mighty Kin.
+
+<player>Your flesh smells rancid, your bones hollow and meatless;
+you envy the Treasure of greater beings, scrabbling in the dust for shiny things of little worth.
+You mock yourself, mocking those whose great Way you imitate.
+
+<player>O brief Airling, the flesh of your grandchildren will have rotted to dust 
+In a mere hundred Turnings, but my song will echo still in this land,
+My good song, my strong song of the First Children of Above and Below.
+
+Such are the images which you project into the Whiteblack's mind, assaulting its senses with truths, showing its smallness next to the might of the Draak.
+
+Being dealt such a severe blow to its ego by a mere hatchling is too much for the Whiteblack, and it shamefully takes wing. In its chagrin, it drops a shiny object, and though it may be of little worth, you have gained your first Treasure.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5bf
+
+You attempt to detach yourself from the song of mockery, thanking the Whiteblack for its warning, but your Mind-song still contains traces of shame and annoyance, which pleases the Whiteblack greatly.
+
+<magpie>You pretend to be stone, but are nothing but flesh!
+Your feelings are fragile, your mind all too fresh.</magpie>
+
+Shame gnaws at you as it wings away, but have learned a valuable lesson, and your bond with patient Earth has strengthened. The pride of the Kin must not be easily shaken.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5bs
+
+Calmly and stoically, you thank the Whiteblack for its warning, and resolve to return such a thoughtful kindness one day.
+
+No hint of self-consciousness or aggression taints your song; you are like stone, its taunts washing off of your back like Water.
+
+Having completely failed to shame or disturb you, it wavers, then flees, intimidated by your noble composure.
+
+As it does so, it drops a small, shiny object, which you take for your own, along with the satisfaction of having proven your own superiority simply by not playing its shallow game.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5cf
+
+You ask the magpie for more information, something that could be of help to you. It rebuffs your questions haughtily:
+
+<magpie>A brazen chick asks, "Oh, give me instruction!"
+But why should I teach this one, doomed to Destruction?
+
+<magpie>Nothing is given, though far you may roam;
+I tire of this game, and now I go home.</magpie>
+
+As it takes flight, you silently note that little in this world is given merely for the asking. Everything has a price, although often that price can be greatly lessened if one understands the Mind of others.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5cs
+
+You express your deep admiration of its beauty, noting the subtle blue shimmers within its dark feathers and the pearl-like shine of its lighter parts. You confess envy of its ability to dance so very gracefully upon the wind, and the legendary cleverness of its people.
+
+It seems that it is quite prone to flattery. Preening its feathers proudly, it sings:
+
+<magpie>Truly, this hatchling knows beauty as beauty!
+My people know secrets; such is our duty.
+
+<magpie>One of your Draak-Kin met Death here today,
+Destroyed by the Tailless: so the Winds say.
+
+<magpie>And yet, in Destruction, a secret it keeps:
+A Treasure within its great jaws there still sleeps!</magpie>
+
+As it wings away, you reflect on the power of understanding others. By appealing to the Whiteblack's vain nature, you were able to get something valuable for a very small price.
+
+Its words, however, disturb you. What are the Tailless, and can they possibly be more powerful than a Kin? Perhaps the Kin was young, or perhaps the Whiteblack was mistaken. Still, you cannot help but feel troubled.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5d
+
+How shall you attack it?
+
+------------------------------
+> Swiftly climb the Tree it inhabits and crush it in your jaws.
+  Go to: p5das, p5daf
+> Drive it away with a small burst of your flaming breath.
+  Go to: p5dbs, p5dbf
+> Incinerate the insolent Whiteblack entirely.
+  Go to: p5dcs, p5dcf
+> On second thought...
+  Go to: p5
+
+==============================
+Event: p5daf
+
+The Whiteblack seemed to anticipate a violent reaction from you for its shaming, and takes off into the safety of the Air before you can reach it. It calls down to you:
+
+<magpie>Unlike you, hatchling, I have working wings!
+Seek not to Destroy me with such heavy things.</magpie>
+
+Laughing, it leaves you behind, but you have learned a little more about how to attack swiftly. Next time, you will not fail.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5das
+
+The Whiteblack was quite prepared to take flight at the first sign of outward hostility from you, but so swift is your assault that you manage to flow up the tree, swift and silent as Fate, and seize its leg as it attempts to escape.
+
+It croaks and squawks for one heartbeat before your rend its Essence from it and consume its Body, taking it into yourself.
+
+At last, the cold burning within your Core is eased, and you pause to clean yourself in the tree's arms before continuing on your way, satisfied and fulfilled.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5dbf
+
+You know not how, but you know that you need not touch a being with your Body to bring pain and fear, and possibly even Destruction.
+
+Your head bobs once as, following a Way written deep within you, you summon the <color #ff5a5a>firebirthing</color> substance, belching it up from your Core, and blow it outward at the Whiteblack.
+
+You learn, however, that the act is not as simple as it first seemed... you did not open your mouth wide enough, nor ejected it with enough force, nor did you have enough fuel in your Core, and so the flame created burns the inside of your mouth and stops a very short distance from your nose, fanning out and dying in the air in an anemic flash.
+
+The Whiteblack chides you:
+
+<magpie>So this is the mighty Fire of the Kin!
+All it can do is to burn your own skin!</magpie>
+
+It flies off, leaving you to your shame and discomfort, but you have learned something about how to summon the flamebreath. Next time, you will not make the same mistakes.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5dbs
+
+You know not how, but you know that you need not touch a being with your Body to bring pain and fear.
+
+Your head bobs once as, following a Way written deep upon your Essence, you summon the <color #ff724b>firebirthing</color> substance, belching it up from your Core, and, opening your mouth wide, you breathe it into the air, which is turned all to flame in an instant.
+
+The Whiteblack takes wing to avoid the clawing fire, dropping something shiny from its talons with a croak of outrage before flying away.
+
+You bask in the warm knowledge that it will not soon mock one of the mighty Kin as you take the shiny object it released. It is small, but it glitters pleasingly, and your tail curls with satisfaction as you gain your first Treasure.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5dcf
+
+Instinctively, you know that you need not touch a being with your Body to bring pain and fear, and possibly even Destruction.
+
+Your head bobs once as, following a Way written deep upon every part of you, you summon the <color #ff7b56>firebirthing</color> substance, belching it up from your Core, and blow it outward at the Whiteblack.
+
+You learn, however, that the act is not as simple as it first seemed... you did not open your mouth wide enough, nor ejected it with enough force, nor did you have enough fuel in your Core, and so the flame created burns the inside of your mouth and stops a very short distance from your nose, fanning out and dying in the air in an anemic flash.
+
+The Whiteblack chides you:
+
+<magpie>So this is the mighty Fire of the Kin!
+All it can do is to burn your own skin!</magpie>
+
+It flies off, leaving you to your shame and discomfort, but you have learned something about how to summon the flamebreath. Next time, you will not make the same mistakes.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5dcs
+
+Following your instincts, you bring up the firemaking substance from deep within your Core, open your mouth wide and breathe it out with all of the force of your lungs. The blast covers the Whiteblack in writhing flames and begins to taint the tree itself with its many flickering, hungry teeth.
+
+The Whiteblack has found a burning, screeching Destruction, but the nearby vegetation is being consumed by the flames you created, and you must withdraw, leaving the Whiteblack's Body to turn to ash alongside many other things of that unfortunate hillside.
+
+The Fire Within is very great, and its hunger insatiable. You learn that you must be cautious in its use.
+
+------------------------------
+> /EndEvent
+  Go to: p5end
+
+==============================
+Event: p5end
+
+Moving on, you allow the hillside to guide you downward. You have been following the path of a swift-running River for some time when you are struck by a powerful scent.
+
+Flicking your tongue out, you taste the sacred Essence of one of the Kin on the breeze, floating on twin wings of pain and decay. There is another flavor as well... something strange, something animal-but-not, something... <bold>Other.</bold>
+
+You shudder, your feathers raising upward involuntarily. What could these strange scents mean? The Kin whose scent you now smell could possibly explain, but you are now hatched, and beyond the Chamber, all Kin are rivals, seldom welcoming the scent of other Draak in their territory.
+
+Still, there is something familiar in that scent, something which tugs at the corners of your Mind. Steeling yourself, you carefully draw closer to its source.
+
+------------------------------
+> /EndEvent
+  Go to: p6
+
+==============================
+Event: p6
+
+Destruction.
+
+The horrible stillness of a Body empty of Spirit.
+
+The noble red Essence of a great Kin, shed not in a true Dance of Destruction, but trapped, tortured. The confusion, the pain.
+
+In the synergy between its scent and yours, you know without doubt: this was the great being who instructed you as the Voice. <bold>This was one of your Creators.</bold>
+
+Its Rhythm is now Silenced, its Songs forever stilled. Already, tiny spirits of decay infest the vast Body, feeding off of it, reducing it to Void.
+
+Something is clawing at you from within, straining at your heartbone and flooding your Mind - fear and rage and shuddering nausea overtake you one after another, growing and writhing within.
+
+You feel yourself instinctively belch fireseed into the back of your throat, only just managing to swallow it again, denying it the chance to explode into a searing flame to consume the... <bold>things</bold> which now sing and dance near the ruins of one who Created you.
+
+The things... what are they? There is something wrong with them... something very, very wrong.
+
+They seem to have more than one skin, some of them belonging to other animals. The brightness of their Body heat is darkened by the cold, dead hides they cover themselves with.
+
+There is something strange about their oily scents... something familiar, but alongside that, something completely Other, like no true animal. They clutch strange things in their forepaws which you cannot identify, though they reek of the blood of Trees. But most horrifyingly...
+
+They have no tails. <bold>They are <color #ff1b84>Tail-less.</bold></color>
+
+You are split inside, the Air within you screaming to run away as fast as you can from this place, and the Fire within urging you to destroy these... <color #fd1088><bold>No-Tails.</color></bold> Decide, quickly...!
+
+------------------------------
+> Destroy the No-Tails!
+  Go to: p6a
+> Flee from this place of Destruction!
+  Go to: p6end
+> Try to keep silent, and draw closer.
+  Go to: p6c
+
+==============================
+Event: p6a
+
+Summoning your fiery breath, you let out a Song of Defiance and charge towards the stilted monsters! Surely, their short, dull claws and teeth will be no match for your weapons!
+
+Something arcs through the air with a vague hiss and strikes you in the breast. A Stone fang attached to a small piece of Tree-flesh is stuck within you, just below your heartbone. Your Body is singing a crimson hymn, lancing through your veins as your dark scarlet Essence seeps out, falling away.
+
+------------------------------
+> RUN!
+  Go to: p6end
+> Ignore the pain and fear... keep charging forward!
+  Go to: p6ab
+
+==============================
+Event: p6ab
+
+<color CC0000FF>You deaden yourself to the agony, to the desperate pleas of your Body, which is breaking apart more and more with every sharp thing the No-Tails project into you from afar.</color>
+
+Your vision swims, darkening, and the smell of your own Essence escaping from your wounds drowns out all else. <color 980000FF> The Rhythm within you falters.</color>
+
+------------------------------
+> <color 4A86E8FF>RUN... FLEE... SURVIVE...</color>
+  Go to: p6end
+> <color FF0000FF>THE NO-TAILS...</color> <color CC0000FF>MUST... BE DESTROYED...</color> <color 990000FF>IGNORE... SELF...</color> <color 660000FF>DESTROY...</color>
+  Go to: p6abb
+
+==============================
+Event: p6abb
+
+The Final Darkness begins to coil around you, embracing you. You are somehow lying on the ground, your legs flailing weakly at the Great Mother beneath you. There is a sound, far away, like thunder, rolling over all.
+
+And then, you become Silent, the Rhythm within you stilled forever.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: p6c
+
+You flatten your Body to the ground and creep forward...
+
+This is the empty shell of one of the Kin, its Rhythm stilled. The great Body, constructed over hundreds of Turnings of the seasons and nourished by the Destruction of thousands of lesser beings, lies Quiet, Destroyed within just a few moments.
+
+Before you hatched, you were taught that all things become Silent in time, but beholding the corpse of this great being, one of your own Creators, that truth seems all the more urgent and unassailable.
+
+------------------------------
+> The No-Tails will soon notice your scent, surely. Retreat from this place.
+  Go to: p6end
+> The No-Tails are a threat to you... Destroy them!
+  Go to: p6a
+> Examine the Body more closely.
+  (Hidden: If only you had more affinity with the Water element, or special knowledge of what lies hidden here...)
+  Go to: p6cc
+
+==============================
+Event: p6cc
+
+Something is odd about the way the great Kin's mouth is set. Gently prying open its jaws, which are already cooling as the Void spreads through the dead shell, you discover something odd.
+
+One of your Creator's incisors is made not of toothstone, but rather, some kind of pale crystal.
+
+Your tail quivers and your head-crest stands erect as you taste the air around this strange tooth. Something swims inside of your Mind, like prey lurking among watery reeds.
+
+You decide to swallow the Stone for now, and regurgitate it later when you have found a place to safely examine it further.
+
+But what to do in the meantime?
+
+------------------------------
+> The No-Tails will soon notice your scent, surely. Retreat from this place.
+  Go to: p6end
+> The No-Tails are a threat to you... Destroy them!
+  Go to: p6a
+
+==============================
+Event: p6end
+
+You decide to heed your Body's desperate pleas and break off your attack, crashing through the underbrush and running blindly until neither scent nor sound of the No-Tails can be sensed.
+
+You flow rapidly through the underbrush, scrambling over rotting tree-corpses and crashing through shrubs until there is no trace of either scent or sound of the No-Tails.
+
+They seem to possess some kind of terrible magic which allows them to cause harm even from far away. Again, this seems wrong beyond all possible definition of the word... is not all order in the world dependent on the simple fairness of having to Destroy your enemies with your own Body?
+
+Perhaps the bizarre things are beyond your ability to deal with as a hatchling... you resolve to...
+
+------------------------------
+> ...grow stronger, so that you can bring Destruction to them and all their misshapen kind.
+  Go to: p6enda
+> ...avoid the No-Tails at all costs, keeping safely away.
+  Go to: p6endb
+> ...attempt to learn and imitate their strange magic.
+  Go to: p6endc
+
+==============================
+Event: p6enda
+
+You allow the hatred to become a searing promise within your Core... one day, you shall grow great enough to defeat their otherworldly magic. Then, you will finally be able to put this terrible fear which gnaws at your Mind to rest...
+
+------------------------------
+> /EndEvent
+  Go to: p7
+
+==============================
+Event: p6endb
+
+You cannot even begin to imagine their Way; everything about the Tailless defies understanding. You must survive, and for now, avoiding them completely is wisest. Perhaps one day...
+
+------------------------------
+> /EndEvent
+  Go to: p7
+
+==============================
+Event: p6endc
+
+You will need to take some dangerous chances, but perhaps you can learn their Way.
+
+You try standing on your hind legs, as they do, but though it briefly frees your forepaws, that proves to be an unstable position for you. The thought of covering your beautiful Body with the skins of other animals seems wrong... perhaps there is Power there, though...
+
+There is too much to think about. You lack information, and your Core is empty and needs to be filled. For now, you must turn to other things, but perhaps there will be other opportunities to learn about the No-Tails...
+
+------------------------------
+> /EndEvent
+  Go to: p7
+
+==============================
+Event: p7
+
+You feel something small striking your armor. You turn to see what it is and find nothing, but then it happens again.
+
+And again. It is not painful, but it is annoying.
+
+Eventually, you realize that this must be Rain, the sacred Water of the Sky which sometimes falls to bless the Great Mother, of which you were told while still in the Chamber.
+
+Soon, Rain is falling everywhere, tumbling and vaulting off of leaves and sliding merrily down the grass.
+
+It makes it hard to smell and taste the Air, and perturbs you as it spatters against your armor.
+
+You find shelter in what used to be the den of a family of furbeasts; their scent lingers only on the edge of your consciousness, and they must have been gone for many Suns, or even Moons. You dig it slightly deeper and broader with your claws and then settle in, watching Rain's downward dive.
+
+------------------------------
+> /EndEvent
+  Go to: p8
+
+==============================
+Event: p8
+
+Yes, this should suffice for now. Surely grander lairs await you in the future, but you feel comfortable and safe in Earth's Body.
+
+At last, you have a moment to think. You pause, considering your situation.
+
+------------------------------
+> [MAIN_STATUS_OPENED]
+  Go to: p8a
+
+==============================
+Event: p8a
+
+A moment of reflection will make your current feelings and thoughts clear. Awareness of one's own state of being is key to survival in this harsh and beautiful world.
+
+You may also draw your thoughts toward any treasures or artifacts you have found.
+
+------------------------------
+> [MAIN_TREASURE_OPENED]
+  Go to: p8b
+
+==============================
+Event: p8b
+
+There is little there now, but if you survive and are bold yet wise, you will gather many. Perhaps some will even have strange and wondrous powers.
+
+Here, you can recall the many denizens of the Great Green you will meet.
+
+------------------------------
+> [MAIN_GREEN_OPENED]
+  Go to: p8c
+
+==============================
+Event: p8c
+
+As you explore, hunt, and survive, your knowledge of each of the many tribes and peoples of goodbeasts will grow, and their secrets will be revealed to you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: p8d
+
+==============================
+Event: p8d
+
+And if you wish to leave the waking dream of this life and return to your other reality, or change certain aspects of this one, you will find such thoughts here. Your progress will automatically be saved and remembered, so do not fear the Void.
+
+Your relationship with the Great Four, the Elements which make up reality, will be your key to survival. At any time, you may draw your thoughts toward the elements to more clearly comprehend their gifts.
+
+------------------------------
+> [GEM_BG_OPENED]
+  Go to: p8e
+
+==============================
+Event: p8e
+
+Each element bears a sigil which will grow and change as you gather more of the infinite truths of the world to yourself, and each governs a different aspect of your abilities.
+
+The <color red><bold>Fire</color></bold> element governs your physical strength and ferocity as well as the power of your fiery breath.
+
+The <color blue><bold>Water</color></bold> element governs your perception, empathy, flexibility and stealth.
+
+The <color green><bold>Earth</color></bold> element governs endurance, health and fortitude. The more you understand and imitate this element, the more patient and difficult to destroy you will become.
+
+The <color grey><bold>Air</color></bold> element governs quickness and intellect. Agility of both Body and mind belong to this sphere.
+
+As you grow in understanding and experience, your <bold>degree</bold> of enlightenment within the four elements will increase.
+
+Each degree brings <bold>gifts</bold>; by recalling each specific element, you can remember which gifts you have earned and what temporary factors (such as injuries) may be affecting it.
+
+Earning gifts is not affected by temporary effects, and only when your natural level of enlightenment is high enough will you gain new abilities. Already, your actions and decisions have strengthened your connections and granted you certain advantages, such as...
+
+There are many ways to increase these masteries, such as learning secrets, observing nature and imitating the qualities of the elements. By making choices and discovering new things, you will grow in your understanding of the elements of reality.
+
+Remember that<bold> failure is a far better teacher than success</bold>; mistakes and losses bring with them the best lessons. If you lose a challenge, you may suffer in the short term, but your elemental abilities are likely to increase. Certain treasures and gifts may also affect your elemental affinities.
+
+This cozy nook is a good place to rest. If your Body has been damaged, it will slowly mend on its own, but spending a Sun resting here will greatly increase the speed at which you recover. A few scratches will not hinder you, but any significant wound will impact your ability to hunt, to fight, and even to think clearly.
+
+The rain has passed and the Great Above has cleared, but the world is darkening. Night must be approaching. You slip out of your den to investigate.
+
+------------------------------
+> [EXIT_LAIR]
+  Go to: p9
+
+==============================
+Event: p8g
+
+From the top of the promontory, you were able to glimpse some of the larger features of the area.
+
+Only here, where you journeyed today, do you know enough of the sounds and smells of the area to say that you have properly explored.
+
+The scent of prey was strongest here... your Core groans softly within you as you recall the delicious aroma, whispering of tender flesh and sweet, red Essence. You cannot endure it any longer... you must fulfill your purpose, and engage in the Dance of Destruction!
+
+------------------------------
+> [HUNTING_GROUND_SELECTED]
+  Go to: hunt_tutorial_01
+
+==============================
+Event: p8z
+
+{TEMP_HAS_TREASURE==1 You cough up the Treasure that you found. Polished by the fluids deep within your Core, it sparkles and glitters winningly. You can smell it more closely whenever you wish; perhaps some Treasure may be useful in addition to being beautiful.}
+{TEMP_HAS_TREASURE==0 This is where you would store your Treasure, if you had any. The emptiness here is a light but constant burden on your mind. Surely, one day, great Treasure shall be yours.}
+
+This cozy nook is a good place to rest. If your Body has been damaged, it will slowly mend on its own, but spending a Sun resting here will greatly increase the speed at which you recover. A few scratches will not hinder you, but any significant wound will impact your ability to hunt, to fight, and even to think clearly.
+
+
+
+------------------------------
+> [EXIT_LAIR]
+  Go to: p8g
+
+==============================
+Event: p9
+
+You emerge in time to see your first Sun ending, and as He dies in scarlet glory, new, smaller illuminations are born in the opposite corner of the sky.
+
+By the time Sun has gone completely, they dominate the Great Above, a parade of holy light marching in a slow circle-dance. You were taught of the Stars while still in the Chamber, but seeing them with your own eyes is a true wonder.
+
+Each of the Stars has a color and a brightness not quite like any other. Some are red as the Body of Fire, some green as the grasses of Earth, some blue as the deeps of Water, some White as the clouds of the Air. Some stand quietly, firm in their color, and some sparkle and flash, shimmering gaily. Even in the Great Above, the four sacred elements hold their being.
+
+A cool wind blows over you, ruffling your feathers: inspiration is striking. You feel compelled to let your voice ring out in Song.
+
+What shall you Sing?
+
+------------------------------
+> Sing a great hymn to Fire.
+  Go to: p9a
+> Sing a great hymn to Air.
+  Go to: p9b
+> Sing a great hymn to Water.
+  Go to: p9c
+> Sing a great hymn to Earth.
+  Go to: p9d
+> Sing a lesser hymn to all of them.
+  Go to: p9e
+> Remain silent: let the Stars keep singing.
+  Go to: p9f
+
+==============================
+Event: p9a
+
+<player><color e55c55>Of the greatness of Fire I sing, </color></player>
+
+<player><color e55c55>That which burns, that which withers, Destruction's beloved hatchling.</color></player>
+
+<player><color e55c55>I sing of the Fire Below, deep within the bosom of the Great Mother, from which flows her hot, red Essence.</color></player>
+
+<player><color e55c55>I sing of the Fire Within, the sacred flame which burns within all that has the Rhythm of Life, the flame which is passion and lust and rage and ambition.</color></player>
+
+<player><color e55c55>I sing of the Fire of the Draak, sleeping deep within my Body, ready to rush forth out of my mouth upon my enemies.</color></player>
+
+<player><color e55c55>I am a flame unleashed from a greater Fire upon the Body of Earth. I have consumed beings, and will consume many more. I am a flame, which rises to burn all before it. I am a flame, growing greater with each feeding, my Essence spreading until all is darkened by the kiss of my presence. I bring light and heat, pain and judgment: these are my gifts.</color></player>
+
+<player><color e55c55>Praise to Fire, to the Essence of the Great Giver, whose gift grants victory to the Kin and Destruction to our prey. </color><bold><color ff6b55>Praise to Fire, which Is, Was, and Shall Be.</player></bold></color>
+
+The echo of your song roars back to you from the corners of the valley, and your tail curls in pleasure as you imagine its denizens trembling in fear. You are one of the Kin, the greatest of the Children of Above and Below, and your power will spread through the world like a mighty Fire.
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================
+Event: p9b
+
+<player><color D3D8E1>Of the greatness of Air I sing,</color></player>
+
+<player><color D3D8E1>That which flies free, that which cannot be bound.</color></player>
+
+<player><color D3D8E1>I sing of the Air above, Breath of the Great Mother, hunting-ground of my People in ages past and future.</color></player>
+
+<player><color D3D8E1>I sing of the Air within, flowing with the Rhythm of Life, taking and bestowing tiny infinities of existence.</color></player>
+
+<player><color D3D8E1>I sing of the Swift Air, the moving sea unseen, which urges all to action, which can be tasted in the flight of the prey and the pursuit of the predator, Sacred Dance of the Ages.</color></player>
+
+<player><color D3D8E1>I am a mighty Wind, sweeping over the Body of the Great Mother; mighty Trees shall bend in my presence, the waters will tremble and sing of me with quaking voice. There shall be no place which my Body and Mind shall not penetrate. I am unbound, swift, tumbling over myself gracefully, swirling and spiraling to new places, unseen and unsung-of.</color></player>
+
+<player><color D3D8E1>Praise to Air, which bears us up and sets us free, urging us to unfold our wings and take flight into an unseen horizon. </color><color #e8e9e0><bold>Praise to Air, which Is, Was, and Shall Be.</player></color></bold>
+
+That Air which you have praised delivers the roar of your song to the far corners of the valley and then returns them to you. As you hear the echo of your Song, your tail curls in pleasure. You are free and unstoppable as the very Air itself. To what wonderful places will this life take you?
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================
+Event: p9c
+
+<player><color 6DB7DC>Of the greatness of Water I sing,</color></player>
+
+<player><color 6DB7DC>That which flows through and over and around, that which nourishes all beings.</color></player>
+
+<player><color 6DB7DC>I sing of the Clear Water, milk of the Great Birther, every stream and pond and creek a well of health and life.</color></player>
+
+<player><color 6DB7DC>I sing of the Crimson Water, where flows the Rhythm of Life within, its waves and tides shaping my sacred Body and those of all of my relations, fueling the senses and bringing healing and emotion.</color></player>
+
+<player><color 6DB7DC>I sing of the Hidden Water, the flow of that which is unseen, mystery and magic beyond the hunting-grounds of the Body and the Mind.</color></player>
+
+<player><color 6DB7DC>I am a mighty river, flowing over all the land. May many beings find their Source in me; may I serve as the beginning to innumerable endings. May I create wonders in my wake, springing up like Trees and green things; may my gentle passage shatter stone and carve valleys.</color></player>
+
+<player><color 6DB7DC>Praise to Water, who teaches us that the soft overcomes the hard, who teaches us to embrace Earth, who Births all that has the Rhythm of Life. </color><bold><color #258dee>Praise to Water, which Is, Was, and Shall Be.</player></bold></color>
+
+As you listen to the echo of your roaring song returning to you from the farthest corner of the valley, your tail curls with happiness. Your life will be the cause of many new beginnings, in ways subtle and obvious, clear and mysterious.
+
+You will leave this world changed by your presence, and it will bear your mark forever, even when you are gone. This valley was wrought by ancient Waters; you shall bring about even greater things.
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================
+Event: p9d
+
+<player><color 20AA19>I sing of the greatness of Earth,</color></player>
+
+<player><color 20AA19>That which sustains and supports, which nurtures and orders.</color></player>
+
+<player><color 20AA19>I sing of the Earth beneath my claws, Body of Bodies, who birthed all things from Her own sacred flesh, who gives us a place to rest, to live, to fly amidst the Void.</color></player>
+
+<player><color 20AA19>I sing of the Earth Within, the solid, structured Order of the Body, strength of my scales, solidness of bone, hills and valleys of my flesh, growing greater with every Sun, every Turning.</color></player>
+
+<player><color 20AA19>I sing of Earth, which silently abides forever, resisting Destruction and without boundary.</color></player>
+
+<player><color 20AA19>I am a mighty mountain, patient, immovable and serene. Other beings see my greatness from afar and their souls are filled with awe and wonder. I may be scarred, but never overthrown; my armor is Stone, my feathers are Trees.</color></player>
+
+<player><color 20AA19>Praise to Earth, who carries us all, and who does not feel the weight, who teaches us to outlive that which vexes us, to see the slow, still solution amidst the clamor of complexity, to walk as one eternal in this ephemeral world. </color><bold><color #34b321>Praise to Earth, which Is, Was, and Shall Be.</player></bold></color>
+
+The nearby hills echo your song back to you as if blessing you with their tranquility and fortitude. Let patience and wisdom be your guides, they seem to sing. Be like one of us, above and yet below, around and yet within.
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================
+Event: p9e
+
+<player><color e55c55>I sing of Fire, lying coiled around Destruction, born of it and yet birthing it;</color></player>
+
+<player><color 6DB7DC>I sing of Water, which gently splits mountains and easily holds the greatest of beings;</color></player>
+
+<player><color D3D8E1>I sing of Air, which passes beyond every gate, bearing my song to the farthest land;</color></player>
+
+<player><color 20AA19>I sing of Earth, upon which I rest now, and within which I will rest at Time's ending.</color></player>
+
+<player>As leaves upon one branch, as branches upon one Tree, as Trees within one Green, as Green within the Land, as Land within Earth, as Earth within the Onesong, so are all things: </player>
+
+<player>Many and one, </player>
+
+<player>One and many, </player>
+
+<player>All connected at the Center.</player>
+
+Your song grows quieter towards the end, as you sense you are treading upon sacred ground. You leave it at that, but perhaps one day, you will have the Wisdom to make this song more than mere thoughts. Perhaps, one day, they will be a Truth which you can hold within.
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================
+Event: p9f
+
+You hear the voice of Air in the treetops, smell the Water flowing in the nearby river, see Earth's dignity in the mountains which guard the valley, feel the noble Fire burning within you. What need have you for words? You are the hatchling of all of them, your every breath and every tiny motion a testament to their power.
+
+You are of the few who understand, and who hear, and who know. This can become power, but the path is far, and high. You fall asleep in your lair, continuing your thoughts in your dreams.
+
+------------------------------
+> /EndEvent
+  Go to: p10_dream
+
+==============================

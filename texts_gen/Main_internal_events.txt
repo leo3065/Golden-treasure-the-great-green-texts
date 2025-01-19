@@ -1,0 +1,564 @@
+Event: ability_ts_transformation
+
+Having learned the True Song of Transformation, you may now spend a Sun growing your Self in any one of the Four Directions. Choose which Element you will permanently increase.
+
+------------------------------
+> Air.
+  Go to: DayTransition, DayTransition
+> Earth.
+  Go to: DayTransition, DayTransition
+> Fire.
+  Go to: DayTransition, DayTransition
+> Water.
+  Go to: DayTransition, DayTransition
+> On second thought...
+  Go to: lair_rest
+
+==============================
+Event: act1_intro
+
+------------------------------
+> [Complete]
+  Go to: p1
+
+==============================
+Event: act2_intro
+
+------------------------------
+> [Complete]
+  Go to: g001_2
+
+==============================
+Event: act3_intro
+
+------------------------------
+> [Complete]
+  Go to: f001c
+
+==============================
+Event: check_prey_mastery
+
+------------------------------
+> [EventLoad]
+  Go to: PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, PreyMasteryDisplayer, {TEMP_FALL_THROUGH}
+
+==============================
+Event: daytransition
+
+daytransition begins here. This text does not appear in game. If you're viewing it, that means you're in the Event Creator. Can you perhaps finish the Event Creator? If you'd be so kind could you Varnish the Scottish Terrier? That would be ever so helpful if you were to Overwhelm the Kerosene Vendor. Thanks so much for Steam Drying the Financial Oligarchy.
+
+------------------------------
+> [EventLoad]
+  Go to: , , , , check_prey_mastery
+
+==============================
+Event: daytransition_2
+
+------------------------------
+> [EventLoad]
+  Go to: , , , , , , , , , , , , , , , , , , , , , 
+> [Complete]
+  Go to: timed_events_day
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: death
+
+------------------------------
+> [EventLoad]
+  Go to: , reawakening
+
+==============================
+Event: death_animation_end
+
+------------------------------
+> [EventLoad]
+  Go to: gameover
+
+==============================
+Event: death_gate
+
+------------------------------
+> [EventLoad]
+  Go to: , gameover, death_fungus, exile_ending, drugending, death_animation
+
+==============================
+Event: gameover_gate
+
+------------------------------
+> [Complete]
+  Go to: demoend, sceneloader
+
+==============================
+Event: hatch_intro
+
+------------------------------
+> [Complete]
+  Go to: hatch_01
+
+==============================
+Event: lair_base
+
+{TEMP_LAIR_MESSAGE}
+
+------------------------------
+> [REST]
+  Go to: lair_rest
+> [TREASURE]
+  Go to: lair_treasure, lair_treasure
+> [EXIT]
+  Go to: timed_events_lair_exit, timed_events_lair_exit, timed_events_lair_exit
+> [REFLECTION]
+  Go to: lair_reflection, lair_reflection_act3
+> [REAWAKENING]
+  Go to: lair_reawakening, lair_reawakening_short
+
+==============================
+Event: lair_nautilus
+
+You spend a Sun listening to the complex echoes of the Living Labyrinth given to you by Fathom.
+
+By the time darkness arrives, you feel as though you understand the Flow Of All Things much better than before.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: lair_reawakening
+
+Fear and Agony fade, replaced by the familiar scent of Earth and the sounds of Air and Water outside your Lair.
+
+With a sigh of relief, you realize that the tragedy you experienced was merely a Dream. You are safe, for now.
+
+<bold><italic>When you meet your end, you will lose one Sigil of Life and begin again from the previous Sun.</bold></italic>
+
+<italic><bold>In such cases, the end you witnessed was but a Dream. All gains and losses from that Sun are revoked, and you are given another chance. Take care not to repeat the same mistakes which led to your Dream-Death.</italic></bold>
+
+<italic><bold>Should you perish with no Sigils of Life remaining, you will experience True Death, and your adventure will end. A new Life must be begun, though some benefits from your past experiences, such as Tarot Cards and creature mastery levels, will remain.</italic></bold>
+
+<italic><color #e69138><bold>Fate will spare you but a few times.</color> Only those who are bold yet cautious, brave yet wise, will survive to fulfill their destiny and complete the cycle.</italic></bold>
+
+<italic><bold>May you be warned, and may you be blessed.</italic></bold>
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_base
+
+==============================
+Event: lair_reawakening_short
+
+With a sigh of relief, you realize that the tragedy you experienced was merely a Dream. You are safe, for now. The Sun is yours to relive as you see fit.
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_base
+
+==============================
+Event: lair_reflection
+
+The sight of your current Self fills you with pride.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: lair_reflection_act3
+
+The sight of your current Self fills you with pride.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: lair_research
+
+Which artifact will you research?
+
+------------------------------
+> Spend a Sun researching the Shinestone Bauble.
+  Go to: DayTransition
+> Spend a Sun researching the Crystal Fang.
+  Go to: DayTransition
+> Spend a Sun researching the Bloodstone.
+  Go to: DayTransition
+> Spend a Sun researching the Shakestick.
+  Go to: DayTransition
+> Spend a Sun researching the Obstinate Stone.
+  Go to: DayTransition
+> Spend a Sun researching the Lodestone.
+  Go to: DayTransition
+> Spend a Sun researching the Amber Circle.
+  Go to: DayTransition
+> Spend a Sun researching the Refining Stone.
+  Go to: DayTransition
+> Spend a Sun researching the False Face.
+  Go to: DayTransition
+> Spend a Sun researching the Sleeping Stone.
+  Go to: DayTransition
+> Spend a Sun researching the Crystal Flower.
+  Go to: DayTransition
+> Spend a Sun researching the Silver Rod.
+  Go to: DayTransition
+> Spend a Sun researching the Onyx Rod.
+  Go to: DayTransition
+> Spend a Sun researching the Ruined Crystal Hive.
+  Go to: DayTransition
+> Spend a Sun researching the Crystal City.
+  Go to: DayTransition
+> Spend a Sun researching the Perpetual Pyramid.
+  Go to: DayTransition
+> Spend a Sun researching the Truffle.
+  Go to: DayTransition
+> Spend a Sun researching the Bezoar.
+  Go to: DayTransition
+> Spend a Sun researching the Heavy Cube.
+  Go to: DayTransition
+> Spend a Sun researching the Giant Pearl.
+  Go to: DayTransition
+> Spend a Sun researching the Living Labyrinth.
+  Go to: DayTransition
+> Spend a Sun researching the Silverfruit.
+  Go to: DayTransition
+> Spend a Sun researching the Curios.
+  Go to: DayTransition
+> Spend a Sun researching the Hunting Headbone.
+  Go to: DayTransition
+> Spend a Sun researching the Elixir.
+  Go to: DayTransition
+> Spend a Sun researching the Gold Choker.
+  Go to: DayTransition
+> Spend a Sun researching the @#$%.
+  Go to: DayTransition
+> Spend a Sun researching the Pain-killer Brace.
+  Go to: DayTransition
+> Spend a Sun researching the Nightjaw.
+  Go to: DayTransition
+> Spend a Sun researching the Darkspine.
+  Go to: DayTransition
+> Spend a Sun researching the Awakened Silver Rod.
+  Go to: DayTransition
+> Spend a Sun researching the Awakened Onyx Rod.
+  Go to: DayTransition
+> Spend a Sun researching the Icosidodecahedron.
+  Go to: DayTransition
+> Nothing this Sun.
+  Go to: lair_treasure, lair_base
+> [REST]
+  Go to: lair_rest
+> [TREASURE]
+  Go to: lair_treasure, lair_research
+> [EXIT]
+  Go to: GreatGreenAct3_Map, GreatGreenAct2_Map, HeartboneValley_Map
+> [REFLECTION]
+  Go to: lair_reflection
+
+==============================
+Event: lair_rest
+
+What would you like to do?
+
+------------------------------
+> Rest and recuperate.
+  Go to: DayTransition, DayTransition
+> Enter the Dreaming.
+  Go to: lucid_dreaming
+> Consume some of your Body to restore Energy.
+  Go to: lair_base
+> Consume 10 of your Shiny Things to restore Energy.
+  Go to: lair_base
+> Consume all of your Shiny Things to restore Energy.
+  Go to: lair_base
+> Curl yourself around the Sleeping Stone and rest.
+  Go to: lair_sleeping_stone
+> Listen to the Living Labyrinth to learn the hidden ways of Water.
+  Go to: lair_nautilus
+> Meditate on the Hunting Headbone to grow in the ways of Fire.
+  Go to: treasure_skull
+> Use the curios to grow in your understanding of the No-Tails.
+  Go to: treasure_curios
+> Put the Crystal Fang in your mouth and rest.
+  Go to: treasure_memory
+> Grow your power through the True Song of Transformation.
+  Go to: ability_ts_transformation
+> On second thought...
+  Go to: lair_base
+
+==============================
+Event: lair_sleeping_stone
+
+This will recover all of your health and cure you of any normal diseases, though some special ones may resist it. You may only do this once.
+
+Will you?
+
+------------------------------
+> Yes.
+  Go to: DayTransition, DayTransition
+> No.
+  Go to: lair_base
+> [REST]
+  Go to: lair_rest
+> [TREASURE]
+  Go to: lair_treasure, lair_research
+> [EXIT]
+  Go to: timed_events_lair_exit, timed_events_lair_exit, timed_events_lair_exit
+> [REFLECTION]
+  Go to: lair_reflection
+
+==============================
+Event: lair_treasure
+
+What will you do?
+
+------------------------------
+> Consume Shining Eye, the Clansinger Hatchling.
+  Go to: lair_treasure
+> Evict the Shriekers from your Lair, though you agreed to let them stay.
+  Go to: lair_treasure_shriekers
+> Consume the Elixir.
+  Go to: treasure_elixir
+> Use the Bloodstone.
+  Go to: treasure_bloodstone
+> Use the @#%$.
+  Go to: treasure_antimatter
+> Use the Pain-killer Brace.
+  Go to: treasure_painkiller_1, treasure_painkiller_2
+> Use the Awakened Onyx Rod.
+  Go to: treasure_onyx
+> Use a Poultice.
+  Go to: lair_treasure
+> Consume a Wakeleaf.
+  Go to: lair_treasure
+> Consume Ten of your Shiny Things to restore Energy.
+  Go to: lair_treasure
+> Consume all of your Shiny Things to restore Energy.
+  Go to: lair_treasure
+> Spend a Sun researching one of your Artifacts.
+  Go to: lair_research, lair_research
+> Exit your den.
+  Go to: MainLair
+> Never mind...
+  Go to: lair_base
+
+==============================
+Event: lair_treasure_shriekers
+
+The Shriekers are irate, and vow to spread the Song of your inhospitality far and wide. Your roasting a few of them with your breath on the way out helps you feel a little better, though, and makes for a small snack.
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_base
+
+==============================
+Event: lucid_dreaming
+
+Which Element shall guide your Dream?
+
+------------------------------
+> <color red>Fire.</color>
+  Go to: lucid_fire, lucid_fire
+> <color blue>Water.</color>
+  Go to: lucid_water, lucid_water
+> <color green>Earth.</color>
+  Go to: lucid_earth, lucid_earth
+> <color grey>Air.</color>
+  Go to: lucid_air, lucid_air
+> On second thought...
+  Go to: lair_rest
+
+==============================
+Event: reawakening
+
+------------------------------
+> [Complete]
+  Go to: death_gate, 
+> [EventLoad]
+  Go to: , 
+
+==============================
+Event: treasure_antimatter
+
+What will you do with the @#$%?
+
+------------------------------
+> Shatter it.
+  Go to: treasure_antimatter1
+> Nothing! Nothing at all! (This is probably the best choice.)
+  Go to: lair_treasure
+
+==============================
+Event: treasure_antimatter1
+
+You shatter the substance protecting the @#$% and
+
+
+
+------------------------------
+> [Continue]
+  Go to: death
+
+==============================
+Event: treasure_bloodstone
+
+Do you truly wish to use the Bloodstone?
+
+------------------------------
+> Yes.
+  Go to: treasure_bloodstonea
+> No.
+  Go to: lair_treasure
+
+==============================
+Event: treasure_bloodstonea
+
+You feel a mighty surge of fire within as the memories of countless battle-deaths pour into your Mind. For the rest of this Sun, your might shall be as the great ones of legend... do not insult their memory by wasting it!
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_treasure
+
+==============================
+Event: treasure_curios
+
+You spend a Sun examining and experimenting with the curios you took from the Tailless. You feel as though you have grown in your understanding of them.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: treasure_elixir
+
+Do you truly wish to imbibe the Elixir? It will heal and energize you completely, and even open your inner eye to new elemental truths, but will be completely gone afterwards.
+
+------------------------------
+> Yes.
+  Go to: treasure_elixir1
+> No.
+  Go to: lair_treasure
+
+==============================
+Event: treasure_elixir1
+
+The peace...
+
+The plenitude...
+
+The POWER.
+
+Your entire self... Body, Mind, and Essence... is purged beyond clean by the substance. Shameful and prideful memories which twist your perceptions are forgotten. Senseless fears are illuminated into nothing.
+
+Everything from the tip of your muzzle to the end of your tailfeathers feels new. It is as though you have hatched out of your old self-Wall.
+
+Eyes gleaming with wisdom and strength, you let out a triumphant roar.
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_treasure
+
+==============================
+Event: treasure_memory
+
+Activating the Memory Crystal will take all Sun, and can only be done once before it is depleted.
+
+Will you do so?
+
+------------------------------
+> Yes.
+  Go to: memory_fang_act1, memory_fang_act2, memory_fang_act3
+> Not this Sun.
+  Go to: lair_rest
+
+==============================
+Event: treasure_onyx
+
+Will you use the awakened Onyx Rod?
+
+------------------------------
+> Yes.
+  Go to: treasure_onyx_a
+> No.
+  Go to: lair_treasure
+
+==============================
+Event: treasure_onyx_a
+
+Holding it in your paw, you open yourself to its truth...
+
+And are flooded with healing. Any wounds or abrasions close, remembering their former unsullied state. The rod no longer glows, however.
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_treasure
+
+==============================
+Event: treasure_painkiller_1
+
+Do you wish to attach this to your tail?
+
+------------------------------
+> Yes.
+  Go to: treasure_painkiller_1a
+> No.
+  Go to: lair_treasure
+
+==============================
+Event: treasure_painkiller_1a
+
+The pain is excruciating, driving you to near-constant distraction. You often think of biting off your tail simply to silence the quiet screaming...
+
+But out of that rage and agitation, a deep kind of strength begins to develop. The endless anguish makes the Fire within you Dance.
+
+
+
+------------------------------
+> [Continue]
+  Go to: lair_treasure
+
+==============================
+Event: treasure_painkiller_2
+
+Spend this Sun separating the Pain-Killer from yourself?
+
+------------------------------
+> Yes.
+  Go to: treasure_painkiller_2a
+> No! The pain fuels me! I AM THE AGONY!
+  Go to: lair_treasure
+
+==============================
+Event: treasure_painkiller_2a
+
+You do significant damage to your poor tail in the process, but at last you manage to free yourself from the oppression of sensations.
+
+Sanity is cool and clear and deep. You had forgotten the taste of it.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: treasure_skull
+
+You spend a Sun agitatedly recalling your grand struggle with the Tailless. Your Inner Flame burns slightly hotter than before.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================

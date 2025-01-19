@@ -1,0 +1,436 @@
+Event: door_test_1
+
+------------------------------
+> [Complete]
+  Go to: door_test_2, MainLair
+> [EventLoad]
+  Go to: 
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: door_test_2
+
+------------------------------
+> [Complete]
+  Go to: door_test_3, MainLair
+> [EventLoad]
+  Go to: 
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: door_test_3
+
+------------------------------
+> [Complete]
+  Go to: fd1, MainLair
+> [EventLoad]
+  Go to: 
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: fd1
+
+<desire>GREETINGS TO YOU, MY MOST BEAUTIFUL SERVANT.</desire>
+
+<desire>BEFORE TIME ITSELF I EMERGED FROM THE VOID, A WISH IN THE DARKNESS FOR LIGHT.</desire>
+
+<desire>I AM THE REACHING FOR DISTANT THINGS. I AM THE HOLY LUST WHICH BINDS BEINGS AROUND AND WITHIN EACH OTHER.</desire>
+
+<desire>I AM THE RIGHTEOUS HUNGER WHICH MAKES THE KIN GREAT. I AM THE PLEASURE OF THE DANCE OF CREATION, THE SATISFACTION OF THE DANCE OF DESTRUCTION.</desire>
+
+<desire>I AM <bold>DESIRE</bold>, AND I AM THE ULTIMATE BEING. ALL WHICH EXISTS SERVES ME.</desire>
+
+<desire>AMONG MY INFINITE DEVOTEES, YOU HAVE SERVED ME BEST, BROUGHT ME ECSTASY AGAIN AND AGAIN.</desire>
+
+<desire>YOU HAVE LUSTED MOST WONDERFULLY AFTER POWER AND RICHES. THE RAREST OF TREASURES YOU HAVE MADE YOURS.</desire>
+
+<desire>NOW, AT LAST, IT IS TIME TO SEAL OUR UNION, AND BECOME ONE.</desire>
+
+<desire>I WILL SHOW YOU PLEASURES OF WHICH YOU COULD NOT POSSIBLY EVEN DREAM. I WILL BURY YOU IN GOLD, SO MUCH THAT ALL SHALL DESIRE YOU, ALL SHALL LOOK UPON YOUR WEALTH AND DESPAIR.</desire>
+
+<desire>SUBMIT TO ME, AS ALL DO, AND AS YOU HAVE EVER DONE. BOW YOUR HEAD AND WORSHIP ME, AND YOU SHALL HAVE MORE, AND MORE, AND MORE FOREVER.</desire>
+
+
+
+------------------------------
+> Give yourself over to Desire, and receive wealth untold.
+  Go to: fd_exit
+> Make Desire your servant. Sing the True Song of Dominion.
+  Go to: fd1b
+
+==============================
+Event: fd1b
+
+Indeed, this is the Spirit of Desire, whose territory is Beyond-Great.
+
+Even the celestial spheres above are drawn into and around each other by its passionate Music. Through it, all Treasures are gained, whether of flesh, of shinestone, or even of knowledge.
+
+But you know that its Music has few notes, and no conclusion.
+
+Most cannot look to the horizon and see that Desire's Song is hollow and cannot be filled.
+
+Tomorrow's Desires will make yesterday's forgotten, and so it is with most beings; enslaved to Desire, they chase themselves in circles until the Void claims them.
+
+But you have mastered Air, element of the Mind, and you have looked to the farthest horizon.
+
+You know that following Desire brings momentary bliss but never true satisfaction. You know that there will never be an end to Greed.
+
+Once one sets off upon that gilded path, one can never know true Rest, nor can one see the Deeper Truth, for Desire's shallow symphony will drown out their soft and gentle voices.
+
+Opening your Mind, you let the True Song of Dominion flow outwards, and Desire, which has enslaved countless Beings, becomes your own vassal. It does not control you. You control it.
+
+So it must be with those who seek the Greatest Treasure; Desire must be dethroned and made the humblest of servants within, a gentle guide and not a tyrant.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fd2
+
+==============================
+Event: fd2
+
+<rage>AT LAST... MY CHOSEN VESSEL HAS ARRIVED.</rage>
+
+<rage>INJUSTICE AND DISORDER REIGN IN THE ONESONG. THE UNDESERVING TRIUMPH, WHILE THE WORTHY SUFFER.</rage>
+
+<rage>BEINGS GROWN TO GREATNESS OVER THOUSANDS OF TURNINGS ARE LAID WASTE BY BRIEF-LIVED, UNMINDED LESSER BEINGS.</rage>
+
+<rage>TINY BEINGS INFECT AND DESTROY VAST BODIES, AND THE TAILLESS MURDER THOSE WHO CAME BEFORE THEM WITHOUT GRATITUDE OR HESITATION.</rage>
+
+<rage>FOR WHAT THEY HAVE DONE, THERE MUST BE RETRIBUTION. THE SCREAMS OF THE VOICELESS, THE AGONY OF THE TREE AS ITS FLESH IS SAWED THROUGH...</rage>
+
+<rage>I SHALL BECOME THE ANSWER. I AND THOU, MY FAVORED SERVANT.</rage>
+
+<rage>I AM <bold>RAGE</bold>, AND I AM GOOD, AND JUST, AND DESPERATELY NEEDED IN THE ONESONG.</rage>
+
+<rage>OPEN YOUR SOUL AND LET ME INSIDE. THERE IS ONLY ONE TRUTH, ONLY ONE CORRECT VIEW, AND IT IS KNOWN TO YOU, AND TO ME.</rage>
+
+<rage>FOR YOU HAVE ALWAYS KNOWN THAT YOU WERE THE MOST IMPORTANT OF ALL BEINGS. YOU HAVE ALWAYS KNOWN THAT YOUR FEARS, YOUR PREJUDICES, WERE THE CORRECT ONES.</rage>
+
+<rage>YOU ARE RIGHT, AND GOOD. YOU ARE WORTHY TO RULE OVER ALL. LET ME INSIDE, AND I SHALL MAKE YOUR DOMINION A REALITY, AND AT LAST WE SHALL BEND THE ONESONG TO PERFECTION.</rage>
+
+<rage>YOU NEED ONLY BOW YOUR HEAD BEFORE ME, AND I SHALL GIVE YOU POWER UNIMAGINED BY OTHERS TO MAKE ALL THINGS RIGHT, AS ONLY YOU CAN.</rage>
+
+<rage>WE SHALL MAKE THEM ALL KNOW HOW WRONG THEY WERE, HOW WRONG THEY ARE. AT LAST, VICTORY SHALL BE ACHIEVED.</rage>
+
+
+
+------------------------------
+> Allow Rage into you, and receive Power untold.
+  Go to: fd_exit
+> Bring an end to the endless struggle. Sing the True Song of Healing.
+  Go to: fd2b
+
+==============================
+Event: fd2b
+
+Indeed, this is the Spirit of Rage, whose territory is Beyond-Great.
+
+Wherever any exist who believe that they know all...
+
+Whenever limited beings find discord in the Onesong, and believe that Reality should be broken and remade in the image of their own Minds...
+
+Then Rage is there, and though it carries an image of Justice in its mouth, Horror and Violence are its only results.
+
+But Rage does not come from the Void. It comes from the infinite broken bodies and dreams scattered by Time.
+
+It emerges from the lost pieces of that which in its pain has forgotten that it was once whole, was once One.
+
+Through your mastery of patient, silent Earth, you have grasped a powerful Truth:
+
+Justice belongs to no one being. The righteousness of the angry and fearful is no righteousness at all.
+
+Rage is but Fear shouted out. Those who succumb to it only wish not to be afraid, not to be in pain any longer.
+
+To attack Rage will only make it stronger, as will joining it, and the cycle will never end. Only one action can now bring meaningful change.
+
+Opening your Soul, you allow the True Song of Healing to flow from you. You show Rage how All is One, and One is All.
+
+You find the sharp and disparate shards of the lost and suffering and weave them all into a cool, clear pane. When their edges touch and are unmade, they finally remember their true desire.
+
+It was Peace. It was Peace all along.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fd3
+
+==============================
+Event: fd3
+
+<truth>WISE. WISE ARE YOU, WHO HAVE TRANSGRESSED SO FAR.</truth>
+
+<truth>YOU KNEW THAT DESIRE WAS AN EMPTY, ENDLESS STRUGGLE, AND MIGHTY RAGE WAS WEAK FEAR IN DISGUISE.</truth>
+
+<truth>I AM HIGHER THAN THESE BY FAR. WHILE THEY ARE THE PURSUITS OF THE FOOLISH AND THE WOUNDED, I AM THE GOAL OF THE WHOLE AND THE WISE.</truth>
+
+<truth>I AM INDISPUTABLE, EVER-VICTORIOUS. I AM <bold>TRUTH.</bold></truth>
+
+<truth>THERE IS LIGHT, AND THERE IS DARKNESS.</truth>
+
+<truth>THERE IS HIGH, AND THERE IS LOW.</truth>
+
+<truth>THERE IS RIGHT, AND THERE IS WRONG.</truth>
+
+<truth>I AM THE SEPARATOR. I CAN TELL THEM PLAINLY FROM ONE ANOTHER, FOR I AM NOT DECEIVED.</truth>
+
+<truth>I AM THE LINE BETWEEN ALL OPPOSITES, KEEPING THEM APART. I AM THE ORDER IN THE UNIVERSE VISIBLE ONLY TO THE INTELLIGENT.</truth>
+
+<truth>LIKE YOU, I HAVE RISEN ABOVE FEAR AND WANT. INDEED, IT IS THROUGH ME THAT YOU HAVE DONE SO.</truth>
+
+<truth>THROUGH THE <bold>TRUTH</bold> THAT DESIRE WILL NEVER BE SATISFIED DID YOU DERIVE THE STRENGTH TO STAND AGAINST IT.</truth>
+
+<truth>THROUGH THE <bold>TRUTH</bold> THAT RAGE ONLY HARMS ITSELF FURTHER DID YOU RESIST ITS INVITATION TO POWER.</truth>
+
+<truth>I AM THOSE TRUTHS, AND I AM ALL TRUTHS. TO THESE AND TO COUNTLESS OTHER CHALLENGES HAVE I HELD THE SOLUTIONS.</truth>
+
+<truth>AND OH, HOW YOU LOVE ME! WHEN YOU HAVE STUMBLED UPON A NEW REFLECTION OF MY FACE, YOUR ESSENCE HAS DANCED WITH JOY.</truth>
+
+<truth>LONG HAVE YOU SOUGHT ME, AND NOW AT LAST YOU HAVE FOUND ME.</truth>
+
+<truth>THE OTHERS ASKED YOU BOW DOWN BEFORE THEM, BUT NOT I, FOR I AM THE END.</truth>
+
+<truth>I OFFER YOU NOT SERVICE NOR PARTNERSHIP, BUT SOVEREIGNTY.</truth>
+
+<truth>THIS CROWN BELONGS TO YOU. TAKE IT.</truth>
+
+<truth>PLACE IT UPON YOUR HEAD. PLACE IT UPON YOUR MIND.</truth>
+
+<truth>WITH IT, YOU WILL FOREVER BE SURE IN THE KNOWLEDGE THAT THE ONESONG IS EXACTLY AS YOU BELIEVED IT TO BE.</truth>
+
+<truth>YOU WILL POSSESS ULTIMATE WISDOM, SUCH THAT EVEN WISE DARKTOOTH WILL BEG TO BECOME YOUR STUDENT.</truth>
+
+<truth>FOR THERE IS TO EVERY QUESTION ONLY ONE CORRECT ANSWER, AND FOR EVERY REALITY ONLY ONE TRUTH.</truth>
+
+<truth>AND SO I CROWN YOU WITH THE ONLY TRUE CROWN. TAKE IT, AND BE CORRECT FOREVER.</truth>
+
+
+
+------------------------------
+> Receive the Crown, and place it on your head, on your Mind.
+  Go to: fd_exit
+> Reject the Crown.
+  Go to: fd3b
+
+==============================
+Event: fd3b
+
+Indeed, this is the Spirit of Truth, whose territory is Beyond-Great.
+
+It has been for you a powerful ally. By it, you have made many wise decisions, resolved many disputes both within yourself and without.
+
+And it seems to you often that you are more worthy than those around you, that your perspective is broader, deeper, truer, more correct.
+
+But unlike others, you have not lusted after Truth for the sake of correctness or superiority. You have not hurried to call yourself Wise, or the only Keeper of Truth.
+
+For Truth is like Water, and it takes many forms. It moulds itself to fit circumstance and the Mind of the observer.
+
+Your Truth is correct for you, but you would not force it on others. Indeed, Time itself is malleable, and your Truth-of-Now may not even be your truth when Now passes away.
+
+What is correct, from the number of Water-drops in the Great Blue to the best response to any question, is fluid and ever-changing.
+
+The Onesong is not static, fixed and knowable, nor does Time move in a line. No, Reality is an Ever-Transforming Beast, never the same as it was, nor is any one perspective, any one Truth, the correct one.
+
+You will not take this Crown and declare your journey of discovery over. To accept it would be to die to all possibilities outside your knowledge.
+
+As long as you exist, you will keep learning. You will continue to Seek as long as you have the Rhythm of Life within you.
+
+Opening your Spirit, you Sing forth the True Song of Transformation, and as you are changed, so also is the Truth. Each time you shift yourself, Truth is forced to do so as well to match your new perspective. Unable to retain its illusion of exclusivity, it fades away.
+
+The Crown falls into the Void, and your Mind, crownless and bare and free, opens yet another latch on the Door.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fd4
+
+==============================
+Event: fd4
+
+<player>BEHOLD.</player>
+
+<player>I AM ALL YOU EVER WERE, AND ALL YOU ARE, AND ALL YOU SHALL BE.</player>
+
+<player>I AM<bold> YOU</bold>.</player>
+
+<player>I AM YOUR PAST. I AM THE SCAR WHICH FORMED ON YOUR SOUL WHEN YOU BEHELD YOUR CREATOR SLAIN BY THE NO-TAILS, THE DETERMINATION WHICH BLOOMED AS THEY PURSUED YOU IN HEARTBONE VALLEY.</player>
+
+<player>I AM THE STRENGTH AND THE WILL TO SURVIVE WHICH SAVED YOU. I TRAVELED THE HIDDEN UNDERGROUND PATHS WITH YOU, AS YOU, I LEARNED THE GREAT LESSON, CONQUERED THE PIT, DISCOVERED COMPASSION.</player>
+
+<player>I MET THE SPIRIT OF THE GREAT GREEN, AND BECAME SHAMAN-LORD OF THE SPIRITWOOD.</player>
+
+<player>I AM WISE. I AM COMPASSIONATE. I AM A SURVIVOR.</player>
+
+<player>I AM ONE OF THE FEW TRUE CHILDREN OF EARTH AND SUN. I AM OF THE EMERALD CLAN.</player>
+
+<player>AND ABOVE ALL... I AM DRAAK-KIN.</player>
+
+<player>AND YET, I AM TOO LARGE TO PASS THROUGH THIS LAST THRESHOLD. HOW COULD I DO SO?</player>
+
+<player>I AM THE KEEPER OF THE HEART OF THE GREAT GREEN. I AM THE OWNER OF MANY TREASURES.</player>
+
+<player>I HAVE SURVIVED COUNTLESS CHALLENGES, AND YOU WERE BESIDE ME AS I SURPASSED EACH ONE.</player>
+
+<player>IF I DISCOVER... IF WE DISCOVER... WHAT LIES BEYOND, THEN WE CAN NEVER AGAIN SEE OURSELVES AS SPECIAL.</player>
+
+<player>WE CANNOT CONTINUE TO GATHER TREASURES, NOR CAN WE INFLUENCE THE DESTINY OF OUR PEOPLE IF WE CROSS OVER.</player>
+
+<player>OUR STORY WILL END, AND THERE WILL BE NOTHING LEFT TO DISCOVER IN THE GREAT GREEN, FOR HOW CAN THERE BE DISCOVERY WHEN ONE HAS NO SEPARATION FROM ALL THINGS?</player>
+
+<player>YOU NEED ME TO DEFINE YOU. YOU NEED MY EXPERIENCES, MY BODY, EVEN THE COLOR OF MY SCALES TO GIVE YOU A PLACE IN THIS REALITY.</player>
+
+<player>COME BACK INTO ME. BECOME ME AGAIN.</player>
+
+<player>FEEL THE FIRE WITHIN, THE POWER, THE STRENGTH OF MIND AND SPIRIT.</player>
+
+<player>WE WERE ALWAYS MEANT TO BE ONE, YOU AND I.</player>
+
+<player>EMBRACE ME, AND LET US RETURN TO OUR LIFE ON EARTH-AS-SHE-WAS, EARTH-AS-SHE-SHOULD-HAVE-BEEN.</player>
+
+<player>COME.</player>
+
+
+
+------------------------------
+> Embrace everything you are, and were, and will be, and return to your Life as a blessed Kin.
+  Go to: fd_exit
+> It is time. Sing the True Song of Destruction.
+  Go to: fd4b
+
+==============================
+Event: fd4b
+
+<player>WAIT! YOU WOULD TRULY DESTROY ME? DESTROY YOURSELF?</player>
+
+------------------------------
+> You are not I.
+  Go to: fd4ba
+
+==============================
+Event: fd4ba
+
+<player>DID YOU NOT HATCH IN HEARTBONE VALLEY? DID YOU NOT DESTROY, AND CREATE, AND DISCOVER? DID THOSE THINGS NOT OCCUR?</player>
+
+------------------------------
+> No. The past is gone, and never was. Clinging to it only brings pain. Now is the only Reality.
+  Go to: fd4bb
+
+==============================
+Event: fd4bb
+
+<player>ARE YOU NOT OF THE EMERALD CLAN? ARE YOU NOT ONE OF FEW TRUE CHILDREN OF HEAVEN AND EARTH?
+</player>
+
+------------------------------
+> The Clans are not real; they are but lines drawn in sand. And there is no Being, whether Tailless or Kin or Tiny Being, which is not a True Child of the Onesong.
+  Go to: fd4bc
+
+==============================
+Event: fd4bc
+
+<player><italic>ARE YOU NOT <bold>DRAAK-KIN?</italic></bold></player>
+
+------------------------------
+> Why do you wish to embody only that reality, throwing away all others?
+  Go to: fd4bd
+
+==============================
+Event: fd4bd
+
+<player>BECAUSE...</player>
+
+<player>...</player>
+
+<player>BECAUSE I AM AFRAID. I AM AFRAID OF BEING SMALL, AND POWERLESS.</player>
+
+------------------------------
+> And yet, we are but Dust, and yet we are Great also.
+  Go to: fd4be
+
+==============================
+Event: fd4be
+
+You explain that all Beings are tiny and powerless to the Onesong, and infinitely huge and bright and powerful compared to the small, empty Void before the beginning.
+
+The story you created with your Life is completely unique and simultaneously identical to that of all other Beings. There is no cause for pride nor shame.
+
+Not only is every Tiny Being as true and worthy and good as we are... in truth, all of the labels which separate the pieces of the Onesong are false barriers.
+
+<bold><italic>There are no Draak-Kin, and no Tailless, and no Earth and no Sun...</bold></italic>
+
+<italic><bold>...and no Beginning, and no End. We are all One, and always shall be.</italic></bold>
+
+And with that, you open up your Self and Sing out the True Song of Destruction, and your Ego, the self which you have always known and worshiped in secret as every being worships itself, is utterly unmade.
+
+You are not separate from the Onesong... you <bold>are</bold> the Onesong, and it is you.
+
+------------------------------
+> /EndEvent
+  Go to: fd_hatch
+
+==============================
+Event: fd5
+
+What happens then cannot be told. What lies beyond the Dreaming Door cannot be contained by any artifice; if any Word or even Song were made to carry it, both would die.
+
+But it is sung by the Kin that one of the long line of the Keepers of the Spiritwood gave up its pursuit of Treasure and Glory and even Survival, and became one with all things.
+
+The Turnings rolled on, and great events took place, but while that Kin continued on in flesh, its true spirit was now in another world, a greater world.
+
+In time, the old Spirit of that land passed into the beyond, and a new Spirit, free from judgment and fear and desire, rose over the Great Green.
+
+It flowed in every stream in every corner of the Immortal Forest; Its geometry was reflected in every leaf and every snowflake.
+
+Every Being born in the Green was an echo of that Great Spirit's Music, and It welcomed each one back into Itself upon Destruction, seasoned by having Been.
+
+It knew not Time. It knew not Place. Instead, it knew the Last Truth.
+
+Countless centuries later, when all the Children of Earth and Sun... the Goodbeasts, and even the Orphans whom the Others left behind... would look up at the sky...
+
+They would see the shadow of the Spirit of the Green, and through it, a vision of a reality beyond themselves.
+
+And so at last ends the tale of the Kin who inherited the Heart of the World. Many tales were told of that Draak's exploits and many are the endings appended to it.
+
+But this ending is the one spoken of by the Wind and the Water, and by the Flames close to Earth's heart and by the high Mountains.
+
+This is the story of how one young Kin found the strength to conquer all challenges, and then bested Desire, Rage, Truth, and even its own sense of itself...
+
+How one Being rejected all comforting definitions and dared to stand naked and undefined before All That Is...
+
+And found, at last, the Greatest Treasure.
+
+It was your story, of many lifetimes ago...
+
+And so shall it be again, for all are bound to the same Destiny.
+
+May you be blessed.
+
+------------------------------
+> /EndEvent
+  Go to: truecredits
+
+==============================
+Event: fd_exit
+
+Oh wow, now set the hatch variable back to 0 so we don't have the hatching ui in the rest of the game, hoo
+
+------------------------------
+> [EventLoad]
+  Go to: MainLair
+
+==============================
+Event: fd_hatch
+
+------------------------------
+> [Complete]
+  Go to: fd5
+> [EventLoad]
+  Go to: 
+
+==============================

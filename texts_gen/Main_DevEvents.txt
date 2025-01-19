@@ -1,0 +1,270 @@
+Event: dependence_test
+
+------------------------------
+> Set beans = 0
+  Go to: dependence_test
+> beans ++
+  Go to: dependence_test
+> Test == 2
+  Go to: dependence_test, dependence_test
+> Test != 2
+  Go to: dependence_test, dependence_test
+> Test >= 2
+  Go to: dependence_test, dependence_test
+> Test <= 2
+  Go to: dependence_test, dependence_test
+> Test in range 2 and 0
+  Go to: dependence_test, dependence_test
+> Test in range 2 and 0 olllld
+  Go to: dependence_test, dependence_test
+
+==============================
+Event: dev_death
+
+YOU DIED...
+
+------------------------------
+> [Death]
+  Go to: d1
+
+==============================
+Event: dev_dying
+
+This is a death text. You should die after the next continue.
+
+Jk, the next continue
+
+RIP you
+
+------------------------------
+> [Death]
+  Go to: dev_death
+> DIE!
+  Go to: dev_death
+
+==============================
+Event: dev_font_testing
+
+Here are a bunch of the fonts for different characters
+
+<darktooth>Darktooth
+
+<heron>Herons
+
+<salamander>Salamanders
+
+<neverever>Never-Ever
+
+<spider>Spider
+
+<fireflies>Fireflies
+
+<ox_boi>Ox
+
+<magpie>Magpie
+
+<wolf>Wolf
+
+<water_spirit>Water Spirit
+
+<valhalla_badger>Valhalla Badger
+
+<cat_queen>Cat Queen
+
+<blue_fungus>Blue Fungus
+
+<gg_spirit>Great Green Spirit
+
+<rat>Rat Thieves
+
+<vantage>Vantage
+
+<tempest>Tempest
+
+<warden>Warden
+
+<goat>Trapped Ibex
+
+<bat>Bats
+
+<eagle>Labyrinth Entrance Eagle
+
+<owl>Owl
+
+<writhing_question>Writhing Question
+
+Those are all the ones in the current game.
+
+------------------------------
+> /EndEvent
+  Go to: dev_stats_preset
+
+==============================
+Event: dev_gol
+
+Initialize
+
+------------------------------
+> Go
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_add_neighbors_done
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_add_neighbors_next
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_move_done
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_move_next
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next, dev_gol_next, dev_gol_next, dev_gol_next
+
+==============================
+Event: dev_gol_next
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next, {GOL_NEXT}, dev_gol_next_y
+
+==============================
+Event: dev_gol_next_y
+
+{TEMP_NOTHING}
+
+------------------------------
+> [TIMEOUT]
+  Go to: {GOL_NEXT}, {GOL_DONE}
+
+==============================
+Event: dev_gol_randomize_done
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_randomize_next
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_render_done
+
+<ox_boi><center><size 60>{GOL_RENDER}</size></center></ox_boi>
+
+------------------------------
+> Go
+  Go to: dev_gol_next
+
+==============================
+Event: dev_gol_render_next
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_render_next_1, dev_gol_render_next_1
+
+==============================
+Event: dev_gol_render_next_1
+
+------------------------------
+> [EventLoad]
+  Go to: dev_gol_next, dev_gol_next
+
+==============================
+Event: dev_input_testing
+
+What has three toes and is a sloth?
+
+------------------------------
+> <input : INPUT_SLOTH>
+  Go to: dev_font_testing, dev_death
+
+==============================
+Event: dev_stats_preset
+
+Set stats and destination in the event creator now to apply them in the next event.
+
+<colorshift 1 0 00ff00ff 0000ffff>All links to events that do not exist lead to here.
+
+------------------------------
+> Continue when finished. <color FF0000FF>Make sure to save.</color>
+  Go to: dev_event_stats_set
+> Go to new life starting point selection
+  Go to: demobegin
+> Clear global variables and return to the Main Menu
+  Go to: mainmenu
+> Font Testing
+  Go to: dev_font_testing
+
+==============================
+Event: dev_stats_set
+
+You can set all the stats you want using the event creator.
+
+This continue is useless, except it allows us to test this stuff...
+
+------------------------------
+> Proceed normally...
+  Go to: LairUI
+> Go to a d# event...
+  Go to: d2
+> Go to hunting
+  Go to: HuntingBase
+> <color ff0000>This one is super duper hidden</color>
+  (Hidden: So hidden, you don)
+  Go to: d3
+> [TEST]
+  Go to: p6
+> Go to Labyrinth
+  Go to: dl1base
+
+==============================
+Event: dev_text_break_testing
+
+This should be hidden
+
+1st line
+
+1.5st line (should be hidden)
+
+2nd line
+
+3rd line
+
+4th line
+
+Secret 5th line
+
+------------------------------
+> Done.
+  Go to: sceneloader
+
+==============================
+Event: dev_treasure_use_testing
+
+Hello. Please use a treasure to test its use
+
+------------------------------
+> [SHAKESTICK]
+  Go to: d1
+
+==============================

@@ -1,0 +1,433 @@
+Event: hatch_01
+
+You are alone in the <color #dfab4f>Chamber.</color> There is one <color #82a1ec>Wall,</color> which surrounds you utterly, in every direction and on every side.
+
+The Wall is made of love, and it embraces you. Its inherent goodness is an obvious and complete truth.
+
+There is a <color #6fcf88>Rhythm</color> in the chamber, a beat and a flow which has always been. It is the only way you can tell between sleeping and waking; when awake, you can feel the Rhythm, and when asleep, you cannot.
+
+Which time do you enjoy most?
+
+------------------------------
+> <color FDFF8CFF>I enjoy being awake.</color>
+  Go to: hatch_01a
+> <color 0d74ff>I prefer the quiet of the sleeping times.</color>
+  Go to: hatch_01b
+
+==============================
+Event: hatch_01a
+
+Even now, in the beginning, you reach toward change, toward the future. The thrum of the Rhythm promises everything to you, and will soon blossom into reality.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_02
+
+==============================
+Event: hatch_01b
+
+Even now, in the Chamber, you sense the power of the hidden currents, the loving embrace of the unchanging abyss, and the gentle silences of the world.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_02
+
+==============================
+Event: hatch_02
+
+Then, after a time, you hear the <color #f2c277>Voice.</color>
+
+At first, you did not know that there was a Voice, only a strange sensation unfolding in your Mind: a soothing warmth, pulses of orange color and the comforting taste of brimstone on your tongue.
+
+And yet you are alone here in the Chamber. Could there be something... <bold>outside</bold>?
+
+You reach out, forming a colored echo in your thoughts and sending it beyond your reality...
+
+...and you are rewarded with an explosion of purest joy ringing through your Essence and echoing through your Mind.
+
+In time, you learn the differences between the emotions, the colors of the Mind, that the Voice outside the Wall would pour into you through its Mind-Song and which you would pour back, and so you discover happiness and sadness, anger and calm, fear and curiosity and an innumerable spectrum of others.
+
+And then the images come; pictures etched in neon relief in your Mind by the Song of the Voice.
+
+They are images of amazing beings: of stately <color 20aa19>Tree</color>, and honorable, reliable <color a37db1>Stone</color>, of chattering <color 88dee8>Stream</color> and murmuring <color 0d74ff>Sea</color>, and of the Great Giver, who is also called <color da1010>S</color><color #ffebb1>u</color><color f9ae34>n</color>, and of the Great Birther, who Receives from Sun and gives birth to all things, who is also called <color 6bdd72>E</color><color 6db7dc>a</color><color e0b05e>r</color><color 6bdd72>t</color><color 6db7dc>h</color>.
+
+Earth and Sun are the Greatest of Beasts, mightiest of all the animals, but next to them in might are your people, the True Children of Above and Below, the Kin Unto Each Other, who are also called <color #f4e36d>Draak.</color>
+
+The Voice then asks you a question: <greenflame>O tiny Kin-yet-to-be, which shall you become? Sun, the radiant one, the Great Giver, who rules and slays and is slain and reborn each day? Or Earth, who circle-dances to Sun's Music, who nurtures, peaceful and omnipotent, births all goodbeasts, knows all silent secrets, and abides forever?</greenflame>
+
+------------------------------
+> <color da1010>"For me is the Power, and the Glory, and the Rise and the Fall both. I wish to be Sun!"</color>
+  Go to: hatch_02a
+> <color 20aa19>"For me is the Knowing, and the Healing, and the Dance of the Circle. I wish to be Earth."</color>
+  Go to: hatch_02b
+
+==============================
+Event: hatch_02a
+
+The Voice accepts your choice with an explosion of red and golden sparks and a happy rage. <greenflame>May you become glorious and powerful, and bring beautiful and terrible consequence upon all Life!</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_03
+
+==============================
+Event: hatch_02b
+
+The Voice responds by Singing a vision and feeling of cool, damp earth, pregnant with green life, into you.
+
+<greenflame>On this path lies a Power: hidden, but great. May you find a deeper peace amidst the violence of existence.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_03
+
+==============================
+Event: hatch_03
+
+Time has little meaning in the Chamber, marked only by the Rhythm within you. The Wall also seems to embrace you just a little more closely with each moment.
+
+The Voice-From-Outside leaves and returns again and again, continuing to instruct you, gently and at a slow pace, ensuring that you can receive its Song and build yourself around it.
+
+It teaches you of the many <bold>goodbeasts,</bold> those of fur and scale and feather and fin. Some are swift, like the hopping Longear, and some are powerful, like the horned Grazers, but all are Good, and all have their own Music.
+
+Most importantly, it teaches you the Two Great Laws:
+
+<greenflame>FIRST, that you are a <color f1d266>Destroyer</color>. To Live is Good, and you may only preserve your Life by tearing away the Life of others. You must Destroy: find that which calls to you and Destroy it, and take it into yourself, and grow mighty.
+
+<greenflame>If you fail to Destroy, you will waste away, and be yourself Destroyed, and all your Music will become Silence.
+
+<greenflame>SECOND, that you are a <color f1d266>Creator</color>. All Creators are one of two kinds: Givers, who give of their Essence during the Dance of Creation, or Birthers, who receive the Essence and weave new Life from it, bringing it forth in the fullness of time.
+
+<greenflame>When you have grown Great, you must seek out another who is also Great, and of opposite nature, and through the Dance of Creation become a source of the Future.
+
+<greenflame>If you fail in this, the destiny of the Children of Heaven and Earth will waste away, and where there might have been the echo of your Music in the time beyond yourself, there will be only Silence. So it Is, Was, and Shall Be.
+
+There is a brief silence, during which you sense that there is space enough for one question. What do you do?
+
+------------------------------
+> <color e55c55>I ask how best to consume the Essence of others.</color>
+  Go to: hatch_03a
+> <color e4ac0a>I ask if the Voice is my Creator. Was it one of the two whose Dance created me?</color>
+  Go to: hatch_03b
+> <color e667fc>I ask how to do the Dance of Creation.</color>
+  Go to: hatch_03c
+> <color 5f97ef>I ask whether it is possible to live without Destroying others.</color>
+  Go to: hatch_03d
+> <color 2B9948>I quietly consider these deep within myself, and sought no answers from the Voice.</color>
+  Go to: hatch_03e
+
+==============================
+Event: hatch_03a
+
+The Voice is happy that your will to Live is fierce and bright. <greenflame>Either slay all regret, so that your Essence and Core may align and you can take what you desire, or grow wise, so that you can learn the Way and the Mind of your prey and thus Destroy them with ease and beauty. These two eat well: the vicious and the clever.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_04
+
+==============================
+Event: hatch_03b
+
+<greenflame>Indeed,</greenflame> affirms the Voice, and you can tell that the spring-colored memory of the tender and violent Dance which created you lives still in its Mind.
+
+<greenflame>I am a Source of your being, and so you must, and shall, walk in my ways. My truths are inscribed upon your Essence, and you in your turn shall pass yours unto others, but only if you are strong, and worthy.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_04
+
+==============================
+Event: hatch_03c
+
+<greenflame>You will know how to do the Dance when you have grown Great enough to be worthy of it. Your Body will sing out, and you shall follow the Song. First, you must be a great Destroyer, and then you may be worthy of becoming a Creator.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_04
+
+==============================
+Event: hatch_03d
+
+<greenflame>Be not crippled by Fear, nor by shallow Sympathy. There is no other way to exist. All of the uncountable beings in the Onesong are Destroyers, great and small.
+
+<greenflame>Such has been commanded to all by the Beast of Time and Space, which is also called Reality, and so you must accept it with joy.
+
+<greenflame>But you shall choose just what you will become a Destroyer of, and what you will not, and in that choice lies the power to bring Change.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_04
+
+==============================
+Event: hatch_03e
+
+Turning inward, you open your Essence unto yourself, and there you find the Laws, written like trails of burning light upon your innermost spaces. The Voice has told you a Truth. You are, indeed, a Destroyer and Creator both. Life hangs in the dance between.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_04
+
+==============================
+Event: hatch_04
+
+<greenflame>Beyond the Two Great Laws,</greenflame> sings the Voice, <greenflame>there is one Lesser Law. It is not Great; if you violate it, you shall not be Destroyed. Nevertheless, taste this truth, and chain it within your Mind:
+
+<greenflame>You Must Seek <bold><color f1d266>Treasure.</bold></color>
+
+<greenflame>Treasure comes in many kinds, but you will know it when you find it. Treasure is something rare, and of worth to all of the True Children of Heaven and Earth.
+
+<greenflame>By taking Treasure as your own, you shall prove your Greatness to other Kin.
+
+<greenflame>Whether obtained by strength of Body or of Mind, or any other thing, it matters not; all that matters is that you must gather all Treasures to yourself. Some are obvious, but well-guarded, and some require little strength, but are difficult to find.
+
+<greenflame>None, though, are both obvious and easily obtained, or they would not be Treasure.</greenflame>
+
+------------------------------
+> <color 73E673>"If I do not need it to survive, why must I seek Treasure?"</color>
+  Go to: hatch_04a
+> <color E493FA>"What is the greatest Treasure?"</color>
+  Go to: hatch_04b
+> <color 93CCFA>"Are all Treasures such as can be smelled, and touched, and seen?"</color>
+  Go to: hatch_04c
+> <color edbb34>"Will you give me a Treasure, great Voice?"</color>
+  Go to: hatch_04d
+> <color 30760e>I allow silence to reign, seeking answers within my Self.</color>
+  Go to: hatch_04e
+
+==============================
+Event: hatch_04a
+
+You sense a gray disappointment, but the Voice explains with a patient, patterned Song:
+
+<greenflame>The reasons for being known as Great by other Kin are many. When the time comes for the Dance of Creation, only those who are Great will be chosen by others to Dance with. If you are not Great, you will never Create more of the blessed and ultimate beings that are the Kin.
+
+<greenflame>But more important still is the Truth that the seeking of Treasure is written upon our very Essence. We must seek out great and rare things. Even if there were no Dances of Creation, we would still do it. It calls to us, as the Sky and the Sea and the Great Green call to all things a Song of Invitation.
+
+<greenflame> You are Kin; you shall seek Treasure.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_05
+
+==============================
+Event: hatch_04b
+
+You can tell from the cerulean tinge in its Song that the Voice is pleased with such an ambitious question, but the song which comes back is circuitous and uncertain. <greenflame>While some Treasures are surely greater than others, no one Treasure has yet been Sung of by the Kin as the greatest of all.
+
+<greenflame>There was once a Kin who gathered so much of one of the Elements of Reality that the Element ceased to exist at all outside of that Kin's lair.
+
+<greenflame>There was once a Kin who found a World, great and varied as our own but as tiny as the seed of the smallest Flower, and sealed it in a container which whispered great and mighty Secrets in the form of a thousand histories of lands beneath the notice of even the smallest insect.
+
+<greenflame>There was once a Kin who discovered the deepest truths of Growth, and grew so vast that Sun, the Great Giver, took notice and sang down to it with a Holy Song never heard before or since. And even these were not called the greatest Treasure.
+
+<greenflame>Perhaps it does not exist... or perhaps you, at last, shall be the Kin to find the Greatest of Treasures.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_05
+
+==============================
+Event: hatch_04c
+
+<greenflame>No. While all Kin value that which is rare and beautiful and can be sensed, some few count other things among their treasures, things such as rare Truths and ways of Being, or knowledge of True Songs which Destroy and Create in strange ways, but not all Kin agree as to their worth.
+
+<greenflame>If you can, you must seek to build a Golden Trove, a vast gathering of glittering Treasure which none could deny. Hunt not the unknown; that path is less sure.</greenflame>
+
+However, you sense that there are indeed things less known which some may find to be very, very great Treasure.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_05
+
+==============================
+Event: hatch_04d
+
+The Voice's Song suddenly turns darkly crimson. <greenflame>Never,</greenflame> it sings in painful tones which cut across your Mind.
+
+<greenflame>Learn this: you will be given nothing. All things you must take with your own Being. No Kin will give to another without a price being paid. In this, there is Truth, and Honor, and the growth of Strength through untold eons of hardening and happy strife.
+
+<greenflame>Fight for your Treasure; you must fight sometimes with your Body, and sometimes with your Mind, and sometimes with your very Essence, but always you will earn Treasure, and never, never be given it.
+
+<greenflame>Steel yourself for the Battle Which Never Ends, which is called Life. Love the Battle, and own with pride its gains and its losses. This is a Shard of Wisdom.</greenflame>
+
+------------------------------
+> /EndEvent
+  Go to: hatch_05
+
+==============================
+Event: hatch_04e
+
+You look into yourself and see a Hunger, vast, noble and blessed, a Hunger for Treasure and Glory; in its seeking, you shall become Great, both unto others and unto yourself.
+
+You are ready, and need not the warnings or blessings of others. Your Music shall be yours, and yours alone.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_05
+
+==============================
+Event: hatch_05
+
+The Voice's Song grows softer. <greenflame>Now I leave you, my Kin and my Creation. You may never hear my Song again, nor I yours.
+
+<greenflame>I have imparted the Two Great Laws, as is my duty. You are a <color #ff6363>Destroyer</color>, and you are a <color #4bff7b>Creator</color>, and these Truths are woven into you like warmth into blessed Flame. If you ceased to be a Destroyer or Creator, you would no longer be Kin.
+
+<greenflame>And you know of the Lesser Law, the seeking and taking of <color f1d266>Treasure.</color> Though you may survive, and be well-fed and strong of Body, if you have no Treasure, you will never be called Great among the Kin, you will never know the pleasure of the Dance of Creation, and your Creator-self will languish in a frigid void.
+
+<greenflame>All other Laws are false. These alone bind us. Remember that you are <color #e5c21a>Draak-Kin</color>. All other beings of this world must stand in the shadow of your beautiful and terrible Music.
+
+<greenflame>The Rhythm which you feel now flowing through you is the Rhythm of Life. To have the Rhythm within you is to be Alive; to be Silent, without the Rhythm, is the perfect sign of Death.
+
+<greenflame>Nature shall now be your guide, companion and opponent, your friend, enemy and always, always your teacher.
+
+<greenflame>There is no Being born of Earth, the Great Birther, and Sun, the Great Giver, greater than you. The Music of our people is Great.
+
+<greenflame>Rejoice, knowing that your Essence has been woven into such a Body, and that such a fate is yours.
+
+<greenflame>When you at last escape from the Wall which I have put around you, both to keep you safe and to test you, then you will be worthy to begin the great Adventure which some call Life. </greenflame>
+
+And with that final message, the idea of yourself exploding from potentiality into reality, the Voice fades and is gone. You know that it will not return.
+
+How do you feel in that moment?
+
+------------------------------
+> <color 0d74ff>Relieved to be alone again.</color>
+  Go to: hatch_05a
+> <color e4ac0a>Excited to begin the mysterious journey ahead.</color>
+  Go to: hatch_05b
+> <color 0DD99F>Abandoned by my Creator.</color>
+  Go to: hatch_05c
+> <color 1CB0FF>Admiration for my Creator.</color>
+  Go to: hatch_05d
+> <color 30760e>Nothing.</color>
+  Go to: hatch_05e
+
+==============================
+Event: hatch_05a
+
+Being plunged back into thought-silence is like falling into a cool sea. You learn that you have a love of being alone, a love of the blessed quiet of the lone soul.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_06
+
+==============================
+Event: hatch_05b
+
+You are eager to show the world how Great you are, how much Greater you shall become!
+
+You dance a tiny, tiny dance within the confines of the Chamber, and sing raw, pure Songs of hope and longing into the nothingness beyond the Wall.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_06
+
+==============================
+Event: hatch_05c
+
+Is this really all the Voice was? A Song of possibilities, and then nothingness?
+
+You yearn to touch the Being behind the Voice, to know it as you know yourself, but now, it will never be.
+
+In the timeless time which follows, you often call out with your Mind-Song beyond the Wall, hoping to call the Voice back to you, but Silence alone answers.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_06
+
+==============================
+Event: hatch_05d
+
+You now know so much more of what awaits on the other side of the Wall. You may now guide your thoughts with far more purpose, dreaming of Destruction and Creation.
+
+How Great is the Voice, to give you the gift of such knowledge of What Is, and to mould your being from the dark and infinite sea of possibilities!
+
+------------------------------
+> /EndEvent
+  Go to: hatch_06
+
+==============================
+Event: hatch_05e
+
+Perhaps the images and smells and feelings the Voice projected into your Mind had Truth, and perhaps they did not. Songs are Songs, and Silence is also a Song. You wonder if there is ever a true Silence.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_06
+
+==============================
+Event: hatch_06
+
+For a time, you are left alone again within the Chamber. You feel the measured beating of your Rhythm within you, and drift in and out of consciousness.
+
+The Wall seems to have gotten smaller, hugging you tightly indeed. Your Rhythm has swelled into mighty chords, and your breath is fierce against your legs.
+
+Suddenly, and without warning, the Voice returns. It is not a measured song rife with ordered sigils as last time, but a lurid gash of feelings and ideas suddenly thrust upon you:
+
+<bold><greenflame>Beware the Other-seed, the No-tails, the Flatfaces! Beware their terrible Music! Beware the Seed of the Others! Beware...</bold>
+
+And suddenly, there is an awful Silence. A space, left behind, where something should have Been.
+
+------------------------------
+> /EndEvent
+  Go to: hatch_07
+
+==============================
+Event: hatch_07
+
+No other voices enter your Mind. A few times, you think you may be receiving a Song, but it always proves to be simply yourself echoing tiny hopes, fears and dreams.
+
+Meanwhile, the Wall... the Wall, which is made of Love, and which has always, always embraced you... is squeezing you very tightly.
+
+Its Love, once so pure and benign, has become toxic. You are pressed so mercilessly you can barely breathe, and to make matters worse, you feel a horrible emptiness, a draining within your Core.
+
+You must do... something.
+
+------------------------------
+> <color F51D1D>Push against the Wall.</color>
+  Go to: hatch_07a
+> <color 0049a4>Be still and silent; breathe, and wait.</color>
+  Go to: hatch_07b
+
+==============================
+Event: hatch_07a
+
+It loves you, you know, but it must now be broken.
+
+You push and struggle, feeling your Body move this way, then that, but the Wall thwarts your every move on every side.
+
+It is not through pushing but rather through unfolding your whole self, limb by limb and muscle by muscle, that you at last achieve the first true success in the Music of your Life...
+
+You hear, not with your Mind but with your ears, your actual ears, the cracking and crunching of the Wall as it breaks slowly apart, and then see with your own eyes your first vision of true Light.
+
+------------------------------
+> /EndEvent
+  Go to: eggCrack
+
+==============================
+Event: hatch_07b
+
+The Wall loves you, and knows what is best for you. And yet...
+
+You grow weaker and less comfortable with each passing moment. At the last, you are so confined that you cannot even breathe. <bold><italic>The Wall is going to Love you into Destruction!</bold></italic>
+
+Panic sets in, overwhelming your Mind and slaving your actions to your most basic Self. You thrash and struggle and gasp, and for the first time, you know true, complete and utter Fear.
+
+But at last, through your fear and your mad Dance, you cause a Breaking of everything that you have ever known. It falls, agonizingly slowly, to pieces, the Wall cracking and crunching as it simultaneously fails and succeeds in its true mission.
+
+You hear, not only with your Mind but with your ears, and see, not only with your Mind but with your true eyes. Covered in the ruins of the Wall, you emerge out of potential existence and into <bold>Life.</bold>
+
+------------------------------
+> /EndEvent
+  Go to: eggCrack
+
+==============================
+Event: hatch_07born
+
+<bold>You Have Been Born.</bold>
+
+------------------------------
+> /EndEvent
+  Go to: p1
+
+==============================

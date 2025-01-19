@@ -1,0 +1,589 @@
+Event: combat_ended
+
+------------------------------
+
+==============================
+Event: hunt_blackburn_slain_event
+
+As the old songs go, being burnt by Sun made the Blackburn's meat unsuitable for eating. After eating one yourself, you would not argue.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_blazetail_slain_event
+
+The flesh is bittersweet, tasting of secrets kept beyond the end.
+
+You remove its beautiful tail to take to the tiny beings.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_clansinger_slain_event
+
+While not particularly sweet or savory, the Singer's flesh burns pleasantly in your Core. You feel strengthened and invigorated after consuming such a noble goodbeast.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_darksweet_slain_event
+
+If the most precious treasures which rest deep within Earth were turned to flesh, that flesh might be compared with the velvety, tender meat of a Darksweet, laced with ruby Essence which smacks of rising moons and summer evenings freshly remembered. It is almost, but not quite, a Treasure.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_dayskyclaw_slain_event
+
+While its flesh is unremarkable, the Skyclaw's long, strong feathers, almost as nice as your own, seem worth keeping. You tear off a few dozen before consuming it.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_deathbitetailbeast_slain_a
+
+While the taste is not bad, your Core begins to object shortly after you swallow the poisonous goodbeast. The unpleasant feeling spreads... you feel awful.
+
+...you have, however, stopped glowing blue.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_deathbitetailbeast_slain_b
+
+You bathe the now-Quiet Deathbite's Body in your flame for a short time, burning away the toxic venom. The meal is now safe and surprisingly satisfying.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_deathbitetailbeast_slain_event
+
+You have prevailed in the Dance of Destruction. {HASSTATUS_RAT_QUEST=1 The Tailbeast's fangs are now yours. }What will you do with the now-Silent Body of the Deathbite?
+
+------------------------------
+> Consume it raw.
+  Go to: hunt_deathbitetailbeast_slain_a
+> Roast it with your Breath and then consume it.
+  (Hidden: If only your Mind was sharper, or you knew more of the Deathbite clan...)
+  Go to: hunt_deathbitetailbeast_slain_b
+
+==============================
+Event: hunt_default_slain_event
+
+You grasp this Goodbeast in your jaws, feeling thankful for your skill and for its sacrifice.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greatgrazer_slain_event
+
+So much meat... this would have been sustenance for many of the Tailless. There is so much that you can barely finish, and you feel sluggish, though very, very well-fed.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greathornsurefoot_slain_event
+
+The Surefoot's flesh had a simple taste and a nutritious quality. You take its headweapons as a memento.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greatlumberer_slain_event
+
+Power and energy fill your Core, flooding into your Essence, as you consume the Body of this, the largest furbeast of the Great Green. This will be a meal to remember, and you take its surprisingly soft skin back with you to commemorate the event.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greatslideclaw_slain_event
+
+Its flesh is rather gamey, sticking in your craw, but there is so much of it! You are certainly replete, and its skin will make a fine gift to you, the victor of this Dance of Destruction.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greatspearbill_slain_event
+
+The Spearbill's meat is only of average quality. Having removed such a creature from the Great Green fills you with pride and regret in equal measure. You keep a few dozen of its longest and most beautiful feathers as a reminder.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_greatstinkstrike_slain_event
+
+For a long time after the last of its Body has become yours, a sour, spicy taste lingers on your tongue. Its Essence burns brightly within you.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_hillback_slain_event
+
+This was worthy prey for even the largest Kin, and you can't keep your tail from curling with pride as you dine upon its voluminous Body. Its shaggy pelt seems worth bringing back to your lair as a reminder of this fine repast.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_layerwing_slain_event
+
+Its flesh is quite delicious, make no mistake, but more than that, something is happening to your Essence as you absorb the Layerwing's sacred Body; you feel sluggish, yet deeply happy.
+
+You smell new scents, notice new details. Perhaps rumors that the Layerwings have a deep, subtle magic are not exaggerated.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_lesserlumberer_slain_event
+
+While most predators are not very appetizing, this one is an exception; its supplemental diet of berries and tubers gives its flesh a pleasing, robust flavor.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_lesserslideclaw_slain_event
+
+For the risk, the little Slideclaw's flesh was woefully bitter, smacking of tiny furbeasts beneath your dignity.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_lesserspearbill_slain_event
+
+This feathered predator's flesh was bitter and stringy, making for a poor meal. However, you find yourself lost in contemplation a bit more than usual over the next few Suns.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_lesserstinkstrike_slain_event
+
+Though freshly Destroyed, the flesh of the Stinkstrike is almost rancid, pickled in its distinctive fiery essence. Still, you do feel nourished.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_longear_slain_event
+
+In its fragrant flesh, you taste the flowers of spring, the grasses of summer, and the hidden root-treasures of the fields.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_longscale_slain_event
+
+It was as delicious as it was vicious.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_longscalechieftain_slain_event
+
+In the tiny songs of their people, the denizens of this place will sing of this Dance for generations. Feasting on the great Waterbound chieftain's flesh, you feel hale and invigorated, but you almost break a tooth on something within its belly: a strange gem the color of dreams.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_lumberkin_slain_event
+
+The Lumberkin's flesh is tough and tenacious between your teeth, as if continuing to fight you even beyond Destruction. This was a hard-won meal.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_nightskyclaw_slain_event
+
+While its flesh is unremarkable, the Skyclaw's long, strong feathers, almost as nice as your own, seem worth keeping.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_plainsrunner_slain_event
+
+Such a feast! You feel deeply sated, and as you meditate on the noble beast's Essence, you feel inspired to run free, feeling the wind in your feathers and sweeping over your armor.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_prickleback_slain_event
+
+Separating the Prickleback's spike-riddled pelt from its flesh is not easy, but once it is safe to eat, you find it a satisfying, earthy meal.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_rainscale_slain_event
+
+Ah, the flavor of fresh Waterbound! It is tempting to swallow it whole, but you take a few extra moments to enjoy the heady saline taste.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_shellbeast_slain_event
+
+Drinking the vermilion Essence from its wounds is done easily enough, but cracking open its stone-skin to get at the rest of its Body is much more difficult. In the end, you swallow it whole, but it does not settle well.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_shiftscale_slain_event
+
+Most Waterbound are tasty, but this one is especially so; its pink flesh tears apart tenderly, with barely a sound, and its rare oils settle nicely into your Core.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_shimmerling_slain_event
+
+Its flesh was so delicious, its Essence so sweet, that you do not even remember eating it; you were lost in a joyful frenzy. Later, you regurgitate a few of its long, elegant tailfeathers, and decide to keep them as small, prismatic treasures.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_shorttailslideclaw_slain_event
+
+You have Destroyed the Shorttail Slideclaw, and its flesh is now yours. While the flavor was not remarkable, the goodbeast's ears were striking enough that you separated them and took them back with you.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_snowfeather_slain_event
+
+The deep red, moist flesh of this belligerent featherbeast was worth the trouble. You take a short while to bask after eating, savoring the taste while being stroked by Sun's gentle claws.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_sunsinger_slain_event
+
+Its surface feathers were caked with filth, but the meat was surprisingly hale.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_surefoot_slain_event
+
+While slightly tough, the Surefoot's flesh was quite tasty. You take your time, chewing it for longer than usual, savoring the flavor.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_surefootslave_slain_event
+
+You can see why the Tailless keep these for their meat... it is, indeed, pleasing to the tongue.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tailbeast_slain_event
+
+A small but satisfying meal. You swallow the Tailbeast whole, feeling its long Body settle within you, breaking down into pure Essence, becoming yours.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tailbreak_escape
+
+You pounce, seizing the {PREY_NAME}'s tail, but to your surprise, the appendage breaks away easily in your jaws, leaving you in confusion as the prey escapes. A cunning trick, to be sure... perhaps more observation of the creature may make this less likely to happen in the future.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_taillesshunter_slain_event
+
+The oily flavor of its flesh is vaguely reminiscent of a Tusksnort's, but there is something else, a spicy layer which tastes like lightning. Is is strangely appealing, and the meal is over far to soon.
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_taillesswarrior_slain_event
+
+The oily flavor of its flesh is vaguely reminiscent of a Tusksnort's, but there is something else, a spicy layer which tastes like lightning. Is is strangely appealing, and the meal is over far to soon. You also are able to collect parts of its shinetone second-skin for your Trove.
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_treetail_slain_event
+
+Nuts and seeds build pleasantly salty flesh; a tiny but tasty morsel.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tusksnortbirther_slain_event
+
+The Tusksnort's flesh is even more delicious than you expected, burning brightly in your Core. This was a most satisfying meal.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tusksnortgiver_slain_event
+
+The Tusksnort's flesh is even more delicious than you expected, burning brightly in your Core. This was a most satisfying meal.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tusksnorthatchling_slain_event
+
+So tender, so sweet! Your feathers tremble and your tail curls with joy as you consume the hatchling Tusksnort's Body. This is a delicacy indeed.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_tutorialtreetail_slain_event
+
+You crunch the last of the Treetail in your jaws, crushing the small furbeast's skull and tasting its satisfyingly salty brains. It is true; your Body and Mind were made for this, made for the Destruction of smaller beings, and in the chase, in the Dance of Destruction, there is joy, and honor, and beauty. As you grow, greater and greater prey will be yours to hunt, with greater dangers and rewards at stake. Finishing your meal, you pause to clean yourself and meditate on the day's hunts before going back to your lair, replete.
+
+------------------------------
+> /EndEvent
+  Go to: p9
+
+==============================
+Event: hunt_waterwing_slain_event
+
+Consuming this featherbeast was surely the highlight of this Sun. It took a short while to rip off enough of its feathers to render it edible, but it was very much worth the effort.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_whiteblack_slain_event
+
+Your tongue informs you that you may have been better off not hunting this contrary featherbeast, but as you slowly absorb its flesh into yourself, an image comes unbidden to your Mind: five silver nuggets, six golden ones, side by side... and seven... seven... what? Something important...
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_woodsrunnerbirther_slain_event
+
+What was once the leaves of the great Trees was fashioned into the Body and Essence of this graceful Woodstrider, and now it is yours. The meal leaves you feeling deeply satisfied.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_woodsrunnergiver_slain_event
+
+The flesh of this handsome lord of the Great Green is fittingly delicious. Its crown will make for a fine reminder of your beautiful and deadly encounter.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: hunt_woodsrunnerhatchling_slain_event
+
+What was once the leaves of the great Trees was fashioned into the Body and Essence of this graceful Woodstrider, and now it is yours. The meal leaves you feeling deeply satisfied.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {TEMP_HUNTING_PREFAB}, {TEMP_HUNTING_PREFAB}
+
+==============================
+Event: preyescapedpursuit
+
+The prey escaped your grasp.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: {HUNT_FAIL_LOCATION}
+
+==============================
+Event: tutorialtreetailhuntfail
+
+So goes the ancient Dance between predator and prey; you did not win a third meal this time, but perhaps you learned something of yourself and your opponent. Even Treetails must be hunted with respect for their abilities. Had they not been worthy prey, they would have been gone long ago, swallowed by Time and the tender yet merciless Way of Nature.
+
+Practice, and observe your prey when you can; believe in yourself, but also know your limitations. If you remain true to your own Way, then you will bring good and glorious Destruction to many, and live to see the rising of many Suns and many Turnings of the seasons.
+
+------------------------------
+> /EndEvent
+  Go to: p9
+
+==============================

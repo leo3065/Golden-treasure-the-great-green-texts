@@ -1,0 +1,1134 @@
+Event: fp
+
+You are exhausted and cold by the end of the long skypath which has brought you here.
+
+The chill, though stubborn, is wiped away by the smell of Earth, Fire, Air and crystal Water coming together. A glowing taste fills the nearby clouds.
+
+This is the territory claimed by Many-Times-Burned, Paragon of the Draak-Kin People.
+
+The tales surrounding that Elder are many. Some say that its Body was burned to charcoal in the Core of the World, its bones bursting and red-cracked, but that its Mind was so strong that it knit itself back together again, though the pain of the exploding moment never receded.
+
+Others say that its Mind was torn from it by circumstances too outrageous to understand, but that its Essence was so mighty that it was able to survive through sheer force of Will.
+
+No one dares to claim that its Essence is what was broken and incinerated by Reality. That would be either a blasphemous falsehood or, if true, too horrible to consider.
+
+Landing on the mountain, you roar out a Song of Annunciation. Hardly any time at all passes before you are greeted by a strange Baretail, its Essence a lurid blaze even against the heat.
+
+<neverever>Three and three make six, nine, one and zero, if "and" is interpreted differently.</neverever>
+
+<neverever>By the enlightened Mind I bear, be welcome, mighty Kin, in the name of the Undying Master.</neverever>
+
+<neverever>This one is Never-Ever, envoy of the Sun-Shadow, the Pulled-Together-and-Apart, the Many-Times-Burned.</neverever>
+
+<neverever>Is the Fourth Lair of the Master not beautiful? Behold: Earth reaches out for the Great Above through Her burning Essence.</neverever>
+
+<neverever>Is it Sun that She yearns to become one with, or the Void? One wonders. One wonders.</neverever>
+
+<neverever>You are expected below. The way is steep; take care not to harm your magnificent Body.</neverever>
+
+<neverever>Yet.</neverever>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fpa
+
+==============================
+Event: fp_1
+
+<unforgetting>Welcome, great Kin, to my Chamber, first of them all, but for many, the last.</unforgetting>
+
+<unforgetting>I am Unforgetting. The Eternal One has granted me the privilege of teaching those who would brave the Descent the peril of their choice.</unforgetting>
+
+<unforgetting>Before we Dance, answer: how many limbs have I?</unforgetting>
+
+------------------------------
+> One.
+  Go to: fp_1a
+> Many.
+  Go to: fp_1a
+
+==============================
+Event: fp_1_retreat
+
+------------------------------
+> [EventLoad]
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: fp_1a
+
+<unforgetting>One in Body, but many in Essence.</unforgetting>
+
+<unforgetting>Turnings beyond turnings ago, some from among the Kin sacrificed their limbs to survive the Skyfall.</unforgetting>
+
+<unforgetting>We, the Tailbeast People, are their descendants. My People have forgotten what it was to run, to fly, to breathe out Destruction upon others. To reign.</unforgetting>
+
+<unforgetting>Most Kin saw us as fallen, as degenerate, as food. But the Great Burning One saw us as beautiful. We were willing to sacrifice all for the sake of Survival.</unforgetting>
+
+<unforgetting>The Great One gifted me, greatest of warriors among my Tribe, with a sliver of its eons-deep soul, and I remembered. I remembered all, and became the Unforgetting.</unforgetting>
+
+<unforgetting>I remembered the Kin-Essence which slept always inside me. I remembered that what was lost may be regained.</unforgetting>
+
+<unforgetting>Dance with me now, as one who aspires to be what you are. I yearn to become you. Show me the Fire, the Essence of the Kin!</unforgetting>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_1as
+
+<unforgetting>This is the power. This is the strength.</unforgetting>
+
+<unforgetting>It is such a rare honor to fight a true Kin, within and without.</unforgetting>
+
+<unforgetting>I lower myself before you. You may pass.</unforgetting>
+
+<neverever>You have won the right to continue your Descent. However, you may continue the Dance until true Destruction if you wish to take the guardian's Treasures.</neverever>
+
+It seems as though Unforgetting the mostly-Tailbeast has a small pile of shiny things. There are nearly as many as you have teeth.
+
+Pass through now, or Dance to the bitter End?
+
+------------------------------
+> Pass through, and leave the first guardian and its shiny things behind.
+  Go to: fp_1asa
+> Dance. Its Trove shall be yours.
+  Go to: fp_1asb
+
+==============================
+Event: fp_1asa
+
+<neverever>Have you understood the lesson-in-flesh which is here Beheld?</neverever>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_1s
+
+==============================
+Event: fp_1asb
+
+<unforgetting>Many thanks, honored Guest. I hoped you would stay.</unforgetting>
+
+<unforgetting>Show me the glory of that which I shall become. In return, I shall display my true strength in a Dance greater than any other Tailbeast could ever offer you!</unforgetting>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_1asbs
+
+<unforgetting>Yessss. The glory. The horrible... terrifying... glory.</unforgetting>
+
+<unforgetting>This is what... I was meant to be... I was meant to be... you.</unforgetting>
+
+<unforgetting>Take me inside of you. If I... am not worthy to come before the Master... to beseech the Great One to complete my transformation into a true Kin...</unforgetting>
+
+<unforgetting>Then I beg you... fulfill my wish. Consume this Body. Add my flesh to yours, my Essence to your Essence, until it melts and merges.</unforgetting>
+
+<unforgetting>Let me become... you.</unforgetting>
+
+------------------------------
+> Consume the Tailbeast warrior and take its Body and Trove.
+  Go to: fp_1asbsa
+> Move on to the next Chamber, and leave it alive.
+  Go to: fp_1asbsb
+
+==============================
+Event: fp_1asbsa
+
+You crush the warrior's narrow skull in your jaws and consume it. As the last of its long Tail-Body moves down your throat and into your Core, you feel a rush of vigor.
+
+Perhaps the fulfillment of its dying wish was the cause. As you eat, Never-Ever observes impassively. When you finish, it offers you a modest pile of shiny things for your victory.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_1s
+
+==============================
+Event: fp_1asbsb
+
+You turn away from the gasping Warrior and continue on your way. As it guides you to your next challenge, Never-Ever sings:
+
+<neverever>You chose to spare Unforgetting, sacrificing a meal of its flesh and its Trove of shiny things.</neverever>
+
+<neverever>We admit to being confused, o great Kin. Please teach us, and explain why you would do something so contrary to Reason.</neverever>
+
+------------------------------
+> I admired its spirit, and saw myself in it.
+  Go to: fp_1s
+> It was not worthy of my time, or to be my prey.
+  Go to: fp_1s
+> It was eager to be consumed, and I found that suspicious.
+  Go to: fp_1s
+> It would not become Kin by being consumed. I am forcing it to take a more difficult path to completion.
+  Go to: fp_1s
+> (Do not answer.)
+  Go to: fp_1s
+
+==============================
+Event: fp_1s
+
+<neverever>Sacrifice.</neverever>
+
+<neverever>One can never achieve greatness without understanding the nature of sacrifice.</neverever>
+
+<neverever>If one is unwilling to abandon one's Trove, one's prey, even one's own idea of oneself...</neverever>
+
+<neverever>Then Survival is impossible, and without Survival, all is Silence.</neverever>
+
+<neverever>The Tailbeast People were wise indeed to do as they did. The loss of their limbs was a small price to pay for the priceless Treasure called Life.</neverever>
+
+<neverever>Do you wish to continue the Descent, o Kin? If so, I will heal some of your wounds; if not, then leave, and return when you feel you are ready. A new Dance awaits.</neverever>
+
+------------------------------
+> Yes, I am ready to Dance again.
+  Go to: fp_1sa
+> No, I will return to my Lair.
+  Go to: DayTransition
+
+==============================
+Event: fp_1sa
+
+Never-Ever clambers up your Body and licks your injuries. Its saliva burns like Sun, but amazingly, your wounds begin to close.
+
+It is time to face the next challenge.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_2
+
+==============================
+Event: fp_2
+
+<violent><color da1010>I am Re</color>n<color da1010>d.</color></violent>
+
+<violent><color #0d74ff>I am Blu</color>n<color #0d74ff>e.</color></violent>
+
+<violent><color #9900ff>Together, we are Viole</color>n<color #9900ff>t.</color></violent>
+
+<violent><color #da1010>Like a holy flame, the Dark Master burned away my insides.</color></violent>
+
+<violent><color #0d74ff>Like a great wave, The Everlasting One washed away my desires.</color></violent>
+
+<violent><color #9900ff>We have been blessed. Oh, how we have been blessed.</color></violent>
+
+<violent><color #da1010>When one carries too much within, one becomes heavy and slow. Weak.</color></violent>
+
+<violent><color #0d74ff>Hesitation. Misjudgment. Arrogance. Kindness.</color></violent>
+
+<violent><color #9900ff>You must empty yourself of them, until only what is needed remains.</color></violent>
+
+<violent><color #da1010>You look heavy. So heavy.</color></violent>
+
+<violent><color #0d74ff>So complicated, inside and out.</color></violent>
+
+<violent><color #9900ff>We will fix you. We will tear away the excess.</color></violent>
+
+<violent><color #9900ff>We will make you light.</color></violent>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_2_retreat
+
+------------------------------
+> [EventLoad]
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: fp_2as
+
+<violent><color #da1010>You are less burdened than you appeared.</color></violent>
+
+<violent><color #0d74ff>So little hesitation. So few contradictions.</color></violent>
+
+<violent><color #9900ff>You are clean. You are light.</color></violent>
+
+You have proven yourself to the Guardian(s?), who now roost protectively on a small collection of shinestone and gems of various kinds. There are more than you have teeth.
+
+Move on, or issue a final challenge?
+
+------------------------------
+> Continue the descent, and leave the Guardian(s) and their Trove.
+  Go to: fp_2s
+> Dance on, and to the end.
+  Go to: fp_2asb
+
+==============================
+Event: fp_2asb
+
+<violent><color #da1010>Does the Guest see weakness within us?</color></violent>
+
+<violent><color #0d74ff>Has it found complicating heaviness inside?</color></violent>
+
+<violent><color #9900ff>Tear it away. Tear it all away, until the Void shines through.</color></violent>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_2asbs
+
+<violent><color #da1010>The light which hides behind the darkness...</color></violent>
+
+<violent><color #0d74ff>The darkness which hides behind the light...</color></violent>
+
+<violent><color #9900ff>We see it. At last. We see.</color></violent>
+
+------------------------------
+> End them and claim their Bodies and riches for yourself.
+  Go to: fp_2asbsa
+> Leave them and their baubles behind.
+  Go to: fp_2s
+
+==============================
+Event: fp_2asbsa
+
+The feathers take a little work to get past, but their chest-flesh is clean and light. So very light, indeed.
+
+Their Treasure is a bit heavier, though in a good way.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_2s
+
+==============================
+Event: fp_2s
+
+<neverever>Did you understand, Great Kin?</neverever>
+
+<neverever>One may be two, and two may be one.</neverever>
+
+<neverever>We carry many burdens within ourselves. A few we need, or we would come apart.</neverever>
+
+<neverever>But most clutter and cloud the Water-pool of the Mind, the Body.</neverever>
+
+<neverever>If there is something weighing you down, leave it behind. Then, all of your Dances shall be light and graceful. True.</neverever>
+
+<neverever>Final.</neverever>
+
+<neverever>Come. The next of the Held awaits your generous attention. I will close your gaps, if you will seize the moment.</neverever>
+
+------------------------------
+> Yes, I am ready to Dance again.
+  Go to: fp_2sa
+> No, I will return to my Lair, for now.
+  Go to: DayTransition
+
+==============================
+Event: fp_2sa
+
+Never-Ever clambers up your Body and licks your injuries. Its saliva burns like Sun, but amazingly, your wounds begin to close.
+
+It is time to face the next challenge.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_3
+
+==============================
+Event: fp_3
+
+<agony>Essence... Essence, I smell... we must not... but it hurts...</agony>
+
+<agony>The pain... we feel... total...</agony>
+
+<agony><italic><bold>AGONY</italic></bold>.</agony>
+
+<agony>No. Go AWAY. You do not want... what you think you want.</agony>
+
+<agony>This is not... was never... a blessing. CURSE. It was always... a curse.</agony>
+
+<agony>I should... never have come here... never should have asked...</agony>
+
+<agony>I am become... a curse. The Master... is a curse upon...</agony>
+
+<agony>You do not want this. It is not too late... for you...</agony>
+
+<agony><italic><bold>Flee away. Far away. Now.</italic></bold></agony>
+
+<agony><italic><bold>GO AWAY!</italic></bold></agony>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_3_retreat
+
+------------------------------
+> [EventLoad]
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: fp_3as
+
+<agony>NO. NO.</agony>
+
+<agony>Not... another one. Please... you don't deserve... nothing deserves... to become this.</agony>
+
+<agony>BEG. I beg. END ME.</agony>
+
+<agony>END ME, and FLY away. Not... too late... for you...</agony>
+
+<agony>The anguish... torment... only wanted to be... strong...</agony>
+
+Unlike the previous members of the Beholden, Agony does not seem to have a pile of Treasure to call its own. A few scraps of shinestone are scattered on the floor near the bars; it seems that it has thrown away its Trove.
+
+The shinestone band on its leg, however, smells very interesting.
+
+------------------------------
+> Leave Agony to itself. Move on.
+  Go to: fp_3s
+> End Agony's torment forever. Dance.
+  Go to: fp_3asb
+
+==============================
+Event: fp_3asb
+
+<agony>THANK YOU. Please...</agony>
+
+<agony>Do not stop... do not stop until...</agony>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_3asbs
+
+<agony>PLEASE... SAVE ME... FROM THIS...</agony>
+
+<agony>END ME! FINISH ME! PLEASE!</agony>
+
+------------------------------
+> Pass on, leaving the once-Goodbeast to unending torment.
+  Go to: fp_3s
+> Fulfill Agony's wish. Destroy it.
+  Go to: fp_3asbsb
+
+==============================
+Event: fp_3asbsb
+
+As the tortured Essence flees the broken Body, the pain drains from Agony's eyes. The chamber is quiet at last.
+
+The flesh of your opponent is sour, but bracing.
+
+The limb-ring smells fascinating. Has it, too, been Enkindled?
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_3s
+
+==============================
+Event: fp_3s
+
+<neverever>Shall I tell an interesting story as we Descend farther, o Guest?</neverever>
+
+<neverever>Once, there was a Lumberer who was small and weak, as its kind reckons such things. Its prey was often stolen by others, it was never chosen as a Creation-partner, and it rarely knew peace.</neverever>
+
+<neverever>It learned, however. It learned to achieve victory by unorthodox means, but it continued to envy the strong, the seemingly safe, those chosen to Create.</neverever>
+
+<neverever>And so it made the journey here. Employing all of its resources, it defeated the Beholden and arrived before the Great Master itself. There, it expressed its wish to be the very strongest of its kind.</neverever>
+
+<neverever>The Undying One generously granted its request, Enkindling it to make it more fearsome and deadly than any other. As a final gift, the Lumberer was granted the Pain-Killer, a shinestone brace which, when affixed, grants immense strength at the low, reasonable cost of constant pain.</neverever>
+
+<neverever>Despite the fact that the Lumberer had specifically stated that it would pay any price to have its wish fulfilled, the pain was too much for its weak Mind to cope with. It insisted on meeting the Overlord once more, this time to request that the brace be removed and its Body restored to its original state.</neverever>
+
+<neverever>The impertinence of such an ungrateful request!</neverever>
+
+<neverever>Still, it was judged that the Great One would grant it another audience if it were to serve and survive as one of the Beholden, and so it was confined to a Chamber. Its Mind, however, continued to deteriorate under the strain of constant anguish.</neverever>
+
+<neverever>Eventually, everything else was Burned, melted away, until only the Agony was left.</neverever>
+
+<neverever>An amusing story, is it not? I have no doubt that a Kin such as yourself would understand the lesson to be learned from it.</neverever>
+
+<neverever>Shall we proceed?</neverever>
+
+------------------------------
+> Yes, I am ready to Dance again.
+  Go to: fp_3sa
+> No, I will return to my Lair, for now.
+  Go to: DayTransition
+
+==============================
+Event: fp_3sa
+
+Never-Ever clambers up your Body and licks your injuries. Its saliva burns like Sun, but amazingly, your wounds begin to close.
+
+It is time to face the next challenge.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_4
+
+==============================
+Event: fp_4
+
+Your Descent is progressing; it seems as though you are near to the bottom of the caldera.
+
+Even before you enter the next Chamber, however, you are struck by a strange odor. It reminds you of the Tailless, but it is not nearly as noisome. It might be compared to salt-Water on grey, cold slate which has been trod upon by many No-Tail feet.
+
+This being seems not to have a tail, but it is definitely of a completely different kind from the common Tailless which you have known. It is larger. Stronger.
+
+Purer.
+
+Its Mind-song is slightly veiled behind a layer of mental difference, but what you can understand of its sigils is not without a certain beauty.
+
+<last>O past-enthroned encompasser of Sky and Ground; openly, I recognize your puissance.</last>
+
+<last>I am known as Last. As yours, my species has similarly been disenfranchised by tragedy.</last>
+
+<last>However, even the storied Skyfall was anemic in comparison to the living tide which drowned my compatriots, such that solitude alone is my companion.</last>
+
+<last>There is no destitution, no poverty, like that of mine, for the very future has been shorn away. Though I carry the sacred potential of nascent Life within my form, there are none to awaken it.</last>
+
+<last>Know therefore that I have no fragility, no feebleness. None can be afforded. The Grand Survivor below represents the final hope of my entire genotype.</last>
+
+<last>Allow me to display the martial prowess for which the Enforcers were engendered.</last>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_4_retreat
+
+------------------------------
+> [EventLoad]
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: fp_4as
+
+<last>Indeed, your potence is undeniable. Even among the multitudinous aspirants encountered in this singular location, you may candidly be described as remarkable.</last>
+
+<last>I respectfully request that you progress without further conflict. My need for continued survival is not personal, but rather the closing, desperate wish of departed myriads.</last>
+
+<last>For the benefit of both of us. Only tragedy can possibly result from the annihilation of either of our existences.</last>
+
+This being is exceptionally strong in every way, and the last of its kind. It is, however, in possession of a rather large pile of Treasure. It must be near to purchasing the favor of Many-Times-Burned.
+
+What is your will?
+
+------------------------------
+> Allow hope to remain for a forgotten People. Move on.
+  Go to: fp_4s
+> Become Final Destruction, and the winner of Treasure.
+  Go to: fp_4asb
+
+==============================
+Event: fp_4asb
+
+<last>My departed relations, whose spirits I carry heavily within me...</last>
+
+<last>Grant unto your lonely child the force and the will to annihilate this deadly threat to the realization of our shared dream... the longed-for miracle...</last>
+
+<last>To hear, at long last, the cry of a newborn, and with it, the birth of Hope.</last>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat, HuntingBaseCombat
+
+==============================
+Event: fp_4asbs
+
+<last>I beseech you, mighty one. I implore you.</last>
+
+<last>If the drackin heart knows mercy, or sorrow, or Truth...</last>
+
+<last>In the names of all of these, I prostrate my broken Body before you and plead for deliverance from the Void.</last>
+
+<last>Complete not what you have begun. It shall not be one you slay, but infinite numbers of potential beings, as I am the last.</last>
+
+<last>I am... Last.</last>
+
+It raises its head and looks at you. In its eyes, you can see its own Essence and that of its People, once uncountable thousands and now only one.
+
+Your tongue is split by the razor edge between a new beginning and an eternal tragedy.
+
+The large pile of Treasure gleams. The sharp Stones on the death-weapon in your opponent's paws glint dully.
+
+Choose.
+
+------------------------------
+> Take it all from Last. Take everything, forever.
+  Go to: fp_4asbsa
+> Leave it.
+  Go to: fp_4s
+
+==============================
+Event: fp_4asbsa
+
+Something horribly, painfully delicious slides down your throat as you feast on the flesh of the very last of the Enforcer People.
+
+Did you taste great triumph or ultimate despair?
+
+It is sweet... so, so sweet.
+
+There is much, much Treasure, such that your belly can scarcely contain it all, and the death-weapon makes a wonderful trophy of the time you ended an entire People in a single moment.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_4s
+
+==============================
+Event: fp_4s
+
+<neverever>The Enforcers. Forgotten third spawn of the Others.</neverever>
+
+<neverever>They were Created to keep the Delvers and the surface Tailless balanced. Checked.</neverever>
+
+<neverever>Even the Others must have underestimated the ingenuity and ruthlessness of the No-Tails.</neverever>
+
+<neverever>After all, if they had not, they would have made the Enforcers stronger, or perhaps they never would have made the No-Tails to begin with.</neverever>
+
+<neverever>How different Earth's Body would be now, if only such had been...</neverever>
+
+<neverever>Apologies for boring you with my musings, Great Warrior, for such you surely are, even among such a strong People as the Draak-Kin.</neverever>
+
+<neverever>Your next opponent is the final force standing between you and the Blackened One. It is very, very strong.</neverever>
+
+<neverever>If you choose to face it now, I shall heal you completely, but be warned. There is no fleeing from it, and It has never known true defeat.</neverever>
+
+What will you do?
+
+------------------------------
+> Face the Final Guardian.
+  Go to: fp_4sa
+> No, I will return to my Lair, for now, to rest and grow stronger.
+  Go to: DayTransition
+
+==============================
+Event: fp_4sa
+
+Never-Ever clambers up your Body and licks your injuries. Its saliva burns like Sun, but amazingly, your wounds begin to close.
+
+It is time.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5
+
+==============================
+Event: fp_5
+
+There It lies.
+
+Many-Times-Burned, the Paragon of Fire.
+
+Its Body... it is like its Essence is trying to explode out of the blackened, torn, bladed, half-severed flesh, like a hatchling struggling through the Wall.
+
+The heat is searing. You can feel the feathers smouldering upon your crown.
+
+<neverever>Yes. It is so. It is not the Mountain's Essence which warms the Master...</neverever>
+
+<neverever>It is the Master which warms the Mountain, and even all the world, in its way. Its justice. Its purity. It purges, cleans.</neverever>
+
+<neverever>To be sworn to the service of such a terrible force must be the greatest honor my People has ever known. When I was Enkindled...</neverever>
+
+<neverever>It was like being mated by Sun Himself.</neverever>
+
+<neverever>For hundreds upon hundreds of Turnings, I have learned the deepest lessons, braved horrors unsingable, committed crimes against Life itself, and in doing so have become victorious over Life's shadow, Destruction.</neverever>
+
+<neverever>The Undying Beast has made it known that it does not wish to be disturbed lightly. It is therefore my duty to be the final gate.</neverever>
+
+<neverever>You shall know the meaning of my name, which I sang into the face of the Void when it attempted to claim me, and failing, asked when I would surrender to the Dark.</neverever>
+
+<neverever>NEVER.</neverever>
+
+<neverever>EVER.</neverever>
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: fp_5as
+
+<MTB>ENOUGH.</MTB>
+
+<MTB>YOU. WARRIOR OF MY PEOPLE.</MTB>
+
+<MTB>I HAVE DREAMED A DREAM. A NIGHTMARE.</MTB>
+
+<MTB>I HAVE TORN OPEN TIME, AND TASTED ITS VISCERA.</MTB>
+
+<MTB>BEHOLD.</MTB>
+
+<MTB>THIS IS THE FUTURE OF EARTH, SHOULD THE TAILLESS PREVAIL.</MTB>
+
+<MTB>THIN SHINESTONE MOUNTAINS SHALL CROWD TOGETHER, GREED-HIVES FOR A PEOPLE BLIND TO THE GLOW OF ESSENCE.</MTB>
+
+<MTB>OUR GREENBLUE WORLD SHALL BE TRAPPED, TANGLED IN WEAVER-WEBS WHICH ENSLAVE LIGHTNING AND FORCE IT TO LABOR FOR THOSE WHO DO NOT EVEN KNOW THEY ARE ALIVE.</MTB>
+
+<MTB>AIR ITSELF SHALL BE SMOTHERED BY DARK CLOUDS VOMITED FORTH FROM NARROW MOUTHS.</MTB>
+
+<MTB>THE GREAT BLUE SHALL DROWN IN WASTE, A BLACK RAINBOW OUTRAGE POURED UPON ITS SURFACE, BARREN SILT SWALLOWING THE LAST MEMORIES BELOW.</MTB>
+
+<MTB>OUR PEOPLE, THE TRUE CHILDREN OF ABOVE AND BELOW, SHALL BE GONE, AND WORSE THAN GONE.</MTB>
+
+<MTB>WE SHALL BECOME FANTASIES FOR THE NO-TAILS TO PROVE THEIR POWER TO THEMSELVES...</MTB>
+
+<MTB>AND THE IMMORTAL SPIRIT OF THE GREEN, WHICH SHOULD RIGHTFULLY OUTLAST US, SHALL DIE.</MTB>
+
+<MTB>I ALONE STAND BEFORE THE ONCOMING STORM.</MTB>
+
+<MTB>I, AND THE WARRIORS WHO WILL JOIN WITH ME TO WIPE OUT THE SEED OF THE OTHERS AND ALL OF THEIR WORKS.</MTB>
+
+<MTB>THE GREEN HAS TAUGHT YOU WELL. YOU ARE STRONG. YOU ARE A WARRIOR.</MTB>
+
+<MTB>BUT STRENGTH ALONE SHALL NOT DELIVER US.</MTB>
+
+<MTB>ONLY BY BEING AS FIERCE AND BRIGHT AS GREAT SUN AND AS COLD AND DARK AS THE INFINITE VOID MAY WE ENDURE.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as1s, fp_5as1f, fp_5as2
+
+==============================
+Event: fp_5as1f
+
+<MTB>THE FIRST OF THE BEHOLDEN... UNFORGETTING.</MTB>
+
+<MTB>THAT WHICH IS NOT KIN MAY NEVER BE.</MTB>
+
+<MTB>THOUGH IT BEGGED YOU TO DEVOUR IT, YOU DID NOT. HOW THEN SHALL YOU PREVAIL AGAINST THOSE WHO BEG FOR LIFE? AND THEY SHALL BEG... HOW THEY SHALL BEG.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as2
+
+==============================
+Event: fp_5as1s
+
+<MTB>THE FIRST OF THE BEHOLDEN... UNFORGETTING.</MTB>
+
+<MTB>THAT WHICH IS NOT KIN MAY NEVER BE.</MTB>
+
+<MTB>YOU GAVE IT COMPLETION OF THE ONLY KIND IT COULD EVER TRULY KNOW. BLESSED BE YOUR JUSTICE.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as2
+
+==============================
+Event: fp_5as2
+
+------------------------------
+> [EventLoad]
+  Go to: fp_5as2s, fp_5as2f, fp_5as3
+
+==============================
+Event: fp_5as2f
+
+<MTB>THE VIOLENT... SOLDERED, SMELTED TOGETHER, AND PURIFIED OF ALL DETAILS. ONE OF MY MANY WORKS OF ART.</MTB>
+
+<MTB>YOU PROVED YOUR POWER OVER IT, BUT AT THE LAST YOU TURNED AWAY.</MTB>
+
+<MTB>DO YOU NOT HEED THE LESSER LAW? IT IS NO MERE VANITY, BUT THE KEY TO OUR SURVIVAL AS A PEOPLE.</MTB>
+
+<MTB>BY TAKING FROM OTHERS, WE GROW STRONGER, AND WE MUST BE STRONG INDEED IF WE ARE TO FULFILL OUR DESTINY.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as3
+
+==============================
+Event: fp_5as2s
+
+<MTB>THE VIOLENT... SOLDERED, SMELTED TOGETHER, AND PURIFIED OF ALL DETAILS. ONE OF MY MANY WORKS OF ART.</MTB>
+
+<MTB>THEY WERE MADE TO BE DESTROYED. THEIR END WAS THE PERFECT PUNCTUATION TO THEIR EXISTENCE.</MTB>
+
+<MTB>I PRAISE YOUR AESTHETIC SENSE.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as3
+
+==============================
+Event: fp_5as3
+
+------------------------------
+> [EventLoad]
+  Go to: fp_5as3s, fp_5as3f, fp_5as4
+
+==============================
+Event: fp_5as3f
+
+<MTB>AGONY. THE ONE WHO WITNESSED ITS GREATEST WISH COME TRUE, AND BECAME STRONG, STRONGER THAN ANY LUMBERER.</MTB>
+
+<MTB>COULD THERE BE EVER A GREATER CURSE THAN TO OUTLIVE ONE'S OWN DELUSIONS?</MTB>
+
+<MTB>TO FIND, AT THE END, THAT ONE'S DEAREST WISH WAS NOT AT ALL WHAT IT WAS THOUGHT TO BE?</MTB>
+
+<MTB>AND YET, DESPITE ITS PAIN, ITS INNER DESOLATION, YOU CHOSE NOT TO DESTROY IT.</MTB>
+
+<MTB>ONLY FOOLISH HOPE OR CRUELTY COULD HAVE MOTIVATED SUCH AN ACTION.</MTB>
+
+<MTB>CRUELTY IS SWEET, AND YET ALSO A TERRIBLE ROT WHICH DEVOURS ONE'S ESSENCE.</MTB>
+
+<MTB>AS GREAT A LIE AS COMPASSION IS CRUELTY. ONLY JUSTICE, FREE AND CLEAN FROM BOTH, CAN DELIVER US.</MTB>
+
+<MTB>WIPE THE CRUELTY FROM YOUR SOUL. THERE IS NO PLACE FOR SUCH THINGS AMONG TRUE CHILDREN OF SUN AND EARTH.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as4
+
+==============================
+Event: fp_5as3s
+
+<MTB>AGONY. THE ONE WHO WITNESSED ITS GREATEST WISH COME TRUE, AND BECOME STRONG, STRONGER THAN ANY LUMBERER.</MTB>
+
+<MTB>COULD THERE BE EVER A GREATER CURSE THAN TO OUTLIVE ONE'S OWN DELUSIONS?</MTB>
+
+<MTB>TO FIND, AT THE END, THAT ONE'S DEAREST WISH WAS NOT AT ALL WHAT IT WAS THOUGHT TO BE?</MTB>
+
+<MTB>ONE SHOULD WISH ONLY FOR LIFE, ONLY TO BE. ANY OTHER WISH CARRIES THE SEEDS OF ONE'S OWN UNDOING.</MTB>
+
+<MTB>YOU WERE MOST JUST TO BRING IT TO A FINAL END. I PRAISE YOUR CORRECTNESS OF ACTION.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5as4
+
+==============================
+Event: fp_5as4
+
+------------------------------
+> [EventLoad]
+  Go to: fp_5as4s, fp_5as4f, fp_5b
+
+==============================
+Event: fp_5as4f
+
+<MTB>YOU PROVED YOUR SUPERIORITY OVER THE LAST OF THE ENFORCERS IN THE DANCE OF DESTRUCTION.</MTB>
+
+<MTB>HOW THE TAILLESS HATED THEM... AND YET, THEY WERE THE LAST VESTIGE OF THE WILL OF THE OTHERS, THEIR CREATORS. SUCH IRONY.</MTB>
+
+<MTB>WHEN IT BEGGED YOU TO SPARE IT... DID YOU FEEL THE SHALLOW CALL OF COMPASSION? IS THAT WHY YOU ALLOWED IT TO REMAIN?</MTB>
+
+<MTB>IT IS NOT FOR US, NOR FOR ANY, TO BECOME THE DELIVERANCE OF OTHERS. ALL, FROM THE GREATEST TO THE LEAST, MUST ALWAYS BE THEIR OWN SALVATION.</MTB>
+
+<MTB>TO DECLARE ONESELF A SAVIOR... TO BOAST THAT OTHERS EXIST ONLY BECAUSE OF ONE'S OWN GREATNESS...</MTB>
+
+<MTB>THESE THINGS ARE TEMPTING, BUT IN THE END, ONLY AN ARROGANT ILLUSION.</MTB>
+
+<MTB>NEITHER SUN NOR EARTH INTERVENE ON BEHALF OF THEIR INFINITE CHILDREN, AND IF THEY DO NOT...</MTB>
+
+<MTB>THEN YOU ARE SURELY NOT GREATER THAN THEY FOR DOING SO.</MTB>
+
+<MTB>IN THE COMING CLEANSING, SUCH ILLUSIONS MAY BE OUR UNDOING.</MTB>
+
+<MTB>FIND NEITHER PLEASURE NOR PAIN IN THE ENDING OF THE LAST. TIME AND SPACE ARE INFINITE, AND NOTHING TRULY ENDS.</MTB>
+
+<MTB>GO DEEPER THAN SHALLOW SELF-ADULATION, DEEPER THAN THE SURFACE-PRIDE OF HAVING SPARED ANOTHER FOR A SHORT TIME.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5b
+
+==============================
+Event: fp_5as4s
+
+<MTB>YOU PROVED YOUR SUPERIORITY OVER THE LAST OF THE ENFORCERS IN THE DANCE OF DESTRUCTION.</MTB>
+
+<MTB>HOW THE TAILLESS HATED THEM... AND YET, THEY WERE THE LAST VESTIGE OF THE WILL OF THE OTHERS, THEIR CREATORS. SUCH IRONY.</MTB>
+
+<MTB>IT BEGGED YOU TO SPARE IT WITH ELOQUENT WORDS. COMPASSION LAY PRONE AT YOUR FEET...</MTB>
+
+<MTB>BUT YOU WERE TOO WISE TO BE DECEIVED.</MTB>
+
+<MTB>HOW GREAT IS YOUR JUSTICE. IT WAS WEAKER THAN YOU, AND HAD SOMETHING YOU NEEDED, SO YOU TOOK IT AND GREW STRONGER, AS WAS RIGHT.</MTB>
+
+<MTB>IT IS NOT FOR US, NOR FOR ANY, TO BECOME THE DELIVERANCE OF OTHERS. ALL, FROM THE GREATEST TO THE LEAST, MUST ALWAYS BE THEIR OWN SALVATION.</MTB>
+
+<MTB>TO DECLARE ONESELF A SAVIOR... TO BOAST THAT OTHERS EXIST ONLY BECAUSE OF ONE'S OWN GREATNESS...</MTB>
+
+<MTB>THESE THINGS ARE TEMPTING, BUT IN THE END, ONLY AN ARROGANT ILLUSION.</MTB>
+
+<MTB>NEITHER SUN NOR EARTH INTERVENE ON BEHALF OF THEIR INFINITE CHILDREN, AND IF THEY DO NOT...</MTB>
+
+<MTB>THEN YOU ARE SURELY RIGHT TO DO AS THEY DO, AND FOLLOW YOUR NATURE AND YOUR TRUTH.</MTB>
+
+<MTB>NEVER LET CRUELTY DICTATE YOUR ACTIONS, BUT NEVER COMPASSION EITHER. BOTH ARE LIES.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5b
+
+==============================
+Event: fp_5b
+
+<MTB>MY SENSES ARE SPREAD OUT UPON EARTH, AND I HAVE TASTED, SMELLED THE ESSENCE OF MY FELLOW KIN. I HAVE JUDGED THEM.</MTB>
+
+<MTB>SOME ARE TRUE WARRIORS, EMBLEMS OF TRUTH AND JUSTICE.</MTB>
+
+<MTB>SOME ARE DEGENERATES, ENAMORED OF THEMSELVES AND UNABLE TO DO WHAT MUST BE DONE.</MTB>
+
+<MTB>AND SOME HAVE NOT YET CHOSEN WHICH TO BE.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5ba, fp_5bb, fp_5bc
+
+==============================
+Event: fp_5ba
+
+<MTB>YOU ARE AMONG THE JUST. YOU HAVE SHOWN THAT YOU WILL NOT BE DECEIVED.</MTB>
+
+<MTB>YOU HAVE TURNED AWAY DEGRADING WEAKNESS AND POINTLESS SYMPATHY, AND HAVE DONE WHAT MUST BE DONE TO SURVIVE, GROW MIGHTY AND ENSURE YOUR PROSPERITY.</MTB>
+
+<MTB>WE ARE OF ONE ESSENCE, YOU AND I.</MTB>
+
+<MTB>TAKE THIS AS A SIGN OF MY FAVOR.</MTB>
+
+<MTB>KNOW THAT THE SPIRIT OF FIRE IS WITH YOU, EVEN TO THE END.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5c
+
+==============================
+Event: fp_5bb
+
+<MTB>YOU ARE AMONG THOSE FOR WHOM THERE IS LITTLE HOPE OF CHOOSING THE CORRECT PATH.</MTB>
+
+<MTB>TO DESTROY YOU WOULD BE PRUDENT...</MTB>
+
+<MTB>...</MTB>
+
+<MTB>AND YET, UNTIL THE GRAND MOOT DECIDES UPON A COURSE OF ACTION, IT WOULD BE WRONG OF ME TO DESTROY A WARRIOR OF MY PEOPLE IN HASTE.</MTB>
+
+<MTB>I SHALL THEREFORE ALLOW YOU TO LEAVE.</MTB>
+
+<MTB>BY THIS ACT OF FORBEARANCE, I HEREBY PROVE THAT I AM NEITHER CRUEL NOR SHORT-SIGHTED.</MTB>
+
+<MTB>I DO AS I DO AND SING AS I SING FOR THE GOOD OF ALL OF OUR PEOPLE, AS WELL AS ALL FREE GOODBEASTS.</MTB>
+
+<MTB>THOUGH YOU HAVE BEEN SEDUCED BY COMPASSION IN THE PAST, IT REMAINS POSSIBLE THAT YOU WILL AT LAST SMELL THE TRUTH.</MTB>
+
+<MTB>THE TAILLESS MUST BE ANNIHILATED, OR THE GREAT GREEN, WHICH YOU LOVE AND IN WHOSE BOSOM YOU REST, SHALL BE NO MORE.</MTB>
+
+<MTB>THOUGH SCARRED AND BLACKENED, I AM JUSTICE. I STAND FOR THE GREEN AND THE BLUE AGAINST THE CHOKING GREY.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5c
+
+==============================
+Event: fp_5bc
+
+<MTB>YOU ARE OF THE LATTER KIND. YOUR PATH IS UNCHOSEN.</MTB>
+
+<MTB>HEED WELL THE LESSONS YOU HAVE LEARNED HERE.</MTB>
+
+<MTB>BOTH COMPASSION AND CRUELTY ARE ILLUSIONS.</MTB>
+
+<MTB>THERE ARE ONLY TWO PATHS FOR THE DRAAK. THE WAY OF JUSTICE, OF THE CLEAN, CLEAR MIND, OF STRENGTH OF BODY AND ESSENCE, LEADS TO LIFE...</MTB>
+
+<MTB>AND ALL OTHER WAYS TO DESTRUCTION.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5c
+
+==============================
+Event: fp_5c
+
+<MTB>BEHOLD MY TRUTH.</MTB>
+
+<MTB>I AM FREE FROM HATRED AND PARTIALITY.</MTB>
+
+<MTB>I FEAR NOTHING, AND LOVE NOTHING BUT LIFE ITSELF.</MTB>
+
+<MTB>I HAVE BEEN BLACKENED BY THE HEART OF GREAT SUN, AND I HAVE DELVED DOWN TO THE VERY CORE OF EARTH HERSELF.</MTB>
+
+<MTB>THOUGH TORN AND DEFILED...</MTB>
+
+<MTB>MY TRUE NAME IS HOPE.</MTB>
+
+<MTB>LEAVE ME. I MUST REST, AND PREPARE.</MTB>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fp_5d
+
+==============================
+Event: fp_5d
+
+Never-Ever leads you by strange ways back to the crisp of the surface.
+
+Few indeed can claim to have been worthy of the attention, however brief, of one such as Many-Times-Burned, the Paragon of Fire.
+
+Your name shall be spoken of with awe by many...
+
+But even such strength as you have shown here is nothing at all to Many-Times-Burned.
+
+In a sense, all this world exists at its discretion. There is no Being bound by flesh which is more powerful upon all of blessed Earth.
+
+But worlds can change, and become new worlds.
+
+Does even the Onesong itself, to which even Sun and Earth are but Tiny Beings, know What Should Be?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: fp_6
+
+The Void rushes in as pain severs the link between your Body and your Mind.
+
+You have been utterly defeated, and Destruction should follow...
+
+But you smell cold, salty Water, and when you open your eyes, you see that you are outside the Fourth Lair of Many-Times-Burned.
+
+<neverever>Do not mistake this reprieve for compassion. Such is anathema to the Undying One.</neverever>
+
+<neverever>It was mere pragmatism. When the Master's plan is set into motion, each and every one of the Kin will be needed.</neverever>
+
+<neverever>It would have been a waste for one as bright-burning as you to meet Destruction here.</neverever>
+
+<neverever>Rest, and become stronger. If Earth is to be saved...</neverever>
+
+<neverever>...you must become that which you are not yet.</neverever>
+
+The way inside the Fire-Mountain which you took before seems to have vanished, nor can you find any other.
+
+Great Many-Times-Burned is no longer interested in meeting you, it would seem, but has left you your life, which is, of course, the most valuable of all Treasures.
+
+Time will tell whether its decision to do so was justified. For now, you must continue your existence in the Great Green, under the shadow of those who have endured the eons.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: fpa
+
+Never-Ever leads you to a place where the Air itself seems to be constantly melting.
+
+Though you are Kin, one who bears a fragment of Sun's Fire within, you are nonetheless uncomfortably hot; that a Baretail is able to survive here at all is astonishing.
+
+Far, far down, you can make out a shape within the Essence of Earth Herself. It is so huge that at first you mistake it for a dark hill amidst the radiance, but no...
+
+<neverever>Behold our Master Imperishable. Even the Great Mother's own blazing belly-juices can no longer dissolve its hallowed Body.</neverever>
+
+<neverever>And Behold the Proving-Pit, Fourth Lair of the Paragon of Fire. Know this: many come, and few leave. We do not threaten, but only advise, great Kin.</neverever>
+
+<neverever>Tell us: why have you come here?</neverever>
+
+------------------------------
+> To test my might.
+  Go to: fpb
+> To win Treasure.
+  Go to: fpb
+> To meet with Great Many-Times-Burned.
+  Go to: fpb
+
+==============================
+Event: fpb
+
+<neverever>If you do indeed possess both the ability and the will to Survive, then you will not have come in vain. However, you are not the only aspirant, great Kin.</neverever>
+
+<neverever>Many wait in the chambers. Most have come to beg an audience with the Master.</neverever>
+
+<neverever>The Master's time is valuable, and the ephemeral and soon-gone are unworthy of it.</neverever>
+
+<neverever>In its unfathomable wisdom, the Great One has created a means by which one might earn such a rare Treasure, and others besides.</neverever>
+
+<neverever>In Descending through the spiral walk, you shall encounter the Beholden. Each one holds Treasure of one kind or another, and will not suffer the weak to pass.</neverever>
+
+<neverever>If you Destroy your opponent, you are entitled to its Trove. Whether you seize its Treasure or not, though, victory shall bring you further down, closer to the Master.</neverever>
+
+<neverever>Should you, young as you are, prove stronger than all others, then you shall reach the base, and become worthy of the Invulnerable One's attention.</neverever>
+
+<neverever>Be twice-aware: the Master witnesses all which transpires here. Only its Body sleeps. Only the Body.</neverever>
+
+<neverever>There is no room here for shallow and false Compassion. Survival reigns supreme in the Pit, with Wisdom a welcome guest. All other virtues shall be as walls separating yourself from success.</neverever>
+
+<neverever>Though you may leave and return to continue the Descent at any time, if you wish to do so during a Dance of Destruction, a ransom must be paid: ten shiny things to add to your opponent's Trove.</neverever>
+
+<neverever>Are you prepared to begin the Descent?</neverever>
+
+------------------------------
+> Yes.
+  Go to: fp_1
+> No, I wish to return to my Lair.
+  Go to: DayTransition
+
+==============================

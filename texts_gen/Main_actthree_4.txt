@@ -1,0 +1,488 @@
+Event: fx6
+
+You are awakened by a lambent glimmer radiating from your Trove.
+
+It seems that the silverfruit you obtained from the mysterious Brightling grove is emitting a pale glow.
+
+You touch the smooth surface lightly with a claw...
+
+The air is suddenly heavy with the scents of unknown Flowers, drawing you down and into yourself.
+
+How... why? That scent...
+
+<gradient ff0000 ffff00 00ff00 00ffff 0000ff><shift 20 .005>The Flowers...</shift></gradient>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6a
+
+==============================
+Event: fx6a
+
+...
+
+...
+
+Dimly, you become aware of the scent of lightning and shinestone.
+
+There is no breeze, no scent of soil or the sweet rot of Plants. In fact, this place smells as though it never knew the Great Green at all...
+
+Or even Earth Herself.
+
+A dark hexagon, grim and mute, glares down at you. Ghosts drift about and stare at you from behind a wall of melted sand.
+
+A nightmare? You look around...
+
+No. You cannot move your head. You cannot look away.
+
+Your Body can barely move. Trapped, nearly paralyzed.
+
+Is this how your story ends? No Dance of Destruction, no challenge, no last Song?
+
+If they Destroy you, your Body will not even be eaten by Great Earth.
+
+Something horrible and Other is scraping at the inside of your Mind.
+
+<drone>GRATINNNNNG-G-GS. GREEEEE-TINGS. GREET-INGS.</drone>
+
+<drone>CALM. CAAAAAALM. STILLLLLL. LIE STILL.</drone>
+
+<drone>NODANG. DANGER. NO DAN-DAN-DANGER.</drone>
+
+<drone>KNOW. WE WISH. YOUR MIIIIIND. OPEN, OPEN. SHOW US MIIIIND.</drone>
+
+<drone>TO SEE INSIIIIDE. GIVE. GIVE THE INSIIIDE OF YOUR MIIIND. GIVE TO US.</drone>
+
+You do not want to be here. Your Mind and Essence are urging you to break free and flee this place, flee away farther than far.
+
+------------------------------
+> Harness all of your power and attack.
+  Go to: fx6aa
+> Keep calm, and remain still.
+  Go to: fx6abs, fx6abf
+
+==============================
+Event: fx6aa
+
+You summon your inner Fire to fight against the numerous restraints placed on your Body, violently thrashing with all your might.
+
+However, the colored dead tail-bonds constrict, coiling more tightly, denying you more and more until you are completely locked in place.
+
+You try to Sing out a Song of Rage, but you cannot; the dead tails are squeezing your chest so hard you can barely breathe. Why? Why? Why?
+
+<drone>NO DANCE. NO SONG.</drone>
+
+<drone>ONLY STA-STA-STASIS. OPEN TO US. OPEN. SHOW. DISPLAY.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6b
+
+==============================
+Event: fx6abf
+
+You attempt to calm yourself, yet your instincts and the Fire inside you drives you to action.
+
+You will not allow yourself to be tortured and played with by these Other-ghosts!
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6aa
+
+==============================
+Event: fx6abs
+
+Although your instincts call you to action, you realize that the best chance for you to escape is to remain calm and understand this horrid reality and its ghosts.
+
+The calming influence of Earth within you soothes your spirit. You are able to swallow your Fire and meet whatever comes next with clear eyes.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6b
+
+==============================
+Event: fx6b
+
+<drone>TRUTH. ONE TRUTH. LET MIIIND COMBINE, BEHOLD. FEEEL. DIGESSSST.</drone>
+
+The dark hexagon is suddenly shouting light at you. Is that... a Woodstrider? But you cannot see its Essence.
+
+It is right there, but you cannot smell it, cannot smell anything but the lightning running through your bonds, around you. Into you.
+
+Forced to look at the image, you cannot help but feel...
+
+------------------------------
+> Hunger.
+  Go to: fx6ba
+> Respect.
+  Go to: fx6bb
+> Denial - this is not a real Woodstrider.
+  Go to: fx6bc
+
+==============================
+Event: fx6ba
+
+The sight of the Woodstrider fills you with hunger, and your instincts to Destroy are awakened.
+
+A natural response, to be certain. You are salivating, but cannot move your tongue, causing you to drool.
+
+<drone>BEAST. COMMON, UNREMARKABLE. LOWWW SENTIENCE. BEEEEEAST.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6c
+
+==============================
+Event: fx6bb
+
+Of all the Goodbeasts of the Great Green, the Woodstriders have the purest Essence. They wear the Crown.
+
+The wise among the Kin respect them, even as they hunt them, and you are wise. You understand.
+
+Even stretched across the too-bright hexagon, flattened and scentless, this is still a Woodstrider, and worthy. Very worthy.
+
+<drone>CONNECTION... SUB-MISSION, PARTIAL? CONFLICTS WITH DATA; UNEXPECTED. ANOMALY; MIIIND-INDEX UPGRADED.</drone>
+
+The Other-shades shift about, though you can barely see them through the barrier.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6c
+
+==============================
+Event: fx6bc
+
+This is not a real Woodstrider.
+
+Woodstriders have glowing Air and Earth-lines threading through them, winding into beautiful crowns.
+
+This one, stretched and too-real to the eyes, has no Essence. Not all beings have Bodies, but to lack an Essence is to have no existence at all.
+
+This somehow captured the light coming from a Woodstrider and froze it flat, but you are not at all fooled. It is spirit which makes a Woodstrider, not the outer shell.
+
+<drone>REJECTION OF MEDIUM; SEARCHING FOR INVISIBLE ELEMENT.  IMPLICATION: SENARY SENSE PRESENT? UNKNOWN. UNKNOWN.</drone>
+
+<drone>S042, DOCUMENT PHENOMENON [SPIRIT LINES]; CONTINUING ASSESSSSSSMENT.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6c
+
+==============================
+Event: fx6c
+
+Your eyes are now assaulted by the image of a No-Tail larva. Again, there is no scent and no Essence to sense.
+
+Your immediate reaction is one of...
+
+------------------------------
+> Hunger.
+  Go to: fx6ca
+> Rage.
+  Go to: fx6cb
+> Interest - are the Tailless connected to these Other-ghosts?
+  Go to: fx6cc
+
+==============================
+Event: fx6ca
+
+You cannot smell it, but the oily skin and fatty flesh of No-Tails is known to be quite delicious.
+
+A larva of their kind would be especially tender and sweet, easy to Destroy and consume.
+
+You find yourself quite hungry. Idly, you whether its liver or its eyes would be tastier.
+
+<drone>BASE. BEEEAST. COMMON. MISTAKEN BEAC-ON ACTIVATION PROBABLE.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6d
+
+==============================
+Event: fx6cb
+
+The No-Tails...
+
+Violators and poisoners, Tree-murdering Kin-slaying Other-Seed...
+
+Breeding out of control, spreading their filthy Hives...
+
+Something is choking you; you panic, struggling vainly. Eventually you realize that it is reacting to your anger, and with great effort, you calm yourself and force down your acrimony (and fireseed).
+
+<drone>HATRED. HOSTILILILILITY. ANNNIMOSITY.</drone>
+
+<drone>SUPERCOGNITIVE FEEEEEAR. ANTICIPATED; PROCEEDING.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6d
+
+==============================
+Event: fx6cc
+
+You cannot see clearly through the barrier, but these Others bear some resemblance to the No-Tails.
+
+They are lighter, however. Brightlings, perhaps?
+
+That would make sense. The Brightlings are known to take an interest in the Tailless.
+
+As you begin to speculate about their possible relationship, you see movement among the bright beings outside.
+
+<drone>HYPOTHESIZATION. LINKING EXPERI-PERI-PERIENCE THROUGH LOGIC. COGNIZ-Z-ZANCE OF AMBASSADOR UNIT MIMICRY. INDEX UPGRADED.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6d
+
+==============================
+Event: fx6d
+
+How long will this continue? Why are they forcing you to look, and look, and look?
+
+The Tailless larva is now an object made out of gleaming shinestone. It seems to be in the shape of a Kin.
+
+It causes you to feel...
+
+------------------------------
+> Appreciation - what skill!
+  Go to: fx6da
+> Connection - it reminds you of yourself, and all that you are.
+  Go to: fx6db
+> Anger - how dare they use an image of your People like this?
+  Go to: fx6dc
+> Desire - it must be yours!
+  Go to: fx6dd
+
+==============================
+Event: fx6da
+
+You find it gratifying that whatever that created this artifact values the beauty and form of your People.
+
+What is more, it seems to be made out of "gold", one of the ultimate forms of shinestone, a fitting tribute to the greatness of the Kin.
+
+You lack both the skill and the digits necessary to craft such a thing yourself. It is truly valuable, and a testament to the creative skill of the Others and their Seed.
+
+Looking at it, it is hard to think that they are without merit.
+
+<drone>DE-TAIL PROCCCESSING; INTEREST REGISTERED. HIGH-COGNITIVE POSSIBILILITY.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6e
+
+==============================
+Event: fx6db
+
+It is, of course, an image of yourself, at least in the abstract. Caught in shinestone, it brings out the organic poetry of your Body.
+
+You are reminded of the other Draak that you have met and bested, and the taste of victory or appreciation that came from such meetings.
+
+You feel the elements dancing inside you, as if attempting to communicate with the likeness of the Draak.
+
+<drone>SELFFF-RECOGNITION CITED. MID-LEVEL RESPONSE.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6e
+
+==============================
+Event: fx6dc
+
+An unliving Kin - are they mocking you? It is Essence which makes one Draak-Kin, not shape.
+
+Or are they denigrating the Kin's long-standing tradition of the Lesser Law, the gathering of Treasure?
+
+Or attempting to profit from a beauty which is yours, and not theirs?
+
+They will regret this indignity. You know it is futile to try fighting them now, but you will remember this.
+
+The hazy figures move about agitatedly.
+
+<drone>OFFENSE. PHILOSOPHICAL HATE-RED. HATE-RED. MID-HIGH COGNITIVE FUNCTIONNN. UPGRADING INDEX.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6e
+
+==============================
+Event: fx6dd
+
+This is most definitely Treasure. You feel the Lesser Law pulling at you, urging you to take it.
+
+You think of how beautiful the artifact would look in your Trove, surrounded by other shinestone confections. How honored you would be! How many would wish to Dance with you!
+
+<drone>PARA-SAURIAN GATHERING IN-STINKT ACKNOWLEDGED. WITHIN SUB-SENTIENT LIMITS.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6e
+
+==============================
+Event: fx6e
+
+As the final image fades, the hexagonal surface darkens again.
+
+The bright beings seem to be moving around and singing to each other, though all you hear is muffled patches of gibberish.
+
+After some time, the symbols appear in your Mind again, somehow both sophisticated and crude, like someone attempting to sing a Song which they have never heard before.
+
+<drone>DATA COLLLLECTION COM-PLETE.</drone>
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6ea, fx6eb, fx6ec
+
+==============================
+Event: fx6ea
+
+<drone>PRESENCE OF UNREGISTERED SEN-SEN-SENTIENCE CONFIRMED.</drone>
+
+<drone>GRATITUDE. INTER-EST.</drone>
+
+<drone>MORE TESTS REQUI-QUI-QUIRED.</drone>
+
+<drone>153 PROCEDURES SCHEDULED. THAAAANK YOU FOR YOUR CONTINUED CO-OPERATION.</drone>
+
+Unable to protest, you are forced into a larger hive with even more restraints.
+
+You cannot help but be fearful, but you know that there is nothing you can do at the moment.
+
+There is no way to measure time in this Not-Place. You are forced to endure much.
+
+Poking, prodding, stabbing. Questions. Light. Sound.
+
+The broken voice seems to be expressing thanks between each task. A cruel joke; gratitude involves respect, and if they had any respect for what you are, you would not be subjected to this.
+
+After what feels like many Moons or even Turnings, small holes open above you, and from the holes comes the unnaturally soothing Flower-scent emitted by the silverfruit.
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6transition
+
+==============================
+Event: fx6eaa
+
+Suddenly, you awaken once more in your Lair. You are ravenous.
+
+Was it a nightmare after all? No... at least four Suns have passed, and the silverfruit is gone.
+
+What happened, and why? You have no evidence, no trace of the things which bound you to learn from or to take revenge upon.
+
+Still feeling sluggish, you stretch and begin your next Sun in a world which you understand and which understands you.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx6eb
+
+<drone>VERDICT: LOW COGGGNITIVE INDEX. NON-SENTIENT BEEEE-ING. CATEGORY: BEAST.</drone>
+
+<drone>COMPLEX THOUGHT PROCESSESSESS NOT PRESENT. BEACON OBTAINED IN ERRRROR.</drone>
+
+<drone>RETURNING SPECIMEN TO ORIGINAL LOCATION.</drone>
+
+Small holes open above you, and from the holes comes the unnaturally soothing Flower-scent emitted by the silverfruit...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6eba
+
+==============================
+Event: fx6eba
+
+Suddenly, you awaken once more in your Lair.
+
+Was it a nightmare after all? No... the silverfruit is gone.
+
+What happened, and why? You have no evidence, no trace of the things which bound you to learn from or to take revenge upon.
+
+But Life calls, and you are home. You stretch and begin your next Sun in a world which you understand and which understands you.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx6ec
+
+<drone>VERDICT: INCONCLUSIVE. FURTHER TESTS REQUI-QUI-QUIRED.</drone>
+
+<drone>37 PROCEDURES SCHEDULED. THAAAANK YOU FOR YOUR CONTINUED CO-OPERATION.</drone>
+
+You cannot help but be fearful, but you know that there is nothing you can do at the moment.
+
+There is no way to measure time in this Not-Place.
+
+Poking, prodding, stabbing. Questions. Light. Sound.
+
+The broken voice seems to be expressing thanks between each task. A cruel joke; gratitude involves respect, and if they had any respect for what you are, you would not be subjected to this.
+
+After what feels like many Moons, small holes open above you, and from the holes comes the unnaturally soothing Flower-scent emitted by the silverfruit...
+
+
+
+------------------------------
+> [Continue]
+  Go to: fx6transition
+
+==============================
+Event: fx6eca
+
+Suddenly, you awaken once more in your Lair. You are a bit hungry, but otherwise whole.
+
+Was it a nightmare after all? No... at least two Suns have passed, and the silverfruit is gone.
+
+What happened, and why? You have no evidence, no trace of the things which bound you to learn from or to take revenge upon.
+
+Still feeling sluggish, you stretch and begin your next Sun in a world which you understand and which understands you.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: fx6transition
+
+------------------------------
+> [Complete]
+  Go to: {TEMP_FX6_POST_TRANSITION}
+> [EventLoad]
+  Go to: 
+
+==============================

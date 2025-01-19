@@ -1,0 +1,345 @@
+Event: combat_tutorial_01
+
+Ah, the True Dance of Destruction! Though your foe is not the most powerful of beasts, you cannot help but shiver a little... both of you are wagering Life, the most precious of Treasures, against the skill of the other.
+
+Like most aspects of life, fighting is ruled by the elements. Begin by examining both your own current mastery...
+
+------------------------------
+> [GEM_BG_OPENED]
+  Go to: combat_tutorial_02
+
+==============================
+Event: combat_tutorial_02
+
+...and those of your opponent.
+
+------------------------------
+> [HUNT_PREY_GEMS_SHOW]
+  Go to: combat_tutorial_03
+
+==============================
+Event: combat_tutorial_03
+
+The element of <bold><color red>Fire</bold></color> is one of the two elements which rule over combat. As the element of strength and power, all <bold>physical damage done is based on mastery of <color red>Fire</bold></color>.
+
+This particular Longear is much weaker than most of its kind due to its broken limb... do not expect Longears to be this feeble in the future.
+
+The other element which is crucial in the Dance of Destruction is <color green><bold>Earth</color></bold>. As the element of fortitude and endurance, <bold>Earth dictates how much damage a creature can endure.</bold>
+
+All actions taken in combat are associated with a particular element. A simple biting attack, for example, is of the <bold><color green>Earth</color> </bold>element, while your burning breath is, of course, a <bold><color red>Fire</bold></color> attack.
+
+When you select an action, your opponent does as well, and then both of them clash together. <bold>Certain elements have advantages over others.</bold>
+
+<bold><color blue>Water</bold></color> is strong against<bold> <color red>Fire, Fire </bold></color>rules over <color grey><bold>Air,</color></bold> and <bold><color grey>Air</color> </bold>defeats <bold><color blue>Water.</bold></color> <bold><color green>Earth</bold></color> has neither advantage nor disadvantage against the others.
+
+Each Goodbeast has a <bold>Way</bold> which gives it certain options and a <bold>set pattern of attack</bold>. Longears, for example, will always use a repeating <color green>Earth</color> -> <color blue>Water</color> -> <color grey>Air</color> pattern.
+
+You do not know where in the sequence it will begin, but once you are familiar with an animal's attack pattern, you should quickly be able to tell its next move and turn the fight to your advantage.
+
+Let us begin with a simple <color green>Bite...</color> being of the neutral <color green>Earth</color> element, this is a relatively safe choice.
+
+------------------------------
+> [COMBAT_PLAYER_ACTION_TUTORIAL_STANDARD_ATK]
+  Go to: combat_tutorial_04
+
+==============================
+Event: combat_tutorial_04
+
+Ah, the <bold>clash! </bold>Both of you have been affected, though you have but a tiny scratch. The Longear is more seriously hurt.
+
+Your opponent is <bold><color ffff00>Battered</bold></color>, and worse for wear - your attacks are having an effect.
+
+<bold>As creatures (including you) are wounded, their <color grey>Air</color>, <color blue>Water</color> and <color red>Fire</color> abilities will decrease,</bold> though <color green>Earth</color> always stands unchanged.
+
+Since it used an <color grey>Air</color> attack, and Longears always use an <color green>Earth</color> -> <color blue>Water</color> -> <color grey>Air</color> pattern, we know that its next move will be an <color green>Earth</color> technique.
+
+Nothing is strong or weak against <color green>Earth</color>, so any attack will do now. Let us use Swift Strike, an <color grey>Air</color> attack which affects your opponent before you are affected by its attack.
+
+------------------------------
+> [COMBAT_PLAYER_ACTION_TUTORIAL_SWIFT_STRIKE]
+  Go to: combat_tutorial_05
+
+==============================
+Event: combat_tutorial_05
+
+The Air grows richer with Fear and Despair - your enemy is now <bold><color ff8800>Injured</bold></color>.
+
+Good. Additional effects like Swift Strike's preemptive damage <bold>always occur if you win the elemental clash</bold>; on a tie, they take effect if the element in question is higher than the opponent's <color green>Earth</color>, and they <bold>never occur on a lost clash.</bold>
+
+The opponent's next attack will use the element of <color blue>Water.</color> Because <color grey>Air</color> is strong against <color blue>Water</color>, let us use <color grey>Swift Strike</color> again.
+
+------------------------------
+> [COMBAT_PLAYER_ACTION_TUTORIAL_SWIFT_STRIKE]
+  Go to: combat_tutorial_06
+
+==============================
+Event: combat_tutorial_06
+
+The redolent Essence of the Longear dances on your tongue... it is <bold><color ff0000>Crippled</bold></color>, and stands in the very shadow of Destruction.
+
+Victory! You gained <bold>additional damage and triggered a special effect</bold> by using <color grey>Air</color> against <color blue>Water</color>. The Longear is now badly hurt, and its next attack will be of <color grey>Air.</color> It is time to finish this.
+
+Breathing <color red>Fire</color> will bypass most armor, but it costs <color yellow><bold>Energy</color></bold> to use, unlike most simple strikes. It is time.
+
+------------------------------
+
+==============================
+Event: combat_tutorial_07
+
+Ahhhh. Delicious, indeed. Future meals will rarely be so easy, however.
+
+Be sure to <bold><color blue>use stalking to observe and get as close as you can</color>, <color grey>pursue your prey swiftly</bold></color> and<color red> <bold>fight </color><color green>wisely</bold></color>.
+
+The Great Four... <color blue>Water</color>, <color grey>Air</color>, <color green>Earth</color> and <color red>Fire</color>... shall be your guides.
+
+Beware, however. The Goodbeasts of field and woodland are not the only beings in this world. Some have strange gifts, and Others, such as the No-Tails, may use their bizarre Minds to break the rules of the Dance.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition, DayTransition
+
+==============================
+Event: hunt_tutorial_00
+
+The wood just outside your Den seemed replete with the presence of lesser goodbeasts. It should not take long to find one...
+
+Ah, yes. This is one of the small furry beasts whose scent calls to you. The Kin call it a <bold>Treetail</bold>, in honor of its close relationship with Trees and its luxurious, expressive tail. It is small, but it will do.
+
+Understanding the Music of your partner in the Dance is vital. Begin by examining the Treetail more closely.
+
+------------------------------
+> [HUNT_PREY_GEMS_SHOW]
+  Go to: hunt_tutorial_01
+
+==============================
+Event: hunt_tutorial_01
+
+Any Goodbeast such as you can easily sense how much <bold><color red>Fire</bold></color> there is in the Essence of another.
+
+<bold><color red>Fire</bold></color> influences physical might and how dangerous an opponent will be in the Dance of Destruction, which some call combat. If they are strong in this element, beware; you may catch them, only to find that they are quite capable of Destroying you instead.
+
+As you can see, this is not a great concern when it comes to Treetails, as the gem is empty and not even a small part of the Sigil of Fire is shown.
+
+This is your opponent's <color blue><bold>Water</color></bold> affinity. The more complex the <color blue><bold>Water</bold> </color>sigil, the keener the prey's senses, and the more difficult they will be to approach without discovery.
+
+The <bold><color green>Earth</bold></color> sphere represents health and resilience. A being strong in this element will not easily surrender its Essence; great effort will surely be required to bring something great in <color green><bold>Earth</color></bold> to Destruction.
+
+Beings with high Earth also possess a strong will, and so even indirect attempts to harm one will fail unless the attacking Element is even higher. Once again, Treetails, compared to other, larger prey, are not very difficult to bring down at all, provided you can get your claws on them.
+
+This is your opponent's <color grey><bold>Air</color></bold> affinity. Note that it seems to have a little mastery in it, indicating that it is slightly quick. Compare this with your own <color grey><bold>Air</color></bold> ability to see how difficult it would be to chase.
+
+Prey with high <color grey><bold>Air</color></bold> affinity may be all but impossible to chase down, and must be defeated by other means.
+
+Although you can sense roughly how attuned to each element a being may be and where their strengths lie, only by testing your abilities directly against them can you be sure of their skills.
+
+Be aware that many beings possess special abilities which allow them to survive upon Earth. Treetails, for example, have the ability to <italic>Climb</italic>, and so attempts to pursue them from far away will automatically fail; they will be able to reach a tree and scurry to safety. Only attempt to chase them after approaching as near as you can.
+
+A good way to begin a hunt is by <bold>stalking</bold> your prey, silently attempting to draw as close as you can without being noticed.
+
+The <bold><color blue>Water</bold></color> element, which governs the senses, is your greatest asset here. The more powerful your connection to that element, the more silently you can move. Size also plays a role in stalking; if you are larger than your prey, you will be at a disadvantage, and if smaller, at an advantage.
+
+Your prey has surely developed keen senses of its own in order to avoid Destruction by predators such as you. To successfully close the distance without alerting it, your <bold><color blue>Water</bold></color> mastery must be greater than the Treetail's. This one smells old and weak, ripe for consumption. It is time to put your skill to the test.
+
+------------------------------
+> <color BBBBBBAA>Keep still. Observe.</color>
+  Go to: 
+> Silently draw nearer.
+  Go to: hunt_tutorial_01a
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01a
+
+Ah, yes. You are now much closer, close enough to smell its fur, its personal scent, even its nut-tinged breath.
+
+Charging at it now is tempting, but you also find yourself fascinated as you watch it forage for food. It moves in a particular way, not quite like that of any other Goodbeast, and in <bold>observing</bold> it you may learn something.
+
+------------------------------
+> Keep still. Observe.
+  Go to: hunt_tutorial_01b
+> <color BBBBBBAA>Silently draw nearer.</color>
+  Go to: 
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01b
+
+Yes... already you are learning. Nature is an excellent teacher.
+
+If you hunt and <bold>observe</bold> each prey enough, you may gain a glimpse of their deeper Truth, and in finding it, incorporate it into your own Way, and become stronger.
+
+But you have sensed enough... you hunger for its tender flesh and thirst for its crimson Essence. If you strike now, you might succeed in the chase, but perhaps you could draw even closer...
+
+------------------------------
+> <color BBBBBBAA>Keep still. Observe.</color>
+  Go to: 
+> Silently draw nearer.
+  Go to: hunt_tutorial_01c
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01c
+
+So near, so near now, and your prey is still completely ignorant of the shadow of Destruction which falls upon it!
+
+If you <color red><bold>strike </color></bold>at it with all of your speed and strength, it will not stand a chance... Wait for the two circles to become one and then act quickly!
+
+------------------------------
+> <color BBBBBBAA>Keep still. Observe.</color>
+  Go to: 
+> <color BBBBBBAA>Silently draw nearer.</color>
+  Go to: 
+> Strike!
+  Go to: hunt_tutorial_01c_mid
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01c_mid
+
+------------------------------
+> [TUTORIAL_AMBUSH_SUCCESS]
+  Go to: hunt_tutorial_01d
+> [EventLoad]
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01d
+
+The hapless Treetail barely even has time to realize that you are there before you crunch its small bones in your jaws, tasting its perfect Essence as you crush it several times and finally swallow it.
+
+Its flesh and its spirit will now become part of your own, granting you precious <color yellow><bold>Energy</color></bold>. You feel pride in your own skill and gratitude to the Treetail in equal measure.
+
+This is right... this is the Way of All Things.
+
+------------------------------
+> /EndEvent
+  Go to: hunt_tutorial_01e
+
+==============================
+Event: hunt_tutorial_01e
+
+Ah, another one. Your Core urges you on... you must have more, if you are to grow Great!
+
+The last one was old and weak, its senses dull. Not this one, however.
+
+Destroying it will be more of a challenge. A chase at this range against an animal which can climb trees is hopeless... draw nearer, as before.
+
+------------------------------
+> <color BBBBBBAA>Keep still. Observe.</color>
+  Go to: 
+> Silently draw nearer.
+  Go to: hunt_tutorial_01f
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01f
+
+You have managed to draw nearer, but although you remain hidden in the tall grass, your prey has heard rumor of your approach from a rather noisy twig you stepped on. It is now <bold><color #edff3b>suspicious </bold></color>of you.
+
+All is not lost, however. Perhaps <italic>if you remain still and <bold>Observe,</bold> there is a chance that the Treetail will lower its guard</italic>.
+
+------------------------------
+> Keep still. Observe.
+  Go to: hunt_tutorial_01f1
+> <color BBBBBBAA>Silently draw nearer.</color>
+  Go to: 
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01f1
+
+You have waited for a few precious moments, but the Treetail still suspects that danger may be near.
+
+When you wait and observe an opponent whose <color #edff3b><bold>suspicion</color></bold> has been aroused, there is a chance that it will return to its Way each time, but it is not guaranteed. Each individual animal is different, and <italic>f<bold>ortune plays a role.</italic></bold>
+
+If you wait just a little longer...
+
+------------------------------
+> Keep still. Observe.
+  Go to: hunt_tutorial_01g
+> <color BBBBBBAA>Silently draw nearer.</color>
+  Go to: 
+> <color BBBBBBAA>Strike!</color>
+  Go to: 
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01g
+
+Yes, there. It seems satisfied that it is not in danger, and has lowered its guard again.
+
+<bold>Any movement from you while it was <color #edff3b>suspicious </color>would surely have caused it to flee.</bold>
+
+Waiting silently when your prey becomes suspicious may cause it to relax in time, but beware... each moment that passes brings your scent closer to it on the <color grey><bold>winds</color></bold>, and once it smells you, it will surely try to escape. <bold>You must stalk your prey quietly, yet quickly, before your scent is caught.</bold>
+
+This Treetail's senses are obviously keener than the last's. If drawing this close made it suspicious, trying to draw even closer will surely alert it. <bold>If your prey begins the chase, you will be at a disadvantage,</bold> so you must now seize the initiative and attack... the surprise should give you the few precious instants that you need!
+
+------------------------------
+> <color BBBBBBAA>Keep still. Observe.</color>
+  Go to: 
+> <color BBBBBBAA>Silently draw nearer.</color>
+  Go to: 
+> Strike!
+  Go to: hunt_tutorial_01gi
+> <color BBBBBBAA>Retreat.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01gi
+
+It notices you and flees!
+
+------------------------------
+> Chase after it!
+  Go to: hunt_tutorial_01h, tutorial_pursuitUI
+> <color BBBBBBAA>Give up.</color>
+  Go to: 
+
+==============================
+Event: hunt_tutorial_01h
+
+As you feel the luscious Body of yet another Treetail move slowly down your craw, the joy of pure, wholesome Destruction again sinks in.
+
+This is the <bold>Dance of Destruction</bold>, the fight for survival which all beings Dance with each other, and it is good. It is as it should, and must, be.
+
+------------------------------
+> /EndEvent
+  Go to: hunt_tutorial_01i
+
+==============================
+Event: hunt_tutorial_01i
+
+You no longer ache for sustenance, your Core mostly quieted. There is, however, room for one more.
+
+You may hunt up to three times per Sun in an <color #32fb34>abundant</color> hunting ground. Fewer prey exist in a <color #edff3b>middling</color> or <color #ff462a>sparse</color> area.
+
+Sun and Earth have blessed you... you have discovered a wounded member of the delicious <bold>Longear</bold> tribe!
+
+Normally, you would have to stalk and pursue it, which is no mean feat, as Longears have swift feet and keen senses. However, this one is sporting a broken leg. It senses you, but it cannot flee.
+
+Let <bold>combat</bold>, the True Dance of Destruction, begin!
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================

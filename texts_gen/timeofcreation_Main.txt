@@ -1,0 +1,22 @@
+Event: greatgreenact3_map
+
+------------------------------
+> [Bard]
+  Go to: tc002
+> [Bloom]
+  Go to: tc003_1, tc003_2
+> [tcVantage]
+  Go to: tc005
+> [tcTempest]
+  Go to: tc006_1
+> [Rift]
+  Go to: tc004
+
+==============================
+Event: timed_events_day
+
+------------------------------
+> None
+  Go to: tc007, tc001
+
+==============================

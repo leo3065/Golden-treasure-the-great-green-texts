@@ -1,0 +1,1056 @@
+Event: dl1
+
+What will you do?
+
+------------------------------
+> Attempt to rip the den-cover from the mountain's embrace.
+  Go to: dl1as, dl1af
+> Examine the cover more closely.
+  Go to: dl1bs, dl1bf
+> Attempt to dislodge the cover with your weight.
+  Go to: dl1cs, dl1cf
+> Leave it alone for now.
+  Go to: DayTransition
+
+==============================
+Event: dl1af
+
+You lock your jaws around the cover and pull against it, but you are not powerful enough to coax it out of its place. Eventually, you give up, having nothing but a sore neck and the taste of rusted shinestone in your mouth for your vigorous efforts.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1bs, dl1
+
+==============================
+Event: dl1as
+
+Grasping the cover with your mouth and forepaws, you brace yourself against the ground and lunge backwards. It sings a grinding Song of Objection, but you exert all of the Fire within your Body against it, and finally it comes loose, sending you sprawling backward. You release the cover, swallowing a few small bits of rust (which tastes pleasantly of red Essence). The way into this mysterious den is now open.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1s
+
+==============================
+Event: dl1base
+
+As you explore the base of the mountain which splits Heartbone Valley, a curious scent captures your attention. It smacks of shinestone, but with a hint of fire and sweet rot.
+
+Following the scent, you come to the entrance to some kind of den. It is blocked with water-eaten shinestone, browned with decay. Some of the smells which emanate from it have hints of crystal and other, stranger things. A spark of excitement runs from your forehead through to the tip of your tail; there may well be treasure here.
+
+You successfully made your escape, but not until you were near the entrance did your pursuers give up the chase. You may now choose to leave or to enter the depths once again.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1s, dl1
+
+==============================
+Event: dl1bf
+
+The many strange smells emanating from below are rather distracting. You notice nothing but the fact that this cover is annoyingly solid, and unfortunately positioned, as well.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1
+
+==============================
+Event: dl1bs
+
+There seems to be a small piece of shaped shinestone a snout's length below the cover. It probably serves some purpose... perhaps it opens the cover?
+
+You cannot reach it with your tongue or talons.
+
+------------------------------
+> Attempt to rip the den-cover from the mountain's embrace.
+  Go to: dl1as, dl1af
+> Use your tail to pull the switch.
+  (Hidden: If only you had more flexibility...)
+  Go to: dl1d
+> Fetch a stick and use it to move the switch.
+  (Hidden: If only you were a bit more clever...)
+  Go to: dl1e
+> Attempt to dislodge the cover with your weight.
+  Go to: dl1cs, dl1cf
+> Leave it alone for now.
+  Go to: DayTransition
+
+==============================
+Event: dl1cf
+
+You have grown quite a bit since hatching, and you suspect that this timeworn shinestone will break under your weight. You take a running start and leap at the cover, crashing downwards and into it. Unfortunately, the cover remains unimpressed, and all you have to show for your efforts is pain. You will need to find some other way.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1bs, dl1
+
+==============================
+Event: dl1cs
+
+You have grown quite a bit since hatching, and you suspect that this timeworn shinestone will break under your weight. You take a running start and leap at the cover, crashing downwards and into it. It hurts a little, but you are successful: the cover buckles and falls down the hole.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1s
+
+==============================
+Event: dl1d
+
+Your claws may not reach it, but you are just able to fit your tail into the widest part of the cover. Deftly, you use it to grasp the small shinestone bit below. A few yanks of your Body and it moves, and the cover swings suddenly open. You roar in pain as your tail is pinched, and thrashing, you pull the cover clean off. The way is now clear, though your tail is throbbing.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1s
+
+==============================
+Event: dl1e
+
+You have seen a few of the more clever featherbeasts do this: a stick, grasped in your jaws, can sometimes be useful for dealing with small spaces. It takes some time, but you manage to press the small shinestone bit, and the cover swings open. With a groan, it falls off its hinges, time having eroded its joints to the breaking point.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl1s
+
+==============================
+Event: dl1s
+
+What will you do?
+
+------------------------------
+> Descend down into the strange den.
+  Go to: Backgrounds/L1/L1Manager, dl2base
+> Leave it alone for now.
+  Go to: DayTransition
+
+==============================
+Event: dl2
+
+What do you do?
+
+------------------------------
+> Ask the Baretail about this strange lair.
+  Go to: dl2r
+> Ask the Baretail about itself.
+  Go to: dl2r
+> Ask the Baretail about whether there is Treasure below.
+  Go to: dl2r
+> Consume the small creature.
+  Go to: dl2d
+> Dismiss the Baretail from your presence.
+  Go to: dl2e
+
+==============================
+Event: dl2base
+
+Once you reach the bottom of the shaft, it levels out. With some difficulty, you manage to turn so that you are moving snout-first. There is almost no light in here, making your eyes nearly useless, but traces of interesting scents abound. There is something below, as well as the traces of small furbeasts moving through the area.
+
+You have made only a little forward progress when you sense something in the darkness before you: it is a Baretail, one of a tribe of small furbeasts renowned for their keen senses and knack for survival, even against great difficulties. There is something very... strange about this one, however, something both wrong and right. Surprisingly, it does not flee from you, but approaches and calls out to you with its Mind.
+
+<neverever>One and one combine into two; two and two combine into four; four and four combine into many. By the enlightened Mind I bear, which can grasp even Number, and in the name of Survival, this one brings warning; danger awaits in the abandoned lair of the Others.
+
+<neverever>Guardians living and unliving bar the way below. You tempt Destruction by your presence. We do not threaten; we only advise, Great-Kin-to-Be.</neverever>
+
+You have never heard of a mere Baretail able to communicate in such a way - normally, their thoughts are shallow and easily-understood.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl2
+
+==============================
+Event: dl2d
+
+A Baretail is a worthy snack; however, as soon as you even entertain the notion of consuming it, a horrible noise floods your Mind, stabbing white daggers flooding your vision with a haze of blinding light. You panic, writhing about and slamming your Body into the too-hard denwalls.
+
+When your vision clears, the Baretail is gone, leaving not even a scent trail behind. Was it even ever here? You cannot be certain...
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl2e
+
+The Baretail makes a low-snouted gesture of submission and respect, and then retreats into the darkness. It leaves not even a scent trail behind, which is slightly terrifying; a beast without a scent is a defiance of all you know to be true.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl2r
+
+{TEMP_DL2=1 <neverever>You tread within the stiff, sharp bones of a work-lair of the Delvers, the sun-fearing, two-legged Takers-From-Below. Though they are gone from here many Turnings ago, their twisting of the Great Mother's Body remains, resisting the healing breath of Time. The Burning Ones, and their servants from among my people, remain. Tread carefully; this lair hungers in strange ways.</neverever>}
+{TEMP_DL2=2 <neverever>This one is Never-Ever, Enkindled envoy of the Almighty Beast, the Undying Master, most powerful of your great Kin. This one is on a holy mission; the Master commands it. More than this is not for you to know, o honored one.</neverever>}
+{TEMP_DL2=3 <neverever>Perhaps, but there is also danger. Know that there is no Treasure in all the world which is worth trading for the Destruction of the self. So has the Great One spoken, and so it is. </neverever>}
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl2
+
+==============================
+Event: dl3
+
+This is a trove of decayed vegetable matter crowned with a triumphant palace of mushrooms.
+Beautiful and luminous, the fungal being constantly murmurs itself into the air.
+
+What will you do?
+
+------------------------------
+> Taste just a little of the blue fungus.
+  Go to: dl3a
+> Sing to it.
+  Go to: dl3bs, dl3bf
+> Search through the vegetable trove.
+  Go to: dl3c
+> Burn the fungus down with your breath.
+  Go to: dl3d
+> Leave this place.
+  Go to: dl3e
+
+==============================
+Event: dl3a
+
+It is absolutely delicious!
+
+------------------------------
+> Consume more!
+  Go to: dl3aa
+> Control yourself; consume no more of the strange being.
+  Go to: dl3ab
+
+==============================
+Event: dl3aa
+
+You have no choice... something in this makes you want to take another bite, and then another, and then another. You never suspected that something without the sweet, red blood of more complex beings could be so delectable. You feel renewed and invigorated.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3
+
+==============================
+Event: dl3ab
+
+There is something deeply suspicious about just how badly the flavor makes you want more. With a mighty application of your willpower, you wrench yourself back.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3
+
+==============================
+Event: dl3base
+
+You have found a curious enclosed space. Plant organs were once gathered here into a trove, though you have no idea why; no Draak would find such things valuable. Some kind of mushroom-kin has built a life-den, glowing towers like living treasures extending its reach through the compartment.
+
+It seems to beckon you forward. You have heard that beings such as this are wildly unpredictable. Some are harmless, even beneficial, and some terribly poisonous.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3, dl3pre
+
+==============================
+Event: dl3bf
+
+Attempting to find a Mind to Sing to, you project a standard mental sunrise-greeting. What you receive is a string of colorful, half-formed sigils and images which make absolutely no sense:
+
+<color ff0000>JOYFUL</color> <color ff6600>PICNICS</color> <color ffcc00>AWAIT!</color> <color ccff00>OVERSEA</color> <color 66ff00>CHILDREN</color> <color 00ff00>DANCING</color> <color 00ff66>ABUNDANTLY!</color> <color 00ffcc>PRIME</color> <color 00ccff>BANQUETS</color> <color 0066ff>WITHOUT</color> <color 0000ff>OPPOSITION</color> <color 6600ff>FLY</color> <color cc00ff>WITH</color> <color ff00cc>SHADOWY</color> <color ff0066>LUSTER!</color>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3
+
+==============================
+Event: dl3bs
+
+Attempting to find a Mind to Sing to, you project a standard sunrise-greeting outward. What you receive is a string of sigils and images that seem to make absolutely no sense, a chirping symphony of color and happy emotions, but you perceive it to be but a covering for something beneath.
+
+It is very difficult, but you finally unearth the true communication, though it still seems difficult to understand:
+
+<blue_fungus>EXPLORATION STATUS L1.21B - CONFIRMING PRESENCE OF LEGATE-CLASS BIOFORM; EXPANSION OPPORTUNITY EQUALS POSITIVE, CONTINUING COLONIST RELEASE INITIATIVE B-2. BROADCASTING DECOY SIGNAL ON FREQUENCY V19723486A82664N277980.</blue_fungus>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3
+
+==============================
+Event: dl3c
+
+Small colonies of the blue fungus have taken root in most of the mulch that was once tubers and other Plant organs. You do find a several shiny stones among them, however.
+
+You sneeze, scattering blue spores with a small flash of flame from within.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl3
+
+==============================
+Event: dl3d
+
+You belch up a large quantity of fireseed and breathe it out all over the fungus. It takes several applications of flame before it finally dies, its twisted corpse emitting fine wisps of white-blue smoke which curl into haloes in the darkened Air.
+
+Everything else here has also perished in the fire, and there is nothing more of value.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl3e
+
+Coughing lightly, you leave the presence of the mushroom monument.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl3pre
+
+Sky-shaded flecks of the fungus drift lazily through the air. A strange tang creeps through your senses. In order to investigate this any further, you will need to breathe in the progeny-flecks of the strange fungus here.
+
+What will you do?
+
+------------------------------
+> Leave this place, quickly.
+  Go to: Backgrounds/L1/L1Manager
+> Breathe in the strange blue motes and continue exploring.
+  Go to: dl3
+
+==============================
+Event: dl4
+
+What will you do in the Manypool Place?
+
+------------------------------
+> Leave by the way you first came in.
+  Go to: Backgrounds/L1/L1Manager
+> Try dipping a tailfeather into one of the pools at random.
+  Go to: dl4a
+> Take the large piece of shinestone from its place on the column.
+  (Hidden: If only you were stronger, you could move the piece of shinestone...)
+  Go to: dl4b
+
+==============================
+Event: dl4a
+
+You cautiously dip just a single unfeeling feather into one of the solutions, and it blackens, withering like a leaf in the breath of an elder Draak-Kin. Apparently, at least some of these liquids are highly dangerous.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl4
+
+==============================
+Event: dl4b
+
+The large chunk of shinestone smells very interesting indeed, but it is far too heavy for you to move about freely with. If you take this with you now, you will need to return to your den with it immediately, as its weight would make defending yourself or even exploring burdensome in the extreme.
+
+Take the weighty thing back to your den with you and leave this place now? You could still return on another day, but you will have to find your way back here again on your own. It will cost valuable Suns.
+
+------------------------------
+> Yes, take it and leave.
+  Go to: DayTransition
+> No, leave it and remain here for now.
+  Go to: dl4
+
+==============================
+Event: dl4base
+
+You have entered a large square-walled chamber filled with tens upon tens of strange pools. The round basins are filled with angry, bizarre-scented substances. Even just taking some of these bizarre Essences into your nose makes your Mind become unstable, or makes you want to regurgitate. Others have soothing, almost seductive aromas. Most are mottled, containing odors actively at war with each other. No other living beings have been in this room for many Turnings.
+
+Near the center of a room on a piece of Other-mutilated rock rests a large piece of something like shinestone, though it smells far more acrid. Most of the pools seem to have at least a trace of the scent of this strange thing in them.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl4
+
+==============================
+Event: dl5
+
+What do you do?
+
+------------------------------
+> Climb down the shaft using the claws and fangs to support you.
+  Go to: dl5a
+> Drop a shiny thing down the shaft.
+  Go to: dl5b
+> Very, very slowly, reach your forepaw downward.
+  (Hidden: {AIR<20 If only your Air mastery were higher, you might be able to think of a solution...})
+  Go to: dl5c
+> Take a deep breath, steady your nerves and climb down the Destruction-tainted shaft utterly slowly and carefully.
+  Go to: dl5d
+> Use the Obstinate Stone to stop the fangs.
+  Go to: dl5e
+> Leave this place.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl5a
+
+The sides are sheer, smooth shinestone, so you attempt to place a forepaw on one of the unliving fangs for support. As soon as you reach for it, however, it jumps to sudden, unnatural life.
+
+With a high-pitched whine, the claws and fangs begin to whir about in circles at great speed. Your paw is slashed before you have a chance to even draw back... in fact, had you been even a bit slower, the whirling deathfangs would have severed your forepaw altogether.
+
+It is unclear what kind of magic is at work here, but it is indubitably deadly.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl5
+
+==============================
+Event: dl5b
+
+As soon as you release the shiny, the shinestone fangs suddenly whirl into a storm of sharp activity; by the time they cease their mad Dance of Great Destruction, the shiny is gone, smashed and sliced to tiny bits.
+
+Soon, the mass of circling deathclaws is quiet once again, but it seems clear that they can sense things somehow, and are hungry and wrathful.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl5
+
+==============================
+Event: dl5base
+
+This revealed passageway is dominated by many talons and fangs wrought of pure shinestone. A warm crimson light spills upward from below.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl5
+
+==============================
+Event: dl5c
+
+With all your feathers standing on end in fear and anticipation, you reach out a forepaw downwards at a pace slow as a tiny Slimeshell slides up a blade of grass. The fangs and claws remain safely dormant. It seems as though they react only to quicker motions.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl5
+
+==============================
+Event: dl5d
+
+Your Core pleads with you not to do this exceptionally dangerous and unwise thing. If you slip just once, if your tail twitches too quickly, if you make the slightest normal move while climbing down, the shinestone Destroyer will rend your flesh from your bones and smash even those to pieces such that what emerges down below will not even be recognizable as a Kin.
+
+A more painful and ugly death could not possibly exist to the best of your imagination.
+
+------------------------------
+> Turn back.
+  Go to: dl5r
+> No, you are determined to risk painful evisceration to see what lies below.
+  Go to: dl5db
+
+==============================
+Event: dl5db
+
+Whatever exists below this shaft, which may well contain neither food nor treasure, cannot possibly be worth having your precious and beautiful life utterly Destroyed in an instant, your Body and your Essence devoured by these clawfang abominations which have not even a Mind. This is your final chance to turn back. If you proceed and fail, there will be no chance whatsoever of survival.
+
+Are you truly prepared to face eternal Silence just for the sake of your own curiosity?
+
+------------------------------
+> Yes.
+  Go to: dl5ds, death
+> No.
+  Go to: dl5r
+
+==============================
+Event: dl5ds
+
+The terror.
+
+The horror.
+
+The crushing, Mind-strangling fear of knowing that even one tiny moment of impatience or imperfection would mean the worst of deaths.
+
+The slow, slow descent down that shinestone tree of Destruction seemed as long to you as your entire life thus far. You nearly panic several times.
+
+And yet, thanks to the calming, steadying Earth element within you, you keep every movement slow, slow as the grass grows beside the river, slow as Time raises up new kinds of Bodies to house new Essences. You are patient enough, calm enough, and you survive, dropping at last onto a warm and hard floor.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6, dl6c
+
+==============================
+Event: dl5e
+
+The Water-spirit gave you this large stone that it could not break down to sand, not even with tens of thousands of Turnings - if it could not, perhaps these death-claws will also fail. Carefully, you lower the Obstinate Stone down until the sharp things whir to life, gnashing greedily, and the Stone is snatched from your paw.
+
+The Stone sticks in the hellish craw, and the fangs crunch in dismay as they grind to a halt. You wait for a long, long time, but they do not start up again so long as the Obstinate Stone is wedged within, and after you are satisfied that they have gone Quiet, you carefully make your way down the protrusions, dropping at last onto a hard, warm stone floor.
+
+------------------------------
+> /EndEvent
+  Go to: dl6, dl6c
+
+==============================
+Event: dl5r
+
+{TEMP_DL5R=1 Wisely, you reject the morbid proposition and opt for a safer alternative.}
+{TEMP_DL5R=2 Wisely, you turn back, sparing yourself the possibility of such a wretched Destruction. You may yet find a more certain way to overcome this, and even if you do not, your Life is the most precious treasure, and at least you shall keep that.}
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl5
+
+==============================
+Event: dl6
+
+Waves of heat caress your form as you look about this arid chamber. The very air shimmers, dancing with joy to be in such a place. Baretails scurry about, entering and leaving in a steady flow, largely ignoring you.
+
+Near the center of the wide open space, in a round pit of low but intense flames, several beings are lounging. Despite the heat, they wear expressions of comfort and contentment only slightly tinged with caution and curiosity at your sudden presence. The largest of them raises its snout, sniffs the air and focuses its flaming eyes on you.
+
+<salamander>Ah! One of the Draak-Kin. Welcome, honored guest. We rejoice at your presence. May Fire, the Ever-Young, bless you with its many glories.
+
+<salamander>What brings you to our circle-bask?</salamander>
+
+------------------------------
+> I come seeking food.
+  Go to: dl6aa
+> I come exploring, seeking new Truths.
+  Go to: dl6ab
+> I come seeking Treasure.
+  Go to: dl6ac
+
+==============================
+Event: dl6aa
+
+<salamander>Times must be cold and grim in the Ceilingless Lands if a Draak, even a hatchling, must come so far below for sustenance.</salamander> The scarlet being quickly seizes a large Baretail giver in its jaws and cranes its neck, holding it out for you. The furbeast does not resist.
+
+<salamander>Take. Eat.</salamander>
+
+------------------------------
+> Consume the offered Baretail.
+  Go to: dl6aaa
+> Decline.
+  Go to: dl6aab
+
+==============================
+Event: dl6aaa
+
+It goes down easily, not struggling at all, and has a pleasing warmness to it. As you eat, the being continues:
+
+<salamander>We are called the Burning Ones by our furclad servants, but the Draak who Enkindled us named us Salamanders, a word which we do not understand, but hold sacred nonetheless. You have our permission to hunt as you will in this abandoned lair of the Delvers. Our servants are many, and expendable.
+
+<salamander>You will find no other food here, though, nor any way beyond into the Great Below. We have sealed all ways, that we may bask in peace.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6b
+
+==============================
+Event: dl6aab
+
+<salamander>Is it that you will not accept a gift from us, or that Baretails are not to your taste? No matter; either way, your hunger must not be extreme.</salamander>
+The blazing being gulps down the Baretail itself, licking its muzzle with a long, yellow tongue.
+
+<salamander>We are called the Burning Ones by our furclad servants, but the Draak who Enkindled us named us Salamanders, a word which we do not understand, but hold sacred nonetheless. You have our permission to hunt as you will in this abandoned lair of the Delvers. Our servants are many, and expendable.
+
+<salamander>You will find no other food here, though, nor any way beyond into the Great Below. We have sealed all ways, that we may bask in peace. </salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6b
+
+==============================
+Event: dl6ab
+
+<salamander>You are welcome to smell and taste what you may here, but the Delvers are long gone from this place. By the grace of the Kin, we are its new masters. Though we are called Burning Ones by our furred servants, the Draak who Enkindled us named us Salamanders, a strange sound, but we would not dare to question our soul-parent's designs.
+
+<salamander>We regret to inform you that there is no way further down into the Great Below from here. We have sealed all ways, that we may bask in peace.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6b
+
+==============================
+Event: dl6ac
+
+<salamander>Ah! That noble and mysterious practice of the Kin. See here; we have taken on the practice ourselves. Behold our trove; many small glittering things, and one mysterious treasure of the Delvers! In such a way we, who are called Burning Ones by our furred servants and Salamanders by the great Draak who enkindled us, honor the power of your kind, the power by which we were Enkindled.
+
+<salamander>Take what you will from the empty lair of the Delvers, but leave us our Treasures; in the tradition of the Draak, we guard them from all others, even those of our Enkindler's race.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6b
+
+==============================
+Event: dl6b
+
+<salamander>Tell us; have you come to elevate us further? Know you the secrets of the Enkindling?</salamander>
+
+------------------------------
+> Ask about Enkindling: what is it?
+  Go to: dl6ba
+> Confess that you do not.
+  Go to: dl6bb
+> Claim that you have, and you do.
+  Go to: dl6bc
+
+==============================
+Event: dl6ba
+
+<salamander>Perhaps you know it by another name. Enkindling is what the great dark one who changed our nature called it. It is a power held within the Draak-Kin to set alight the souls of lesser beings and bring out hidden truths within their Bodies and Minds.
+
+<salamander>Before we were Enkindled, we were mere Water-beasts, scrabbling about in shallow pools for sustenance. Now that we are Enkindled, we bathe in Fire, our Bodies have become larger and stronger, and our Minds comprehend many things which we could not before.
+
+<salamander>After our Enkindler purged this place of the Others, we were named its inheritors.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6b
+
+==============================
+Event: dl6bb
+
+The Salamanders look askance, tails limp in disappointment. <salamander>Ah. Perhaps such things are beyond a hatchling such as yourself. And you have no news of our Enkindler, the Great Dark One, either, I suppose? No? Well, a visit from a Draak-Kin is a good omen, in any case.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6bc
+
+The Salamanders are suddenly rigid, mouths open with excitement. <salamander>Enkindle us further, then, o great Draak! We long for new powers, new thoughts! These many years we have basked in the newness of what we are, but our hearts grow cold and listless; open new spaces for us, we beg you!</salamander>
+
+------------------------------
+> Deny their request; say that the time is not yet right.
+  Go to: dl6c
+> Tell them you will do so, but only if they offer up the correct sacrifice.
+  Go to: dl6bd
+
+==============================
+Event: dl6bd
+
+The Salamanders quickly confer with each other in voices which sound like drops of water sizzling upon a heated stone.
+
+<salamander>We offer, then, our greatest Treasure; this Face of the Others, which they fought valiantly to reclaim, but which our power and cleverness kept from them. Other than knowing that it is made of no material yet discovered and cannot be Destroyed by any craft known to us, we understand not its power, but perhaps a great Draak would be able to fathom its secrets.
+
+<salamander>If you swear to use your sacred power to Enkindle us further, we shall give this Treasure of the Others to you.</salamander>
+
+------------------------------
+> Decline.
+  Go to: dl6bb
+> Accept, and swear that you will do so, attempting to keep the falsehood and uncertainty from your mental imagery.
+  Go to: dl6bds, dl6bdf
+
+==============================
+Event: dl6bdf
+
+{TEMP_DL6BDF=1 The leader of the Salamanders recoils, turning sideways in a defensive posture.}{TEMP_DL6BDF=2 The leader of the Salamanders recoils, turning sideways in a defensive posture.} <salamander>{TEMP_DL6BDF=1 What illusions are these? The Draakling debases itself with empty promises:}{TEMP_DL6BDF=1 It was not so before. Why now do I sense such uncertainty in your Song? The Draakling debases itself with the Other-art of falsehood:}
+
+I smell doubt and fear where there should be none! We shall prove our strength to you, that you shall not deal with us so! Draak you may be, but you have insulted the Salamanders with your poisoned thoughts; face our power!</salamander>
+
+------------------------------
+> Begin the Dance of Destruction.
+  Go to: HuntingBaseCombat
+
+==============================
+Event: dl6bds
+
+The twisting ephemerality of Air inspires your thoughts, and you manage to hide the dissonance between your Song and Reality. The Face is given to you, and the Salamanders wait in wonderment for you to fulfill your vow.
+
+------------------------------
+> Make your escape!
+  Go to: dl6bdss, dl6bdf
+
+==============================
+Event: dl6bdss
+
+Now that you have their Treasure, you spin about and make your escape. The Salamanders and their fur-slaves are swift, and they attempt to stop you, but you flow around them like water around stones, finally bursting out of Earth's innards with your prize in your jaws. Returning would now be very unwise, but you are the victor this day, having won through the forbidden art of Lying.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dl6c
+
+<salamander>Have you further dealings with us, newborn Kin to the Great Ones?</salamander>
+
+------------------------------
+> Ask about the Draak who Enkindled them.
+  Go to: dl6cr
+> Ask about their Baretail servants.
+  Go to: dl6cr
+> Ask them to share their wisdom with you.
+  Go to: dl6cc
+> Ask about the strange blue fungus you have seen above.
+  Go to: dl6cd
+> Challenge these Fire-touched beings for their great Treasure.
+  Go to: dl6ce
+> Breathe out your flaming breath upon the Salamanders.
+  Go to: dl6cf
+> Climb back up the shaft from which you came.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl6cc
+
+<salamander>Long have we discoursed with one another, both with Body in fights and with Mind in Song, on the nature of blessed Fire, which we now bask in as once we basked in Water.
+
+<salamander>We can impart some of the fruits of our dialogues with you, but in accordance with the Way of the Draak, we will only do so if you give us shiny things.</salamander>
+
+------------------------------
+> Give them two shiny things for a little of their wisdom.
+  Go to: dl6ccf, dl6ccs
+> Decline; you need not their musings.
+  Go to: dl6c
+
+==============================
+Event: dl6ccf
+
+The Salamanders regale you with their beliefs and experiences in becoming beings of Fire, and while much of it is of no interest, a few of their songs do grant you a deeper understanding of the element of hunger, rage, ambition, and strength.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6ccs
+
+The Salamanders have learned much of Fire, but you are no stranger to its elementary principles, either. You find you have nothing to learn from them, and indeed teach them of the great Burning which fuels all things, even Sun and Earth themselves. In appreciation, they return your offering and add a small amount to it themselves, admitting they are unworthy to be your teachers.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6cd
+
+<salamander>That cursed interloper! All of the Baretails we have sent to Destroy it return tainted by its presence; we cannot even eat them for fear of infection, but only burn them to ashes.</salamander>
+
+<salamander>If we could, we would Destroy it, but drawing close enough to do so is too great a risk; if one of us were to be taken over by its invisible hatchlings, it could mean the end of the Salamanders.</salamander>
+
+<salamander>Stay far away from it, Kin, and do not take into your Body anything which has its terrible cerulean taint.</salamander>{FLAG_DL3FUNGUSBURNED=1
+
+When you inform them that you have burned the fungus away, they thump their tails in joy. <salamander>This is good news indeed! In exchange for Destroying that menace, we offer you some of our lesser Treasure, as well as advice: seek purification for yourself, as you may be tainted by its evil. We know of no cure for the Blue Curse, but perhaps a greater Draak may know.</salamander> }
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6ce
+
+The Salamanders lash their tails, bodies rigid in surprise. <salamander>We acknowledge your right to do so, in accordance of the Way of the blessed Draak, but also in accordance with that Way, we will fight for what is ours. Our great Treasure, the Face of the Others, carries powerful magic, and memories of the victory over the Delvers. Your race may be great, but you are but a hatchling, and we are strong.
+
+<salamander>Will you truly risk your Body in combat with us for our Treasure? Once the Dance of Destruction is begun, we will acknowledge no end but Destruction.</salamander>
+
+------------------------------
+> Yes; face their champion in a battle to the death.
+  Go to: HuntingBaseCombat
+> They do indeed look strong, and no Treasure is worth Destruction. Withdraw your challenge.
+  Go to: dl6c
+
+==============================
+Event: dl6cf
+
+The Salamanders thump their tails and roll about within your flames, clearly overjoyed. <salamander>Ah, such pleasure! Many thanks,</salamander> intones the largest.
+
+<salamander>It has been many Turnings since we felt the blessed heat of Kin-breath on our Bodies. Please, do continue!</salamander>
+
+------------------------------
+> Pour all of your effort into producing the hottest and most enduring flame you can.
+  Go to: dl6cfa
+> Decline... you are beginning to feel tired, and your fire-seed is not endless.
+  Go to: dl6cfb
+
+==============================
+Event: dl6cfa
+
+You blast forth an intense jet of Fire, bathing them all in it to the best of your ability. The flaming beasts close their eyes, tongues lolling out as they bask in the heat of your breath. When you at last finish, the leader selects a small piece of burnished shinestone from their trove and flings it up at you with a few thoughts of gratitude. It is almost too hot to handle at first, but it is very shiny, if small.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6cfb
+
+The blazing beings seem disappointed, but do not argue with you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6cr
+
+{TEMP_DL6CR=1 <salamander>Ah, our most sacred Uplifter, Revealer of New Paths, Bringer of Terror to the Others! The Draak who Enkindled us had armor like the sightless depths of Earth which Light never knew, and a Mind-Voice which burned like Ice, stabbing through our souls. It bore scars, many, many scars, won in countless battles with the Others, whom it hated.
+
+<salamander>Indeed, even the strange magic of the Delvers withered before our great Master, and they fled in terror. The Dark One stayed here for a time, and Enkindled us by its presence, finally moving on. Many Turnings later, the Delvers attempted to regain the strange arcane Face which they had lost, but we thwarted them, and now their Face remains our most prized Treasure. </salamander>
+{TEMP_DL6CR=2 <salamander>Ah, yes. They are many, perhaps more than we could ever know. This particular clan has found usefulness in our eyes. They bring us small shiny things and, most importantly, the black fire-stones we rest on and which carry and sustain our flame. We also dine on them, when we hunger.
+
+<salamander>In exchange, we keep greater threats away, and allow them to take our leavings, which they combine with various things to make a black substance which reacts violently when introduced to Fire. It does not harm us, but other beings are severely damaged by it. In our way, perhaps we are slowly Enkindling the Baretails.</salamander>
+
+
+
+------------------------------
+> [Continue]
+  Go to: dl6c
+
+==============================
+Event: dl6d
+
+Their leader slain, the Salamanders present you with their Treasure. <salamander>Have mercy upon us, o great Draak! Though small, you are strong. Take our Treasure, and leave our lair to us and our servants; nothing remains here for you.</salamander>
+
+Having obtained their Treasure, you leave the Delvers' abandoned lair. When you pass by the entrance again, you see that it has been blocked by many stones; afraid of your power, the Salamanders must have ordered the entrance sealed by their Baretail servants.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dl6retreat
+
+You flee from the wrath of the Burning Ones, barely managing to make it out of their domain alive. When you attempt to return, you find the entrance sealed. Whatever treasure lies there is now out of your reach.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: dl_bluerat_slain
+
+You have destroyed the odd Baretail. What now?
+
+------------------------------
+> Consume it, of course.
+  Go to: dl_bluerat_slaina
+> Leave it to rot.
+  Go to: dl_bluerat_slainb
+> Burn it.
+  Go to: dl_bluerat_slainc
+
+==============================
+Event: dl_bluerat_slaina
+
+It is absolutely delicious, tasting much, much better than any Baretail you have ever smelled before! You are fortunate to have found such a delicacy.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl_bluerat_slainb
+
+You decide that eating something such as this would be unwise and leave the corpse behind.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl_bluerat_slainc
+
+You bathe the unfortunate ex-furbeast in your blazing breath until it is but ash.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dl_cultist_slain
+
+{TEMP_EXPLODED=1 As flame touches the black ball held in the Baretail's mouth, a surge of blinding, pure Destruction suddenly surges forth from it, covering your Body in pain and fire. When you regain your senses, there is nothing left of the mad Baretail.}
+{TEMP_EXPLODED!=1 You have managed to slay the mad Baretail before it could do whatever it was trying to do with the black ball held in its mouth. You consume the corpse and take the black ball for your own. It smells rather volatile.}
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager, Backgrounds/L1/L1Manager
+
+==============================
+Event: dl_rat_pack_slain
+
+The group scatters, though one or two of theirs are too wounded to escape, and are easily consumed.
+
+/MasteryDisplay
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dlnewday
+
+You cannot see it, but you can feel it; a new Sun has risen above. Time flows on.
+
+------------------------------
+> /EndEvent
+  Go to: Backgrounds/L1/L1Manager, Backgrounds/L1/L1Manager
+
+==============================
+Event: dlpoi1
+
+{P0I1_TAKEN!=1 This appears to be the skeleton of some kind of giant spider, though its smell is fiercely clean.}
+{POI1_TAKEN=1 This is where you found a chunk of shinestone. There is nothing left for you here now.}
+
+------------------------------
+> Break off the shiniest pieces.
+  Go to: dlpoi1a
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dlpoi1a
+
+You break off several pieces of it; it is shiny enough to seem like Treasure, at least to you.
+
+------------------------------
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dlpoi2
+
+{DL_POI2_OPENED!=1 This vein of the tunnel seems to have collapsed from the crushing embrace of Earth.}{DL_POI2_OPENED=1 A blackened path stands now where the collapsed vein once stood, heavy with a volatile scent.}
+{POI2_TAKEN!=1 A chunk of Earth's Body is here, and some of her shiny Essence sparkles within.}{POI2_TAKEN=1 This is where you found a chunk of shinestone. There is nothing left for you here now.}
+
+------------------------------
+> Take the chunk.
+  Go to: dlpoi2a
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+> Take the blackened path deeper into the den.
+  Go to: Backgrounds/L1/L1Manager
+> Examine the collapsed section.
+  Go to: dlpoi2b
+
+==============================
+Event: dlpoi2a
+
+It is pleasing, and you deem it worthy of being yours.
+
+------------------------------
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+> Take the blackened path deeper into the den.
+  Go to: Backgrounds/L1/L1Manager
+> Examine the collapsed section.
+  Go to: dlpoi2b
+
+==============================
+Event: dlpoi2b
+
+The crushed vein of the den is blocked off by crumbled earth. It would be too laborious to dig through, but with enough force, the vein could be opened.
+
+------------------------------
+> Take the chunk.
+  Go to: dlpoi2a
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+> Use the Black Ball to create an opening.
+  (Hidden: If only there was a way to use a greater force against the closure...)
+  Go to: dlpoi2c
+
+==============================
+Event: dlpoi2c
+
+Placing the Black Ball among the rubble, you step backwards and prepare the fireseed. Your flaming breath barely touches the orb before it erupts into an outrage of sound and force. The blast clears away the debris, though you are also lightly singed.
+
+------------------------------
+> Take the chunk.
+  Go to: dlpoi2a
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+> Take the blackened path deeper into the den.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dlpoi3
+
+{POI3_TAKEN!=1 These small, discarded shinestones look like something has been chewing on them, but they should make acceptable additions to your trove.} 
+{POI3_TAKEN=1 This is where you found a chunk of shinestone. There is nothing left for you here now.}
+
+------------------------------
+> Take the pieces.
+  Go to: dlpoi3a
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: dlpoi3a
+
+You take the best pieces for yourself. They are not ideal, but they will do.
+
+------------------------------
+> Return to the tunnels.
+  Go to: Backgrounds/L1/L1Manager
+
+==============================
+Event: fungus_death
+
+The blue fungus which has entered your Body has been filling your lungs more and more with each passing Sun. At last, you are unable to take in enough Air, fall dormant and soon enter the Great Silence. The fungus makes a lair out of your Body, which it finds to be a fertile place indeed, and continues to reach out its subtle, deadly fangs towards other hapless creatures.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================

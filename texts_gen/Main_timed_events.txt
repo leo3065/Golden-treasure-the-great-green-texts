@@ -1,0 +1,18 @@
+Event: timed_events_day
+
+h
+
+------------------------------
+> [EventLoad]
+  Go to: death, fungus_death, dz, dx5, dh_1, dh_2, gx1, gx2, gx3, gx4, gx5, gd3, ge3, ge3, gw4, gx3_special, gz3, gz4, gz5, g008_2, g008_4, g008_5, door_test_1, ff1, ff1, ff2, fx1, fx2, fx2_1, fx3, fx4, fx5, fx6, fpi, fpi, fli, fli, {TEMP_FALL_THROUGH}
+> [EventUnload]
+  Go to: 
+
+==============================
+Event: timed_events_lair_exit
+
+------------------------------
+> [EventLoad]
+  Go to: dx4, g007_2, fx1, fx2, fx2_1, {TEMP_FALL_THROUGH}
+
+==============================

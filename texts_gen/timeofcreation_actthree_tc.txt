@@ -1,0 +1,1833 @@
+Event: tc001
+
+A turn of a foot. A twist of a long, graceful neck.
+
+A brush, light, of feather on feather.
+
+A leap away, but then a turn in midair as they are brought back together by a power sacred and mysterious.
+
+The Great Spearstriders are Dancing, splendid among the brave first-Flowers and the last shimmering frosts. Their Dance heralds the beginning.
+
+The <rainbow><bold>Time of Creation</bold><rainbow> is nigh.
+
+Sweetly, sweetly it burns within you. It is the Future, it is Possibility, it is Life itself, and it demands to be made manifest.
+
+The Call is spreading, slowly, like Tree-roots through your Core. You can resist it if you choose, but the spark of Infinity which is your Essence wishes to take on a new form, and only through you may it do so.
+
+In accordance with your Trove and reputation among the Kin, you may receive visitors who are interested in performing the Sacred Dance which begets Life with you, or you may seize the initiative and visit nearby Draak yourself.
+
+Some may wish to test or challenge you to determine your worthiness, and you too have the right to demand proof of them.
+
+It is absolutely imperative that you choose wisely, however. The very future of the Kin hangs in the balance.
+
+As this is your first Time of Creation and you are still very young, more powerful or older Kin will almost certainly not offer themselves or accept your advances. Indeed, most Kin do not successfully Create at all in their first Time...
+
+But you are not most Kin.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: tc002
+
+A long-feathered Kin has appeared at the edge of your territory. It calls to you urgently and passionately, as if it is in pain every moment it is separated from you, though you have not seen it before.
+
+<bard>I am the Singer of Songs, the Weaver of Tales, the Shatterer of Hollow Traditions!
+
+<bard>I am the Bringer of New Truths, the One-Who-Dares, the Far-Reaching Voice!
+
+<bard>From the Stars-deep Sky I tumble, drawn inexorably down
+
+<bard>By one whose beauty has ensnared my soul, arrested my Essence.
+
+<bard>Unbidden, all my Songs turn to cries of longing for you,
+
+<bard>All my sacred stories to tales of passion,
+
+<bard>For you are already within me, calling me, dominating me.
+
+<bard>I can stand it no longer; I am your territory, and my heart is your domain.
+
+<bard>Let us become One in truth. I see your Body, I smell your delicious fragrance, and I am bound; yes, even I, Most Free of the Kin, am become your property.
+
+<bard>Do not torture me, my Destiny. Let us Dance.
+
+<bard>I promise you a Dance which you shall sing of for a thousand Turnings,
+
+<bard>For to Create with one such as you is beyond all petty things which the Kin long for,
+
+<bard>More than Glory and Fame, yes, even Treasure;
+
+<bard>You are the True Golden Treasure.
+
+How shall you address Bard, the Singer of Songs?
+
+------------------------------
+> <shimmer>Accept its offer and Dance.</shimmer>
+  Go to: tc002a
+> Ask Bard about why it has chosen you.
+  Go to: tc002b
+> Ask Bard about its achievements.
+  Go to: tc002c
+> Ask Bard about its Treasures.
+  Go to: tc002d
+> Demand a gift from Bard.
+  Go to: tc002e
+> Reject Bard.
+  Go to: tc002f
+
+==============================
+Event: tc002a
+
+As you move in to accept, Bard leaps at you. It is an energetic yet gentle Dancer, even allowing you to be dominant without issue.
+
+Indeed, it is a Dance which you shall never forget.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc002b
+
+<bard>One who inhabits the very heart of the Green, at so tender an age...
+
+<bard>Who is like unto you? Who can compare to you?
+
+<bard>To one who sees <bold><italic>potential</bold></italic> and not the already-old present...
+
+<bard>You are like a beacon of Desire, and I am drawn, Moth-like, to you.
+
+<bard>I have heard Songs of you from afar,
+
+<bard>And Songs of you have I sung to others.
+
+<bard>You are my fantasy.
+
+<bard>My fantasy.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc002
+
+==============================
+Event: tc002c
+
+<bard>All corners of Earth's broad Body have I beheld,
+
+<bard>From Her red-robed depths to her iceclad heights.
+
+<bard>I have been declared Monarch by the butterflies,
+
+<bard>Emperor by the flightless featherbeasts who march the frozen plains.
+
+<bard>I have saved entire Peoples by preserving their songs, singing them after silence,
+
+<bard>And I have doomed others by changing or erasing their sacred tales.
+
+<bard>In the Dreaming, I inhabit a blue-crystal Lair like unto many mountains melted together.
+
+<bard>Am I not worthy, mighty Keeper of the Spirit?
+
+...but Bard has nothing to say about its actual territory, and coyly refuses to answer questions about it.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc002
+
+==============================
+Event: tc002d
+
+<bard>While feeling my fluid way through the Great Below,
+
+<bard>I came across a Hive of Delvers.
+
+<bard>But no craven am I! I blasted their hollowings with Fire,
+
+<bard>Sang out a Song of Challenge!
+
+<bard>Fearing me as the End of Time, the Delvers
+
+<bard>Bought their salvation with a shining jewel
+
+<bard>Thick as a fang, hewn in mathematics glorious and curious.
+
+<bard>Such is my finest treasure, glinting still with victory and bile within me.
+
+Bard proceeds to cough up a very large and beautiful emerald cut into thirty-five facets. It is quite radiant, and Bard wisely swallows it quickly again before the urge to take it rises too high in you.
+
+...and yet it is only one Treasure, and Bard can show you no others.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc002
+
+==============================
+Event: tc002e
+
+Bard opens its mouth and lets forth a beautiful Song of Praise:
+
+<bard>I am Light, and you, the Horizon.
+
+<bard>How my Body and my Essence reach for you!
+
+<bard>I see all the Glorious Arc in your feathers,
+
+<bard>I see my own eyes reflected in your scales.
+
+<bard>Your teeth are sharp, and your tail broad; can it be so?
+
+<bard>Do I see Truth, or but an illusion of beauty?
+
+<bard>You are the apex of Time, the sweetest fruit of Sun and Earth's joining.
+
+<bard>Turn me not away, or my desire will consume me and leave me a husk,
+
+<bard>A broken shell on the shores of the Onesong.
+
+The song echoes from the nearby hills, and a warmth seems to be spreading through you. Never have you seemed so glorious in the mouth of another.
+
+...but an insubstantial Song of Praise is not a thing you can add to your Trove.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc002
+
+==============================
+Event: tc002f
+
+You let out a blast of fire at Bard, the traditional indicator of rejection. Bard offers no combat, but takes to the sky and is swiftly gone.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1
+
+<toucan>At last, my quest ends. Praise be to the Rainbow One, whose Music is true and whose Being is perfection.
+
+A rather strange featherbeast with a massive facehorn has arrived in your territory and called you forth. It grunts pleasingly, like a Tusksnort, and rejoices at the sight of you.
+
+<toucan>Chosen One, Desire-of-my-Deity, I come with rapturous news! I am a Sworn Servant of the Feathered Thunder, the Enlightened Master, the Fabulous Marvelous Transcendent Magnificent Rising Flower of Earth Opened to Beautiful Maturity.
+
+Apparently it represents Bloom, the Beast-festooned Kin whom you defeated in adolescence.
+
+<toucan>My wondrous Patron has sent me on a quest of many Moons to find the one who so skillfully defeated It turnings ago.
+
+<toucan>Yes, the truth is known to me. I am Most Trusted of the Great One's servants, and privy to its secrets.
+
+<toucan>Since being thwarted here, the Illuminated One has risen to fame and power in a far-distant land, across the Great Blue. There, it secured the loyalty of my People, the Sunbills, and many others through adventures and acts of wisdom too many to mention.
+
+<toucan>And yet, the Perfect One has not forgotten your power and ingenuity, Chosen. Rejoice greatly, for it wishes to become One with you in the Dance of Creation.
+
+<toucan>Will you allow Destiny to progress by receiving the Great One in your territory and hearing its case for a Dance?
+
+<toucan>There is but one correct answer, of course, but you are Kin and your great Way is mysterious.
+
+<toucan>What reply shall I deliver to the Hierophant and Prophet?
+
+------------------------------
+> Ask about the messenger's impressive facehorn.
+  Go to: tc003_1a
+> Ask about Bloom's territory.
+  Go to: tc003_1b
+> Ask about Bloom's wealth.
+  Go to: tc003_1c
+> As loser of your last battle, Bloom is petitioning from below. Ask for a token of its worthiness.
+  Go to: tc003_1d
+> Agree to Bloom's request for a meeting.
+  Go to: tc003_1e
+> Reject Bloom's proposal. You do not desire to Dance with it.
+  Go to: tc003_1f
+
+==============================
+Event: tc003_1a
+
+<toucan>Magnificent, is it not?
+
+<toucan>With it, I smite my foes in battle, pluck sweet fruits from the grandest Trees, project my voice far, and regulate my Body's temperature.
+
+<toucan>It was made out of a crystallized Sun-beam and given to my People by the Spirit of the Green after we lost our short beaks in a battle with a demon.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_1
+
+==============================
+Event: tc003_1b
+
+<toucan>It is said that this is the Heart of the Great Green, and indeed, I sense the Spirit's presence here...
+
+<toucan>But the Great Green has many Hearts, and of them all, my homeland is the greatest, most powerful and fragile in its intricacies. There, Trees like Mountains grow, holding separate worlds in their lower, middle, and upper reaches.
+
+<toucan>The Breath of the World flows from them, and a mighty River, the mightiest on Earth, winds through it, twisting about itself and dancing to the Sea.
+
+<toucan>The Great One's subjects, inhabitants of the Warm Heart, are colorful beyond all others. Indeed, in this coldward land, most of the creatures seem to be brown.
+
+<toucan>Already I miss the vivid reds, yellows and blues of the Goodbeasts of home.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_1
+
+==============================
+Event: tc003_1c
+
+The ambassador bows low.
+
+<toucan>A wise question. I come prepared to sing of the greatest Treasures owned by my wondrous Overlord.
+
+<toucan>Even now, it slumbers upon a Mountain of silver, festooned with amethyst and emeralds. The quantity is beyond the capability of any non-Draak to number.
+
+<toucan>Crystal itself seems to favor the Master, and vice versa; It possesses a collection of twenty-four curious objects made from clear crystal, ranging from flowers to a Tailless skull which it obtained by through an adventure most daring.
+
+<toucan>It has defeated three rivals to hold the Blessed Land and is now unchallenged.
+
+<toucan>Fathom, Elder of the Kin, has prophesied that my dear Overlord shall be remembered in far times as the Rainbow-Feathered Serpent who brought Order and Peace to Earth's sacred lung, and great Allmother has taught it a Secret which It holds close.
+
+<toucan>Of all its Treasures, however, the loyalty and devotion of every Goodbeast for long-flights in all directions is most dear to it. It has been known to inconvenience itself for the good of Peoples even too small to see.
+
+<toucan>The Great One loves Life, and Life loves the Great One. One day, it shall be an Elder of the Kin. So it has been sung, and so we believe.
+
+<toucan>Praise to the Hierarch, who orders our Bodies and Essence alike, even as it partakes of our flesh.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_1
+
+==============================
+Event: tc003_1d
+
+The Sunbill pauses.
+
+<toucan>Yes. The Great One knew that you would demand such, as is your right.
+
+<toucan>It has promised a token if you will agree to meet with it...
+
+<toucan>And that token is I.
+
+<toucan>My flesh is yours to consume, if you desire. I offer myself to you.
+
+<toucan>There are many adventures, many acts of service, which I still wish to experience, and my love, my nest-mate, now sits upon our first clutch of eggs...
+
+<toucan>But I am loyal to the Great One, and accept my destiny.
+
+<toucan>For what is the Body of a mere featherbeast to the sacred Desire of a Draak-Kin?
+
+Surely, all Kin wish for servants as loyal and brave as this one, which has crossed the Great Blue in its search for you.
+
+No Kin has ever tasted the flesh of such a featherbeast on this side of the Blue, however. How will it taste, you wonder? Its feathers and bill will also look beautiful in your Trove.
+
+------------------------------
+> Consume it and contact Bloom with an acceptance of its proposal to meet.
+  Go to: tc003_1da
+> Consume it, but do not contact Bloom and allow the matter to die here.
+  Go to: tc003_1db
+> Do not consume it, but send it back to Bloom with a message of acceptance.
+  Go to: tc003_1dc
+> Do not consume it, but send it back to Bloom with a message of rejection.
+  Go to: tc003_1dd
+
+==============================
+Event: tc003_1da
+
+Before being slain and consumed, the Sunbill lowers its head, closes its eyes and sings:
+
+<toucan>Here I die, my life given so that my glorious Master's line shall expand and endure.
+
+<toucan>I pray you, Chosen One, Desire of the Rainbow Hierarch, be kind to my eternal Master.
+
+<toucan>I depart to join with the Onesong once again. Sing of me to the Fabulous Marvelous Transcendent Magnificent Rising Flower of Earth Opened to Beautiful Maturity...
+
+<toucan>Tell it I died bravely in its service.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_1daf
+
+==============================
+Event: tc003_1daf
+
+Such a flavor - similar to a Waterwing, but with an exotic tang.
+
+You send a messenger of your own to Bloom's domain. Expect a visit from Bloom itself quite soon. Shall it be worthy of you, and you worthy of it?
+
+Only by high standards shall the Kin grow mighty on Earth.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1db
+
+Such a flavor - similar to a Waterwing, but with an exotic tang.
+
+You enjoy the free meal, and do not bother sending a reply to Bloom. Your rejection shall be quite quickly understood...
+
+As will your ruthlessness and unorthodoxy in accepting a token but then refusing the action which the token represented.
+
+Bloom will be irate, but is so far away that you are safe from its vengeance.
+
+Other Kin, however, will note that you are one to accept a token falsely, and will not forget it.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1dc
+
+The messenger is awed by your mercy and wisdom, shocked into brief silence before bursting forth:
+
+<toucan>Praise be to the Mighty Flowering One!
+
+<toucan>I may now return completely successful, and will surely receive many blessings.
+
+<toucan>Therefore I bless you, generous Kin, and hope that your Land and Trove shall swell without end, except that it should not encompass my holy Master's lands.
+
+<toucan>May you be many-times blessed, Chosen of the Great Sky-serpent!
+
+It wings away, but leaves behind a rather beautiful stone worth several shiny things as thanks. You may expect a visit from Bloom quite soon.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1dd
+
+The Sunbill looks completely shocked.
+
+<toucan>But my Sovereign... my beautiful, perfect Sovereign...
+
+<toucan>How could you decline its sacred advances?
+
+<toucan>Even if I survive delivering this ill news... that you were not worthy to share the mighty Essence of the Rising Power...
+
+<toucan>I shall not bless the name of one who could have joined Risewards and Setwards, Warmwards and Coldwards in new flesh.
+
+The Kin, however, will respect your rejection as a sign of self-control and high standards.
+
+Most of them, at any rate. You would be wise to avoid Bloom for a few more centuries.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1e
+
+<toucan>Praise be to the Mighty Flowering One!
+
+<toucan>I may now return completely successful, and will surely receive many blessings.
+
+<toucan>Therefore I bless you, generous Kin, and hope that your Land and Trove shall swell without end, except that they should not encompass those of my holy Master.
+
+<toucan>May you be many times blessed, Chosen of the Great Sky-serpent!
+
+It wings away, but leaves behind a rather beautiful stone worth several shiny things as thanks. You may expect a visit from Bloom quite soon.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_1f
+
+The Sunbill looks completely shocked.
+
+<toucan>But my Sovereign... my beautiful, perfect Sovereign...
+
+<toucan>How could you decline its sacred advances?
+
+<toucan>Even if I survive delivering this ill news... that you were not worthy to share the mighty Essence of the Rising Power...
+
+<toucan>I shall not bless the name of one who could have joined Risewards and Setwards, Warmwards and Coldwards in new flesh.
+
+The Kin, however, will respect your rejection as a sign of self-control and high standards.
+
+Most of them, at any rate. You would be wise to avoid Bloom for a few more centuries.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc003_2
+
+Bloom has become both more impressive and more eccentric since your last battle, it seems. You do not even know to which Tribe some of these Goodbeasts belong.
+
+They do not have the stupid, zealous eyes of Bloom's former worshippers, however. It is not dogma or charlatanry which binds them. Could it be...?
+
+The splendid featherbeast on Bloom's head opens its mouth, and surprisingly, its voice is exactly as a mighty Draak's!
+
+<crown>Greetings to the Chosen One, 
+True Scion of the great Kin of old.
+
+<crown>This one is Glory's-Crown, faithful interpreter and mouthpiece to the Fabulous Marvelous Transcendent Magnificent Rising Flower of Earth Opened to Beautiful Maturity.
+
+<crown>The honor of making the thoughts of my Liege known to other Kin is mine, as is the distinction of becoming a meal for the Enlightened One once I have outlived my usefulness. So it is promised.
+
+<crown>In joy we, the Free Peoples of the Great River Forest, have offered our service to the One who has saved many Tribes from Final Destruction, enlightens our Minds and liberates us from fear and want.
+
+<crown>These are the fruit of the Great One's innermost thoughts, and only Its most trusted servants are allowed to be here to witness the Truth:
+
+<crown>After being defeated by you, o Chosen, the Opening-Flower-Now-Risen swore in its secret Mind never to be vanquished again.
+
+<crown>A quest began, even unto the ends of blessed Earth, to find the greatest Power, one which could never be overcome.
+
+<crown>Elders were sought and trials undergone; labyrinths beyond imagination were attempted and conquered.
+
+<crown>At the last, the Great Secret revealed itself to the Great One, and wielding this secret, the Supreme Heart of the Green-Over-the-Blue was claimed as territory.
+
+<crown>Even the Tailless fear and respect the one they call the Feathered Serpent, the Above-and-Below, the Heaven-and-Earth-as-One which is my Master.
+
+<crown>Now, as one Keeper to another...
+
+<crown>As two youths among the ancient Kin bound with a mighty destiny, victors against difficult odds...
+
+<crown>It is time to join Body and Essence together in the sacred Dance. For this has my Lord come from afar.
+
+<crown>For not once since that fateful Sun long ago have you been far from the Blessed Mind. As the only one ever to defeat the Benevolent Lord, your image has been burned into its dreams.
+
+<crown>How you have tormented my Sovereign! On restless nights, your name has been sung out in frustration across the Rain-blessed Green, and all Goodbeasts tremble to hear it spoken with such rage, such desire.
+
+<crown>At last, the first Time of Creation has come to my Lord, and yours as well to you.
+
+<crown>We see it as Destiny, decreed by Sun and Earth, that you become One and bequeath both of your greatness to the future!
+
+Bloom suddenly shakes its head, and the featherbeast flaps its wings, steadying itself before continuing in a more humble tone.
+
+<crown>... but my Benificent Lord wishes you to know that it does not claim to speak for either Sun nor Earth, nor to know their wills.
+
+<crown>The Flower-of-the-World does not command other Goodbeasts by false promises. We freely choose to be bound, no matter what the future holds, for there are none like unto the Great One, who is so caring and wise.
+
+Bloom fixes you with a steady gaze. Its eyes are no longer those of a clever pretender. Its mouthpiece resumes:
+
+<crown>You are Chosen to Dance with the One to whom we have all given ourselves, even unto our Essence, for the Mighty One has laid down such for our sake.
+
+<crown>Approach now, and let the Sacred Dance begin. It is time.
+
+Part of you wishes to annihilate Bloom and its followers for being so near your Lair and another part wishes to collide with it, passionately, and Dance until you can Dance no more. Bloom seems to be feeling something similar, by the lowered wings and trembling of its tail.
+
+------------------------------
+> Accept the offer: <shimmer>Dance.</shimmer>
+  Go to: tc003_2a
+> Ask why Bloom has chosen you.
+  Go to: tc003_2bf, tc003_2b
+> Ask about the Great Secret which Bloom seems to have found.
+  Go to: tc003_2c
+> Ask about Bloom's treasures.
+  Go to: tc003_2df, tc003_2d
+> Demand a gift from Bloom.
+  Go to: tc003_2e
+> Reject Bloom, and send it away.
+  Go to: tc003_2f
+
+==============================
+Event: tc003_2a
+
+As you cautiously approach, you worry briefly that all of these beings will get in the way of the Dance, but they disentangle themselves from Bloom and retreat to a safe distance.
+
+Bloom allows your approach, meeting you in the center. You circle each other three times, breathing in the subtle, intimate details of the other's scent.
+
+And then, at last, you Dance.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc003_2b
+
+<crown>There are, of course, various reasons, Chosen One.
+
+<crown>Your wealth is known to us, as is your reputation among the Kin.
+
+<crown>That you kept a feather from your first encounter is most fitting.
+
+<crown>When it was known that you took pride in the victory, it showed respect to the defeated...
+
+<crown>And the Transcendent One has left a shard of its own pride here in the form of that feather.
+
+<crown>It seems destined that more feathers should be shed, this time in a Dance in which there is only victory for both.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2ba
+
+You indicate your assent, and Bloom cannot help but brush the ground with its tail several times.
+
+(It is undignified, but like anger, sometimes expressions of happiness simply cannot be repressed.)
+
+As for your reward, it is nearly enough shinestone to cover yourself in, and it smells glorious and pure.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2bb
+
+Bloom cannot help but let out a sigh of disappointment at this, a gesture which sends a wave of sympathetic misery through all of its retainers.
+
+<crown>The right is yours... but I restate that the bargain would be of mutual benefit.
+
+<crown>In any case, our Living Harmony wishes to join with you chiefly because you demonstrated your worthiness in that territorial challenge long ago, and this left an aching thorn in Its broad and strong heart.
+
+<crown>It strongly suspects that becoming One with you and sharing your Essence will be as a fresh breeze which washes away the shame of the past and replaces it with memories of pleasure.
+
+<crown>Memories the two of you will share.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2bf
+
+<crown>There are, of course, various reasons, Chosen One.
+
+<crown>Your wealth is known to us, as is your reputation among the Kin.
+
+<crown>That you kept a feather from your first encounter is most fitting.
+
+<crown>When it was known that you took pride in the victory, it showed respect to the defeated...
+
+<crown>And the Transcendent One has left a shard of its own pride here in the form of that feather.
+
+<crown>It seems destined that more feathers should be shed, this time in a Dance in which there is only victory for both.
+
+<crown>It is no secret that my Sovereign, co-ruler of the Greatest River along with its undying spirit, finds truth and beauty in works of clear crystal.
+
+<crown>Your having such a work in your Trove was influential to the decision.
+
+Bloom snorts gently. Crown pauses, seems to listen for a moment, and then sings:
+
+<crown>If a certain Chosen One would like to exchange the Crystal Flower in its possession for a small mountain of silver, they would find that no better offer is ever likely to be made.
+
+<crown>Will you make my beloved Overlord, who saved my entire Tribe from certain doom, joyous this day and become rich yourself in the bargain?
+
+Exchange your Crystal Flower for 250 shiny things?
+
+------------------------------
+> Yes.
+  Go to: tc003_2ba
+> No.
+  Go to: tc003_2bb
+
+==============================
+Event: tc003_2c
+
+<crown>With due respect, Chosen, the answer is all around you. If you are not clever enough to deduce it, then you cannot be wise enough to understand it.
+
+Bloom growls and tilts its head, sending the interpreter reeling. As it struggles to regain its composure, Bloom looks you in the eye and, for the first time, you actually see its Mind-sigils:
+
+<bloom>FAITH IS GREATER THAN FEAR.
+
+<bloom>BUT LOVE IS GREATER THAN FAITH.
+
+<bloom>THAT IS ALL, AND ALL IS THAT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2d
+
+<crown>The Sunbill Knight was to have informed you of such. Did it fail, or do you wish a reminder?
+
+<crown>No matter. My Lord sleeps upon a shifting bed of purest Delver-refined silver shinestone discs, dappled with emeralds like fruit fallen onto a fertile plain.
+
+<crown>My Lord weaves intricate works of crystal, from lengthy pillars rent from the Great Mother's grasp by Its own might to facsimiles of life, and even of death, cunningly wrought.
+
+<crown>Its collection of crystal is outmatched only by the crystal wonders one might find in the Troves of the Elders.
+
+<crown>My Lord gazes daily at three trophies... one of them impressively gory... of its victories over older, more experienced Kin through the power of its Secret.
+
+<crown>But greatest of all is that Secret itself and the complete loyalty and support of every Goodbeast in the Great River's demesne.
+
+<crown>That good Land shall never, never be taken, for the very Trees are my Master's servants, and by their own will do they serve.
+
+<crown>My great Leader owns other treasures, of course. Behold:
+
+Bloom itself fixes you with a stare, and opening your mind, you behold crystal-clear images of wondrous treasures which could only be taken from reality.
+
+Its Trove certainly rivals yours, to say the least.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2da
+
+You indicate your assent, and Bloom cannot help but brush the ground with its tail several times. (It is undignified, but like anger, sometimes expressions of happiness simply cannot be repressed.)
+
+As for your reward, it is nearly enough shinestone to cover yourself in, and it smells glorious and pure.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2db
+
+Bloom cannot help but let out a sigh of disappointment at this, a gesture which sends a wave of sympathetic misery through all of its retainers.
+
+<crown>The right is yours... but I restate that the bargain would be of mutual benefit.
+
+<crown>My great Leader owns other treasures, of course. Behold:
+
+Bloom itself fixes you with a stare, and opening your mind, you behold crystal-clear images of wondrous treasures which could only be taken from reality.
+
+Its Trove certainly rivals yours, to say the least.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2df
+
+<crown>The Sunbill Knight was to have informed you of such. Did it fail, or do you wish a reminder?
+
+<crown>No matter. My Lord sleeps upon a shifting bed of purest Delver-refined silver shinestone discs, dappled with emeralds like fruit fallen onto a fertile plain.
+
+<crown>My Lord weaves intricate works of crystal, from lengthy pillars rent from the Great Mother's grasp by Its own might to facsimiles of life, and even of death, cunningly wrought.
+
+<crown>Its collection of crystal is outmatched only by the crystal wonders one might find in the Troves of the Elders.
+
+<crown>My Lord gazes daily at three trophies... one of them impressively gory... of its victories over older, more experienced Kin through the power of its Secret.
+
+<crown>But greatest of all is that Secret itself and the complete loyalty and support of every Goodbeast in the Great River's demesne.
+
+<crown>That good Land shall never, never be taken, for the very Trees are my Master's servants, and by their own will do they serve.
+
+Bloom snorts gently. Crown pauses, seems to listen for a moment, and then sings:
+
+<crown>If a certain Chosen One would like to exchange the Crystal Flower in its possession for a small mountain of silver, they would find that no better offer is ever likely to be made.
+
+<crown>Will you make my beloved Overlord, who saved my entire Tribe from certain doom, joyous this day and become rich yourself in the bargain?
+
+Exchange your Crystal Flower for 250 shiny things?
+
+------------------------------
+> Yes.
+  Go to: tc003_2da
+> No.
+  Go to: tc003_2db
+
+==============================
+Event: tc003_2e
+
+<crown>My great Overlord politely refuses your request.
+
+<crown>You may have defeated It Turnings ago, before many trials and transformations...
+
+<crown>But such times and such weaknesses are now dead.
+
+<crown>As proof of its own self-worth, the Awakened One will not beg nor offer a gift nor demand any such from you, o Chosen.
+
+<crown>My Lord trembles with desire for you, but its sacred pride is intact, and it is confident that it is your equal.
+
+<crown>Accept a union of equality, or none at all, as befits such Kin as both of you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc003_2
+
+==============================
+Event: tc003_2f
+
+Bloom's retainers are shocked into silence as you let out a fireflash in a sign of rejection.
+
+A few look offended and ready to fight, but Bloom seems to accept it calmly. The featherbeast speaks again:
+
+<crown>It appears we were mistaken to come here and hope to witness our Beloved Leader in the Sacred Dance.
+
+<crown>We shall not bother you again, mighty Spiritkeeper.
+
+Bloom leads its followers away. As time passes, Bloom's legend grows, and in the course of centuries it would become one of the last Elders of the Draak-Kin, honed through journeys and sacrifices untold.
+
+It never again shows interest in you, however. Were you wise to turn Bloom away?
+
+Perhaps and perhaps not. Opinions in the Green are greatly divided on the matter.
+
+But as Bloom's legend grows far across the Blue, you sometimes find yourself sniffing one of its feathers left behind for unclear reasons, and remembering.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc004
+
+A tremor in the night.
+
+<rift>I AM THE CHASM WHICH SEPARATES LIFE AND DEATH, BEING AND NON-BEING.
+
+Another tremor.
+
+<rift>I AM THE EMPTINESS WHICH RENDERS POSSIBILITY IMPOSSIBLE.
+
+There is a Kin nearby... they must be able to see your eyes, as their song floods your Mind with perfect clarity, but you can sense nothing.
+
+<rift>I AM THE VOID SLICING THROUGH, LEAVING A CLEFT IN REALITY.
+
+<rift>I AM THE <bold>RIFT</bold>.
+
+<rift>YOU WHO DARE TO SING TRUE SONGS, DESPITE BEING TENDER AND TIME-SHALLOW...
+
+<rift>YOU WHO DARE TO PROVE YOUR MIGHT IN THE FOURTH LAIR, OVERCOMING EVEN THE BEHOLDEN...
+
+<rift>YOU WHO WIN PRAISE EVEN FROM THE GREAT BURNED-AND-BURNING ONE, AND CARRY A SHARD OF IT AS TOKEN...
+
+<rift>YOU WHO HOLD AN ARTIFACT OF TRUE HEALING, STOLEN BOLDLY FROM THE OTHER-SEED...
+
+<rift>YOU, WHOSE NAME IS WHISPERED UPON THE WIND AS A RISING DAWN OF OUR PEOPLE...
+
+<rift>YOU WHO ARE NOT TEMPTED BY THE SHALLOW PROMISES OF FALSE COMPASSION, BUT DELIVER YOUR OWN PERFECT JUSTICE IN FIRE AND CERTAINTY...
+
+<rift>DISCOVER ME.
+
+Can it be? Rift, the Shatterer of Bridges, Devourer of Foes, is a renowned and mature Kin of the elusive Onyx Clan.
+
+They are very rarely seen above Earth's skin, preferring to nestle in Her bones, in the secret dark near Her fiery Core. What could it want with you?
+
+------------------------------
+> Smell it... see it... hear it... feel it...
+  Go to: tc004s, tc004f
+
+==============================
+Event: tc004f
+
+...but there is absolutely nothing there. What strange Music is this?
+
+<rift>STRONG IN THE BURNING WAY, BUT WEAK IN THE FLOWING WAY?
+
+<rift>I SEEK BALANCE, TO COMPLETE MYSELF.
+
+<rift>IT SEEMS YOU ARE NOT THE MISSING PIECE WHICH I SEEK.
+
+The sigils fade away, none coming to replace them. It seems you were tested...
+
+...and found wanting. You do, however, learn to sharpen your senses. Next time, perhaps...
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc004s
+
+<rift>YES.
+
+<rift>BEHOLD ME, AS I BEHOLD YOU.
+
+<rift>FEEL THE FLAMES BEGIN TO GROW WITHIN.
+
+<rift>THIS MAY BECOME THE GREATEST NIGHT OF YOUR YOUNG LIFE, IF YOU ARE WORTHY.
+
+How shall you address Rift, Dark Hero of the Great Below?
+
+------------------------------
+> Ask why it has come to your demesne.
+  Go to: tc004sa
+> Ask after Rift's clan, the Onyx Kin.
+  Go to: tc004sb
+> Demand proof of worthiness from Rift.
+  Go to: tc004sc
+> Accept, and become one with mighty Rift.
+  Go to: tc004sd
+> Reject Rift, and send it away.
+  Go to: tc004se
+
+==============================
+Event: tc004sa
+
+<rift>YOU KNOW THE ANSWER. IT IS TIME.
+
+<rift>AND YOU MAY BE WORTHY.
+
+<rift>THIS NIGHT, WE SHALL AWE THIS OVERLIT LAND WITH A DANCE OF SUCH POWER AND FURY THAT MIGHTY PREDATORS SHALL QUAKE IN THEIR DENS TO HEAR OUR CRIES.
+
+<rift>OUR ECSTASY WILL CRUSH ALL RESTRAINT, OUTRAGEOUS AND BRAZEN AS THE FIRST FLAME WHICH BURST FORTH FROM THE VOID AND CREATED ALL, EVEN EARTH AND SUN.
+
+<rift>IF YOU ARE WORTHY. IF YOU ARE WORTHY.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc004s
+
+==============================
+Event: tc004sb
+
+Rift pauses.
+
+<rift>WE DO NOT SING OF OURSELVES TO OTHERS...
+
+<rift>……
+
+<rift>BUT THIS NIGHT, MORE STORIES LIKE UNTO OUR OWN MAY FIND THEIR BEGINNING.
+
+<rift>IT IS WELL THAT YOU SHOULD KNOW WHAT YOU MAY BE BRINGING TO THIS WORLD...
+
+<rift>WHAT A GLORIOUS AND CURSED EXISTENCE YOU MAY CREATE AS WRAPPING FOR SOME WAYWARD DRAAK-ESSENCE.
+
+<rift>WE OF THE ONYX CLAN ARE UNLIKE OTHER KIN. IT IS NOT THE SLOW MOVEMENT OF NATURE WHICH FRAMES OUR BODIES AND MINDS.
+
+<rift>THE FIRST MEMBERS OF OUR CLAN WERE BORN WHEN THE RUINER EMPRESS MATED WITH THE VOID ITSELF, TO CREATE A CASTE OF WARRIORS WORTHY OF STANDING AGAINST THE INVADERS FROM ABOVE.
+
+<rift>SHE KNEW WHAT SHE WAS UNLEASHING UPON THE ONESONG, BUT SO GREAT WAS HER RAGE AT THE SKYFALL AND THE RUIN OF HER PEOPLE THAT SHE DID NOT TURN AWAY, BUT ALLOWED THE DEEPEST DARKNESS TO TAKE ROOT WITHIN HER. AND SO WE WERE ENGENDERED.
+
+<rift>AND INDEED, THERE ARE NONE AMONG THE KIN AS MIGHTY AS WE. AMONG COLOSSAL DESTROYERS, WE STAND SUPREME. OUR BODIES ARE LARGEST AND MIGHTIEST, OUR BREATH BLASTS APART STONE, AND OUR MINDS CAN TEAR AWAY THOSE OF OUR ENEMIES.
+
+<rift>HOWEVER...
+
+<rift>THE VOID WITHIN US SINGS, AND MAY NEVER BE SILENCED. EVEN NOW, WE SEE YOU DECAY, SMELL THE VOID PEELING YOU APART IN A WORK OF CENTURIES.
+
+<rift>EVEN THE TENDEREST OF NEWBORN GOODBEASTS IS BUT A WRITHING CORPSE TO OUR SENSES, BONES WAITING TO BE UNCOVERED BY BRUTAL TIME AND THEN TURNED TO COLD DUST.
+
+<rift>YES, EVEN OURSELVES. NOT FOR ONE MOMENT MAY WE DRAW THE WARM ILLUSION OF PERMANENCE ABOUT US. WE SMELL OUR OWN DECAY AS SHARPLY... MORE SHARPLY STILL THAN OTHERS.
+
+<rift>ONLY THE VOID ITSELF LASTS FOREVER. WE CANNOT EVER ESCAPE THIS TRUTH, NOT EVEN WHEN WE SLEEP...
+
+<rift>FOR TRUE REST IS FOREVER FORBIDDEN TO US. WE WERE NOT MEANT TO SURVIVE LONG, BUT TO BE THE DARK FLAME WHICH PURIFIES THE WORLD AND THEN FLICKERS OUT. OUR MINDS, THOUGH BEAUTIFUL AND LUSH, NEVER KNOW SWEET OBLIVION.
+
+<rift>WHEN WE SLEEP... EVEN IN OUR GREAT SLEEP... OUR MINDS ARE AWAKE AND FULLY CONSCIOUS. WE CAN NEVER ESCAPE OURSELVES. THE SIMPLEST OF GIFTS, TAKEN AWAY.
+
+<rift>TO NEVER REST, NEVER BE APART FROM OUR OWN MINDS, IS OUR GREAT CURSE, GREATER STILL THAN THE VOID-SENSE WHICH RENDERS ALL FLOWERS TO ASH AND ALL BEAUTY TO BONES.
+
+<rift>AND SO WE SEEK THE GREATEST CHALLENGES, THE GRANDEST ADVENTURES, THE MOST PERILOUS TERRITORIES TO DISTRACT US FROM OUR OWN EXISTENCE. WARRIORS TO THE LAST, WE CONTINUE OUR MISSION EVEN IN THE FACE OF ANCIENT DEFEAT.
+
+<rift>WHEN OUR TURNINGS GROW TOO MANY, ONYX KIN CAN TAKE THE STRAIN OF UN-REST NO MORE. OUR MINDS BREAK AND WE BECOME ONE WITH THE VOID. TAKING ON A FINAL GRAND TASK, WE WILLINGLY ENTER DESTRUCTION, FOR WE BELIEVE THAT, AT LEAST IN DESTRUCTION, WE MAY FINALLY KNOW TRUE REST.
+
+<rift>BUT PITY US NOT, CALLOW ONE. YOUR WOOD-SCENTED CLAN CANNOT KNOW THE POWER IN OUR EXPLOSIVE BREATH, THE SECRETS OF OUR EVER-WAKING MINDS.
+
+<rift>NO OTHER VESSEL COULD HAVE HELD THIS ESSENCE, AND THOUGH I SHALL EVENTUALLY STRANGLE MYSELF WITH MY OWN MIND, BEFORE I DO I SHALL ACCOMPLISH FEATS OF COURAGE AND POWER OF WHICH OTHER KIN COULD ONLY DREAM, SAVE THOSE WHO SURVIVE TO ELDER AGE.
+
+<rift>I HAVE BEHELD THE NAKED VOID, AND IT GRANTS ME ALL OF ITS TRUTHS. THERE IS NO EXISTENCE LIKE UNTO THIS.
+
+<rift>AND THERE ARE NONE BUT WE WHO TRULY KNOW HOW FRAGILE AND FLEETING IS THIS ANOMALY CALLED LIFE, AND HOW PRECIOUS.
+
+<rift>THE TRAGEDY IS SUBLIME, AS IS THE RESPECT FOR ALL OF DOOMED CREATION WHICH IT ENGENDERS.
+
+<rift>SUCH IS THE WAY OF THE ONYX CLAN. REJOICE, THAT YOU SHOULD KNOW EVEN THE SKIN OF IT. SHARE IT WITH NO OTHERS.
+
+<rift>I WOULD NOT WISH KNOWLEDGE OF OUR SACRED TORMENT EVEN UPON MY ENEMIES. KEEP IT SECRET, AND BE GLAD THAT YOU KNOW IT NOT, BUT ONLY <italic>OF</italic> IT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc004s
+
+==============================
+Event: tc004sc
+
+<rift>A POOR JEST.
+
+<rift>I AM YOUR SUPERIOR IN ALL WAYS, FROM AGE AND MIGHT TO THOUGHT AND TASTE.
+
+<rift>IF YOU WOULD BE SO FOOLISH AS TO REJECT ME, DO IT QUICKLY. THERE ARE MANY OTHERS WITH WHOM I MIGHT CREATE, SOME OF WHOM WOULD BEG TO DANCE WITH ME.
+
+<rift>RATHER, YOU SHOULD GATHER YOUR COURAGE AND PREPARE TO PROVE YOUR OWN WORTH.
+
+<rift>A DANCE WITH ME IS NOT LIGHTLY WON.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc004s
+
+==============================
+Event: tc004sd
+
+You approach Rift, preparing to Dance, but it only lets out a smoky snort and turns its head away.
+
+<rift>NOT YET. DOUBT GNAWS STILL AT MY MIND.
+
+<rift>I SHALL WITNESS YOUR TRUTH WITH MY OWN SENSES.
+
+<rift>THIS NIGHT, YOU SHALL PRESENT ME WITH A WORTHY OFFERING.
+
+<rift>I SHALL NOT GUIDE YOU IN THIS. SHOW ME YOUR SUPERIORITY OVER THOSE OTHERS WHO WOULD SHARE MY ESSENCE.
+
+What shall you offer to this mighty warrior of your People?
+
+------------------------------
+> Offer a vast hoard of shiny things.
+  Go to: tc004sda
+> Offer a gift of precious artifacts.
+  Go to: tc004sdb
+> Offer a gift of true healing.
+  Go to: tc004sdc
+> Offer the gift of a Dance of Destruction, to show your power.
+  Go to: tc004sdd
+> Refuse to prove your worth to Rift.
+  Go to: tc004sde
+
+==============================
+Event: tc004sda
+
+<rift>OTHERS HAVE OFFERED SUCH GIFTS.
+
+<rift>I SHOULD BE SEEN AS WEAK IF I ALLOWED YOU TO OFFER LESS.
+
+<rift>SEVEN HUNDREDS, SEVEN TENS, AND SEVEN AGAIN. SUCH IS MY PRICE.
+
+------------------------------
+> Give 777 shiny things to Rift.
+  (Hidden: If only you had 777 shiny things...)
+  Go to: tc004sdas
+> Offer something else.
+  Go to: tc004sd
+
+==============================
+Event: tc004sdas
+
+<rift>SUCH WEALTH, AND YET SO CALLOW.
+
+<rift>PERHAPS YOU ARE INDEED A RISING DAWN OF OUR PEOPLE.
+
+<rift>PREPARE YOUR BODY AND ESSENCE. THE DANCE WE SHALL SHARE MAY BREAK THIS SHALLOW HILL.
+
+And then Rift is upon you, and you remember no more of that night.  Such a violent and passionate unity is beyond the ability of even your Mind to recall.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc004sdb
+
+<rift>SEVEN. A SACRED NUMBER.
+
+<rift>SEVEN GIFTS.
+
+<rift>SUCH IS MY PRICE.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc004sdb_loop
+
+==============================
+Event: tc004sdb_loop
+
+Rift requests {TEMP_TSEL=0 seven}{TEMP_TSEL=1 six}{TEMP_TSEL=2 five}{TEMP_TSEL=3 four}{TEMP_TSEL=4 three}{TEMP_TSEL=5 two}{TEMP_TSEL<6  more artifacts...}{TEMP_TSEL=6 one more artifact...}
+
+------------------------------
+> Offer the Crystal Fang
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Bloodstone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Shakestick
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Obstinate Stone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Lodestone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Refining Stone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the False Face
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Sleeping Stone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Crystal Flower
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Silver Rod
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Onyx Rod
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Perpetual Pyramid
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Bezoar
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Heavy Cube
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Giant Pearl
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Living Labyrinth
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Elixir
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Curios
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Gold Choker
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the @#$%
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Pain-killer Brace
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Nightjaw
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Darkspine
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Awakened Silver Rod
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Awakened Onyx Rod
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Icosidodecahedron
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer the Hunting Headbone
+  Go to: tc004sdb_loop, tc004sdb_process
+> Offer no artifacts to Rift
+  Go to: tc004sd
+
+==============================
+Event: tc004sdb_process
+
+<rift>SUCH TREASURE, AND YET SO CALLOW.
+
+<rift>PERHAPS YOU ARE INDEED A RISING DAWN OF OUR PEOPLE.
+
+<rift>PREPARE YOUR BODY AND ESSENCE. THE DANCE WE SHALL SHARE MAY BREAK THIS SHALLOW HILL.
+
+And then Rift is upon you, and you remember no more of that night.  Such a violent and passionate unity is beyond the ability of even your Mind to recall.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc004sdb_reset
+
+Ah bummer, didn't have enough treasure? No worries, lets just go ahead and init all those variables instead of taking your tregdor away.
+
+------------------------------
+> Sure.
+  Go to: tc004sd
+
+==============================
+Event: tc004sdbs
+
+<rift>SUCH TREASURE, AND YET SO CALLOW.
+
+<rift>PERHAPS YOU ARE INDEED A RISING DAWN OF OUR PEOPLE.
+
+<rift>PREPARE YOUR BODY AND ESSENCE. THE DANCE WE SHALL SHARE MAY BREAK THIS SHALLOW HILL.
+
+And then Rift is upon you, and you remember no more of that night.  Such a violent and passionate unity is beyond the ability of even your Mind to recall.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc004sdc
+
+Rift pauses.
+
+<rift>THE WAY OF MY CLAN IS NOT AS YOURS.
+
+<rift>MY BODY NEEDS NO HEALING, NOR DOES MY ESSENCE, WHICH BURNS BRIGHT AND TRUE.
+
+<rift>BUT OUR MINDS... MY MIND...
+
+<rift>GRATED RAW BY RUINOUS TIME, AND OUR RESTLESS CURSE...
+
+<rift>THE PAIN SURPASSES ANY PHYSICAL SENSATION.
+
+<rift>EACH SUN, I KNOW THAT I GROW CLOSER TO THE FINAL BREAKING. ALLOWED NO TRUE REST, MY MIND SUNDERS ITSELF, SLOWLY.
+
+<rift>GREAT MANY-TIMES-BURNED IS THE ONLY ONE OF OUR CLAN EVER TO SURVIVE THE BREAKING. THE MEANS WERE TOO TERRIBLE TO MENTION, LET ALONE TO EMULATE.
+
+<rift>IF YOU COULD HEAL THE PATHWAYS OF MY MIND, EXTENDING MY EXISTENCE AND FENDING OFF MADNESS FOR AT LEAST A TIME...
+
+<rift>THEN YOU WOULD BE WORTHY INDEED. BUT CAN YOU TRULY GRANT HEALING AND PEACE TO ONE SUCH AS I, EVEN FOR A MOMENT?
+
+------------------------------
+> Offer the Elixir to Rift.
+  (Hidden: If only you had a marvelous elixir...)
+  Go to: tc004sdcs
+> Offer the charged Onyx Rod to Rift.
+  (Hidden: If only you had a functional rod of true healing...)
+  Go to: tc004sdcs
+> Offer the Sleeping Stone to Rift.
+  (Hidden: If only you had the last gift of a spirit of warmth...)
+  Go to: tc004sdcs
+> Sing the True Song of Healing.
+  (Hidden: If only you had the True Song of Healing...)
+  Go to: tc004sdcs
+> Admit that you cannot, and offer something else.
+  Go to: tc004sd
+
+==============================
+Event: tc004sdcs
+
+<rift>I...
+
+<rift>MY MIND...
+
+<rift>I SEE YOU, SMELL YOU...
+
+<rift>NOT AS A DECAYING RUIN, NOR AS THE DUST AND BONES YOU SHALL BE...
+
+<rift>BUT AS YOU ARE NOW, IN THIS MOMENT.
+
+<rift>AND I DESIRE YOU.
+
+<rift>YOU HAVE GRANTED ME A MOMENT OF RESPITE FROM MY PAIN, BUT MORE THAN THIS, YOU HAVE GIVEN ME WHAT I WAS NEVER MEANT TO HAVE...
+
+<rift><bold>HOPE</bold>.
+
+<rift>PREPARE YOUR BODY AND ESSENCE. THE DANCE WE SHALL SHARE MAY BREAK THIS SHALLOW HILL.
+
+And then Rift is upon you, and you remember no more of that night.  Such a violent and passionate unity is beyond the ability of even your Mind to recall.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc004sdd
+
+For the first time, Rift seems surprised.
+
+<rift>YOU ARE EITHER DEEPLY UNWISE OR FAR MORE POWERFUL THAN EVEN THE MOST CELEBRATORY TALES OF YOU PROFESS.
+
+<rift>I DESIRE TO KNOW WHICH.
+
+
+
+------------------------------
+> [Continue]
+  Go to: HuntingBaseCombat
+
+==============================
+Event: tc004sddf
+
+<rift>SO YOU WERE NOT WORTHY AFTER ALL.
+
+<rift>I WAS MISTAKEN TO PRESENT MYSELF BEFORE SUCH AS YOU.
+
+Without another sigil, Rift slithers off the stone, melds with the Earth...
+
+...and is gone.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc004sdds
+
+<rift>INCREDIBLE.
+
+<rift>I BURN NOW WITH DESIRE.
+
+<rift>PREPARE YOURSELF. I SHALL ENDEAVOR NOT TO DESTROY YOU IN MY HOLY PASSION.
+
+And then Rift is upon you, and you remember no more of that night.  Such a violent and passionate unity is beyond the ability of even your Mind to recall.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc004sde
+
+<rift>SO YOU WERE NOT WORTHY AFTER ALL.
+
+<rift>I WAS MISTAKEN TO PRESENT MYSELF BEFORE SUCH AS YOU.
+
+Without another sigil, Rift pours itself off the stone, melds with the Earth...
+
+...and is gone.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc004se
+
+You let out a small blast of flame as the traditional sign of rejection.
+
+Rift does not flinch or even blink, but the tip of its tail twitches incredulously.
+
+<rift>SO YOU WERE NOT WORTHY AFTER ALL.
+
+<rift>I WAS MISTAKEN TO PRESENT MYSELF BEFORE SUCH AS YOU.
+
+Without another sigil, Rift slithers off the stone, melds with the Earth...
+
+...and is gone.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc005
+
+Finding your way back to Vantage's underground Lair is not difficult, but there seem to have been some... changes since you were last here.
+
+Disquieted by your earlier success, the Ruby Kin has flooded this antechamber with Earth's deadly Essence. It has many names - fireflow, glowrun, redmelt - and it is almost universally feared.
+
+Only members of the Ruby Clan, whose inner Fire burns hotter even than that of the Onyx, can endure such heat.
+
+It seems that Vantage is still using traps to shield itself from outsiders, and this one is particularly simple and deadly. There does not seem to be any way around.
+
+With a careful preening of your Fire-retardant saliva, you might be able to survive a quick passage through, but this is by no means certain. Entering in low health would be suicide, and even in perfect condition, the danger is great.
+
+This is the final chamber before Vantage's personal sanctum. Which burns hotter: Earth's red Essence, or your desire for Vantage?
+
+------------------------------
+> Brave the Fire-path forward.
+  Go to: tc005a
+> Turn back, and do something else this Sun.
+  Go to: greatgreenact3_map
+
+==============================
+Event: tc005a
+
+THE PAIN
+
+ROASTING ALIVE
+
+FEATHERS AFLAME, FLESH MELTING
+
+...
+
+...
+
+You finally collapse on the stone just beyond the chamber.
+
+You have survived, somehow. The stone beneath you feels colder than ice after your deadly passage, though it is actually very hot.
+
+You roll around frantically to douse any remnant flames and then lay there panting for some time. At last, you draw your partially-blackened Body upwards into a standing position. The sanctum awaits.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc005as
+
+==============================
+Event: tc005aa
+
+<vantage>AGAIN, YOU DEFEAT ME UTTERLY.
+
+<vantage>MANY TIMES SINCE YOUR LAST DEPARTURE HAVE I RAGED AGAINST YOU, HATED YOU, LUSTED AFTER YOU.
+
+<vantage>THE STRENGTH YOU SHOWED IN DEFEATING ME HAS MADE YOU IRRESISTIBLE TO ME.
+
+<vantage>BUT HAVING BEEN PROVED THE STRONGER, YOU WILL SURELY DEMAND A PRICE FOR A DANCE.
+
+<vantage>WHAT WILL YOU ASK OF ME, MY CONQUEROR?
+
+------------------------------
+> Demand Treasure.
+  Go to: tc005aaa
+> Demand Knowledge.
+  Go to: tc005aab
+> Demand Glory.
+  Go to: tc005aac
+> Demand that Vantage take a submissive role in the Dance, and follow your desires, whatever they may be.
+  Go to: tc005aad
+> Demand nothing, but merely begin the first steps of the Dance.
+  Go to: tc005aae
+
+==============================
+Event: tc005aaa
+
+<vantage>YOU SHALL HAVE AS MUCH AS YOU CAN SWALLOW FROM MY PERSONAL HOARD.
+
+<vantage>NOW COME TO ME. AS WE DANCE, I WILL SHOW YOU MY TRUE SELF.
+
+Part of the Dance takes place hanging among the rock-fangs, part takes place on the smooth cavern floor, and part takes place dangerously close to the firemelt.
+
+Vantage is as inventive and unorthodox in the Dance as it is in all other things, and you leave deeply satisfied in ways you did not expect.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc005aab
+
+<vantage>VERY WELL.
+
+<vantage>COME CLOSE, AND I WILL SING OF THE WAYS OF LESSER GOODBEASTS.
+
+<vantage>AND NOW, COME CLOSER STILL. IT IS YOUR TIME TO SING; I WILL PUT A SONG OF ECSTASY IN YOUR MOUTH.
+
+Part of the Dance takes place hanging among the rock-fangs, part takes place on the smooth cavern floor, and part takes place dangerously close to the firemelt.
+
+Vantage is as inventive and unorthodox in the Dance as it is in all other things, and you leave deeply satisfied in ways you did not expect.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc005aac
+
+<vantage>YOU WOULD HAVE ME SING OF YOUR GREATNESS TO THE WORLD?
+
+<vantage>YOU WOULD MAKE MY HUMILIATION, YOUR VICTORY OVER ME, PUBLIC?
+
+<vantage>YOU ARE CRUEL...
+
+<vantage>AND SOMEHOW, IT MAKES ME DESIRE YOU ALL THE MORE.
+
+<vantage>IT SHALL BE DONE. NOW, COME UPON ME. HOLD ME CLOSE WITH YOUR JAWS.
+
+<vantage>THIS TIME, I DESIRE TO BE DEFEATED.
+
+Part of the Dance takes place hanging among the rock-fangs, part takes place on the smooth cavern floor, and part takes place dangerously close to the firemelt.
+
+Vantage is as inventive and unorthodox in the Dance as it is in all other things, and you leave deeply satisfied in ways you did not expect.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc005aad
+
+Vantage's feathers puff out slightly at that request, but slowly, slowly lowers its head, closes its eyes and furls its wings in an unmistakeable gesture of total submission.
+
+<vantage>I YIELD COMPLETELY. DOMINATE ME.
+
+<vantage>WHAT WILL YOU DO WITH MY BODY...?
+
+Indeed, by the end, there is little you do NOT do to Vantage of the Skyward Reach.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc005aae
+
+Part of the Dance takes place hanging among the rock-fangs, part takes place on the smooth cavern floor, and part takes place dangerously close to the firemelt.
+
+Vantage is as inventive and unorthodox in the Dance as it is in all other things, and you leave deeply satisfied in ways you did not expect.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc005as
+
+Vantage is clearly surprised to smell you here, but the hiss dies in its throat as it beholds your smouldering form and the calm yet determined look in your eye.
+
+<vantage>YOU ARE NOT HERE TO CHALLENGE ME? THEN WHY...
+
+<vantage>...
+
+<vantage>CAN IT BE? YOU WISH TO... DANCE WITH ONE SUCH AS I?
+
+<vantage>BUT... YOU HUMILIATED ME, DEFEATED ME UTTERLY. HOW CAN SUCH WEAKNESS BE ATTRACTIVE?
+
+<vantage>HOW COULD I BE WORTHY OF YOU? WHAT HAVE I THAT YOU WISH TO PASS ON TO THE FUTURE?
+
+------------------------------
+> Vantage's beautiful Body.
+  Go to: tc005aa
+> Vantage's clever Mind.
+  Go to: tc005aa
+> Vantage's independent spirit, and its defiance of Tradition.
+  Go to: tc005aa
+> It does not matter; it is simply your will to become one with Vantage, and you shall have your desire.
+  Go to: tc005aa
+
+==============================
+Event: tc006_1
+
+Though you have claimed a part of it, the area of the Empire of Reeds still ruled by Tempest smells different from your portion; there is a soaking harmony here in the wind and muck which you have yet to cultivate.
+
+Tempest appears before you even let out your call.
+
+Locking eyes with you, it seems to be taking in your Essence.
+
+<tempest>I HAVE READ OF YOUR COMING IN THE DANCES OF THE REEDS. THE SCENT OF DESIRE AND THE MANNER OF YOUR APPROACH CAN MEAN ONLY ONE THING.
+
+<tempest>YOU WERE BOLD TO CHALLENGE ME FOR PART OF MY EMPIRE.
+
+<tempest>WHEN WAS THE DESIRE TO CREATE WITH ME BORN IN YOU? WAS IT WHEN YOU FELT MY CLAWS IN YOUR FLESH AS WE HURTLED DOWNWARDS THROUGH THE MORNING SKY, LOCKED IN COMBAT TOGETHER?
+
+<tempest>OR WAS IT WHEN I SHOWED YOU THE DEPTHS OF MY DEVOTION TO THIS LAND? HOW I WOULD SUFFER FOR ITS SAKE, IN KEEPING WITH THE TRUE MISSION GIVEN US BY GREAT EARTH?
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc006_1f, tc006_1s
+
+==============================
+Event: tc006_1f
+
+<tempest>BUT YOU DARED TO TURN TRUE SONGS OF OUR PEOPLE AGAINST ME. I, WHO HAVE CARED FOR EVEN THE LEAST OF THE GOODBEASTS HERE, WHO HAVE SMOOTHED OUT THE CHANNELS THROUGH THE CENTURIES TO MAKE THIS A BASTION FOR LIFE.
+
+<tempest>FROM MY CLAWS, EVEN FROM MY HEART, YOU HAVE RIPPED YOUR GAINS. YOU ARE INDEED STRONG...
+
+<tempest>BUT I DO NOT SEEK A STRONG DANCING-PARTNER. I SEEK ONE WHO HAS OPENED THEMSELVES, DISCOVERED THE TRUTH OF THE WIND ON THE WATER.
+
+<tempest>ONE SO BLINDLY POWER-HUNGRY AS YOU COULD NEVER UNDERSTAND.
+
+<tempest>GET GONE FROM HERE. I SHALL NEVER DANCE WITH ONE SUCH AS YOU, WHO USES BRUTE FORCE TO GAIN SACRED THINGS BORN OF THOUSANDS OF TURNINGS.
+
+<tempest>PERHAPS I AM NOT WORTHY OF YOU...
+
+<tempest>BUT YOU SURELY ARE NOT WORTHY OF ME.
+
+Among the Kin there are many who worship power, but Tempest is not among them. It seems you will have to look elsewhere for a Dance-partner for your first Time.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc006_1s
+
+<tempest>YOU EARNED MY RESPECT, AND THEREFORE MY LANDS...
+
+<tempest>AND I CONFESS I HAVE DREAMED OF YOU ONCE, IN MY NEED. THIS SUN, A DREAM MAY BE MADE REAL.
+
+<tempest>YOU HAVE COME TO DANCE THE SACRED DANCE WHICH BEGINS NEW STORIES.
+
+------------------------------
+> Yes.
+  Go to: tc006_1ss
+> No. The time is not right.
+  Go to: tc006_1sf
+
+==============================
+Event: tc006_1sf
+
+Tempest melts back into the Water without another sigil. No ripple nor eddy is left behind.
+
+------------------------------
+> /EndEvent
+  Go to: greatgreenact3_map
+
+==============================
+Event: tc006_1ss
+
+<tempest>SUCH DECISIONS MUST NOT BE MADE LIGHTLY.
+
+<tempest>LET US SEE WHETHER WE ARE WORTHY OF EACH OTHER. COME.
+
+Tempest slides back into the marsh, slapping the Water gently with its tail as an invitation to follow.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc006_2
+
+==============================
+Event: tc006_2
+
+You follow Tempest through the channels. Eventually, you come to a place of few islands, where the Water deepens enough to shudder and form small waves with the wind.
+
+Diving downwards, the light quickly fades. You can smell nothing down here, and without sight, you are vulnerable. Is it a trap...?
+
+<tempest>BEHOLD THEM: MY FAVORED PREY, AND ALSO MY SACRED TEACHERS.
+
+<tempest>HOW MUCH OF THEM HAVE YOU TAKEN WITHIN? MERELY THEIR BODIES?
+
+<tempest>OR HAVE YOU ALSO HUNTED THEIR MINDS, THEIR ESSENCE?
+
+<tempest>I WOULD DANCE ONLY WITH ONE WHO IS OPEN TO THEIR TRUTHS.
+
+<tempest>SING NOW TO ME.
+
+------------------------------
+> Sing of the Tailbeast Way.
+  (Hidden: {TEMP_TC6A=0 If only you knew the Tailbeast Truth...})
+  Go to: tc006_2a
+> Sing of the Shellbeast Way.
+  (Hidden: {TEMP_TC6B=0 If only you knew the Shellbeast Truth...})
+  Go to: tc006_2b
+> Sing of the Shiftscale Way.
+  (Hidden: {TEMP_TC6C=0 If only you knew the Shiftscale Truth...})
+  Go to: tc006_2c
+> Sing of the Longscale Way.
+  (Hidden: {TEMP_TC6D=0 If only you knew the Longscale Truth...})
+  Go to: tc006_2d
+> Sing of the Waterwing Way.
+  (Hidden: {TEMP_TC6E=0 If only you knew the Waterwing Truth...})
+  Go to: tc006_2e
+> Sing of the Lesser Spearbill Way.
+  (Hidden: {TEMP_TC6F=0 If only you knew the Lesser Spearbill Truth...})
+  Go to: tc006_2f
+> Sing of the Greater Spearbill Way.
+  (Hidden: {TEMP_TC6G=0 If only you knew the Greater Spearbill Truth...})
+  Go to: tc006_2g
+> Sing of the Snowfeather Way.
+  (Hidden: {TEMP_TC6H=0 If only you knew the Snowfeather Truth...})
+  Go to: tc006_2h
+> Sing of the Layerwing Way.
+  (Hidden: {TEMP_TC6I=0 If only you knew the Layerwing Truth...})
+  Go to: tc006_2i
+> Confess that you know no more.
+  Go to: tc006_2j
+
+==============================
+Event: tc006_2a
+
+<tempest>BY ONE VIRTUE, ONE SKILL, HAVE THE TAILBEAST PEOPLE ENDURED. WHAT IS IT? WHAT IS THE ESSENCE OF THE TAILBEAST WAY?
+
+------------------------------
+> <input : TC6A_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2b
+
+<tempest>THE SHELLBEASTS KNOW WHERE ONE MAY FIND THE GREATEST REFUGE. WHERE IS IT?
+
+------------------------------
+> <input : TC6B_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2c
+
+<tempest>THE SHIFTSCALES, MASTERS OF THE GREAT JOURNEY. WHERE SHOULD THE GREAT JOURNEY ALWAYS END?
+
+------------------------------
+> <input : TC6C_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2d
+
+<tempest>THE LONGSCALES HAVE ENDURED LONGER THAN EVEN THE DRAAK-KIN. WHAT VIRTUE MUST BE EMBRACED ABOVE ALL OTHERS IF ONE WOULD FOLLOW THEIR WAY?
+
+------------------------------
+> <input : TC6D_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2e
+
+<tempest>HOW MANY REALITIES HAVE THE WATERWINGS CONQUERED? HOW MANY GREAT BLUES DO THEY SWIM IN?
+
+------------------------------
+> <input : TC6E_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2f
+
+<tempest>WHAT DO THE LESSER SPEARBILLS REVERE AS THE ULTIMATE HUNTER, THE ULTIMATE LOVER?
+
+------------------------------
+> <input : TC6F_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2g
+
+<tempest>THE GREATER SPEARBILLS HAVE FOUND A SUBLIME WAY BOTH TO FIND AND EXPRESS THE DEEPEST TRUTHS. NAME THEIR GREAT ART.
+
+------------------------------
+> <input : TC6G_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2h
+
+<tempest>SOME LOVE STRENGTH, SOME SPEED, SOME CLEVERNESS, BUT THE SNOWFEATHERS WORSHIP A LESSER ASPECT OF THEMSELVES. WHAT IS IT THEY LOVE MOST ABOUT THEMSELVES?
+
+------------------------------
+> <input : TC6H_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2i
+
+<tempest>THE LAYERWINGS ARE NOT COUNTED AS MIGHTY WARRIORS, BUT THEY ARE EXTREMELY POWERFUL IN ONE DOMAIN. WHAT IS IT?
+
+------------------------------
+> <input : TC6I_ANSWER>
+  Go to: tc006_2qs, tc006_2qf
+
+==============================
+Event: tc006_2j
+
+<tempest>THEN WE ARE NOT YET TRUE EQUALS.
+
+<tempest>PERHAPS IN ANOTHER HUNDRED TURNINGS YOU SHALL BE READY.
+
+Tempest fades into the dark depths, refusing to be found again. It seems you will have to look elsewhere for a partner in the Dance of Creation.
+
+As you find your way back to your Lair, however, you feel as though you have learned something of the Ways of lesser Goodbeasts through the challenge.
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc006_2qf
+
+<tempest>IT IS NOT SO. IF YOU HAVE TRULY MASTERED THE WAY, REMEMBER THE SACRED SONG.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc006_2
+
+==============================
+Event: tc006_2qs
+
+<tempest>WELL SUNG. MY DESIRE GROWS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: tc006_3, tc006_2
+
+==============================
+Event: tc006_3
+
+<tempest>YOU HAVE NOT CAST YOUR EYES MERELY UPWARD, BUT ALSO DOWNWARD.
+
+<tempest>THERE IS AS MUCH TO BE LEARNED BY THOSE BELOW AS FROM THOSE ABOVE. THIS IS ALWAYS TRUE, BUT ESPECIALLY FOR OUR PEOPLE, WHO SUFFER FEW TO RISE OVER US.
+
+<tempest>YOU HAVE NOT TURNED AWAY FROM OUR LESSER RELATIONS, BUT HAVE LEARNED THEIR WAYS.
+
+<tempest>WITH SUCH TRUTHS ETCHED UPON YOUR ESSENCE, YOU SHALL NOT SUCCUMB TO PRIDE. YOU SHALL NOT BE YOUR OWN DOWNFALL...
+
+<tempest>AND PERHAPS YOUR OFFSPRING SHALL BE THE SAME.
+
+<tempest>THE SPARK OF DESIRE IS NOW A RAGING FLAME WITHIN ME. I FIND YOU WORTHY, AND WISH TO BECOME ONE WITH YOU.
+
+<tempest>BUT OUR DANCE SHALL NOT BE PERFECT UNLESS THERE ARE TWO LUSTS, TWO FIRES.
+
+<tempest>I SHALL NOT SING OF MYSELF. YOU HAVE BEHELD MY EMPIRE, MY WAYS.
+
+<tempest>DO YOU DESIRE ME, AS I DESIRE YOU? AM I WORTHY OF YOU, AS YOU ARE OF ME?
+
+<tempest>TORMENT ME NOT. IT IS TAKING ALL OF MY WILL TO HOLD MYSELF BACK FROM YOU.
+
+------------------------------
+> Yes. Tempest is worthy. Let the Dance of Creation begin.
+  Go to: tc006_3a
+> No. Tempest is not worthy. Leave, and seek another.
+  Go to: tc006_3b
+
+==============================
+Event: tc006_3a
+
+You can barely see Tempest in this dark place...
+
+But you do not need to see, only to feel, and Tempest is both powerful and tender in its movements. Suspended in the black, clean Waters, you Dance, and Dance again and again.
+
+------------------------------
+> /EndEvent
+  Go to: woohooscreen
+
+==============================
+Event: tc006_3b
+
+<tempest>THEN WHY DID YOU COME? DO YOU WISH TO TORMENT ME?
+
+<tempest>NO MATTER. YOU ARE FREE, AND I RESPECT YOUR FREEDOM.
+
+<tempest>GO THEN. AT LEAST I SHALL KNOW...
+
+<tempest>THERE IS ANOTHER AMONG THE DRAAK WHO STILL CARES FOR THOSE WHO ARE LESS...
+
+<tempest>THERE IS ONE WHO REMEMBERS THE SONGS OF OF OUR RELATIONS.
+
+<tempest>FOR WE ARE ONE WITH ALL GOODBEASTS, NOW AND FOREVER.
+
+Tempest fades into the dark depths, refusing to be found again. It seems you will have to look elsewhere for a partner in the Dance of Creation.
+
+Is it odd that a Kin who pays so much mind to the Ways of lesser beings has become so strong?
+
+Or is it only what is to be expected?
+
+------------------------------
+> /EndEvent
+  Go to: DayTransition
+
+==============================
+Event: tc007
+
+The Time of Creation comes to an end.
+
+The heat in your Core burns low and flickers out. The terrible pangs of Desire cease tormenting you.
+
+You were not tortured in vain, however. You succeeded in performing the sacred Dance of Creation which summons Life in your very first Season.
+
+Whether you are Birther or Giver... whether you carried them inside yourself or simply seeded them... there are now new Beings called into existence by you and another, new spirits pulled from the Void and given Reality.
+
+Encased in fleshstone, they wait, patiently or impatiently, to meet Earth and Sun, having been buried in various places near the edge of their Birther-parent's territory.
+
+Perhaps you visited them and Sang to them of the Great Laws, preparing them for Being. Perhaps you left that to their other parent.
+
+In either case, you have Created more of the blessed and perfect beings known as the Draak-Kin, and extended an echo of yourself into the Future. The satisfaction runs deep.
+
+------------------------------
+> /EndEvent
+  Go to: ff1
+
+==============================
+Event: woohooscreen
+
+woo yeah oh yeah
+
+
+
+------------------------------
+> [EventLoad]
+  Go to: GenerateMateSequence, GenerateMateSequence, GenerateMateSequence, GenerateMateSequence, GenerateMateSequence, DayTransition
+> [EventUnload]
+  Go to: 
+
+==============================

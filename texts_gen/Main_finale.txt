@@ -1,0 +1,2092 @@
+Event: ff1
+
+The High Way above the Spiritwood is being taken by more and more Kin.
+
+<dragon>"IT IS TIME!"</dragon> they sing as they pass overhead. <dragon>"THE GRAND MOOT! IT IS TIME!"</dragon>
+
+Your own thoughts are being drawn more and more to the Gathering Isle, the place appointed for this meeting of all Draak-Kin.
+
+The wind ruffles your feathers. You feel Fate scraping against you.
+
+What transpires at the Grant Moot will surely change your Life and bring an end to this final phase of your youth.
+
+The time is ripe. Will you go, and face your destiny?
+
+------------------------------
+> Yes. I am ready.
+  Go to: ff2
+> No, I wish to take three more Suns, to prepare myself. (The Elders may see this as slightly disrespectful.)
+  Go to: ff1b
+
+==============================
+Event: ff1b
+
+So be it. Your lateness may annoy the elders somewhat, but more time to prepare may be worth risking their disfavor.
+
+------------------------------
+> /EndEvent
+  Go to: MainLair
+
+==============================
+Event: ff1b_1
+
+It is time. The sky calls.
+
+To delay any further would be to risk the wrath of the Elders, and the loss of everything you have.
+
+And besides, you cannot escape the deep knowledge that this event will change your world.
+
+It is time for the Grand Moot.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2
+
+==============================
+Event: ff2
+
+You follow the gathering flight of Kin coldwards and setwards to a large island emerging from the Great Blue.
+
+Here, at the summit of the Gathering Hill, the future of the True Children of Above and Below will be decided.
+
+Not since the Skyfall has all Draak-kind been gathered together.
+
+To be so close to so many other Draak-Kin is slightly terrifying. Your People are not accustomed to such things, being proud sovereigns each of their own realm, and rivals to one another...
+
+But you must face the terror of togetherness and be present. Too much is at stake to give in to Fear.
+
+
+
+------------------------------
+> [Continue]
+  Go to: , , , , , , , , , , ff2a
+
+==============================
+Event: ff2a
+
+Your Essence burns within you as you behold the Kin, amassed.
+
+The beautiful haloes crowning each, from young to old, speak of their many hard-earned epiphanies and triumphs. Some are particularly beloved by a single element, while others have achieved a balance between two, three or even Four.
+
+At the highest crown of the ice-capped, slumbering firemountain, the Elders reign transcendent.
+
+There you see Bladetail-of-the-Many-Minds, ancient guardian of the Far Islands. The spiritual heads which surround its physical one constantly murmur deadly Truths.
+
+There also is Fathom, Keeper of the Depths, who makes its home lower even than the Great Below, mightiest of the Sapphire Clan.
+
+Even Jade Cloud, the soft-sung yet undisputed master of the riseward lands, has come. It is said to have once won an argument with the Moon, and even invented mist.
+
+These three elders, however, have folded their wings, signalling their intent not to sing to the Many.
+
+Instead, Many-Times-Burned, The Broken and Unbroken, mightiest of all Kin, stands ascendant, preparing to sing.
+
+Beside it, Darktooth the Wise, the Far-Travelling Gatherer of Knowledge, and Allmother, Last of the Crystal Clan and Beloved-to-All, stand ready. It seems they also wish to be heard.
+
+Suddenly, the gathered Kin find themselves falling quiet and turning all of their senses to great Many-Times-Burned. It need not even call for silence. Such is the power of a true Elder of the Kin.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2b
+
+==============================
+Event: ff2b
+
+When the quiet is smooth and unbroken, it begins.
+
+<MTB>THE END.
+
+<MTB>IT COMES. I HAVE SMELLED IT.
+
+<MTB>OUR MOTHER, GREAT EARTH, IS CHANGING AS SHE HAS NOT CHANGED SINCE THE SKYFALL, WHEN THE OTHERS VIOLATED HER AND USURPED OUR DOMINION.
+
+<MTB>NOW, THE SEED LEFT BEHIND BY THE DEFILERS FESTERS AND GROWS INTO A LIVING DISEASE.
+
+<MTB>THE TAILLESS ONES... THE FLATFACES, THE BROKEN CUSTODIANS...
+
+<MTB>THEY SHALL BE THE END.
+
+<MTB>I HAVE TORN AWAY THE VEIL OF TIME, AND I HAVE SEEN THE WORLD WHICH THE NO-TAILS SHALL CREATE.
+
+<MTB>GONE SHALL BE THE GREAT GREEN AND THE GREAT BLUE BOTH.
+
+<MTB>INSTEAD, THEY SHALL BIRTH A GREAT GREY, WHICH SHALL COVER THE LAND, THE WATERS, EVEN THE SKIES ABOVE.
+
+<MTB>COUNTLESS GOODBEASTS SHALL PERISH IN CONFUSION, NOT HUNTED FAIRLY BUT TRAPPED, DECEIVED, EVEN ENSLAVED.
+
+<MTB>MANY SONGS, EVEN THE SONGS OF WHOLE PEOPLES AND TRIBES OF GOODBEASTS, SHALL BE STILLED, NEVER TO RISE AGAIN.
+
+<MTB>HEAR ME. OUR MUSIC... THE MUSIC OF THE DRAAK-KIN... IS AMONG THOSE WHICH SHALL BE LOST.
+
+<MTB>TIME HAS SPOKEN. THE TAILLESS SHALL BE OUR DOOM. THE FUTURE I HAVE BEHELD IS EMPTY OF OUR KIND.
+
+<MTB>WE SHALL BE REDUCED TO WORSE THAN NOTHING...
+
+<MTB>A MYTH, A NEVER-WAS, WHICH THE FLATFACES WILL TELL STORIES OF TO AGGRANDIZE THEMSELVES.
+
+<MTB>SO SHALL IT BE WITH THE DRAAK-KIN, GREATEST OF THE TRUE CHILDREN OF ABOVE AND BELOW.
+
+<MTB>AS MORE AND MORE OF SUN AND EARTH'S TRUE CHILDREN PERISH OR ARE ENSLAVED, THERE WILL BE NONE TO STAND AGAINST THE VIOLATORS.
+
+<MTB>THE BABBLING OF THE NO-TAILS SHALL SOUND FROM EVERY CORNER OF EARTH, FILLING THE AIR. IN THE ABSENCE OF THEIR OTHER-CREATORS, THEY SHALL LOSE THEMSELVES.
+
+<MTB>DESCENDING INTO MADNESS AND PROFLIGACY, THEY SHALL CHOKE OUR MOTHER WITH HEAT AND WASTE. AS MORE AND MORE OF HER TRUE CHILDREN VANISH, THERE WILL BE NONE TO STAND AGAINST THEM.
+
+<MTB>THIS IS THE <color #8a8a8a>GREY FUTURE.</color>
+
+<darktooth>INDEED. SO IT SHALL BE.
+
+<darktooth>ALL OF THE ELDERS HAVE TRAVELED INTO THE FUTURE, SOME THROUGH THE DREAMING, SOME THROUGH SECRET MUSICS, SOME THROUGH LOGIC AND REASON. AND ALL HAVE ARRIVED AT THE SAME RESULT.
+
+<darktooth>EARTH, CREATOR OF US ALL, SHALL BE REDUCED TO THE DEMESNE OF BUT ONE PEOPLE, THE SEED OF THE OTHERS, WHO WILL HAVE FORGOTTEN THEIR OWN PURPOSE.
+
+<allmother>ALONE. SUNDERED. SELF-BOUND.
+
+<allmother>INDEED, THE TAILLESS SHALL DEVOUR THEMSELVES WITH THEIR OWN MINDS.
+
+<allmother>IN THE END, THEIRS SHALL BE THE GREATEST SUFFERING, FOR THEY SHALL PERISH UNDERSTANDING THAT THEY HAVE BEEN THE RUIN OF ALL. THEIR EXPANSIVE MINDS SHALL NOT SPARE THEM THE DEEP KNOWLEDGE OF THEIR RESPONSIBILITY.
+
+<allmother>THE HORROR... MY POOR CHILDREN ALL...
+
+<allmother>BUT SO SHALL IT BE.
+
+<MTB>BUT HEAR NOW MY VOICE.
+
+<MTB>HEAR MY SONG TO ALL KIN BORN AND WHO SHALL BE BORN:
+
+<MTB>FINAL WAR IS NOW DECLARED UPON THE NO-TAILS AND ALL OF THEIR WORKS.
+
+<MTB>ONLY BY UNITING AND DEDICATING OURSELVES TO THIS BLESSED ACT CAN WE SAVE EARTH, WHO GAVE US LIFE AND MADE US GREAT AMONG HER CHILDREN.
+
+<MTB>AND ONLY BY BRINGING FORTH THE SPIRIT OF FIRE HIDDEN IN US CAN WE BECOME SUN'S INSTRUMENTS IN CLEANSING THIS FUTURE FROM REALITY.
+
+<MTB>THE TAILLESS ARE YET WEAK ENOUGH THAT WE MAY EXTINGUISH THE FLAME.
+
+<MTB>BUT THEY MULTIPLY QUICKLY. SOON, THE GREAT GREY WILL BE TOO PROBABLE TO BE UNCREATED.
+
+<MTB>UNTIL SUN BEHOLDS EARTH FREE FROM THE TAINT OF ALL OTHER-SEED...
+
+<MTB>WE MUST BECOME WARRIORS ALL, AND SLAY EVERY TAILLESS WHICH DRAWS BREATH, EVEN TO THE LAST HATCHLING.
+
+<MTB>NO KIN SHALL LEAVE THIS GATHERING WITHOUT SWEARING A BINDING OATH:
+
+<MTB>YOU SHALL NOT SUFFER A FLATFACE TO LIVE, AND SHALL NEVER KNOW PEACE UNTIL THE THREAT IS FOREVER GONE AND THE SHALL-BE CHANGED.
+
+<MTB>SUCH IS NECESSITY'S DEMAND. SO IT IS, AND SHALL BE. THIS SUN, THE GREAT CLEANSING OF EARTH BEGINS.
+
+The accumulated Draak-Kin are astounded.
+
+Can the naked, spiritblind Tailless really be such a threat? What dreadful Music could give them such power over Reality?
+
+And to intentionally hunt a species to Final Destruction...
+
+Such has never been done, nor has an Elder forced its own Way upon other Kin since the rise of the Ruiner-Empress.
+
+But if the other Elders offer no challenge to this revelation, then it must be true.
+
+In the glances, the shivering of tails and the raising of feathers, you can sense the immense disquiet of the Kin.
+
+<darktooth>WAIT, MY KIN. THERE IS A SECOND WAY.
+
+<darktooth>THOUGH THE ELDERS HAVE ALL SEEN THE SAME GREY FUTURE...
+
+<darktooth>AND ALL AGREE THAT ACTION MUST BE TAKEN...
+
+<darktooth>NOT ALL BELIEVE THAT THE PATH OF FIRE, THE WAY OF DESTRUCTION, SHALL AVAIL US.
+
+<darktooth>BEHOLD: I BRING YOU A VISION.
+
+<darktooth>DEEP, DEEP IN THE STAR-PIERCED VOID, THERE IS ANOTHER SUN...
+
+<darktooth>AND ANOTHER EARTH.
+
+<darktooth>THERE, GOODBEASTS UNLIKE ANY KNOWN TO US DANCE AND SING. THE AIR IS SWEET, PREY IS PLENTIFUL, AND TREASURES UNIMAGINABLE ARE FORGED.
+
+<darktooth>I HAVE BEEN THERE. I HAVE TASTED ITS FLESH, SMELLED ITS SKIN. I HAVE NAMED THIS WORLD...
+
+<darktooth><bold>NEWHOME.</bold>
+
+<darktooth>ACROSS THE TURNINGS-BY-THOUSANDS, I HAVE SOLVED THE MYSTERY OF HOW TO WALK AMONG THE STARS, TO FLY IN THE COMPANY OF SUN'S BRETHREN.
+
+<darktooth>TO THOSE WITH THE WORTH TO SEED A NEW WORLD AND THE WISDOM TO TURN AWAY FROM THE PATH OF DESTRUCTION, I OFFER THIS ALTERNATIVE.
+
+<darktooth>A WORLD NEW TO OUR KIND, WITH VAST LANDS AND DEEP SEAS. NEW SECRETS. NEW TRUTHS. NEW SONGS, NEW MUSIC.
+
+<darktooth>A WORLD FREE FROM THE FELL OTHERS, AND CLEAN OF THEIR SEED.
+
+<darktooth>FOR NEW DISCOVERIES, MY MIND, EVEN MY ESSENCE, HAVE LONG HUNGERED.
+
+<darktooth>IF THE UNKNOWN CALLS TO ANY OF THE GREAT KIN BEFORE ME... COME AWAY WITH ME.
+
+<darktooth>WE SHALL ENDURE, AND OUR PEOPLE SHALL HAVE A NEW BEGINNING, AND NEW PLEASURES AND PAINS BOTH IN ABUNDANCE.
+
+<darktooth>WE SHALL GROW MIGHTIER THAN WE ONCE IMAGINED.
+
+<darktooth>IT WILL TAKE MUCH SHINESTONE, AND MANY NEW KNOWLEDGES AND PATHS MUST BE UNDERTAKEN, BUT WE SHALL ENDURE, FAR BEYOND THE REACH OF THE TAILLESS.
+
+<MTB>THE DARK-TOOTHED FAR-SCHOLAR WOULD ABANDON EARTH IN HER TIME OF GREATEST NEED.
+
+<MTB>I AM NOT INTERESTED IN STOPPING ITS EGRESS. DESTROYING THE TAILLESS WILL BE EASIER IN ITS ABSENCE.
+
+<MTB>LET IT CHASE ITS DESIRE FOR NOVELTY INTO THE VOID AND BE GONE. BUT ANY WHO DARE TO FOLLOW WILL FACE MY WRATH.
+
+<MTB>EVERY CLAW, EVERY FANG, OF OUR PEOPLE WILL BE NEEDED FOR THE GREAT CLEANSING.
+
+<MTB>WE STAND AGAINST TIME ITSELF. THIS IS NO TIME FOR SHALLOW FANTASIES.
+
+<darktooth>MY WAY IS NEITHER SHALLOW NOR FANTASTICAL.
+
+<darktooth>WITH ENOUGH SHINESTONE, A GREAT CONTAINER TO CARRY US TO NEWHOME CAN BE BUILT. SO I SWEAR.
+
+<darktooth>AND IT IS THE ONLY PATH WHICH ENSURES THAT, EVEN IF EARTH FALLS, OUR PEOPLE AND OUR MUSIC SHALL NOT PERISH FROM THE ONESONG.
+
+<darktooth>DESPITE YOUR MIGHTY WILL, DEEPFLAME, HONORED RIVAL... DESPITE YOUR RESOLUTION TO DESTROY THE TAILLESS...
+
+<darktooth>THE FUTURE WE ELDERS SEE DOES NOT CHANGE.
+
+<darktooth>IT MAY EVEN BE THAT YOUR GREAT CLEANSING SHALL HASTEN THE ANNIHILATION OF THE KIN AS A RACE.
+
+<MTB>YOU DARE...?
+
+<allmother>IN THIS, I ECHO MIGHTY MANY-TIMES-BURNED, WISE DARKTOOTH; SUCH AN ACTION IS A DESERTION OF LOVING MOTHER EARTH, AND OUR MANY RELATIONS WHICH FEED FROM HER.
+
+<allmother>THERE ARE THOSE OF US WHO LOVE EARTH AND SUN SUCH THAT NONE OF THEIR INFINITE SIBLINGS WOULD BRING PEACE TO OUR SOULS.
+
+<allmother>TO LOOK UP INTO THE GREAT ABOVE AND SEE A BLAZING GLORY THAT IS NOT HE WHO HAS WATCHED OVER US FOR ALL TIME...
+
+<allmother>CAN SUCH A THING BE ENDURED? ARE NOT OUR VERY ESSENCES BOUND TO THE GREEN, THE BLUE, THE ABOVE AND THE BELOW OF THIS WORLD?
+
+<allmother>INDEED, IN THE SPIRIT-WORLD, THE WORLD OF ESSENCE, INVISIBLE TO THE NO-TAILS, OUR TRUE SALVATION MAY LIE.
+
+<allmother>LIKE DARKTOOTH, I QUESTION WHETHER THE GREAT CLEANSING WILL HAVE THE POWER TO CHANGE TIME ITSELF.
+
+<allmother>AND LIKE MIGHTY MANY-TIMES-BURNED, I LOVE MY TRUE MOTHER, EARTH, WITH ALL MY MIND AND ALL MY CORE AND ALL MY ESSENCE, AND WILL NOT ABANDON HER, NOT EVER.
+
+<allmother>I THEREFORE OFFER A THIRD WAY.
+
+<allmother>THE TAILLESS... CAN BE REDEEMED.
+
+<allmother>BEYOND THE GREY-TO-COME, THE GREAT GREEN AND THE GREAT BLUE CAN RISE AGAIN.
+
+<allmother>NOTHING CAN STOP THE DESOLATION. FATE IS FIXED AND IMMUTABLE. BUT WE CAN JOIN WITH THE TAILLESS. TEACH THEM. GUIDE THEM.
+
+<allmother>WE CAN DO THIS ONLY ONE WAY...
+
+<allmother>BY BECOMING THEM.
+
+Unrest. Confusion.
+
+All know that it is impossible for one kind of being to become another.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2c
+
+==============================
+Event: ff2c
+
+<allmother>IF ONE HAS TRULY GREAT STRENGTH OF ESSENCE, AND DEEPLY DESIRES IT...
+
+<allmother>WE CAN MERGE WITH HUMANITY.
+
+<allmother>WE CAN INVEST THEM WITH PARTS OF OUR SOULS, AS WE HAVE DONE WITH MANY GOODBEASTS OVER TIME.
+
+<allmother>DUE TO THEIR ALIEN NATURE, A SIMPLE FRAGMENT WILL NOT SUFFICE. BUT IF WE EMBRACE THE COMING DESTRUCTION WITH COMPASSION AND TRUTH...
+
+<allmother>IF WE ABANDON THESE MIGHTY FORMS, BUT SING TRUE THROUGH THE INWARD WAYS, AND CONTINUE TO LOVE...
+
+<allmother>IN THE FAR FUTURE, NO-TAILS MAY BE BORN WITH DRAAK-KIN SOULS, CAPABLE OF SINGING WITH OUR VOICES, SEEING WITH OUR EYES.
+
+<allmother>THOSE TAILLESS DRAAK-KIN OF THE FUTURE ARE THE GREATEST HOPE OF SALVATION FOR EARTH AND ALL WHO LIVE UPON HER.
+
+<allmother>THEY... WE... SHALL GUIDE THEM FROM THE GREY TO THE BLUE AND THE GREEN. A NEW DAWN AGAINST THE TWILIGHT.
+
+<allmother>TO MAKE THIS A REALITY, I SHALL SOON LEAVE THIS BODY AND INVEST MY ESSENCE IN THE OTHER-SEED. I SHALL PERISH...
+
+<allmother>BUT MY ESSENCE WILL BE REBORN, TO GUIDE THE TAILLESS ORPHANS TO LASTING PEACE AND THE MUSIC OF THE SPHERES.
+
+<allmother>WILL NONE OF YOU JOIN ME ON THIS THIRD WAY, THE WAY OF COMPASSION?
+
+<allmother>WILL NONE OF YOU EMBRACE THE COMING DARKNESS TO BRING A FINAL LIGHT?
+
+<darktooth>YOU ASK IF A TRUE AND NOBLE KIN WILL JOIN YOU IN PERISHING IN THE HOPE THAT THEY WILL SOMEHOW BE REBORN AS A FLATFACE IN A GREY WORLD WITHOUT THE KIN?
+
+<darktooth>IN ALL THE LORE OF OUR PEOPLE, NO TWO PEOPLES HAVE EVER UNITED IN SUCH A WAY. DRAAK ESSENCE IS FOR DRAAK FLESH. COULD A TAILLESS BODY EVEN CONTAIN IT?
+
+<darktooth>THIS HAS A VERY LOW CHANCE OF SUCCESS. LOGIC SINGS PLAINLY ON THIS MATTER.
+
+<allmother>BUT IF OTHERS JOIN WITH ME, THE CHANCES WILL INCREASE...
+
+<allmother>AND I HAVE COME TO... LOVE THE TAILLESS ORPHANS.
+
+Many cannot help but ruffle their feathers at this. Some shake their heads as if to scatter water away, despite the disrespect to an elder this implies.
+
+But that idea... <color #b57edc>love...</color> is known to be extremely dangerous, a conceit of lesser beings, to console them in their base need for each other to survive.
+
+And to express any kind of affection for a People who are only half from this world, the produce of the Others, sworn enemies of the Draak...
+
+<italic>Who do not even have tails...</italic>
+
+And for a Kin to beg, especially an Elder, for anything at all...
+
+It is unimaginable.
+
+<allmother>JUDGE AS YOU WISH. I SHALL SOON BE GONE. THIS BODY SHALL PERISH AND I SHALL VOLUNTARILY CAST MY SPIRIT AWAY AND AHEAD.
+
+<allmother>BUT IF THERE ARE ANY OF YOU WHO HAVE DISCOVERED THE GREATEST SECRET OF THE ONESONG...
+
+<allmother>THAT ALL BEINGS, EVEN THE TAILLESS, ARE ONE, AND SHARE THE SAME ULTIMATE DESTINY...
+
+<allmother>IF ANY OF YOU HAVE LOOKED INTO THEIR MINDS AND SEEN THE INCREDIBLE WONDERS OF WHICH THEY ARE CAPABLE...
+
+<allmother>AND IF ANY OF YOU UNDERSTAND THAT TO BE DRAAK IS NOT A STATE OF BODY, BUT A STATE OF ESSENCE...
+
+<allmother>I BEG OF YOU. JOIN ME.
+
+<allmother>SAVE THE ORPHANS, AND OUR WORLD ALONG WITH THEM.
+
+<MTB>BLASPHEMY. MADNESS.
+
+<MTB>YOUR STRATEGY ASSUMES THE FAILURE OF THE GREAT CLEANSING AND JOINS US WITH THE MOST RUINOUS AND DEGENERATE ENTITY EVER TO APPEAR ON OUR MOTHER'S HOLY BODY.
+
+<MTB>NO TRUE KIN WOULD WANT SUCH A THING, LET ALONE EMBRACE CERTAIN DESTRUCTION FOR IT.
+
+<allmother>THE ORPHANS... THE NO-TAILS... DID NOT CHOOSE TO BE CREATED.
+
+<allmother>THEY ARE LOST AND CONFUSED. HALF-OTHER, HALF-GOODBEAST.
+
+<allmother>THEIR DEEPEST WISH IS NOT TO DESTROY US AND TAINT THIS WORLD, BUT ONLY TO BE LOVED. TO KNOW THEIR TRUE PURPOSE, THEIR TRUE IDENTITY AS CHILDREN OF THE STARS.
+
+<allmother>THEY ARE DESERVING OF OUR PITY, AND OUR COMPASSION, MORE THAN ANY GOODBEAST WHOSE WAY IS STRAIGHT AND SURE AND KNOWN.
+
+<darktooth>NEVERTHELESS, I KNOW MUCH OF THE DISPERSION AND ACCUMULATION OF ESSENCE, AND THE SELF-SACRIFICE YOU ENDORSE IS UNWISE.
+
+<darktooth>THERE IS NO GUARANTEE THAT YOUR ESSENCE WILL NOT BE ABSORBED BY A GREATER FORCE, OR DISSIPATED, OR ENTER THE WRONG KIND OF BODY.
+
+<darktooth>IT WOULD TAKE AN ACT OF WILL ON PAR WITH THE GREATEST ACTIONS EVER TAKEN BY THE MOST STRONG-SOULED OF THE DRAAK TO FULFILL YOUR DESIRE.
+
+<darktooth>PERHAPS YOU, BELOVED-OF-ALL, ARE MIGHTY ENOUGH IN SPIRIT, BUT YOU ARE AN ELDER. YOUNGER DRAAK WHO FOLLOW YOU MAY WELL PERISH FRUITLESSLY.
+
+<allmother>TRUE COMPASSION IS BEYOND ALL OF YOUR LOGIC, WISE ONE. I BELIEVE, IN THE DEPTHS OF MY HEART, THAT WE CAN MERGE OUR PEOPLES AND SAVE ALL.
+
+<allmother>THERE IS MORE OF OUR MUSIC, AND THAT OF THE ONESONG, IN THE NO-TAILS THAN YOU KNOW.
+
+<MTB>ENOUGH. I WILL HEAR NOT ONE SONG-NOTE MORE OF THIS SEDITION.
+
+<MTB>THESE TWO ADVOCATE ESCAPE, OR JOINING WITH THE ENEMY.
+
+<MTB>THEY ARE ELDERS, STRONG IN MANY PATHS. THEY SHALL DO AS THEY DESIRE.
+
+<MTB>BUT I WILL ALLOW NO OTHER DRAAK-KIN TO FOLLOW THEM INTO DELUSION. EARTH NEEDS THE KIN NOW AS SHE HAS NEVER NEEDED HER CHILDREN BEFORE.
+
+<MTB>WE MUST DO AS WE WERE MADE TO DO: DESTROY. WITH THESE CLAWS, THESE FANGS, THIS BREATH OF FIRE WHICH SUN AND EARTH HAVE GIVEN US.
+
+<MTB>WE MUST STOP THE GREY FUTURE FROM OCCURRING. JOIN WITH ME, AND SAVE THAT WHICH WE LOVE.
+
+<MTB>SAVE OUR RELATIONS, THE GOODBEASTS, WHO SHALL BE VICTIMS OF OUR INACTION IF WE DELAY OR RECOIL FROM THIS SACRED DUTY.
+
+<MTB>LET THE BLUE BE FOREVER BLUE, THE GREEN FOREVER GREEN.
+
+<MTB>THE TRUTH AND THE JUSTICE AND THE GLORY LIE WITH ME.
+
+<MTB>WE SHALL WALK IN CRIMSON BEAUTY ALONG THIS PATH, OR WE SHALL PERISH. I HAVE SUNG. SO IT IS, AND SHALL BE.
+
+<darktooth>LET US THEN ASK ONE NEWLY-FORGED.
+
+<darktooth>YOU. KEEPER OF THE SPIRITWOOD.
+
+Suddenly, you feel the senses of all of the Kin upon you.
+
+What is happening? Why have you been singled out?
+
+<darktooth>YOU ARE YOUNG, BUT YOU HAVE LIVED CLOSEST TO THE SPIRIT OF THE GREAT GREEN.
+
+<darktooth>ITS WISDOM IS BEYOND ALL OF OURS. IT HAS BEEN SINCE BEFORE THE SKYFALL, BEFORE EVEN THE VERY FIRST KIN.
+
+<darktooth>EACH ACTION, EACH DISCOVERY, EACH SUN HAS BEEN A LESSON TO YOU FROM THE SPIRIT OF THE GREAT GREEN.
+
+<darktooth>TELL US: WHICH PATH WILL YOU FOLLOW? TO WHOM WILL YOU FASTEN YOUR DESTINY?
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2c1, ff2c2, ff2c3
+
+==============================
+Event: ff2c1
+
+<MTB>THIS MEWLING WEAKLING IS A MISCARRIAGE OF REALITY. A DRAAK IN BODY ALONE.
+
+<MTB>I SHALL CLOSE MY SENSES TO ITS SONG, AS SHOULD ALL TRUE KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2d
+
+==============================
+Event: ff2c2
+
+<MTB>……..
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2d
+
+==============================
+Event: ff2c3
+
+<MTB>SPIRIT-KEEPER. RISING FLAME.
+
+<MTB>FOR ONE SO YOUNG, YOU SHOW MUCH STRENGTH, MUCH PROMISE.
+
+<MTB>SING, THEN. SING TRUE.
+
+<MTB>RECALL THE BEAUTY OF THE GREEN, THE WILD, FREE GOODBEASTS WHICH HAVE SERVED YOU, NOURISHED YOU, AND KNOW THAT ONLY BY CHOOSING MY PATH CAN THEY BE SAVED.
+
+<MTB>EVEN AS YOU, I AM ONE WITH THE WILD. I AM ONE WITH THIS WORLD. I HAVE BEEN MELTED IN ITS CORE, AND FOLDED, AND REFORGED. MANY TIMES.
+
+<MTB>JOIN WITH ME, AND BECOME THE SALVATION OF THE GREAT GREEN. THE SALVATION OF ITS SPIRIT, BEFORE WHOM ALL... EVEN I... BOW AND ADMIT INFERIORITY.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2d
+
+==============================
+Event: ff2d
+
+------------------------------
+> [EventLoad]
+  Go to: ff2d1, ff2d2, ff2d3
+
+==============================
+Event: ff2d1
+
+<allmother>ANOTHER ONE EAGER TO SPREAD ITS CLAWS AND BARE ITS FANGS AT REALITY.
+
+<allmother>I FEAR THERE IS LITTLE HOPE THAT YOU WILL SEE FAR ENOUGH TO KNOW WHAT IS RIGHT...
+
+<allmother>BUT I SHALL LISTEN, ALL THE SAME.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2e
+
+==============================
+Event: ff2d2
+
+<allmother>PLEASE... CAN YOU NOT SEE, YOUNG SPIRITKEEPER?
+
+<allmother>DESTRUCTION AND ESCAPE ARE NOT THE ANSWERS TO OUR DOOM.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2e
+
+==============================
+Event: ff2d3
+
+<allmother>KEEPER OF THE HEART OF THE GREAT GREEN. MY BELOVED CHILD.
+
+<allmother>YOU HAVE SEEN THE TRUTH OF COMPASSION.
+
+<allmother>YOU MUST KNOW BY NOW THAT DESTRUCTION CANNOT SAVE US. DESTRUCTION IS WANTON, AND ONLY BEGETS MORE OF ITSELF.
+
+<allmother>LET US GO TOGETHER. TOGETHER INTO A NEW FUTURE, NEW BODIES, NEW VOICES.
+
+<allmother>TOGETHER, WE CAN SAVE THE DRAAK-KIN, THE ORPHANS, AND THE GREAT MOTHER ALL.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2e
+
+==============================
+Event: ff2e
+
+<darktooth>THE WAY HAS BEEN LONG, BUT AT LAST A YOUNG KIN ARRIVES AT CHILDHOOD'S TRUE END.
+
+<darktooth>IT IS AN ADULT IN BODY, BUT ONCE A WAY HAS BEEN CHOSEN, THEN SHALL IT BE ONE IN ESSENCE.
+
+<darktooth>TRUE ADULTS KNOW THAT THERE IS SELDOM A RIGHT ANSWER, AND YET, WE STILL MUST CHOOSE. WE MUST MOVE FORWARD.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2e1, ff2e2, ff2e3
+
+==============================
+Event: ff2e1
+
+<darktooth>YOU HAVE NOT KNOWN THE PATHS OF WISDOM...
+
+<darktooth>BUT I CALL UPON YOU TO SING, NONETHELESS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2f
+
+==============================
+Event: ff2e2
+
+<darktooth>WHATEVER YOU CHOOSE, YOU WILL HAVE TO FIGHT FOR WHAT YOU BELIEVE.
+
+<darktooth>ONLY BY BEING TRUE TO YOUR OWN SELF CAN YOU HOPE TO FIND THE STRENGTH TO SUCCEED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2f
+
+==============================
+Event: ff2e3
+
+<darktooth>THIS YOUNG KIN HAS HAD MANY ADVENTURES, AND TASTED SUCCESS MORE OFTEN THAN FAILURE.
+
+<darktooth>IT HAS SHOWN RESPECT TO TRADITION, AND YET HAS NOT FEARED TO TREAD NEW PATHS AS WELL.
+
+<darktooth>O MY KIN AND MY CREATION...
+
+<darktooth>THE LIGHT OF TRUE WISDOM SHINES IN YOU.
+
+<darktooth>BLOODY AND PASSIONATE WAS THE DANCE WHICH CREATED YOU. WHATEVER PATH YOU CHOOSE, I SHALL BLESS IT.
+
+<darktooth>BUT MY DEEPEST WISH IS THAT YOU, MY CREATION, WILL COME WITH ME TO NEWHOME.
+
+<darktooth>WITH SUCH AS YOU TO DISCOVER ITS BOUNTY, ITS MYSTERIES, MUSIC MAY BE WOVEN TO OUTLAST EVEN THE STARS THEMSELVES.
+
+<darktooth>ALL BEINGS MUST ULTIMATELY LEAVE THE PLACE OF THEIR BIRTH AND VENTURE FORWARD INTO THE UNKNOWN.
+
+<darktooth>YOUR TIME IS NOW.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2f
+
+==============================
+Event: ff2f
+
+<darktooth>WHICH PATH SHALL YOU THEN CHOOSE?
+
+------------------------------
+> I choose the First Way, the Way of Survival, the Green Path. I stand with Many-Times-Burned.
+  Go to: ff2fa_confirm
+> I choose the Second Way, the Way of Wisdom. I stand with Darktooth.
+  Go to: ff2fb_confirm
+> I choose the Third Way, the Way of Compassion. I stand with Allmother.
+  Go to: ff2fc_confirm
+
+==============================
+Event: ff2fa1
+
+<MTB>YOU SURPRISE ME WITH YOUR SANITY.
+
+<MTB>I HAD THOUGHT YOU BEYOND REASON.
+
+<MTB>SO BE IT. TOGETHER, WE SHALL SAVE THE GREAT GREEN AND ITS SPIRIT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2faa
+
+==============================
+Event: ff2fa2
+
+<MTB>YOUR OATH IS SUNG AND ACCEPTED.
+
+<MTB>YOU NOW EXIST TO PUNISH THOSE WHO WOULD MAIM AND DISFIGURE THE GREAT MOTHER. ALL OUR RELATIONS OF FUR, FEATHER AND SCALE SHALL BE IN YOUR DEBT.
+
+<MTB>TOGETHER, WE SHALL SAVE THE GREAT GREEN AND ITS SPIRIT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2faa
+
+==============================
+Event: ff2fa3
+
+<MTB>THE FLAME WITHIN MY BREAST DANCES AND LEAPS.
+
+<MTB>I SMELLED YOUR COURAGE, YOUR NOBLE WILL TO SURVIVE IN YOUR ESSENCE.
+
+<MTB>YOU ARE A TRUE DRAAK-KIN, A TRUE SOVEREIGN OF BEASTKIND.
+
+<MTB>YOU SHALL SMASH OUR ENEMIES WITH YOUR TAIL, REND THEIR FLESH WITH YOUR FANGS, BURN AWAY THE GREY SICKNESS.
+
+<MTB>THE SPIRIT OF THE GREAT GREEN SHALL BE ENTHRONED IN TREES AND HEAR THE VOICES OF COUNTLESS FREE GOODBEASTS WHO SHALL PRAISE IT FOREVER...
+
+<MTB>AND YOU, THE FAITHFUL GUARDIAN, WHO DID NOT ABANDON THIS WORLD, BUT STOOD GLORIOUS, NAKED AND UNAFRAID AGAINST THE ABOMINATIONS AND THEIR FALSE COVERINGS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2faa
+
+==============================
+Event: ff2fa_confirm
+
+Do you truly wish to fight for all Goodbeasts, destroy the No-Tails, and save the world from the Grey Future, though you may perish in the attempt?
+
+------------------------------
+> Yes, I do.
+  Go to: ff2fa1, ff2fa2, ff2fa3
+> No.
+  Go to: ff2f
+
+==============================
+Event: ff2faa
+
+------------------------------
+> [EventLoad]
+  Go to: ff2faa1, ff2faa2, ff2faa3
+
+==============================
+Event: ff2faa1
+
+<darktooth>VERY WELL. SO BE IT.
+
+<darktooth>STAND TRUE AGAINST THE TAILLESS MENACE...
+
+<darktooth>IF YOU CAN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fab
+
+==============================
+Event: ff2faa2
+
+<darktooth>YOUR DECISION IS NOT UNREASONABLE.
+
+<darktooth>I, TOO, LOVE THE VERDANT EARTH, AND HOPE THAT IT CAN BE SAVED BY YOUR ACTIONS...
+
+<darktooth>BUT I MUST ENSURE THAT OUR PEOPLE GROW, AND SPREAD TO THE STARS.
+
+<darktooth>GOOD FORTUNE ON THIS, YOUR GREATEST, AND POSSIBLY FINAL, HUNT.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fab
+
+==============================
+Event: ff2faa3
+
+<darktooth>OUR LIGHT SHALL BE DIMMED...
+
+<darktooth>WITH YOU BY MY SIDE, WE COULD HAVE MADE AN ENTIRE WORLD OURS, MOULDED IT INTO A PLACE OF BALANCE AND REASON AND PLENTY.
+
+<darktooth>IT SEEMS THAT I MUST FACE THE VOID ALONE.
+
+<darktooth>MAY EARTH AND SUN PROTECT YOU, AND GRANT YOU VICTORY.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fab
+
+==============================
+Event: ff2fab
+
+------------------------------
+> [EventLoad]
+  Go to: ff2fab1, ff2fab2, ff2fab3
+
+==============================
+Event: ff2fab1
+
+<allmother>AND SO ANOTHER TREADS THE PATH OF DESTRUCTION.
+
+<allmother>MAY YOUR END BE WITHOUT PAIN OR CONFUSION.
+
+<allmother>THAT IS THE ONLY BLESSING I MAY OFFER TO THE LOST.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fac
+
+==============================
+Event: ff2fab2
+
+<allmother>I CONFESS: THAT PATH IS STRAIGHT, AND SENSIBLE, AND CLEAR.
+
+<allmother>IF YOU HAVE COME TO LOVE THE GREAT GREEN AND ITS INHABITANTS, OF COURSE YOU WOULD WISH TO PROTECT THEM, MY BELOVED CHILD.
+
+<allmother>MAY THE FUTURE BE LIQUID, YOUR EFFORTS NOT IN VAIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fac
+
+==============================
+Event: ff2fab3
+
+<allmother>NOT YOU, BELOVED. EVEN YOU?
+
+<allmother>I HAD THOUGHT YOU UNDERSTOOD THE POWER OF COMPASSION, OF THE MANY BECOMING ONE.
+
+<allmother>I HAD FAITH THAT YOU WOULD CHOOSE THE PATH LEAST TRAVELLED, AND BECOME THE SALVATION OF A GREY WORLD.
+
+<allmother>AND YET, UNTO THE UTTERMOST END OF THE CRIMSON PATH, I BLESS YOU, MY BELOVED.
+
+<allmother>AS MUCH AS YOU CAN...
+
+<allmother>DO NOT FORGET COMPASSION.
+
+<allmother>IF YOU ARE VICTORIOUS, THEN OUR PEOPLE WILL HAVE NEED OF ONE WHO REMEMBERS THE TRUE CIRCLE, THE LAST AND BEST PARADOX...
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fac
+
+==============================
+Event: ff2fac
+
+<MTB>AND SO IT IS DONE.
+
+<MTB>THE KEEPER OF THE HEART OF THE GREAT GREEN HAS CHOSEN WISELY.
+
+<MTB>WHO SHALL STAND WITH US, AND SAVE THE WORLD WE KNOW, GREAT EARTH WHO GAVE US LIFE?
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fad
+
+==============================
+Event: ff2fad
+
+The vast majority of the Kin choose the First Way, as well. They are noble, and strong, and will not abandon Earth and Sun, nor admit defeat.
+
+Some wish to journey with Darktooth, but when it becomes clear that doing so would bring Many-Times-Burned's immortal wrath upon them, few are able to earn exemption.
+
+A mere few join with Allmother, and they are swiftly destroyed. Only Time will tell whether their sacrifice had any meaning.
+
+And so the Great Cleansing begins...
+
+------------------------------
+> /EndEvent
+  Go to: ff3
+
+==============================
+Event: ff2fb1
+
+<darktooth>AND SO THE CHOICE IS MADE.
+
+<darktooth>LONG HAVE I WATCHED, SMELLED THIS YOUNG KIN, THIS KEEPER OF THE SPIRITWOOD.
+
+<darktooth>IT WAS BUT A TINY HATCHLING WHEN WE FIRST ENCOUNTERED EACH OTHER.
+
+<darktooth>BUT WITH EVERY SUN...
+
+<darktooth>EVERY TURNING...
+
+<darktooth>IT HAS GROWN STRONGER, IN MIND, BODY, AND EVEN ESSENCE.
+
+<darktooth>TO SEE MY OWN SEED, MY HALF-CREATION, FLOURISHING AS IT HAS DONE...
+
+<darktooth>TO HEAR AND TASTE OF ITS GREAT DEEDS AS WHISPERED BY THE WINDS AND LESSER GOODBEASTS...
+
+<darktooth>MY CORE IS ALIGHT WITH PRIDE, AND MY MIND DANCES AND BURNS, AWAKE TO A NEW FUTURE.
+
+<darktooth>THE ONESONG IS VAST INDEED, AND ALL KNOWLEDGE OF IT APPROACHES NULL.
+
+<darktooth>HOWEVER...
+
+<darktooth>THERE ARE FEW SUCH AS THIS YOUNG KIN WITHIN IT.
+
+<darktooth>A DESIRE HAS AWAKENED IN MY BREAST...
+
+<darktooth>A DESIRE TO BRING THIS ONE TO NEWHOME.
+
+<darktooth>ITS PROVEN STRENGTH, ITS BUDDING WISDOM, ITS COURAGE AND SKILL...
+
+<darktooth>THEY SHALL ENSURE THAT THE DRAAK-KIN SHALL THRIVE IN A NEW WORLD.
+
+<darktooth>I ACCEPT. TOGETHER, WE SHALL DEFEAT THE VOID.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fba
+
+==============================
+Event: ff2fb2
+
+<darktooth>INDEED?
+
+<darktooth>IF WE ARE TO BE REBORN AS A PEOPLE IN A NEW WORLD...
+
+<darktooth>THEN ONLY THE WISE OR THE MIGHTY SHALL BE WORTHY TO PLANT THIS NEW DRAAK-SEED WITHIN THE COSMOS.
+
+<darktooth>IS YOUR WISDOM, YOUR STRENGTH, GREAT ENOUGH TO FORGE A NEW BEGINNING, O YOUNG KIN?
+
+<darktooth>IN ACCORDANCE WITH OUR NATURE AND TRADITION BOTH...
+
+<darktooth>YOUR TROVE SHALL SING THE TRUTH.
+
+<darktooth>THE VOID-VESSEL, WROUGHT FROM SHINESTONE AND GEMS, SHALL BE VAST. A GREAT DEAL OF MATERIAL WILL BE NECESSARY.
+
+<darktooth>HAVE YOU ENOUGH TO COMPLETE THE BUILDING-LABOR?
+
+<darktooth>COULD A YOUNG KIN BE SO WEALTHY? OR HAS IT OUGHT ELSE TO OFFER?
+
+------------------------------
+> I offer all of the mountain of wealth I have accumulated for the forging of the Void-Vessel.
+  (Hidden: If only you had at least 400 shiny things...)
+  Go to: ff2fb2a
+> I offer you this. (Hold forth the Awakened Silver Rod.)
+  (Hidden: If only you had an Awakened Silver Rod...)
+  Go to: ff2fb2b
+> I offer this, Wise Elder. (offer the Elixir.)
+  (Hidden: If only you had the final creation of a great Artist...)
+  Go to: ff2fb2c
+> No.
+  Go to: ff2fb2d
+
+==============================
+Event: ff2fb2a
+
+<darktooth>SUCH WEALTH...
+
+<darktooth>THIS YOUNG KIN IS A DRAAK-KIN TRUE. ITS WISDOM AND AVARICE ARE BALANCED, WHOLE.
+
+<darktooth>THOSE WHO TAKE AND KEEP WELL AND WISELY...
+
+<darktooth>SUCH ARE THOSE WHO SHALL THRIVE WHEN OUR SEED IS PLANTED IN FAR-SOIL.
+
+<darktooth>SOON, THE VOID-JOURNEY SHALL BEGIN, AND NEW REALITIES SHALL BECOME KNOWN.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG AND WORTHY KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fba
+
+==============================
+Event: ff2fb2b
+
+You hold aloft the Silver Rod given to you by Darktooth for completing the journey of Wisdom.
+
+In its Awakened state, it projects rotating spheres and spirals, painting them in emerald light on the cold air.
+
+Darktooth's gaze does not waver, but its tail curls and brushes the ground.
+
+<darktooth>AND SO IT IS FULFILLED. HOPE WAS NOT ENKINDLED IN VAIN.
+
+<darktooth>THE NAVIGATIONAL ROD... I HAD HOPED A CERTAIN YOUNG KIN WOULD UNLOCK ITS POWER.
+
+<darktooth>WITH IT, THE SUCCESS OF THE FAR-JOURNEY IS ASSURED.
+
+<darktooth>I FIND YOU MOST WORTHY, MY CREATION.
+
+<darktooth>JOIN ME, AND WE SHALL OVERCOME THE VOID. SUCH IS MY SONG OF JOY TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fba
+
+==============================
+Event: ff2fb2c
+
+<darktooth>WHAT IS...?
+
+Darktooth cranes its neck forward, and flicks its tongue out over the elixir, once.
+
+<darktooth>AH.
+
+<darktooth>VERY WELL.
+
+<darktooth>IT SEEMS AS THOUGH SOMETHING HAS BEEN OFFERED WORTHY OF A GRAND TRANSACTION, O MY CREATION.
+
+<darktooth>WITH THIS, PASSAGE IS PURCHASED TO A NEW REALITY.
+
+<darktooth>MAY YOU CONTINUE TO SHOW SUCH WISDOM, SUCH FAR-SIGHT, AS LED YOU TO PROCURE THIS VISCOUS MIRACLE.
+
+<darktooth>SUCH IS MY SONG TO A YOUNG KIN.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fba
+
+==============================
+Event: ff2fb2d
+
+<darktooth>THEN YOU SHALL NOT HAVE PASSAGE.
+
+<darktooth>THIS YOUNG KIN SHALL REMAIN ON THIS WORLD, HOME OF OUR PEOPLE, AND FORGE ITS OWN WAY.
+
+<darktooth>MAY YOU BE BLESSED.
+
+It seems as though joining the Great Migration is not possible.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2f
+
+==============================
+Event: ff2fb_confirm
+
+Do you truly wish to leave Earth and Sun behind, journey to a new world, and there create a new legacy, new possibilities? To journey across the Stars?
+
+------------------------------
+> Yes, I do.
+  Go to: ff2fb1, ff2fb2
+> No.
+  Go to: ff2f
+
+==============================
+Event: ff2fba
+
+------------------------------
+> [EventLoad]
+  Go to: ff2fba1, ff2fba2, ff2fba3
+
+==============================
+Event: ff2fba1
+
+<allmother>VERY WELL. PERHAPS IT IS FOR THE BEST.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbb
+
+==============================
+Event: ff2fba2
+
+<allmother>I HAD HOPED....
+
+<allmother>BUT IT IS WELL.
+
+<allmother>AT LEAST, AS I DEPART, I WILL KNOW ONE OF MY BELOVED SHALL LIVE ON BEYOND THE STARS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbb
+
+==============================
+Event: ff2fba3
+
+<allmother>SO DEEP WERE YOU IN THE WAYS OF COMPASSION...
+
+<allmother>SUCH CARE HAVE I FOR YOU... SO FERVENTLY I HOPED YOU WOULD FOLLOW ME...
+
+<allmother>AND YET I FIND PEACE, KNOWING THAT AT LEAST, YOU SHALL LIVE ON.
+
+<allmother>REMEMBER THE LESSONS OF COMPASSION WHEN YOU REACH NEWHOME.
+
+<allmother>IT HAS THE POWER TO SAVE NOT ONLY THIS WORLD, BUT ALL WORLDS.
+
+<allmother>MAY YOU BE BLESSED.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbb
+
+==============================
+Event: ff2fbb
+
+------------------------------
+> [EventLoad]
+  Go to: ff2fbb1, ff2fbb2
+
+==============================
+Event: ff2fbb1
+
+<MTB>WASTREL.
+
+<MTB>DEGENERATE. COWARD.
+
+<MTB>SO DELUSIONAL AS TO NOT EVEN BE WORTH ANY EFFORT TO KEEP.
+
+<MTB>MAY THE STARS SWALLOW YOU UP, AND MAY YOU BE LOST TO THE INFINITE VOID.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbb2
+
+<MTB>HOLD.
+
+<MTB>THE KEEPER SHALL NOT LEAVE EARTH.
+
+<MTB>IT HAS STRENGTH.
+
+<MTB>ALL STRONG DRAAK-KIN SHALL BE NECESSARY FOR THE GREAT CLEANSING. FOR OUR WORLD TO BE SAVED FROM THE GREY FUTURE.
+
+<MTB>KEEPER OF THE SPIRITWOOD...
+
+<MTB>YOU SHALL REMAIN, AND JOIN US IN ERADICATING THE TAILLESS DISEASE.
+
+<MTB>SO IT IS, AND SO SHALL IT BE.
+
+------------------------------
+> I understand, Great One. I am not so foolish as to stand against your power, your justice.
+  Go to: ff2fac
+> No, it shall not.
+  Go to: ff2fbc
+
+==============================
+Event: ff2fbc
+
+Suddenly, there is complete and utter silence.
+
+Every Draak-Kin gathered dares not move.
+
+You have contradicted and, indirectly, challenged one of the most powerful beings known to exist on blessed Earth.
+
+<bold>Your feathers helplessly begin to rise in terror and arousal. You are now in greater danger than you have ever been in your existence.</bold>
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbd
+
+==============================
+Event: ff2fbd
+
+Even Darktooth and Allmother seem completely stunned. It is not easy to cause a being of thousands of Turnings to be surprised, but you have managed it.
+
+Many-Times-Burned shifts its weight forward, very slightly. The crunching of ice and rock under its claws is soft, but seems deafening amidst the silence.
+
+<MTB>YOUR STRENGTH IS NEEDED.
+
+<MTB>I WILL THEREFORE EXTEND ONE CHANCE FOR YOU TO SUBMIT, AND SURVIVE.
+
+<MTB>ONE CHANCE ALONE.
+
+<MTB>DO NOT CAUSE ME TO REMIND THOSE GATHERED OF A CERTAIN TRUTH.
+
+------------------------------
+> I am prepared to purchase my freedom of choice, and offer you a gift.
+  Go to: ff2fbda
+> I lower my neck before you, and submit. I shall join you, and do my part.
+  Go to: ff2fac
+> I shall not join the Cleansing, great Many-Times-Burned. Do as you must.
+  Go to: ff2fbdc
+
+==============================
+Event: ff2fbda
+
+<MTB>REJECTED.
+
+<MTB>THERE IS NOTHING ONE SO CALLOW COULD OFFER TO ONE SUCH AS I.
+
+This is no idle claim. Many-Times-Burned has accumulated Treasure surely beyond your wildest dreams.
+
+What could you possibly offer?
+
+------------------------------
+> Offer the Darkspine.
+  Go to: ff2fbdaa
+> Offer the Elixir.
+  Go to: ff2fbdab
+> Offer the Living Labyrinth.
+  Go to: ff2fbdac
+> Offer many, many shiny things.
+  Go to: ff2fbdad
+
+==============================
+Event: ff2fbdaa
+
+<MTB>YOU OFFER MY OWN SUBSTANCE?
+
+<darktooth>RARE AND VALUABLE IN THE EXTREME. EVEN I HAVE NO SUCH THING.
+
+<MTB>EVEN SO, I HAVE HUNDREDS EMBEDDED IN MY VERY FLESH. YOUR GESTURE IS MEANINGLESS.
+
+<darktooth>IS IT?
+
+<darktooth>IT MUST HAVE BEEN FREELY GIVEN, AS A SIGN OF YOUR FAVOR, O SHREDDED ONE.
+
+<MTB>...
+
+<allmother>I FEEL THE TRUST WITHIN IT. THE HOPE.
+
+<allmother>EVEN YOU REGARD THE KEEPER AS A GREAT WARRIOR.
+
+<darktooth>YOU HAVE STATED, BY THAT GIFT, THAT YOU RESPECT THIS YOUNG KIN.
+
+<darktooth>WILL YOU THEN FORCE YOUR WILL UPON IT?
+
+<darktooth>WOULD THAT NOT BE DISRESPECT UNTO YOUR OWN JUDGMENT?
+
+<MTB>...
+
+<MTB>...
+
+<MTB>VERY WELL.
+
+<MTB>I RELEASE MY CLAIM.
+
+<MTB>BUT BY YOUR OWN CHOICE, YOU ARE NO LONGER WELCOME ON THIS SPHERE, YOUNG KIN.
+
+<MTB>MOVE QUICKLY INTO THE UNKNOWN.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdab
+
+You hold forth the mysterious elixir crafted by the No-Tail Artist.
+
+<MTB>WHAT IS...
+
+Suddenly, Many-Times-Burned's spines go erect. It cranes its huge neck backwards, grey tongue tasting the air in shock.
+
+<MTB>NO...
+
+<MTB>NO!
+
+<MTB>GET THAT AWAY FROM ME. NOW.
+
+<MTB>I RELEASE YOU FROM YOUR OBLIGATION.
+
+<MTB>DO NOT COME CLOSE TO ME WITH THAT.
+
+<MTB>I CANNOT...
+
+<MTB><bold>MUST NOT...</bold>
+
+<MTB>BE HEALED.
+
+Most of the Kin gathered are flabbergasted. Great Many-Times-Burned, afraid?
+
+The one who sundered Time, and became one with the Great Mother herself in her very uttermost Core? Who could topple a mountain with barely a thought?
+
+<darktooth>THE YOUNG ONE CANNOT KNOW.
+
+<darktooth>CANNOT KNOW WHAT GREAT MANY-TIMES-BURNED HAS SACRIFICED.
+
+<darktooth>TO MAKE THE BROKEN ONE WHOLE AGAIN...
+
+<darktooth>IT WOULD CEASE TO BE ALL THAT IT IS.
+
+<allmother>PEACE.
+
+<allmother>IT IS DONE, BELOVED. THE YOUNG ONE IS FREE.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdac
+
+<MTB>WHAT MATTERS SUCH A LEARNING-TRINKET TO ME?
+
+<MTB>THOUGH I AM ELDER OF FIRE...
+
+<MTB>I HAVE KNOWLEDGE OF WATER-MYSTERIES FAR BEYOND YOUR MEAGER EXPERIENCE.
+
+<MTB>WHAT USE COULD I HAVE FOR SUCH A THING?
+
+Darktooth glances over to Fathom, and then sings.
+
+<darktooth>PUT IT TO YOUR EAR, THEN, MIGHTY ONE. SURELY, IT HAS NOTHING TO TEACH ONE SO POWERFUL.
+
+Many-Times-Burned holds the Living Labyrinth close...
+
+And its spines suddenly puff out in shock.
+
+Slowly, it lowers the shell.
+
+<MTB>THE BARGAIN IS ACCEPTED. THIS IS NOW MINE, AND YOU ARE FREE.
+
+<MTB>TARRY NOT IN MY PRESENCE.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdad
+
+<MTB>I HAVE SHINY THINGS SUCH AS COULD FORM A SMALL CONTINENT WERE I TO PLACE THEM SO.
+
+<MTB>AND YOU INSULT ME FURTHER, BELIEVING THAT I COULD BE SWAYED FROM MY JUSTICE, MY WILL TO SAVE ALL BEASTS BY SUCH PALTRY THINGS.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbdc
+
+==============================
+Event: ff2fbdc
+
+Many-Times-Burned narrows its bladesharp eyes and draws in a vast breath.
+
+<MTB>NOW YOU SHALL KNOW THE POWER OF AN ELDER.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbdca1, ff2fbdca1, ff2fbdca2
+
+==============================
+Event: ff2fbdca1
+
+Suddenly, a wave of power and light spills forth from Darktooth in an incredible Song.
+
+It is a True Song, but not one of which you have ever heard.
+
+<darktooth>WATER. COOL. CLEAR. FLOWING.
+
+<darktooth>FIRE-EXTINGUISHING.
+
+<darktooth>WATER FLOWS OVER THE FIRE.
+
+<darktooth>THE DEPTHS BECOME THE VOID.
+
+<darktooth>THE VOID BECOMES THE DREAMING.
+
+<darktooth>PEACE. PEACE. PEACE.
+
+The assembled Kin are lulled nearly into unconsciousness by the True Song...
+
+Except for great Many-Times-Burned, who is still quite alert.
+
+The flame of wrath is gone from its eyes, however. It looks to Darktooth, and then to you, and finally turns away.
+
+<MTB>IT SEEMS THIS YOUNG ONE IS NOT WORTH MY EFFORT.
+
+<MTB>BEGONE. THIS WORLD IS NO LONGER YOUR HOME.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdca2
+
+The True Song of Destruction.
+
+Enlightenment of Fire, Soul of Unmaking in the Onesong.
+
+To be subjected to it is certain doom. Many-Times-Burned's mastery of it, forged through ages, is so great its power can be amplified and focused upon a single hearer... you.
+
+Not only your Body, but your very Essence shall be annihilated by it.
+
+Unless...
+
+------------------------------
+> Use the power of the Darkspine to protect yourself.
+  (Hidden: If only you had braved the Fourth Lair of Many-Times-Burned and received a rare gift...)
+  Go to: ff2fbdca2a
+> Counter it with the True Song of Healing.
+  Go to: ff2fbdca2b
+> Attempt to survive by sheer force of will.
+  Go to: ff2fbdca2c
+
+==============================
+Event: ff2fbdca2a
+
+The power swirls about you..
+
+It enters your mouth, your eyes, every pore of your hide, seeking to unMake you...
+
+But you hold part of the very Body of the one who sings against you: the Darkspine.
+
+You proved yourself a warrior of great strength in the Elder's very Lair, and it gave you the gift of part of itself.
+
+That part, which has survived unspeakable trials, now resists the Dread-Song in your stead.
+
+The assembled Draak hiss in surprise, attempting to fathom how you might be unharmed by such a Song.
+
+<MTB>SO. YOU UNLOCKED ITS SECRET.
+
+<MTB>I AM THWARTED AGAIN BY EVIL GENEROSITY.
+
+<MTB>BURNED ONCE MORE AM I. ONCE MORE.
+
+<MTB>THAT TRUE SONG WAS NOT BY ANY MEANS MY ONLY RESORT.
+
+<MTB>I COULD DESTROY THIS YOUNG KIN BY A THOUSAND MEANS RIGHT NOW AGAINST WHICH THE DARKSPINE WOULD BE OF NO AVAIL.
+
+<MTB>HOWEVER...
+
+<MTB>IT SEEMS I WAS MISTAKEN.
+
+<MTB>THIS ONE IS INDEED STRONG ENOUGH TO DETERMINE ITS OWN FATE.
+
+<MTB>LET IT FLEE TO THE DARKNESS. THIS WORLD IS NO LONGER ITS HOME, BY ITS OWN DECISION.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdca2b
+
+Against the Unmaking, you raise your voice in beautiful Song.
+
+It is a True Song, a song of Healing, of Mending.
+
+The other Draak-Kin back away from you as you dare to contend with the Undestroyed Destroyer.
+
+The sounds clash, writhing, a Dance against each other unlike any witnessed before.
+
+But Earth... great Earth, who birthed all, even Many-Times-Burned, in Her incredible Way...
+
+Earth's True Song cannot be unmade by the will of the Great Elder.
+
+Slowly, it gains supremacy. Other Kin stamp and roar in disbelief, but you cannot hear them.
+
+All you can hear is the True Song of Healing, Earth's Enlightenment, which holds you in existence like a Star shining in the cold, deadly Void.
+
+It is over. And you are whole. Untouched.
+
+You allow the song to fade, and stretch your beautiful wings outwards in a signal of victory.
+
+<allmother>IMPOSSIBLE. CAN ONE SO YOUNG TRULY KNOW THAT BLESSED SONG...
+
+<allmother>THE TRUE SONG OF HEALING?
+
+<darktooth>THE FLAME...
+
+<darktooth>THE FLAME IS BESTED.
+
+<MTB>A GROSS EXAGGERATION. IT BUT COUNTERED ONE SMALL SONG.
+
+<MTB>THAT WAS NOT BY ANY MEANS MY ONLY RESORT.
+
+<MTB>I COULD DESTROY THIS YOUNG KIN BY A THOUSAND MEANS RIGHT NOW AGAINST WHICH THAT TRUE SONG WOULD BE OF NO AVAIL.
+
+<MTB>HOWEVER...
+
+<MTB>IT SEEMS I WAS MISTAKEN.
+
+<MTB>THIS ONE IS INDEED BRAVE ENOUGH, STRONG ENOUGH TO DETERMINE ITS OWN FATE.
+
+<MTB>LET IT FLEE TO THE DARKNESS. THIS WORLD IS NO LONGER ITS HOME, BY ITS OWN DECISION.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fbdca2c
+
+The breaking. The sundering.
+
+Your flesh, your very bones, everything you ever were...
+
+It is all being consumed, burned away.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fbdca2cs, ff2fbdca2cf
+
+==============================
+Event: ff2fbdca2cf
+
+When it resolves, you are gone.
+
+Completely. Totally.
+
+You have been so annihilated by the power of Many-Times-Burned that not even a trace of your Essence remains.
+
+Even the memory of your existence has been wiped from the Minds of all who encountered you. You are dead to Time Itself.
+
+Such is the fate of one who would call upon themselves the wrath of a true Elder of the mightiest beings ever to tread blessed Earth.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: ff2fbdca2cs
+
+But when it resolves...
+
+You are still there.
+
+Blackened, charred within and without, but still the Rhythm of Life flows within you.
+
+All your reality is pain, but you have, beyond all expectations, endured.
+
+<MTB>I HAD NOT IMAGINED ONE SO YOUNG COULD WITHSTAND SUCH, AND YET EXIST.
+
+<MTB>...
+
+<MTB>...
+
+<MTB>VERY WELL. I HEAR THE SONG OF EARTH HERSELF IN THIS.
+
+<MTB>THE YOUNG DRAAK-KIN IS WORTHY TO DECIDE ITS OWN FATE.
+
+<MTB>IT SHALL LEAVE THIS WORLD, AND PASS AWAY FROM ALL KNOWLEDGE OF THE GREEN AND THE BLUE.
+
+<MTB>THIS WORLD IS NO LONGER ITS HOME.
+
+------------------------------
+> /EndEvent
+  Go to: ff4
+
+==============================
+Event: ff2fc1
+
+<allmother>HOW I DANCE WITHIN AT YOUR DESIRE, BELOVED!
+
+<allmother>AND YET...
+
+<allmother>I CANNOT ALLOW IT.
+
+<allmother>YOU KNOW NOT THE WAYS OF COMPASSION.
+
+<allmother>IF YOU WERE TO ATTEMPT THE SACRIFICE, YOU WOULD BE LOST IN THE VOID.
+
+<allmother>LOVE... COMPASSION... IS THE ONLY TRUE SHIELD AGAINST THE DARKNESS OUTSIDE OF TIME AND BEING.
+
+<allmother>I CANNOT AID YOU IN SELF-DESTRUCTION. THOUGH YOU KNOW NOT COMPASSION...
+
+<allmother>YOU ARE BELOVED TO ME.
+
+<allmother>CHOOSE ANOTHER PATH, ANOTHER WAY.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2f
+
+==============================
+Event: ff2fc2
+
+<allmother>HOW I SING WITHIN AT YOUR DESIRE, BELOVED!
+
+<allmother>YOUR BODY SHALL PERISH, BUT YOUR ESSENCE SHALL ENDURE, IF YOU HAVE TRUE STRENGTH OF HEART.
+
+<allmother>AND TOGETHER, WE SHALL TRIUMPH BEYOND ALL IMAGINING.
+
+<allmother>FEAR NOT. ONLY BELIEVE. ALL THINGS END...
+
+<allmother>SAVE ONLY THE ONENESS. BECOME ITS SIGN, ITS SYMBOL.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fca
+
+==============================
+Event: ff2fc3
+
+<allmother>MY BELOVED...
+
+<allmother>HOW MY CORE UNRAVELS WHEN I BEHOLD YOUR TRUE INNER MIGHT!
+
+<allmother>IT IS A POWER THE OTHERS HERE CANNOT KNOW, A STRENGTH WHICH IS OF NEITHER BODY NOR MIND, BUT DWELLS WITHIN ETERNITY.
+
+<allmother>MY FONDEST WISH HAVE YOU GRANTED THIS SUN. THOUGH THOUSANDS OF TURNINGS MAY PASS, AND WE SHALL SHED THESE FORMS OF SCALE AND FEATHER...
+
+<allmother>I SHALL NEVER FORGET YOU, AND I SHALL FIND YOU WHEN YOU ARE LOST. I SO SWEAR.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff2fca
+
+==============================
+Event: ff2fc_confirm
+
+Do you truly wish to sacrifice your Body, your Lands, your Treasures and your Life, and be reborn among the Tailless, to guide them to the restoration of Earth in the distant future, even though your soul may be destroyed in the attempt?
+
+------------------------------
+> Yes, I do.
+  Go to: ff2fc1, ff2fc2, ff2fc3
+> No.
+  Go to: ff2f
+
+==============================
+Event: ff2fca
+
+<MTB>MADNESS.
+
+<MTB>INSANITY.
+
+<MTB>DO YOU THINK I SHALL NOT MOVE AGAINST SUCH CORRUPTION OF THE YOUTH, SUCH IDIOTIC DREAMS TURNING YOUNG DRAAK AWAY FROM WHAT MUST BE DONE FOR THE GOOD OF ALL?
+
+<MTB>YOU. KEEPER OF THE SPIRITWOOD.
+
+<MTB>I OFFER YOU ONE LAST CHANCE TO TURN AWAY FROM THE CHASM OF FOLLY, OF FALSE BELIEFS AND MAY-PERHAPS-BES.
+
+<MTB>JOIN WITH YOUR PEOPLE AND FIGHT FOR EARTH AND SUN. TOGETHER, WE CAN TRIUMPH.
+
+<MTB>THERE WILL BE NO NEED FOR YOU TO BE REBORN, NOR ANY SUCH BODIES FOR YOU TO INHABIT, FOR THE FLATFACES SHALL SOON BE NO MORE.
+
+<MTB>TIME AND FATE SHALL BE CHASTISED. I SHALL TORMENT IT, FLAY IT WITH MY BREATH, MY SONG, UNTIL IT RELENTS, AND THE GREY FUTURE IS PURGED.
+
+<MTB>KEEP THE WEALTH YOU HAVE GAINED. THE KNOWLEDGE. THE GRAND, SACRED BODY.
+
+<MTB>YOU WERE CHOSEN BY THE SPIRIT OF THE GREAT GREEN TO INHERIT ITS CORE. WOULD YOU NOW REJECT SUCH A BLESSING?
+
+
+
+------------------------------
+> No. I will remain Spirit-Keeper, and protect the Great Green. I relent, and will stand with you, Great Many-Times-Burned.
+  Go to: ff2fac
+> Yes. Against any and all, I will walk the path of Compassion. Once again, I choose the Third Way.
+  Go to: ff2fcab
+
+==============================
+Event: ff2fcab
+
+<allmother>SUCH WONDROUS LOVE... SUCH FAITH...
+
+<MTB>BEHOLD, MY FELLOW KIN.
+
+<MTB>SEE WHAT BECOMES OF THOSE WHO WOULD THREATEN EARTH'S SURVIVAL BY THEIR DEGENERACY.
+
+<MTB>I CALL UPON ALL HERE TO DESTROY THIS YOUNG KIN.
+
+<MTB>LET THERE BE NOTHING LEFT, AND LET NO DRAAK-KIN FEED ON THE REMAINS.
+
+<MTB>THIS DREAMER OF DREAMS IS FIT ONLY TO FEED TINY BEINGS WHICH CRAWL AND WRITHE IN THE DUST.
+
+<allmother>ALL TOO QUICKLY IT COMES. THE RECKONING.
+
+<allmother>LISTEN TO MY SONG. TIME IS SHORT.
+
+<allmother>FOCUS ALL OF YOUR MIGHTY WILL, ALL OF YOUR BEING, ON THE FUTURE, ON THE TAILLESS ONES.
+
+<allmother>THINK ON THEIR INGENUITY, THEIR LOVE FOR EACH OTHER...
+
+<allmother>EVEN THINK UPON THEIR LONELINESS, ABANDONED BY THEIR CREATORS, THEIR FEAR, THEIR DESPERATION...
+
+<allmother>FEEL THEIR ESSENCE AS A LOST YET BEAUTIFUL PEOPLE...
+
+<allmother>AND KNOW.
+
+<allmother>KNOW THAT AS MUCH AS ANY BEAST, THEY ARE PART OF THE ONESONG.
+
+<allmother>THEY ARE, AS ALL BEINGS, STARDUST MADE FLESH.
+
+<allmother>BELIEVE IN THEM, AND BELIEVE IN YOUR OWN DRAAK SOUL.
+
+<allmother>REMEMBER WHO YOU ARE, WHO YOU ALWAYS WERE...
+
+<allmother>A GREAT KIN, WHOSE ESSENCE CAN SHINE FROM ANY BODY, AND WHO WILL PROTECT AND SAVE THIS BEAUTIFUL WORLD IN THE ONLY WAY POSSIBLE.
+
+<allmother>BELIEVE, BELOVED!
+
+<allmother>BELIEVE! HEAR MY SONG!
+
+<allmother>FOREVER, BEYOND TIME...
+
+<allmother>LOVE SHALL...
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff5
+
+==============================
+Event: ff3
+
+The Tailless Hive.
+
+This small infestation, which stands within your territory, has been declared an affront to all that is good and Green.
+
+These same No-Tails slew Warden, and are descendants of those who slew your Birther-Creator. They have trapped, slaughtered and enslaved countless Goodbeasts.
+
+Now, it ends. You have sworn. The Draak-Kin shall rule over a green and healthy Earth forever.
+
+Either you or every single Tailless here shall perish before Sun rises again.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff3a, ff3b, ff3c
+
+==============================
+Event: ff3a
+
+<MTB>WARRIOR OF THE GOOD AND GREEN WAY. THE TIME OF SWEET BLOODSHED HAS COME.
+
+<MTB>BE NOT AFRAID. SUN AND EARTH ARE WITH US.
+
+<MTB>I GRANT YOU A FIRE-BLESSING. GO NOW, AND BECOME BOTH END AND NEW BEGINNING.
+
+You feel energy and a righteous fury enter into you.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff3c
+
+==============================
+Event: ff3b
+
+<MTB>GREAT GREEN WARRIOR. ONE-WHO-RISES. THE TIME OF CLEANSING HAS COME.
+
+<MTB>I TASTE THE HOLY FIRE DANCING WITHIN YOU.
+
+<MTB>WE, THE KIN, WERE CREATED WITH THESE SHARP CLAWS AND FANGS, THESE POWERFUL BODIES, THIS HARD SCALE-ARMOR...
+
+<MTB>ALL SO THAT WE COULD PROTECT EARTH, AND ALL THAT IS GOOD.
+
+<MTB>ARISE. BECOME THE FIRE.
+
+<MTB>I GRANT YOU A SHARD OF MYSELF.
+
+<MTB>MAY YOU BE BURNED AWAY, AS I HAVE BEEN, LEAVING ONLY WHAT IS ETERNAL AND INDESTRUCTIBLE.
+
+A power unlike any you have ever known enters into you. You feel as though you could rip apart seas and mate with mountains.
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff3c
+
+==============================
+Event: ff3c
+
+What will you do?
+
+------------------------------
+> End them with my own claws, my own Body.
+  Go to: HuntingBaseCombat
+> Sing the True Song of Destruction. Sing all of their lives away.
+  (Hidden: If only you knew the True Song of Destruction...)
+  Go to: ff3cb
+> Use the power of the Darkspine to immolate them all.
+  (Hidden: If only you had a token of Many-Times-Burned's favor...)
+  Go to: ff3cc
+> Use the @#$%.
+  (Hidden: If only you had traded for something very special from the Delvers...)
+  Go to: ff3cd
+
+==============================
+Event: ff3cas
+
+With their warriors defeated, the remaining No-Tails are helpless.
+
+You burn many alive inside their wooden hive-cells. Those who flee are quickly hunted down and slain.
+
+The Givers, the Birthers, even their mewling, helpless larvae... you spare none. You know that there is no room in the Great Cleansing for emotion or mercy.
+
+Only Justice.
+
+At last, the work is done.
+
+------------------------------
+> /EndEvent
+  Go to: ff3s
+
+==============================
+Event: ff3cb
+
+You open your maw, and let Fire's secret Song pour forth from you.
+
+All who hear, from the wisest elders to the helpless, newborn larvae...
+
+Even the enslaved Beasts who share their domiciles...
+
+All of them.
+
+None escape. None at all.
+
+When the silence returns, it is truer than ever. Your enemies have all had their Essences ripped from them, even the bones within their flesh cracked and shattered by the dread Truth-Song of holy Fire, which consumes all without judgment.
+
+It is done.
+
+------------------------------
+> /EndEvent
+  Go to: ff3s
+
+==============================
+Event: ff3cc
+
+The Darkspine.
+
+An actual shard of the Body of the mightiest of your People.
+
+By all accounts, your Mind would shatter if you but knew a fraction of what it has experienced, what it has survived.
+
+But your Mind need not hold such Truths. Only your Body.
+
+With great determination and a curse against your enemies, the No-Tails, who pollute Earth with their unclean, alien presence...
+
+You drive the great quill into your flesh.
+
+A tiny portion of great Many-Times-Burned's power enters into you. Your feathers are aflame. Your Mind becomes charcoal, and then diamond.
+
+You become Sun Himself touching down, blasting the ground clean of all things with your endless glory.
+
+<color #b54141><italic>Consume... consume... take them all in... make them all light, and heat... purify...</color></italic>
+
+It is done.
+
+Nothing remains of that place. Nothing at all.
+
+In time, perhaps you could call such Music as this your own permanently...
+
+But for now, your bravery and strength earned you a taste of the true power of a thrice-enlightened Elder of Fire, and you will never forget.
+
+------------------------------
+> /EndEvent
+  Go to: ff3s
+
+==============================
+Event: ff3cd
+
+Flying over the No-Tail Hive, you might pause to reflect on how you arrived at this point, holding a crime against the Onesong about to be used for Good.
+
+When you were but a hatchling, you did what others could not and found the False Face of the Delvers hidden deep below Heartbone Valley.
+
+Like a true Draak-Kin, you kept it, guarded it, watching, waiting, then traded it back to the Delvers for great wealth, and even pressed them into giving you this. They probably did not even know what it was themselves, fortunately.
+
+And now, the time has come. You drop the @#$% through the quiet night Air...
+
+The horror.
+
+The glory.
+
+Everything is wiped away. Everything with the rhythm of Life in it, from the No-Tails to the tiny blades of Grass swaying in the wind.
+
+But out of this Destruction will come new Life, you know. Slowly, the Green will creep back into this place and fill it with itself.
+
+In a bare hundred Turnings, nobeast will even remember that this place was once a No-Tail Hive. It will be healthy, and one with the Green.
+
+It is done. You have triumphed.
+
+------------------------------
+> /EndEvent
+  Go to: ff3s
+
+==============================
+Event: ff3s
+
+The Great Cleansing proves to be far more complicated than any could have anticipated. It may be long before final victory is achieved...
+
+But for now, you have purged the Spiritwood clean of the No-Tails' existence.
+
+No longer are Goodbeasts trapped and enslaved. The rivers flow clear, and the soil is good and pure.
+
+Here, you are hailed as savior, guardian and deity to all of the children of Nature.
+
+Predator and prey alike praise you, for you have proven yourself a protector of the greater power of Life.
+
+Your Body and Trove grow steadily. Draak come from far and wide, hoping to partake in the Dance of Creation with you, knowing your offspring will be strong and pure and fearless, as you are.
+
+As Sun and Earth roll on, you find a place of wealth and fulfillment in the blessed Great Green...
+
+And its Spirit smiles upon you, and upon a Land clean of pollution and corruption.
+
+So ends the tale of your childhood. What began as a tiny voice inside a small buried Chamber far away...
+
+Has now become a strong-tailed, sharp-clawed Draak, sovereign over countless Goodbeasts.
+
+You are the Wild. You are Nature, Above and Below, made flesh...
+
+You are <italic><bold>Kin.</italic></bold>
+
+And many shall be the tales of your adventures, your acquisitions, romances and discoveries as an adult...
+
+But those are different tales.
+
+Rest now, and when you feel ready, return again...
+
+For you have lived many lives as one of the Draak-Kin, and not all of them ended this way, and yet all of those endings were important and true.
+
+May you be blessed.
+
+------------------------------
+> /EndEvent
+  Go to: truecredits
+
+==============================
+Event: ff4
+
+So it was that you proved yourself worthy of the greatest journey, the greatest migration, ever known or attempted by the Kin.
+
+While the Great Cleansing begins above, you join Darktooth and several other wise Draak in the construction of a vessel which could fall upwards through the neverending Void.
+
+Many Moon-times and an unthinkable amount of Treasure are required...
+
+But at the last, it is complete, and the Journey begun.
+
+Inside the vessel, sealed in a new, freezing Chamber... a second-Chamber of shinestone, strange fluids and dead Time...
+
+You know not the passing of distance, or moments.
+
+It is another Great Sleep, a final hibernation, unexpected but necessary.
+
+And then, at last, at long last, heat and thought creeps back into your vast and perfect Body.
+
+The Last Wall falls away...
+
+
+
+------------------------------
+> [Continue]
+  Go to: ff4s
+
+==============================
+Event: ff4s
+
+And you had arrived.
+
+<bold>Newhome.</bold> A new, adoptive Mother, fertile and ready beneath your claws.
+
+A new Great Father blazes above, with two Sisters nearby, reflecting His carnelian light.
+
+In this world, you and your descendants shall become mighty.
+
+Will you be like the Others who tainted Earth, and force all to bend to your kind? Will this precious sphere be poorer for your coming?
+
+Or will you show greater Wisdom, greater Compassion, and become part of this place, woven elegantly into its wonders and mysteries, High Guardian of a New Earth?
+
+Many shall be the tales of your adventures, your acquisitions, romances and discoveries as an adult in this new reality...
+
+But those are different tales. This story, the story of your childhood in the Great Green, is over.
+
+Perhaps you lived other childhoods, other lives as a Draak long ago.
+
+Perhaps, one day, you shall discover other truths, other endings to your beginning.
+
+Until then...
+
+May you be blessed.
+
+------------------------------
+> /EndEvent
+  Go to: truecredits
+
+==============================
+Event: ff5
+
+It is very dark.
+
+Are you... lost?
+
+Did you forget your way?
+
+Did you forget what you truly are?
+
+What are you?
+
+------------------------------
+> I am Compassion. I am Love Made True.
+  (Hidden: If only you had taken more Compassionate actions in your life...)
+  Go to: ff5a
+> Follow the spirit-scent of the human race into the future.
+  (Hidden: If only you understood the ways of the Tailless better...)
+  Go to: ff5b
+> Try to hold onto what you truly are through sheer force of will.
+  Go to: ff5cs, ff5cf
+
+==============================
+Event: ff5a
+
+Compassion...
+
+The deep knowledge... no, the experience...
+
+Of the Great Oneness.
+
+Everything which lives, which even exists...
+
+It is all part of the same whole. The same Essence. The same true unity.
+
+You are a Guardian...
+
+A True Child of Above and Below, Kin to the mightiest beings this sphere has ever known.
+
+You know that the Great Cleansing was always doomed to fail. The Tailless are stronger than the Elders could have known, save one.
+
+Many-Times-Burned and all of the others are gone. Time beyond measure has passed, and Earth cries out as the No-Tails, alone and afraid, abuse Her.
+
+But you will save them. Not only Earth, but the No-Tails as well...
+
+For you are DRAAK-KIN.
+
+And YOU WILL SAVE THIS WORLD.
+
+At last, you feel a pull, a call to physical reality, like many you have felt since your Body perished millennia ago...
+
+But this is, at last, the one you were waiting for.
+
+Tumbling downwards and inside...
+
+A new story, the last story, now begins.
+
+------------------------------
+> /EndEvent
+  Go to: ff5s
+
+==============================
+Event: ff5b
+
+You remember now. The Tailless... no.
+
+They call themselves...
+
+Human beings.
+
+They have no scales, nor feathers.
+
+No sharp claws nor wings. Only a few patches of hair to cover their ungainly forms.
+
+But the power of Earth and Sun is in them, and something strange and wonderful as well, which originates behind the stars.
+
+In Body, even in Mind...
+
+You shall be one of them, the New Guardians and Rulers of Earth...
+
+But in Essence, you always have been, and always will be...
+
+DRAAK-KIN.
+
+------------------------------
+> /EndEvent
+  Go to: ff5s
+
+==============================
+Event: ff5cf
+
+You try to remember your true self, your Draak nature, your desire to save a lost and lonely planet...
+
+But as the centuries, the millennia roll on, your Essence, alone in the outer darkness, forgets the truth.
+
+You are pulled downwards into a time and a Body which is not the one you intended.
+
+You begin a new Life, and as you are no longer truly Draak...
+
+That story cannot be told here.
+
+May you be blessed.
+
+------------------------------
+> /EndEvent
+  Go to: death
+
+==============================
+Event: ff5cs
+
+Your connection to Compassion is not strong, neither do you deeply understand the species which you are attempting to merge with...
+
+But you are mighty in the understanding of the hidden and subtle forces of the Onesong.
+
+Water, sweet Water, has taught you how to spread, how to flow, how to take on new forms without losing yourself...
+
+Just as Water does.
+
+You are a Guardian...
+
+A True Child of Above and Below, Kin to the mightiest beings this sphere has ever known.
+
+You know that the Great Cleansing was always doomed to fail. The Tailless are stronger than the Elders could have known, save one.
+
+Many-Times-Burned and all of the others are gone. Time beyond counting has passed, and Earth cries out as the No-Tails abuse Her.
+
+But you will save them. Not only Earth, but the No-Tails as well...
+
+For you are DRAAK-KIN.
+
+And YOU WILL SAVE THIS WORLD.
+
+At last, you feel a pull, like many you have felt since your Body perished millennia ago...
+
+But this is, at last, the one you were waiting for.
+
+Tumbling downwards and inside...
+
+A new story, the last story, now begins.
+
+------------------------------
+> /EndEvent
+  Go to: ff5s
+
+==============================
+Event: ff5s
+
+This is the story.
+
+This is the story of a being who was born into a grey and desperate world...
+
+A human with the spirit of a True Draak-Kin.
+
+It is your story. A story which only you can tell.
+
+Never forget what you truly are...
+
+And wherever you go, whatever you become, as long as Compassion lives in your heart...
+
+May you be blessed.
+
+------------------------------
+> /EndEvent
+  Go to: truecredits
+
+==============================
